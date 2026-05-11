@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from feeds import FEEDS
 
-MAX_ITEMS = 8   # noticias por medio
+MAX_ITEMS = 10   # noticias por medio
 TIMEOUT   = 12  # segundos por request
 
 def strip_cdata(text):
