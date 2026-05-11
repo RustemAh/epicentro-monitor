@@ -26,6 +26,7 @@ FEEDS = [
     # ── REGIÓN DE ATACAMA ────────────────────────────────────
     {"url": "https://www.atacamanoticias.cl/feed", "medio": "Atacama Noticias",       "zona": "Caldera / Vallenar","cobertura": "Caldera 95.5 FM / Vallenar 93.9 FM"},
     {"url": "https://elnoticierodelhuasco.cl/feed","medio": "El Noticiero del Huasco","zona": "Huasco - Freirina", "cobertura": "Huasco - Freirina 97.1 FM"},
+    {"url": "https://www.nostalgica.cl/feed/", "medio": "Nostalgica",       "zona": "Atacama","cobertura": "Caldera 95.5 FM / Vallenar 93.9 FM"},
 
     # ── REGIÓN DE VALPARAÍSO ─────────────────────────────────
     {"url": "https://laliguanoticias.cl/feed",     "medio": "La Ligua Noticias",      "zona": "La Ligua",          "cobertura": "La Ligua 88.9 FM"},
