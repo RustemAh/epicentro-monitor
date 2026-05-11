@@ -1,0 +1,46 @@
+name: Escanear medios y publicar
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scan-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar escáner de feeds
+        run: python src/scanner.py
+
+      - name: Commit y push de datos actualizados
+        run: |
+          git config user.name "Epicentro Bot"
+          git config user.email "bot@epicentroradio.com"
+          git add data/noticias.json data/ultimo_escaneo.txt
+          git diff --staged --quiet || git commit -m "🔄 Noticias actualizadas $(date '+%d/%m/%Y %H:%M')"
+          git push
+
+      - name: Generar HTML final
+        run: python src/build.py
+
+      - name: Deploy a GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
