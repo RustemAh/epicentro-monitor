@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "OSULS presentará anhelado concierto: ‘El Piano de Mozart’ junto al destacado concertista Marco Antonio Cuevas y el Mtro. Rodolfo Fischer",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/05/11/osuls-presentara-anhelado-concierto-el-piano-de-mozart-junto-al-destacado-concertista-marco-antonio-cuevas-y-el-mtro-rodolfo-fischer/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Desmantelan toma ilegal de conexión eléctrica subterránea en La Serena que generaba bajas de voltaje",
     "enlace": "https://www.elserenense.cl/comunales/2026/05/11/desmantelan-toma-ilegal-de-conexion-electrica-subterranea-en-la-serena-que-generaba-bajas-de-voltaje/",
     "descripcion": "",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Invitan a celebrar el día del teatro chileno con obra gratuita para toda la familia en La Serena",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/05/06/invitan-a-celebrar-el-dia-del-teatro-chileno-con-obra-gratuita-para-toda-la-familia-en-la-serena/",
+    "titulo": "Paihuano inagura tres importantes proyectos de mejoramiento urbano",
+    "enlace": "https://laserenaonline.cl/2026/05/11/paihuano-inagura-tres-importantes-proyectos-de-mejoramiento-urbano/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Carabineros detiene a violenta banda tras robo en el panul: intentaron atropellar a un uniformado",
+    "enlace": "https://laserenaonline.cl/2026/05/11/carabineros-detiene-a-violenta-banda-tras-robo-en-el-panul-intentaron-atropellar-a-un-uniformado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Cómo aprovechar consultas, exámenes y urgencias con tu seguro de salud",
     "enlace": "https://laserenaonline.cl/2026/05/11/como-aprovechar-consultas-examenes-y-urgencias-con-tu-seguro-de-salud/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Seremi de Energía y director regional de SEC conocen el centro de operaciones de CGE",
-    "enlace": "https://laserenaonline.cl/2026/05/11/seremi-de-energia-y-director-regional-de-sec-conocen-el-centro-de-operaciones-de-cge/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Vicuña: Destacan inversiones realizadas en la salud rural durante el último periodo",
-    "enlace": "https://laserenaonline.cl/2026/05/11/vicuna-destacan-inversiones-realizadas-en-la-salud-rural-durante-el-ultimo-periodo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,33 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "ChileAtiende y Municipalidad de La Serena inauguran Centro de Atención Virtual en sector La Antena",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/11/chileatiende-y-municipalidad-de-la-serena-inauguran-centro-de-atencion-virtual-en-sector-la-antena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Más de 79 mil pensionados recibirán el Bono Invierno en la región de Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/11/mas-de-79-mil-pensionados-recibiran-el-bono-invierno-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Autoridades destacan labor de reinserción social y seguridad penitenciaria en visita a unidades de Ovalle",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/11/autoridades-destacan-labor-de-reinsercion-social-y-seguridad-penitenciaria-en-visita-a-unidades-de-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "SERNAC fiscaliza a las farmacias del país para verificar que cumplan con la ley",
     "enlace": "https://regiondecoquimbo.cl/2026/05/11/sernac-fiscaliza-a-las-farmacias-del-pais-para-verificar-que-cumplan-con-la-ley/",
     "descripcion": "",
@@ -416,33 +443,6 @@
   {
     "titulo": "Autoridades ambientales y gremio de la construcción dialogan sobre gestión de residuos en la Región de Coquimbo",
     "enlace": "https://regiondecoquimbo.cl/2026/05/07/autoridades-ambientales-y-gremio-de-la-construccion-dialogan-sobre-gestion-de-residuos-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Programa de inglés continúa fortaleciendo el aprendizaje en los primeros años de niñas y niños del Valle de Elqui",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/07/programa-de-ingles-continua-fortaleciendo-el-aprendizaje-en-los-primeros-anos-de-ninas-y-ninos-del-valle-de-elqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Tongoy promueve el envejecimiento activo con taller de acondicionamiento físico para personas mayores del balneario",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/07/tongoy-promueve-el-envejecimiento-activo-con-taller-de-acondicionamiento-fisico-para-personas-mayores-del-balneario/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "40 familias de Ovalle accederán a la casa propia gracias al proyecto Santa Elena",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/07/40-familias-de-ovalle-accederan-a-la-casa-propia-gracias-al-proyecto-santa-elena/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -720,6 +720,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "SEREMI de Energía y SEC abordan con dirigentes de Illapel inquietudes por el suministro eléctrico",
+    "enlace": "https://illapelchile.cl/sin-categoria/seremi-de-energia-y-sec-abordan-con-dirigentes-de-illapel-inquietudes-por-el-suministro-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Hospital de Illapel destacó avances en cirugías, salud mental y hospitalización domiciliaria durante su cuenta pública participativa",
     "enlace": "https://illapelchile.cl/salud/hospital-de-illapel-destaco-avances-en-cirugias-salud-mental-y-hospitalizacion-domiciliaria-durante-su-cuenta-publica-participativa/",
     "descripcion": "",
@@ -794,15 +803,6 @@
   {
     "titulo": "Condenan a empresarios por millonaria evasión tributaria en Illapel",
     "enlace": "https://illapelchile.cl/policial/condenan-a-empresarios-por-millonaria-evasion-tributaria-en-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Diario de Illapel",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Illapel conforma comité comunal para enfrentar violencia escolar y amenazas en establecimientos educacionales",
-    "enlace": "https://illapelchile.cl/educacion/illapel-conforma-comite-comunal-para-enfrentar-violencia-escolar-y-amenazas-en-establecimientos-educacionales/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Diario de Illapel",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Huasco: Fiscalía acusa a imputados por homicidio cuya víctima fue enterrada en una quebrada",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/11/huasco-fiscalia-acusa-a-imputados-por-homicidio-cuya-victima-fue-enterrada-en-una-quebrada/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Comité Operativo Regional analiza trabajo intersectorial para fortalecer la reinserción juvenil en Atacama",
     "enlace": "https://www.atacamanoticias.cl/2026/05/11/comite-operativo-regional-analiza-trabajo-intersectorial-para-fortalecer-la-reinsercion-juvenil-en-atacama/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "El boom del cobre en Argentina desata pelea con Chile por millonario negocio minero",
     "enlace": "https://www.atacamanoticias.cl/2026/05/10/el-boom-del-cobre-en-argentina-desata-pelea-con-chile-por-millonario-negocio-minero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Quiroz en el Chile Day en Nueva York: “Vamos a restituir la libertad creativa al sector privado”",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/10/quiroz-en-el-chile-day-en-nueva-york-vamos-a-restituir-la-libertad-creativa-al-sector-privado/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Falla técnica provocó corte de suministro de agua potable en Valle Hermoso desde el pasado sábado",
+    "enlace": "https://laliguanoticias.cl/2026/05/11/falla-tecnica-provoco-corte-de-suministro-de-agua-potable-en-valle-hermoso-desde-el-pasado-sabado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "Carabineros detuvo a dos personas por contrabando de más de 230 mil cigarrillos en la Ruta 5 Norte",
     "enlace": "https://laliguanoticias.cl/2026/05/11/carabineros-detuvo-a-dos-personas-por-contrabando-de-mas-de-230-mil-cigarrillos-en-la-ruta-5-norte/",
     "descripcion": "",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "Salud Municipal de La Ligua incorpora bicicletas híbridas para el traslado de sus funcionarios",
     "enlace": "https://laliguanoticias.cl/2026/05/08/salud-municipal-de-la-ligua-incorpora-bicicletas-hibridas-para-el-traslado-de-sus-funcionarios/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Dos rigurosos operativos policiales marcaron la noche del jueves en La Ligua y Cabildo",
-    "enlace": "https://laliguanoticias.cl/2026/05/08/dos-rigurosos-operativos-policiales-marcaron-la-noche-del-jueves-en-la-ligua-y-cabildo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Transforma Turismo lanza guía para enfrentar el cambio climático en destinos costeros",
-    "enlace": "https://g5noticias.cl/2026/05/11/transforma-turismo-lanza-guia-para-enfrentar-el-cambio-climatico-en-destinos-costeros/",
+    "titulo": "Diputado Boris Barrera acompaña a alcaldes y alcaldesas en entrega de carta al Presidente por recortes en salud: “estamos asistiendo a un momento sumamente triste y doloroso”",
+    "enlace": "https://g5noticias.cl/2026/05/11/diputado-boris-barrera-acompana-a-alcaldes-y-alcaldesas-en-entrega-de-carta-al-presidente-por-recortes-en-salud-estamos-asistiendo-a-un-momento-sumamente-triste-y-doloroso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 45 toneladas recicladas: modelo de economía circular avanza en caletas del borde costero del sur de Iquique",
-    "enlace": "https://g5noticias.cl/2026/05/11/mas-de-45-toneladas-recicladas-modelo-de-economia-circular-avanza-en-caletas-del-borde-costero-del-sur-de-iquique/",
+    "titulo": "Cumbre de ideas en Lo Barnechea: tres días de charlas, actividades y reflexión en torno a la montaña",
+    "enlace": "https://g5noticias.cl/2026/05/11/cumbre-de-ideas-en-lo-barnechea-tres-dias-de-charlas-actividades-y-reflexion-en-torno-a-la-montana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Autoridades de educación fueron parte de celebración del Día del Estudiante y tuvieron un motivador inicio de semana en una escuela pública",
-    "enlace": "https://g5noticias.cl/2026/05/11/autoridades-de-educacion-fueron-parte-de-celebracion-del-dia-del-estudiante-y-tuvieron-un-motivador-inicio-de-semana-en-una-escuela-publica/",
+    "titulo": "Usuarios abrieron sus corazones en el lanzamiento del programa Calle 2026",
+    "enlace": "https://g5noticias.cl/2026/05/11/usuarios-abrieron-sus-corazones-en-el-lanzamiento-del-programa-calle-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministerio de las Culturas conmemora el Día Nacional del Teatro con diversas actividades a nivel nacional y anuncia seleccionados en la Línea de Apoyo a Teatros Universitarios 2026",
-    "enlace": "https://g5noticias.cl/2026/05/11/ministerio-de-las-culturas-conmemora-el-dia-nacional-del-teatro-con-diversas-actividades-a-nivel-nacional-y-anuncia-seleccionados-en-la-linea-de-apoyo-a-teatros-universitarios-2026/",
+    "titulo": "En Nogales: vecinos de El Melón celebran aprobación de proyecto de pavimentación de calle Baquedano",
+    "enlace": "https://g5noticias.cl/2026/05/11/en-nogales-vecinos-de-el-melon-celebran-aprobacion-de-proyecto-de-pavimentacion-de-calle-baquedano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía obtiene prisión preventiva para imputado que asaltó con cuchillo a dos mujeres en Campanario y en Yungay",
-    "enlace": "https://g5noticias.cl/2026/05/11/fiscalia-obtiene-prision-preventiva-para-imputado-que-asalto-con-cuchillo-a-dos-mujeres-en-campanario-y-en-yungay/",
+    "titulo": "El ajedrez de Villa Alemana definió a sus clasificados para la etapa provincial de los Juegos Deportivos Escolares",
+    "enlace": "https://g5noticias.cl/2026/05/11/el-ajedrez-de-villa-alemana-definio-a-sus-clasificados-para-la-etapa-provincial-de-los-juegos-deportivos-escolares/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Análisis Criminal de Ñuble obtiene prisión preventiva para dos imputados por una serie de robos a vehículos en Parral, San Carlos y Chillán",
-    "enlace": "https://g5noticias.cl/2026/05/11/analisis-criminal-de-nuble-obtiene-prision-preventiva-para-dos-imputados-por-una-serie-de-robos-a-vehiculos-en-parral-san-carlos-y-chillan/",
+    "titulo": "Diputado Andrés Celis amplía oficios por retiro de palmeras en Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/05/11/diputado-andres-celis-amplia-oficios-por-retiro-de-palmeras-en-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "33 detenidos en mega operativo conjunto realizado en barrios comerciales de Viña del Mar y Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/05/11/33-detenidos-en-mega-operativo-conjunto-realizado-en-barrios-comerciales-de-vina-del-mar-y-valparaiso/",
+    "titulo": "FOJI se hace presente en la Semana de la Educación Artística en distintas regiones de Chile: revisa todos los detalles",
+    "enlace": "https://g5noticias.cl/2026/05/11/foji-se-hace-presente-en-la-semana-de-la-educacion-artistica-en-distintas-regiones-de-chile-revisa-todos-los-detalles/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía logró obtener condena de 15 años de cárcel contra autor de homicidio perpetrado en la comuna de Cerro Navia",
-    "enlace": "https://g5noticias.cl/2026/05/11/fiscalia-logro-obtener-condena-de-15-anos-de-carcel-contra-autor-de-homicidio-perpetrado-en-la-comuna-de-cerro-navia/",
+    "titulo": "Más allá del miedo: La urgencia de sanar el tejido escolar desde el Congreso. Por Daniela Aguayo Manríquez, Jefa de Carrera de Pedagogía en Educación Diferencial – Universidad Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/05/11/mas-alla-del-miedo-la-urgencia-de-sanar-el-tejido-escolar-desde-el-congreso-por-daniela-aguayo-manriquez-jefa-de-carrera-de-pedagogia-en-educacion-diferencial-universidad-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "A cuatro meses de la emergencia, reconstrucción habitacional ya alcanza 54 soluciones en Ñuble",
-    "enlace": "https://g5noticias.cl/2026/05/11/a-cuatro-meses-de-la-emergencia-reconstruccion-habitacional-ya-alcanza-54-soluciones-en-nuble/",
+    "titulo": "Comisión de Educación del Senado aprueba en general proyecto Escuelas Protegidas",
+    "enlace": "https://g5noticias.cl/2026/05/11/comision-de-educacion-del-senado-aprueba-en-general-proyecto-escuelas-protegidas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Biobío conmemora el Día Nacional del Teatro con programación impulsada por la escena regional",
-    "enlace": "https://g5noticias.cl/2026/05/11/biobio-conmemora-el-dia-nacional-del-teatro-con-programacion-impulsada-por-la-escena-regional/",
+    "titulo": "Consejo Asesor Regional y Consejo Asesor Provincial de la Seremi de Salud realizaron sus primeras sesiones de 2026",
+    "enlace": "https://g5noticias.cl/2026/05/11/consejo-asesor-regional-y-consejo-asesor-provincial-de-la-seremi-de-salud-realizaron-sus-primeras-sesiones-de-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
