@@ -30,6 +30,7 @@ FEEDS = [
     # ── REGIÓN DE VALPARAÍSO ─────────────────────────────────
     {"url": "https://laliguanoticias.cl/feed",     "medio": "La Ligua Noticias",      "zona": "La Ligua",          "cobertura": "La Ligua 88.9 FM"},
     {"url": "https://diariolaquinta.cl/feed",      "medio": "Diario La Quinta",       "zona": "Casablanca",        "cobertura": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"},
+    {"url": "https://g5noticias.cl/feed/",         "medio": "G5",                     "zona": "Valparaiso",        "cobertura": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"},
 
     # ── REGIÓN DEL BIOBÍO ────────────────────────────────────
     {"url": "https://araucovision.cl/feed",        "medio": "Araucovisión",           "zona": "Arauco",            "cobertura": "Arauco 99.1 FM"},
