@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Coquimbo despide a Rebeca Lira, histórica voz de la radio y el canto melódico porteño",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/11/coquimbo-despide-a-rebeca-lira-historica-voz-de-la-radio-y-el-canto-melodico-porteno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Le Mistral regresa con nuevo formato, nuevas secciones y sátira renovada para la nueva etapa política del país",
     "enlace": "https://www.elcoquimbano.cl/2026/05/11/le-mistral-regresa-con-nuevo-formato-nuevas-secciones-y-satira-renovada-para-la-nueva-etapa-politica-del-pais/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "SII Región de Coquimbo recibió 186.130 declaraciones hasta el 30 de abril",
     "enlace": "https://www.elcoquimbano.cl/2026/05/07/sii-region-de-coquimbo-recibio-186-130-declaraciones-hasta-el-30-de-abril/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Coquimbo: Corte mantiene decisión de prisión preventiva de sujeto por homicidio frustrado",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/07/coquimbo-corte-mantiene-decision-de-prision-preventiva-de-sujeto-por-homicidio-frustrado/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Inclusión laboral femenina y empleabilidad para mayores de 55 años marcan visita de Subsecretaria de Previsión Social a Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/05/11/inclusion-laboral-femenina-y-empleabilidad-para-mayores-de-55-anos-marcan-visita-de-subsecretaria-de-prevision-social-a-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Comisión de Cultura del CORE revisa en terreno cartera de proyectos de recuperación patrimonial en La Serena y Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/05/11/comision-de-cultura-del-core-revisa-en-terreno-cartera-de-proyectos-de-recuperacion-patrimonial-en-la-serena-y-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Región de Coquimbo conformará Mesa de Maternidad para fortalecer apoyo a mujeres y familias",
     "enlace": "https://laserenaonline.cl/2026/05/11/region-de-coquimbo-conformara-mesa-de-maternidad-para-fortalecer-apoyo-a-mujeres-y-familias/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Vicuña: Destacan inversiones realizadas en la salud rural durante el último periodo",
     "enlace": "https://laserenaonline.cl/2026/05/11/vicuna-destacan-inversiones-realizadas-en-la-salud-rural-durante-el-ultimo-periodo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Hospital de Salamanca impulsa talleres gratuitos de yoga para fortalecer la salud mental",
-    "enlace": "https://laserenaonline.cl/2026/05/11/hospital-de-salamanca-impulsa-talleres-gratuitos-de-yoga-para-fortalecer-la-salud-mental/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Nuevos cursos gratuitos de Inteligencia Artificial buscan ampliar oportunidades laborales y digitales en la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/11/nuevos-cursos-gratuitos-de-inteligencia-artificial-buscan-ampliar-oportunidades-laborales-y-digitales-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "SERNAC fiscaliza a las farmacias del país para verificar que cumplan con la ley",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/11/sernac-fiscaliza-a-las-farmacias-del-pais-para-verificar-que-cumplan-con-la-ley/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Más de 5 mil hogares de La Serena se beneficiarán con renovación de colectores de Aguas del Valle en Avenida Balmaceda",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/11/mas-de-5-mil-hogares-de-la-serena-se-beneficiaran-con-renovacion-de-colectores-de-aguas-del-valle-en-avenida-balmaceda/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Vicuña se convierte en la capital del deporte nacional con campeonatos de judo y levantamiento de pesas",
     "enlace": "https://regiondecoquimbo.cl/2026/05/11/vicuna-se-convierte-en-la-capital-del-deporte-nacional-con-campeonatos-de-judo-y-levantamiento-de-pesas/",
     "descripcion": "",
@@ -425,24 +443,6 @@
   {
     "titulo": "40 familias de Ovalle accederán a la casa propia gracias al proyecto Santa Elena",
     "enlace": "https://regiondecoquimbo.cl/2026/05/07/40-familias-de-ovalle-accederan-a-la-casa-propia-gracias-al-proyecto-santa-elena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Realizan balance positivo en primera semana de apertura del nuevo CESFAM Carén",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/07/realizan-balance-positivo-en-primera-semana-de-apertura-del-nuevo-cesfam-caren/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Destacan avance del Proyecto de Reconstrucción Nacional y llaman a respaldar una ley clave para el empleo, la vivienda y la inversión",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/07/destacan-avance-del-proyecto-de-reconstruccion-nacional-y-llaman-a-respaldar-una-ley-clave-para-el-empleo-la-vivienda-y-la-inversion/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -720,6 +720,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Hospital de Illapel destacó avances en cirugías, salud mental y hospitalización domiciliaria durante su cuenta pública participativa",
+    "enlace": "https://illapelchile.cl/salud/hospital-de-illapel-destaco-avances-en-cirugias-salud-mental-y-hospitalizacion-domiciliaria-durante-su-cuenta-publica-participativa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Simulacro de tiroteo en Illapel pone a prueba protocolos de seguridad en establecimiento educacional",
     "enlace": "https://illapelchile.cl/policial/simulacro-de-tiroteo-en-illapel-pone-a-prueba-protocolos-de-seguridad-en-establecimiento-educacional/",
     "descripcion": "",
@@ -794,15 +803,6 @@
   {
     "titulo": "Illapel conforma comité comunal para enfrentar violencia escolar y amenazas en establecimientos educacionales",
     "enlace": "https://illapelchile.cl/educacion/illapel-conforma-comite-comunal-para-enfrentar-violencia-escolar-y-amenazas-en-establecimientos-educacionales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Diario de Illapel",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Más que un aporte económico: becas municipales impulsan el futuro de jóvenes de Illapel",
-    "enlace": "https://illapelchile.cl/educacion/mas-que-un-aporte-economico-becas-municipales-impulsan-el-futuro-de-jovenes-de-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Diario de Illapel",
@@ -898,6 +898,24 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "WordPress test",
+    "enlace": "https://veetv.cl/wordpress-test/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "IA: Una herramienta para restaurar y preservar nuestra MemorIA colectiva",
+    "enlace": "https://veetv.cl/ia-una-herramienta-para-restaurar-y-preservar-nuestra-memoria-colectiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Hospital de Salamanca destacó iniciativas de salud mental y apoyo comunitario durante 2025",
@@ -1620,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Irací Hassler presenta indicaciones a proyecto de ley de los súper ricos",
-    "enlace": "https://g5noticias.cl/2026/05/11/diputada-iraci-hassler-presenta-indicaciones-a-proyecto-de-ley-de-los-super-ricos/",
+    "titulo": "Transforma Turismo lanza guía para enfrentar el cambio climático en destinos costeros",
+    "enlace": "https://g5noticias.cl/2026/05/11/transforma-turismo-lanza-guia-para-enfrentar-el-cambio-climatico-en-destinos-costeros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1629,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "“Chile merece crecer, pero crecer para todos”: Diputados de oposición presentan 10 indicaciones a Ley Miscelánea",
-    "enlace": "https://g5noticias.cl/2026/05/11/chile-merece-crecer-pero-crecer-para-todos-diputados-de-oposicion-presentan-10-indicaciones-a-ley-miscelanea/",
+    "titulo": "Más de 45 toneladas recicladas: modelo de economía circular avanza en caletas del borde costero del sur de Iquique",
+    "enlace": "https://g5noticias.cl/2026/05/11/mas-de-45-toneladas-recicladas-modelo-de-economia-circular-avanza-en-caletas-del-borde-costero-del-sur-de-iquique/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1638,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Jorge Guzmán: “La declaración de monumento histórico ha postergado la recuperación de las Escuelas Concentradas de Talca”",
-    "enlace": "https://g5noticias.cl/2026/05/11/diputado-jorge-guzman-la-declaracion-de-monumento-historico-ha-postergado-la-recuperacion-de-las-escuelas-concentradas-de-talca/",
+    "titulo": "Autoridades de educación fueron parte de celebración del Día del Estudiante y tuvieron un motivador inicio de semana en una escuela pública",
+    "enlace": "https://g5noticias.cl/2026/05/11/autoridades-de-educacion-fueron-parte-de-celebracion-del-dia-del-estudiante-y-tuvieron-un-motivador-inicio-de-semana-en-una-escuela-publica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Mulet afirma que es “difícil que se apruebe así como está” la megarreforma y apunta a discusión tributaria",
-    "enlace": "https://g5noticias.cl/2026/05/11/mulet-afirma-que-es-dificil-que-se-apruebe-asi-como-esta-la-megarreforma-y-apunta-a-discusion-tributaria/",
+    "titulo": "Ministerio de las Culturas conmemora el Día Nacional del Teatro con diversas actividades a nivel nacional y anuncia seleccionados en la Línea de Apoyo a Teatros Universitarios 2026",
+    "enlace": "https://g5noticias.cl/2026/05/11/ministerio-de-las-culturas-conmemora-el-dia-nacional-del-teatro-con-diversas-actividades-a-nivel-nacional-y-anuncia-seleccionados-en-la-linea-de-apoyo-a-teatros-universitarios-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Tomás Kast tras 4 años de Estado de excepción: “Ha sido clave para contener el terrorismo, pero debe profundizarse con operativos como el de Temucuicui”",
-    "enlace": "https://g5noticias.cl/2026/05/11/diputado-tomas-kast-tras-4-anos-de-estado-de-excepcion-ha-sido-clave-para-contener-el-terrorismo-pero-debe-profundizarse-con-operativos-como-el-de-temucuicui/",
+    "titulo": "Fiscalía obtiene prisión preventiva para imputado que asaltó con cuchillo a dos mujeres en Campanario y en Yungay",
+    "enlace": "https://g5noticias.cl/2026/05/11/fiscalia-obtiene-prision-preventiva-para-imputado-que-asalto-con-cuchillo-a-dos-mujeres-en-campanario-y-en-yungay/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Legisladores oficialistas condenan llamado del PC a «agitar las calles» y critican a ex diputada Carmen Hertz por validar agresión a diputado Javier Olivares",
-    "enlace": "https://g5noticias.cl/2026/05/11/legisladores-oficialistas-condenan-llamado-del-pc-a-agitar-las-calles-y-critican-a-ex-diputada-carmen-hertz-por-validar-agresion-a-diputado-javier-olivares/",
+    "titulo": "Análisis Criminal de Ñuble obtiene prisión preventiva para dos imputados por una serie de robos a vehículos en Parral, San Carlos y Chillán",
+    "enlace": "https://g5noticias.cl/2026/05/11/analisis-criminal-de-nuble-obtiene-prision-preventiva-para-dos-imputados-por-una-serie-de-robos-a-vehiculos-en-parral-san-carlos-y-chillan/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros incauta más de 384 kilos de hojas de coca abandonadas en vehículo",
-    "enlace": "https://g5noticias.cl/2026/05/11/carabineros-incauta-mas-de-384-kilos-de-hojas-de-coca-abandonadas-en-vehiculo/",
+    "titulo": "33 detenidos en mega operativo conjunto realizado en barrios comerciales de Viña del Mar y Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/05/11/33-detenidos-en-mega-operativo-conjunto-realizado-en-barrios-comerciales-de-vina-del-mar-y-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Balance: EFE Sur avanza en recuperación de vía férrea y confirma operación de Biotren para este martes",
-    "enlace": "https://g5noticias.cl/2026/05/11/balance-efe-sur-avanza-en-recuperacion-de-via-ferrea-y-confirma-operacion-de-biotren-para-este-martes/",
+    "titulo": "Fiscalía logró obtener condena de 15 años de cárcel contra autor de homicidio perpetrado en la comuna de Cerro Navia",
+    "enlace": "https://g5noticias.cl/2026/05/11/fiscalia-logro-obtener-condena-de-15-anos-de-carcel-contra-autor-de-homicidio-perpetrado-en-la-comuna-de-cerro-navia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Balance hídrico en Ñuble muestra déficit moderado de caudales y recuperación en precipitaciones durante abril",
-    "enlace": "https://g5noticias.cl/2026/05/11/balance-hidrico-en-nuble-muestra-deficit-moderado-de-caudales-y-recuperacion-en-precipitaciones-durante-abril/",
+    "titulo": "A cuatro meses de la emergencia, reconstrucción habitacional ya alcanza 54 soluciones en Ñuble",
+    "enlace": "https://g5noticias.cl/2026/05/11/a-cuatro-meses-de-la-emergencia-reconstruccion-habitacional-ya-alcanza-54-soluciones-en-nuble/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Pescadores Industriales del Biobío despliegan esfuerzos para “encontrar” el jurel y manifiestan preocupación por efectos económicos y laborales",
-    "enlace": "https://g5noticias.cl/2026/05/11/pescadores-industriales-del-biobio-despliegan-esfuerzos-para-encontrar-el-jurel-y-manifiestan-preocupacion-por-efectos-economicos-y-laborales/",
+    "titulo": "Biobío conmemora el Día Nacional del Teatro con programación impulsada por la escena regional",
+    "enlace": "https://g5noticias.cl/2026/05/11/biobio-conmemora-el-dia-nacional-del-teatro-con-programacion-impulsada-por-la-escena-regional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Epaustral revela avances del Registro Especial de Contratistas para la ampliación del Terminal Mardones",
+    "enlace": "https://elmagallanico.com/2026/05/11/epaustral-revela-avances-del-registro-especial-de-contratistas-para-la-ampliacion-del-terminal-mardones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Bray On llega por primera vez a Punta Arenas con su gira por el sur de Chile",
     "enlace": "https://elmagallanico.com/2026/05/08/bray-on-llega-por-primera-vez-a-punta-arenas-con-su-gira-por-el-sur-de-chile/",
     "descripcion": "",
@@ -1964,15 +1991,6 @@
   {
     "titulo": "Municipio concreta renovación de espacios en Cesfam Damianovic",
     "enlace": "https://elmagallanico.com/2026/05/06/municipio-concreta-renovacion-de-espacios-en-cesfam-damianovic/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Municipio abre inscripciones para Festival del Cantar Vecinal",
-    "enlace": "https://elmagallanico.com/2026/05/06/municipio-abre-inscripciones-para-festival-del-cantar-vecinal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
