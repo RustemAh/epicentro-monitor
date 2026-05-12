@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Hospital de Coquimbo se vuelca a lo digital: consultas de telemedicina aumentaron en un 500% el último año",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/12/hospital-de-coquimbo-se-vuelca-a-lo-digital-consultas-de-telemedicina-aumentaron-en-un-500-el-ultimo-ano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Carabineros detiene a violenta banda tras robo en el panul: intentaron atropellar a un uniformado",
     "enlace": "https://www.elcoquimbano.cl/2026/05/11/carabineros-detiene-a-violenta-banda-tras-robo-en-el-panul-intentaron-atropellar-a-un-uniformado/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Vecinos de Tierras Blancas denuncian grave crisis de seguridad tras robo en parroquia del sector antiguo: Se llevaron el incensario y otras especies",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/07/vecinos-de-tierras-blancas-denuncian-grave-crisis-de-seguridad-tras-robo-en-parroquia-del-sector-antiguo-se-llevaron-el-incensario-y-otras-especies/",
+    "titulo": "Más de 79 mil pensionados recibirán el Bono Invierno en la región de Coquimbo",
+    "enlace": "https://www.elserenense.cl/regionales/2026/05/12/mas-de-79-mil-pensionados-recibiran-el-bono-invierno-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Más de 5 mil hogares de La Serena se beneficiarán con renovación de colectores de Aguas del Valle en Avenida Balmaceda",
@@ -171,11 +180,38 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Aumentan virus y Coquimbo sigue siendo la región con menor vacunación de Influenza del país",
-    "enlace": "https://www.elserenense.cl/regionales/2026/05/07/aumentan-virus-y-coquimbo-sigue-siendo-la-region-con-menor-vacunacion-de-influenza-del-pais/",
+    "titulo": "¿Cómo se encuentran los embalses en la Región de Coquimbo este mes?",
+    "enlace": "https://laserenaonline.cl/2026/05/12/como-se-encuentran-los-embalses-en-la-region-de-coquimbo-este-mes/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Andacollo: Detienen a sujeto que mantenía órdenes judiciales pendientes y ocultaba su identidad",
+    "enlace": "https://laserenaonline.cl/2026/05/12/andacollo-detienen-a-sujeto-que-mantenia-ordenes-judiciales-pendientes-y-ocultaba-su-identidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Arrestan a dos prófugos de la justicia por pensión alimenticia en Vicuña",
+    "enlace": "https://laserenaonline.cl/2026/05/12/arrestan-a-dos-profugos-de-la-justicia-por-pension-alimenticia-en-vicuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Reporte del tiempo hoy 12 de mayo para la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/05/12/reporte-del-tiempo-hoy-12-de-mayo-para-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -227,42 +263,6 @@
   {
     "titulo": "Carabineros intercepta en Coquimbo casi una tonelada de droga que era transportada a la zona centro",
     "enlace": "https://laserenaonline.cl/2026/05/11/carabineros-intercepta-en-coquimbo-casi-una-tonelada-de-droga-que-era-transportada-a-la-zona-centro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más de 5 mil hogares de La Serena se beneficiarán con renovación de colectores de Aguas del Valle",
-    "enlace": "https://laserenaonline.cl/2026/05/11/mas-de-5-mil-hogares-de-la-serena-se-beneficiaran-con-renovacion-de-colectores-de-aguas-del-valle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "ChileAtiende y Municipalidad de La Serena inauguran Centro de Atención Virtual en sector La Antena",
-    "enlace": "https://laserenaonline.cl/2026/05/11/chileatiende-y-municipalidad-de-la-serena-inauguran-centro-de-atencion-virtual-en-sector-la-antena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "MOP ejecuta obras de conservación de emergencia en Ruta D-595, Río Hurtado",
-    "enlace": "https://laserenaonline.cl/2026/05/11/mop-ejecuta-obras-de-conservacion-de-emergencia-en-ruta-d-595-rio-hurtado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Cómo aprovechar consultas, exámenes y urgencias con tu seguro de salud",
-    "enlace": "https://laserenaonline.cl/2026/05/11/como-aprovechar-consultas-examenes-y-urgencias-con-tu-seguro-de-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,33 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Proyecto Mejor Vida inicia construcción de 140 viviendas en Ovalle",
+    "enlace": "https://ovallehoy.cl/proyecto-mejor-vida-inicia-construccion-de-140-viviendas-en-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "RegiónHOY: Casa Piñera proyecta su restauración tras una década y podría iniciar obras este año",
+    "enlace": "https://ovallehoy.cl/regionhoy-casa-pinera-proyecta-su-restauracion-tras-una-decada-y-podria-iniciar-obras-este-ano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Destacan labor de reinserción social y seguridad penitenciaria en unidades de Ovalle",
+    "enlace": "https://ovallehoy.cl/destacan-labor-de-reinsercion-social-y-seguridad-penitenciaria-en-unidades-de-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Promesa cumplida: Me reencontré con Deportes Ovalle",
     "enlace": "https://ovallehoy.cl/promesa-cumplida-me-reencontre-con-deportes-ovalle/",
     "descripcion": "",
@@ -506,33 +533,6 @@
   {
     "titulo": "SII Región de Coquimbo ha recibido 186.130 declaraciones hasta el 30 de abril",
     "enlace": "https://ovallehoy.cl/sii-region-de-coquimbo-ha-recibido-186-130-declaraciones-hasta-el-30-de-abril/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Confirman a Ecuador como sede de los Sudamericanos Escolares 2026",
-    "enlace": "https://ovallehoy.cl/confirman-a-ecuador-como-sede-de-los-sudamericanos-escolares-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Llaman a establecimientos educacionales de Limarí a participar en simulacro de sismo y tsunami",
-    "enlace": "https://ovallehoy.cl/llaman-a-establecimientos-educacionales-de-limari-a-participar-en-simulacro-de-sismo-y-tsunami/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "RegiónHOY: Autoridades ambientales y gremio de la construcción dialogan sobre gestión de residuos",
-    "enlace": "https://ovallehoy.cl/regionhoy-autoridades-ambientales-y-gremio-de-la-construccion-dialogan-sobre-gestion-de-residuos/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1008,92 +1008,11 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "PDI recupera vehículo sustraído a su propietaria en Los Vilos mediante engaño de una red de estafadores",
-    "enlace": "https://losviloschile.cl/policial/pdi-recupera-vehiculo-sustraido-a-su-propietaria-en-los-vilos-mediante-engano-de-una-red-de-estafadores/",
+    "titulo": "Crisis en el Ministerio de Ciencia: renuncia subsecretario tras choque con la ministra Lincolao",
+    "enlace": "https://www.davidnoticias.cl/crisis-en-el-ministerio-de-ciencia-renuncia-subsecretario-tras-choque-con-la-ministra-lincolao/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospital de Los Vilos relevó avances en atención y proyectó desafíos para 2026",
-    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-relevo-avances-en-atencion-y-proyecto-desafios-para-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "MOP inicia contrato por $3.800 millones para modernizar caleta Las Conchas en Los Vilos",
-    "enlace": "https://losviloschile.cl/actualidad/mop-inicia-contrato-por-3-800-millones-para-modernizar-caleta-las-conchas-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "PDI decomisa 2.281 plantas de cannabis y más de 220 kilos de droga procesada tras intervención de cultivos ilegales en Los Vilos",
-    "enlace": "https://losviloschile.cl/policial/pdi-decomisa-2-281-plantas-de-cannabis-y-mas-de-220-kilos-de-droga-procesada-tras-intervencion-de-cultivos-ilegales-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospital de Los Vilos fortalece atención odontológica con nuevos box y mayor resolutividad local",
-    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-fortalece-atencion-odontologica-con-nuevos-box-y-mayor-resolutividad-local/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Fundación Chile Violines presenta a Cuarteto Lúmina el sábado 9 de mayo en Bodegón Cultural de Los Vilos",
-    "enlace": "https://losviloschile.cl/actualidad/fundacion-chile-violines-presenta-a-cuarteto-lumina-el-sabado-9-de-mayo-en-bodegon-cultural-de-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Cuenta Pública 2025 de Los Vilos informó inversiones por más de $40 mil millones en proyectos comunales",
-    "enlace": "https://losviloschile.cl/actualidad/cuenta-publica-2025-de-los-vilos-informo-inversiones-por-mas-de-40-mil-millones-en-proyectos-comunales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "PDI incauta 12 mil dosis de drogas y desarticula red de microtráfico en Los Vilos",
-    "enlace": "https://losviloschile.cl/policial/pdi-incauta-12-mil-dosis-de-drogas-y-desarticula-red-de-microtrafico-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospital de Los Vilos fortalece su laboratorio con nuevo y moderno equipamiento",
-    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-fortalece-su-laboratorio-con-nuevo-y-moderno-equipamiento/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Concejo Municipal de Los Vilos aprueba recursos del Royalty Minero para obras y diseños prioritarios en la comuna",
-    "enlace": "https://losviloschile.cl/social/concejo-municipal-de-los-vilos-aprueba-recursos-del-royalty-minero-para-obras-y-disenos-prioritarios-en-la-comuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
@@ -1172,15 +1091,6 @@
   {
     "titulo": "Vehículo terminó volcado en quebrada tras accidente en Canela",
     "enlace": "https://www.davidnoticias.cl/vehiculo-termino-volcado-en-quebrada-tras-accidente-en-canela/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Científicos logran revertir la diabetes con reprogramación celular",
-    "enlace": "https://www.davidnoticias.cl/cientificos-logran-revertir-la-diabetes-con-reprogramacion-celular/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Pisco Elqui se prepara para una nueva edición de la Fiesta del Pisco este sábado 16 de mayo",
+    "enlace": "https://www.elpaihuanino.cl/2026/05/12/pisco-elqui-se-prepara-para-una-nueva-edicion-de-la-fiesta-del-pisco-este-sabado-16-de-mayo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Paihuano inauguró importantes proyectos urbanos que mejorarán conectividad y espacios públicos: Puente emblemático ya fue entregado",
     "enlace": "https://www.elpaihuanino.cl/2026/05/11/paihuano-inauguro-importantes-proyectos-urbanos-que-mejoraran-conectividad-y-espacios-publicos-puente-emblematico-ya-fue-entregado/",
     "descripcion": "",
@@ -1352,15 +1271,6 @@
   {
     "titulo": "Escuela Mario Aquiles Rodríguez de Paihuano conmemoró a Gabriela Mistral y la Educación Rural",
     "enlace": "https://www.elpaihuanino.cl/2026/04/11/escuela-mario-aquiles-rodriguez-de-paihuano-conmemoro-a-gabriela-mistral-y-la-educacion-rural/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Declaran Alerta Temprana Preventiva por tormentas eléctricas en Paihuano y siete comunas de la Región de Coquimbo",
-    "enlace": "https://www.elpaihuanino.cl/2026/04/09/declaran-alerta-temprana-preventiva-por-tormentas-electricas-en-paihuano-y-siete-comunas-de-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Paihuanino",
@@ -1728,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Internet + TV en una sola cuenta: cómo simplificar los servicios de tu hogar",
-    "enlace": "https://g5noticias.cl/2026/05/12/internet-tv-en-una-sola-cuenta-como-simplificar-los-servicios-de-tu-hogar/",
+    "titulo": "Iquique será sede por primera vez del circuito 5150 TRIATHLON",
+    "enlace": "https://g5noticias.cl/2026/05/12/iquique-sera-sede-por-primera-vez-del-circuito-5150-triathlon/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En las pymes, el cumplimiento tributario también se construye. Por Viviana Puentes Directora Escuela de Auditoría Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/05/12/en-las-pymes-el-cumplimiento-tributario-tambien-se-construye-por-viviana-puentes-directora-escuela-de-auditoria-universidad-de-las-americas/",
+    "titulo": "Teatro Biobío expande su línea de programación cinematográfica con un nuevo ciclo de cine asiático",
+    "enlace": "https://g5noticias.cl/2026/05/12/teatro-biobio-expande-su-linea-de-programacion-cinematografica-con-un-nuevo-ciclo-de-cine-asiatico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Inteligencia Artificial reduce hasta 60% los tiempos de contratación en medio de escasez de talento en Chile",
-    "enlace": "https://g5noticias.cl/2026/05/12/la-inteligencia-artificial-reduce-hasta-60-los-tiempos-de-contratacion-en-medio-de-escasez-de-talento-en-chile/",
+    "titulo": "Comienza MJAZZ 2026: más  de 10 bandas y programadores de 8 países llegan a Santiago",
+    "enlace": "https://g5noticias.cl/2026/05/12/comienza-mjazz-2026-mas-de-10-bandas-y-programadores-de-8-paises-llegan-a-santiago/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Otoño y virus respiratorios: advierten aumento de riesgo y llaman a reforzar el sistema inmune de forma preventiva",
-    "enlace": "https://g5noticias.cl/2026/05/12/otono-y-virus-respiratorios-advierten-aumento-de-riesgo-y-llaman-a-reforzar-el-sistema-inmune-de-forma-preventiva-2/",
+    "titulo": "Científicos advierten que la sobrepoblación de erizos negros está devastando los fondos marinos en Chile",
+    "enlace": "https://g5noticias.cl/2026/05/12/cientificos-advierten-que-la-sobrepoblacion-de-erizos-negros-esta-devastando-los-fondos-marinos-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sangrado de encías no es normal: especialista alerta sobre grave crisis de salud periodontal en Chile",
-    "enlace": "https://g5noticias.cl/2026/05/12/sangrado-de-encias-no-es-normal-especialista-alerta-sobre-grave-crisis-de-salud-periodontal-en-chile/",
+    "titulo": "Rusia realizó un ataque masivo con drones contra Ucrania tras el fin de la tregua",
+    "enlace": "https://g5noticias.cl/2026/05/12/rusia-realizo-un-ataque-masivo-con-drones-contra-ucrania-tras-el-fin-de-la-tregua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«Chile ante el espejo argentino: reaccionar ahora o ver pasar el súper-ciclo del cobre». Por: Dr. Manuel Viera Flores, Presidente de la Cámara Minera de Chile",
-    "enlace": "https://g5noticias.cl/2026/05/12/chile-ante-el-espejo-argentino-reaccionar-ahora-o-ver-pasar-el-super-ciclo-del-cobre-por-dr-manuel-viera-flores-presidente-de-la-camara-minera-de-chile/",
+    "titulo": "Fibromialgia: estigma e invisibilización. Por Piero Armijo Massardo, Kinesiólogo y académico de Vinculación con el Medio, Facultad de Medicina Universidad San Sebastián",
+    "enlace": "https://g5noticias.cl/2026/05/12/fibromialgia-estigma-e-invisibilizacion-por-piero-armijo-massardo-kinesiologo-y-academico-de-vinculacion-con-el-medio-facultad-de-medicina-universidad-san-sebastian/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Qué es la reconversión eléctrica y por qué está ganando terreno en Chile ante el alza de combustibles",
-    "enlace": "https://g5noticias.cl/2026/05/12/que-es-la-reconversion-electrica-y-por-que-esta-ganando-terreno-en-chile-ante-el-alza-de-combustibles/",
+    "titulo": "La escritora chilena más leída del momento llega a Valparaíso: Francisca Solar protagonizará un encuentro abierto a la comunidad",
+    "enlace": "https://g5noticias.cl/2026/05/12/la-escritora-chilena-mas-leida-del-momento-llega-a-valparaiso-francisca-solar-protagonizara-un-encuentro-abierto-a-la-comunidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alimentos ultraprocesados debilitarían los huesos y aumentarían el riesgo de fracturas ¿Qué comer?",
-    "enlace": "https://g5noticias.cl/2026/05/12/alimentos-ultraprocesados-debilitarian-los-huesos-y-aumentarian-el-riesgo-de-fracturas-que-comer/",
+    "titulo": "Nogales: pasajero de bus transportaba casi 15 kilos de marihuana",
+    "enlace": "https://g5noticias.cl/2026/05/12/nogales-pasajero-de-bus-transportaba-casi-15-kilos-de-marihuana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Escuelas e infraestructuras que se caen: la crisis silenciosa que Chile decidió no escuchar. Por Juan Pablo Catalán, académico e investigador de Educación UNAB.",
-    "enlace": "https://g5noticias.cl/2026/05/12/escuelas-e-infraestructuras-que-se-caen-la-crisis-silenciosa-que-chile-decidio-no-escuchar-por-juan-pablo-catalan-academico-e-investigador-de-educacion-unab/",
+    "titulo": "Iquique: Tribunal absuelve a joven acusado de tráfico tras acreditar falta de participación",
+    "enlace": "https://g5noticias.cl/2026/05/12/iquique-tribunal-absuelve-a-joven-acusado-de-trafico-tras-acreditar-falta-de-participacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cuando encontrar una vena se vuelve un problema: repetidas punciones y complicaciones en la atención de salud",
-    "enlace": "https://g5noticias.cl/2026/05/12/cuando-encontrar-una-vena-se-vuelve-un-problema-repetidas-punciones-y-complicaciones-en-la-atencion-de-salud/",
+    "titulo": "Carabineros logra liberación de joven secuestrado y captura a 4 involucrados en el rapto",
+    "enlace": "https://g5noticias.cl/2026/05/12/carabineros-logra-liberacion-de-joven-secuestrado-y-captura-a-4-involucrados-en-el-rapto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1998,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Vivir en el Estrecho: ¿Un privilegio o una multa de residencia?",
+    "enlace": "https://elmagallanico.com/2026/05/12/vivir-en-el-estrecho-un-privilegio-o-una-multa-de-residencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Epaustral revela avances del Registro Especial de Contratistas para la ampliación del Terminal Mardones",
     "enlace": "https://elmagallanico.com/2026/05/11/epaustral-revela-avances-del-registro-especial-de-contratistas-para-la-ampliacion-del-terminal-mardones/",
     "descripcion": "",
@@ -2072,15 +1991,6 @@
   {
     "titulo": "Armada de Chile inaugura el Mes del Mar 2026 en el territorio austral",
     "enlace": "https://elmagallanico.com/2026/05/06/armada-de-chile-inaugura-el-mes-del-mar-2026-en-el-territorio-austral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Municipio concreta renovación de espacios en Cesfam Damianovic",
-    "enlace": "https://elmagallanico.com/2026/05/06/municipio-concreta-renovacion-de-espacios-en-cesfam-damianovic/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
