@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "CEMEVET y DISEP Coquimbo trabajan en conjunto en pro de los caninos y felinos de la comuna",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/14/cemevet-y-disep-coquimbo-trabajan-en-conjunto-en-pro-de-los-caninos-y-felinos-de-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Coquimbo Unido derrotó a Colo-Colo y quedó a un paso de las semifinales de la Copa de la Liga",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/14/coquimbo-unido-derroto-a-colo-colo-y-quedo-a-un-paso-de-las-semifinales-de-la-copa-de-la-liga/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Gobierno recorta más de $11.900 millones al Servicio de Salud Coquimbo en modificación presupuestaria",
     "enlace": "https://www.elcoquimbano.cl/2026/05/14/gobierno-recorta-mas-de-11-900-millones-al-servicio-de-salud-coquimbo-en-modificacion-presupuestaria/",
     "descripcion": "",
@@ -72,22 +90,22 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Le Mistral regresa con nuevo formato, nuevas secciones y sátira renovada para la nueva etapa política del país",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/11/le-mistral-regresa-con-nuevo-formato-nuevas-secciones-y-satira-renovada-para-la-nueva-etapa-politica-del-pais/",
+    "titulo": "Filarmónica Antena hará historia como la primera orquesta sudamericana en presentarse en el Ópera House de Australia",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/05/14/filarmonica-antena-hara-historia-como-la-primera-orquesta-sudamericana-en-presentarse-en-el-opera-house-de-australia/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Sercotec lanzó programa para impulsar la creación y fortalecimiento de cooperativas en la región de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/11/sercotec-lanzo-programa-para-impulsar-la-creacion-y-fortalecimiento-de-cooperativas-en-la-region-de-coquimbo/",
+    "titulo": "Con emotiva ceremonia bendicen nueva capilla de la Virgen de Andacollo en La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/05/14/con-emotiva-ceremonia-bendicen-nueva-capilla-de-la-virgen-de-andacollo-en-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Premio Nacional de Historia presentó en La Serena libro que rescata el patrimonio de las culturas Diaguitas y Mapuche",
@@ -162,20 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "OSULS presentará anhelado concierto: ‘El Piano de Mozart’ junto al destacado concertista Marco Antonio Cuevas y el Mtro. Rodolfo Fischer",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/05/11/osuls-presentara-anhelado-concierto-el-piano-de-mozart-junto-al-destacado-concertista-marco-antonio-cuevas-y-el-mtro-rodolfo-fischer/",
+    "titulo": "Conmemoración del Día de la Madre reúne al sector Justicia junto a mujeres privadas de libertad",
+    "enlace": "https://laserenaonline.cl/2026/05/14/conmemoracion-del-dia-de-la-madre-reune-al-sector-justicia-junto-a-mujeres-privadas-de-libertad/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Desmantelan toma ilegal de conexión eléctrica subterránea en La Serena que generaba bajas de voltaje",
-    "enlace": "https://www.elserenense.cl/comunales/2026/05/11/desmantelan-toma-ilegal-de-conexion-electrica-subterranea-en-la-serena-que-generaba-bajas-de-voltaje/",
+    "titulo": "Filarmónica Antena hará historia: se presentará en el Ópera House de Australia",
+    "enlace": "https://laserenaonline.cl/2026/05/14/filarmonica-antena-hara-historia-se-presentara-en-el-opera-house-de-australia/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Población Francisco de Aguirre en La Serena avance un 60% de avance en obras de seguridad",
+    "enlace": "https://laserenaonline.cl/2026/05/14/poblacion-francisco-de-aguirre-en-la-serena-avance-un-60-de-avance-en-obras-de-seguridad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Seguridad ciudadana frustró extracción ilegal de machas en la Avenida del Mar",
     "enlace": "https://laserenaonline.cl/2026/05/13/seguridad-ciudadana-frustro-extraccion-ilegal-de-machas-en-la-avenida-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Festival Chango Rocken tendrá nueva versión este fin de semana en Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/13/festival-chango-rocken-tendra-nueva-version-este-fin-de-semana-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Seis directores y directoras asumen sus cargos en establecimientos públicos de Coquimbo y Andacollo",
-    "enlace": "https://laserenaonline.cl/2026/05/13/seis-directores-y-directoras-asumen-sus-cargos-en-establecimientos-publicos-de-coquimbo-y-andacollo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Acceso al trabajo formal marca hito en proceso de reinserción de jóvenes en Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/13/acceso-al-trabajo-formal-marca-hito-en-proceso-de-reinsercion-de-jovenes-en-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Recreo entretenido en Colegio Los Conquistadores acercó los servicios municipales a niños, niñas y adolescentes en Monte Patria",
+    "enlace": "https://www.elmontepatrino.cl/2026/05/14/recreo-entretenido-en-colegio-los-conquistadores-acerco-los-servicios-municipales-a-ninos-ninas-y-adolescentes-en-monte-patria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Alcalde de Monte Patria acude a Contraloría y acusa arbitrariedad en distribución de recursos de pavimentación participativa",
     "enlace": "https://www.elmontepatrino.cl/2026/05/13/alcalde-de-monte-patria-acude-a-contraloria-y-acusa-arbitrariedad-en-distribucion-de-recursos-de-pavimentacion-participativa/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "Alcalde de Monte Patria hace recuento de su gestión 2025 destacando obras y alcances de “Fondo Royalty Minero",
     "enlace": "https://www.elmontepatrino.cl/2026/04/29/alcalde-de-monte-patria-hace-recuento-de-su-gestion-2025-destacando-obras-y-alcances-de-fondo-royalty-minero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "La Cisterna de Tulahuén inaugura su primera estación meteorológica comunitaria con apoyo de CEAZA",
-    "enlace": "https://www.elmontepatrino.cl/2026/04/28/la-cisterna-de-tulahuen-inaugura-su-primera-estacion-meteorologica-comunitaria-con-apoyo-de-ceaza/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Invitan a gestantes de Illapel a participar en taller sobre parto y derechos laborales durante el embarazo",
+    "enlace": "https://www.elillapelino.cl/2026/05/14/invitan-a-gestantes-de-illapel-a-participar-en-taller-sobre-parto-y-derechos-laborales-durante-el-embarazo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "PDI detiene dos imputados por microtráfico de drogas en zona de recreación familiar en Illapel",
     "enlace": "https://www.elillapelino.cl/2026/05/13/pdi-detiene-dos-imputados-por-microtrafico-de-drogas-en-zona-de-recreacion-familiar-en-illapel/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "CGE presenta plan de contingencia para temporada invernal en Choapa",
     "enlace": "https://www.elillapelino.cl/2026/04/22/cge-presenta-plan-de-contingencia-para-temporada-invernal-en-choapa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Fiscalía de Illapel formalizó a adolescente por amenazas a docente",
-    "enlace": "https://www.elillapelino.cl/2026/04/17/fiscalia-de-illapel-formalizo-a-adolescente-por-amenazas-a-docente/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1008,6 +1008,24 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Orgullo vileño en la élite mundial del cheerleading: Fernanda Herrera brilló con histórica plata en Estados Unidos",
+    "enlace": "https://www.davidnoticias.cl/orgullo-vileno-en-la-elite-mundial-del-cheerleading-fernanda-herrera-brillo-con-historica-plata-en-estados-unidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Justicia obliga al Hospital de Los Vilos a reincorporar a funcionaria removida de jefatura",
+    "enlace": "https://www.davidnoticias.cl/justicia-obliga-al-hospital-de-los-vilos-a-reincorporar-a-funcionaria-removida-de-jefatura/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Alerta por impacto ambiental: aprueban millonaria prospección minera de Barrick Gold en nacientes del Río Turbio",
     "enlace": "https://www.davidnoticias.cl/alerta-por-impacto-ambiental-aprueban-millonaria-prospeccion-minera-de-barrick-gold-en-nacientes-del-rio-turbio/",
     "descripcion": "",
@@ -1080,22 +1098,13 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Crisis en el Ministerio de Ciencia: renuncia subsecretario tras choque con la ministra Lincolao",
-    "enlace": "https://www.davidnoticias.cl/crisis-en-el-ministerio-de-ciencia-renuncia-subsecretario-tras-choque-con-la-ministra-lincolao/",
+    "titulo": "Estudiantes del Colegio Parroquial de Andacollo participaron en jornada educativa con “El Bichólogo” Alfredo Ugarte",
+    "enlace": "https://www.elandacollino.cl/2026/05/14/estudiantes-del-colegio-parroquial-de-andacollo-participaron-en-jornada-educativa-con-el-bichologo-alfredo-ugarte/",
     "descripcion": "",
     "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Camión colisiona barreras y provoca accidente por alcance en sector Ensenada de Los Vilos",
-    "enlace": "https://www.davidnoticias.cl/camion-colisiona-barreras-y-provoca-accidente-por-alcance-en-sector-ensenada-de-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Municipio de Andacollo entregó motocicletas a Carabineros para reforzar seguridad gracias a fondos Royalty",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Informan traslados de equipos por Ruta D-51 para este jueves hacia Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/05/07/informan-traslados-de-equipos-por-ruta-d-51-para-este-jueves-hacia-andacollo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Con inversión del Royalty Minero inauguran moderna cancha sintética en el Parque Oasis de Andacollo",
-    "enlace": "https://www.elandacollino.cl/2026/05/07/con-inversion-del-royalty-minero-inauguran-moderna-cancha-sintetica-en-el-parque-oasis-de-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1278,6 +1278,42 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Kaiser llama al FA y PC a decidir si serán interlocutores válidos o “cabros de porquería” en el Senado",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/14/kaiser-llama-al-fa-y-pc-a-decidir-si-seran-interlocutores-validos-o-cabros-de-porqueria-en-el-senado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Presentan denuncia criminal por eventual fraude para inflar producción y obtener bonos en Codelco",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/14/presentan-denuncia-criminal-por-eventual-fraude-para-inflar-produccion-y-obtener-bonos-en-codelco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "3 carabineros y más de 15 civiles detenidos en allanamientos para desarticular organización criminal",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/14/3-carabineros-y-mas-de-15-civiles-detenidos-en-allanamientos-para-desarticular-organizacion-criminal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "[VIDEO] Seremi de Agricultura de Atacama Guillermo Procuriza prioriza crisis hídrica y control de mosca de la fruta",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/14/video-seremi-de-agricultura-de-atacama-guillermo-procuriza-prioriza-crisis-hidrica-y-control-de-mosca-de-la-fruta/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Tierra Amarilla: Por “Caso Cordeta” acusado fue sentenciado a pena efectiva de cárcel",
     "enlace": "https://www.atacamanoticias.cl/2026/05/14/tierra-amarilla-por-caso-cordeta-acusado-fue-sentenciado-a-pena-efectiva-de-carcel/",
     "descripcion": "",
@@ -1325,42 +1361,6 @@
   {
     "titulo": "Mónica Rincón sacó aplausos en redes tras responder a usuario que la trató de “tortillera”",
     "enlace": "https://www.atacamanoticias.cl/2026/05/14/monica-rincon-saco-aplausos-en-redes-tras-responder-a-usuario-que-la-trato-de-tortillera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Reclamó contra árbitro en TV y se fue expulsado: Fernando Ortiz cerró caída de Colo Colo con berrinche",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/14/reclamo-contra-arbitro-en-tv-y-se-fue-expulsado-fernando-ortiz-cerro-caida-de-colo-colo-con-berrinche/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "OMS devela que la pandemia de COVID-19 causó 22 millones de muertes, el triple de lo informado",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/14/oms-devela-que-la-pandemia-de-covid-19-causo-22-millones-de-muertes-el-triple-de-lo-informado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Incautan camioneta y submetralladora UZI en allanamiento a comunidad de Temucuicui: no hay detenidos",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/14/incautan-camioneta-y-submetralladora-uzi-en-allanamiento-a-comunidad-de-temucuicui-no-hay-detenidos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Un hombre muerto a tiros y otro herido deja un nuevo asesinato en Recoleta",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/14/un-hombre-muerto-a-tiros-y-otro-herido-deja-un-nuevo-asesinato-en-recoleta/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El FOSIS finaliza proyecto que impulsa a los recicladores de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/05/14/el-fosis-finaliza-proyecto-que-impulsa-a-los-recicladores-de-valparaiso/",
+    "titulo": "Equipos locales disputan partidos clave para seguir en carrera en la Liga Nacional 2 de básquetbol",
+    "enlace": "https://g5noticias.cl/2026/05/14/equipos-locales-disputan-partidos-clave-para-seguir-en-carrera-en-la-liga-nacional-2-de-basquetbol/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subsecretario de Redes Asistenciales: “El fortalecimiento de la Atención Primaria es un eje central para este Gobierno y para este Ministerio”",
-    "enlace": "https://g5noticias.cl/2026/05/14/subsecretario-de-redes-asistenciales-el-fortalecimiento-de-la-atencion-primaria-es-un-eje-central-para-este-gobierno-y-para-este-ministerio/",
+    "titulo": "Corte de Santiago confirma multa aplicada por la Inspección del Trabajo a corporación municipal",
+    "enlace": "https://g5noticias.cl/2026/05/14/corte-de-santiago-confirma-multa-aplicada-por-la-inspeccion-del-trabajo-a-corporacion-municipal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Concejal Alejandro Gazmuri se reúne con embajador de Japón para abordar uso de inteligencia artificial en municipios",
-    "enlace": "https://g5noticias.cl/2026/05/14/concejal-alejandro-gazmuri-se-reune-con-embajador-de-japon-para-abordar-uso-de-inteligencia-artificial-en-municipios/",
+    "titulo": "Lo Espejo: Carabineros detiene a sujeto por tenencia ilegal de arma de fuego y amenazas en contexto de violencia intrafamiliar",
+    "enlace": "https://g5noticias.cl/2026/05/14/lo-espejo-carabineros-detiene-a-sujeto-por-tenencia-ilegal-de-arma-de-fuego-y-amenazas-en-contexto-de-violencia-intrafamiliar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Investigadores UPLA detectan pérdida de nieve en los Andes centrales que amenaza recursos hídricos",
-    "enlace": "https://g5noticias.cl/2026/05/14/investigadores-upla-detectan-perdida-de-nieve-en-los-andes-centrales-que-amenaza-recursos-hidricos/",
+    "titulo": "Unidos por el Handball: deporte e inclusión transforman el Centro Educativo Horizonte",
+    "enlace": "https://g5noticias.cl/2026/05/14/unidos-por-el-handball-deporte-e-inclusion-transforman-el-centro-educativo-horizonte/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Calama y las aulas rotas: lo que Freud vio hace un siglo. Por Blanca Palma, Académica Instituto de Educación y Lenguaje, Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/05/14/calama-y-las-aulas-rotas-lo-que-freud-vio-hace-un-siglo-por-blanca-palma-academica-instituto-de-educacion-y-lenguaje-universidad-de-las-americas/",
+    "titulo": "TOP de Coyhaique condena a 13 años de presidio a autor de homicidio calificado en Lago Norte",
+    "enlace": "https://g5noticias.cl/2026/05/14/top-de-coyhaique-condena-a-13-anos-de-presidio-a-autor-de-homicidio-calificado-en-lago-norte/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Será “Tipo C”: Se publica en Diario Oficial reglamento para que Chile tenga un cargador universal de dispositivos electrónicos",
-    "enlace": "https://g5noticias.cl/2026/05/14/sera-tipo-c-se-publica-en-diario-oficial-reglamento-para-que-chile-tenga-un-cargador-universal-de-dispositivos-electronicos/",
+    "titulo": "Alcalde de Limache articula trabajo por la seguridad rural",
+    "enlace": "https://g5noticias.cl/2026/05/14/alcalde-de-limache-articula-trabajo-por-la-seguridad-rural/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Se agrava crisis social en Bolivia: ¿quiénes protestan, qué exigen y cuánto afecta al país?",
-    "enlace": "https://g5noticias.cl/2026/05/14/se-agrava-crisis-social-en-bolivia-quienes-protestan-que-exigen-y-cuanto-afecta-al-pais/",
+    "titulo": "Sector exportador, autoridades y mundo logístico aúnan criterios para consolidar a Biobío como capital logística y volcar la mirada al sur del país",
+    "enlace": "https://g5noticias.cl/2026/05/14/sector-exportador-autoridades-y-mundo-logistico-aunan-criterios-para-consolidar-a-biobio-como-capital-logistica-y-volcar-la-mirada-al-sur-del-pais/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Impulsando el cambio: se abren postulaciones al Premio PwC Chile Innovación 2026",
-    "enlace": "https://g5noticias.cl/2026/05/14/impulsando-el-cambio-se-abren-postulaciones-al-premio-pwc-chile-innovacion-2026/",
+    "titulo": "Hospital Regional de Talca destaca importancia del diagnóstico genético en enfermedades raras",
+    "enlace": "https://g5noticias.cl/2026/05/14/hospital-regional-de-talca-destaca-importancia-del-diagnostico-genetico-en-enfermedades-raras/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ingeniería: el lenguaje detrás de las grandes decisiones. Por Mauricio Leiva Ubeda, Ingeniero Civil en Informática, Líder de Ingeniería y Project Manager de Data Observatory.",
-    "enlace": "https://g5noticias.cl/2026/05/14/ingenieria-el-lenguaje-detras-de-las-grandes-decisiones-por-mauricio-leiva-ubeda-ingeniero-civil-en-informatica-lider-de-ingenieria-y-project-manager-de-data-observatory/",
+    "titulo": "Corte de Temuco confirma condena a carabinero (r) por detención ilegal y apremios ilegítimos en Lautaro",
+    "enlace": "https://g5noticias.cl/2026/05/14/corte-de-temuco-confirma-condena-a-carabinero-r-por-detencion-ilegal-y-apremios-ilegitimos-en-lautaro/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de $23 mil millones entregará INDAP a familias y comunidades de agricultores indígenas este año",
-    "enlace": "https://g5noticias.cl/2026/05/14/mas-de-23-mil-millones-entregara-indap-a-familias-y-comunidades-de-agricultores-indigenas-este-ano/",
+    "titulo": "Corte de Arica ordena el reingreso en prisión preventiva de imputado por homicidio frustrado de carabinero",
+    "enlace": "https://g5noticias.cl/2026/05/14/corte-de-arica-ordena-el-reingreso-en-prision-preventiva-de-imputado-por-homicidio-frustrado-de-carabinero/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1818,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "22 comunidades escolares participaron en desfile por las Glorias Navales",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/22-comunidades-escolares-participaron-en-desfile-por-las-glorias-navales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "La maldita depre",
     "enlace": "https://laprensaaustral.cl/2026/05/14/la-maldita-depre/",
     "descripcion": "",
@@ -1892,15 +1901,6 @@
   {
     "titulo": "Recortes en salud llegan a hospitales: decreto 333 de Hacienda reduce en $1.036 millones presupuesto del Hospital Clínico",
     "enlace": "https://laprensaaustral.cl/2026/05/14/recortes-en-salud-llegan-a-hospitales-decreto-333-de-hacienda-reduce-en-1-036-millones-presupuesto-del-hospital-clinico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Concurso busca a los mejores guías de turismo  de Chile: postulaciones hasta el 8 de junio",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/concurso-busca-a-los-mejores-guias-de-turismo-de-chile-postulaciones-hasta-el-8-de-junio/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
