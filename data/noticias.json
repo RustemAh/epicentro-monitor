@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "CEMEVET y DISEP Coquimbo trabajan en conjunto en pro de los caninos y felinos de la comuna",
+    "enlace": "https://laserenaonline.cl/2026/05/14/cemevet-y-disep-coquimbo-trabajan-en-conjunto-en-pro-de-los-caninos-y-felinos-de-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Delegado Presidencial Regional Víctor Pino expone sobe el Robo de Cables ante la Cámara de Diputados",
+    "enlace": "https://laserenaonline.cl/2026/05/14/delegado-presidencial-regional-victor-pino-expone-sobe-el-robo-de-cables-ante-la-camara-de-diputados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Conmemoración del Día de la Madre reúne al sector Justicia junto a mujeres privadas de libertad",
     "enlace": "https://laserenaonline.cl/2026/05/14/conmemoracion-del-dia-de-la-madre-reune-al-sector-justicia-junto-a-mujeres-privadas-de-libertad/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Actualizan norma sísmica: Evitaría colapso de infraestructuras ante un megaterremoto",
     "enlace": "https://laserenaonline.cl/2026/05/13/actualizan-norma-sismica-evitaria-colapso-de-infraestructuras-ante-un-megaterremoto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Bisnieta de Gabriel Coll Dalmau destaca avances en recuperación del Parque",
-    "enlace": "https://laserenaonline.cl/2026/05/13/bisnieta-de-gabriel-coll-dalmau-destaca-avances-en-recuperacion-del-parque/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Seguridad ciudadana frustró extracción ilegal de machas en la Avenida del Mar",
-    "enlace": "https://laserenaonline.cl/2026/05/13/seguridad-ciudadana-frustro-extraccion-ilegal-de-machas-en-la-avenida-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,24 +900,6 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Club Illapel Básquetbol inicia formación de series menores femeninas en la comuna",
-    "enlace": "https://veetv.cl/basquetbol-femenino-illapel-series-menores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "IA: Una herramienta para restaurar y preservar nuestra MemorIA colectiva",
-    "enlace": "https://veetv.cl/ia-una-herramienta-para-restaurar-y-preservar-nuestra-memoria-colectiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
     "titulo": "Comunidad católica de Salamanca mantiene esperanza por regreso de “los franciscanos” tras histórica salida de la zona",
     "enlace": "https://www.elsalamanquino.cl/2026/05/13/comunidad-catolica-de-salamanca-mantiene-esperanza-por-regreso-de-los-franciscanos-tras-historica-salida-de-la-zona/",
     "descripcion": "",
@@ -1008,6 +990,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Director del Hospital de Los Vilos se pronuncia tras fallo judicial a favor de funcionaria",
+    "enlace": "https://www.davidnoticias.cl/director-del-hospital-de-los-vilos-se-pronuncia-tras-fallo-judicial-a-favor-de-funcionaria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Orgullo vileño en la élite mundial del cheerleading: Fernanda Herrera brilló con histórica plata en Estados Unidos",
     "enlace": "https://www.davidnoticias.cl/orgullo-vileno-en-la-elite-mundial-del-cheerleading-fernanda-herrera-brillo-con-historica-plata-en-estados-unidos/",
     "descripcion": "",
@@ -1082,15 +1073,6 @@
   {
     "titulo": "Más de 79 mil pensionados recibirán el Bono Invierno  en la región de Coquimbo",
     "enlace": "https://www.davidnoticias.cl/mas-de-79-mil-pensionados-recibiran-el-bono-invierno-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Nueva ley obligará a empresas a cambiar la forma en que manejan información personal",
-    "enlace": "https://www.davidnoticias.cl/nueva-ley-obligara-a-empresas-a-cambiar-la-forma-en-que-manejan-informacion-personal/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1260,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Avanza proyecto para la futura Unidad de Angiografía del Hospital Regional de Copiapó",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/14/avanza-proyecto-para-la-futura-unidad-de-angiografia-del-hospital-regional-de-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Kaiser llama al FA y PC a decidir si serán interlocutores válidos o “cabros de porquería” en el Senado",
     "enlace": "https://www.atacamanoticias.cl/2026/05/14/kaiser-llama-al-fa-y-pc-a-decidir-si-seran-interlocutores-validos-o-cabros-de-porqueria-en-el-senado/",
     "descripcion": "",
@@ -1352,15 +1343,6 @@
   {
     "titulo": "Codelco habría inflado producción en 2025 para cumplir metas y pagar bonos a ejecutivos y trabajadores",
     "enlace": "https://www.atacamanoticias.cl/2026/05/14/codelco-habria-inflado-produccion-en-2025-para-cumplir-metas-y-pagar-bonos-a-ejecutivos-y-trabajadores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Mónica Rincón sacó aplausos en redes tras responder a usuario que la trató de “tortillera”",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/14/monica-rincon-saco-aplausos-en-redes-tras-responder-a-usuario-que-la-trato-de-tortillera/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,8 +1620,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Equipos locales disputan partidos clave para seguir en carrera en la Liga Nacional 2 de básquetbol",
-    "enlace": "https://g5noticias.cl/2026/05/14/equipos-locales-disputan-partidos-clave-para-seguir-en-carrera-en-la-liga-nacional-2-de-basquetbol/",
+    "titulo": "Diputado Cuello acusa “recorte criminal” en salud y emplaza a parlamentarios que apoyan reforma tributaria del Gobierno",
+    "enlace": "https://g5noticias.cl/2026/05/14/diputado-cuello-acusa-recorte-criminal-en-salud-y-emplaza-a-parlamentarios-que-apoyan-reforma-tributaria-del-gobierno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1629,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Santiago confirma multa aplicada por la Inspección del Trabajo a corporación municipal",
-    "enlace": "https://g5noticias.cl/2026/05/14/corte-de-santiago-confirma-multa-aplicada-por-la-inspeccion-del-trabajo-a-corporacion-municipal/",
+    "titulo": "Alcaldesa de Qulipué anuncia sumario y medidas tras colapso en Cesfam: «Hubo una descoordinación administrativa»",
+    "enlace": "https://g5noticias.cl/2026/05/14/alcaldesa-de-qulipue-anuncia-sumario-y-medidas-tras-colapso-en-cesfam-hubo-una-descoordinacion-administrativa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Lo Espejo: Carabineros detiene a sujeto por tenencia ilegal de arma de fuego y amenazas en contexto de violencia intrafamiliar",
-    "enlace": "https://g5noticias.cl/2026/05/14/lo-espejo-carabineros-detiene-a-sujeto-por-tenencia-ilegal-de-arma-de-fuego-y-amenazas-en-contexto-de-violencia-intrafamiliar/",
+    "titulo": "Detienen a tres carabineros y al menos 15 civiles tras operativo contra organización criminal en Curanilahue",
+    "enlace": "https://g5noticias.cl/2026/05/14/detienen-a-tres-carabineros-y-al-menos-15-civiles-tras-operativo-contra-organizacion-criminal-en-curanilahue/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Unidos por el Handball: deporte e inclusión transforman el Centro Educativo Horizonte",
-    "enlace": "https://g5noticias.cl/2026/05/14/unidos-por-el-handball-deporte-e-inclusion-transforman-el-centro-educativo-horizonte/",
+    "titulo": "Contralora general alerta sobre ineficiencias en Plan de Emergencia Habitacional",
+    "enlace": "https://g5noticias.cl/2026/05/14/contralora-general-alerta-sobre-ineficiencias-en-plan-de-emergencia-habitacional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "TOP de Coyhaique condena a 13 años de presidio a autor de homicidio calificado en Lago Norte",
-    "enlace": "https://g5noticias.cl/2026/05/14/top-de-coyhaique-condena-a-13-anos-de-presidio-a-autor-de-homicidio-calificado-en-lago-norte/",
+    "titulo": "Comisión de Hacienda despachó reforma miscelánea para la reconstrucción",
+    "enlace": "https://g5noticias.cl/2026/05/14/comision-de-hacienda-despacho-reforma-miscelanea-para-la-reconstruccion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alcalde de Limache articula trabajo por la seguridad rural",
-    "enlace": "https://g5noticias.cl/2026/05/14/alcalde-de-limache-articula-trabajo-por-la-seguridad-rural/",
+    "titulo": "Presidente Kast y nueva ley de desalinización: «Costó dar este primer paso, esperamos que los próximos sean mucho más rápidos»",
+    "enlace": "https://g5noticias.cl/2026/05/14/presidente-kast-y-nueva-ley-de-desalinizacion-costo-dar-este-primer-paso-esperamos-que-los-proximos-sean-mucho-mas-rapidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sector exportador, autoridades y mundo logístico aúnan criterios para consolidar a Biobío como capital logística y volcar la mirada al sur del país",
-    "enlace": "https://g5noticias.cl/2026/05/14/sector-exportador-autoridades-y-mundo-logistico-aunan-criterios-para-consolidar-a-biobio-como-capital-logistica-y-volcar-la-mirada-al-sur-del-pais/",
+    "titulo": "Fiscalía de San Carlos obtiene prisión preventiva para conductor de auto robado que colisionó a patrulla municipal para evitar fiscalización",
+    "enlace": "https://g5noticias.cl/2026/05/14/fiscalia-de-san-carlos-obtiene-prision-preventiva-para-conductor-de-auto-robado-que-colisiono-a-patrulla-municipal-para-evitar-fiscalizacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hospital Regional de Talca destaca importancia del diagnóstico genético en enfermedades raras",
-    "enlace": "https://g5noticias.cl/2026/05/14/hospital-regional-de-talca-destaca-importancia-del-diagnostico-genetico-en-enfermedades-raras/",
+    "titulo": "Chimonos Chimonos llega al Centro de Extensión Duoc UC Sede Valparaíso con su “Amenaza Cordillerana”",
+    "enlace": "https://g5noticias.cl/2026/05/14/chimonos-chimonos-llega-al-centro-de-extension-duoc-uc-sede-valparaiso-con-su-amenaza-cordillerana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Temuco confirma condena a carabinero (r) por detención ilegal y apremios ilegítimos en Lautaro",
-    "enlace": "https://g5noticias.cl/2026/05/14/corte-de-temuco-confirma-condena-a-carabinero-r-por-detencion-ilegal-y-apremios-ilegitimos-en-lautaro/",
+    "titulo": "Museo y RedQ fortalecen el aprendizaje creativo y patrimonial en establecimientos municipales",
+    "enlace": "https://g5noticias.cl/2026/05/14/museo-y-redq-fortalecen-el-aprendizaje-creativo-y-patrimonial-en-establecimientos-municipales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Arica ordena el reingreso en prisión preventiva de imputado por homicidio frustrado de carabinero",
-    "enlace": "https://g5noticias.cl/2026/05/14/corte-de-arica-ordena-el-reingreso-en-prision-preventiva-de-imputado-por-homicidio-frustrado-de-carabinero/",
+    "titulo": "Mulet ingresa denuncia por eventual adulteración en cifras de producción de Codelco",
+    "enlace": "https://g5noticias.cl/2026/05/14/mulet-ingresa-denuncia-por-eventual-adulteracion-en-cifras-de-produccion-de-codelco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1800,33 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Subsecretaria de la Mujer encabezó encuentro con empresarias y emprendedoras de Magallanes",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/subsecretaria-de-la-mujer-encabezo-encuentro-con-empresarias-y-emprendedoras-de-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Tras más de 12 horas de debate, Comisión de Hacienda aprueba avance del plan de Reconstrucción",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/tras-mas-de-12-horas-de-debate-comision-de-hacienda-aprueba-avance-del-plan-de-reconstruccion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Chilenos reciben cinco años de cárcel en EE.UU. por millonario robo a vivienda",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/chilenos-reciben-cinco-anos-de-carcel-en-ee-uu-por-millonario-robo-a-vivienda/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "22 comunidades escolares participaron en desfile por las Glorias Navales",
     "enlace": "https://laprensaaustral.cl/2026/05/14/22-comunidades-escolares-participaron-en-desfile-por-las-glorias-navales/",
     "descripcion": "",
@@ -1874,33 +1883,6 @@
   {
     "titulo": "Detenido por el OS-7 era el destinatario de encomiendas con casi 2 kilos de marihuana",
     "enlace": "https://laprensaaustral.cl/2026/05/14/detenido-por-el-os-7-era-el-destinatario-de-encomiendas-con-casi-2-kilos-de-marihuana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Jardín “Papelucho” de Porvenir celebró  los 56 años de la Junji reafirmando su  historia pionera y su identidad cultural",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/jardin-papelucho-de-porvenir-celebro-los-56-anos-de-la-junji-reafirmando-su-historia-pionera-y-su-identidad-cultural/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Mop instruye sumarios por retrasos en puente Chabunco",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/mop-instruye-sumarios-por-retrasos-en-puente-chabunco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Recortes en salud llegan a hospitales: decreto 333 de Hacienda reduce en $1.036 millones presupuesto del Hospital Clínico",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/recortes-en-salud-llegan-a-hospitales-decreto-333-de-hacienda-reduce-en-1-036-millones-presupuesto-del-hospital-clinico/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
