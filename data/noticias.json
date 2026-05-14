@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "OS9 de Carabineros detuvo a sujeto involucrado en violento ataque ocurrido en Totoralillo",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/14/os9-de-carabineros-detuvo-a-sujeto-involucrado-en-violento-ataque-ocurrido-en-totoralillo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "CEMEVET y DISEP Coquimbo trabajan en conjunto en pro de los caninos y felinos de la comuna",
     "enlace": "https://www.elcoquimbano.cl/2026/05/14/cemevet-y-disep-coquimbo-trabajan-en-conjunto-en-pro-de-los-caninos-y-felinos-de-la-comuna/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Coquimbo despide a Rebeca Lira, histórica voz de la radio y el canto melódico porteño",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/11/coquimbo-despide-a-rebeca-lira-historica-voz-de-la-radio-y-el-canto-melodico-porteno/",
+    "titulo": "Simulacro regional puso a prueba planes de evacuación ante sismos y tsunamis en colegios y universidades",
+    "enlace": "https://www.elserenense.cl/comunales/2026/05/14/simulacro-regional-puso-a-prueba-planes-de-evacuacion-ante-sismos-y-tsunamis-en-colegios-y-universidades/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Filarmónica Antena hará historia como la primera orquesta sudamericana en presentarse en el Ópera House de Australia",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Más de 5 mil hogares de La Serena se beneficiarán con renovación de colectores de Aguas del Valle en Avenida Balmaceda",
-    "enlace": "https://www.elserenense.cl/comunales/2026/05/11/mas-de-5-mil-hogares-de-la-serena-se-beneficiaran-con-renovacion-de-colectores-de-aguas-del-valle-en-avenida-balmaceda/",
+    "titulo": "COANIQUEM firmó importante convenio con municipio de La Serena",
+    "enlace": "https://laserenaonline.cl/2026/05/14/coaniquem-firmo-importante-convenio-con-municipio-de-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Prevén precipitaciones nivales de baja intensidad en sectores cordilleranos de la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/05/14/preven-precipitaciones-nivales-de-baja-intensidad-en-sectores-cordilleranos-de-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Recuperan contenedor sustraído en Ovalle: se encontraba en una parcela de Tongoy",
     "enlace": "https://laserenaonline.cl/2026/05/14/recuperan-contenedor-sustraido-en-ovalle-se-encontraba-en-una-parcela-de-tongoy/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 14 de mayo para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/14/el-tiempo-hoy-14-de-mayo-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Actualizan norma sísmica: Evitaría colapso de infraestructuras ante un megaterremoto",
-    "enlace": "https://laserenaonline.cl/2026/05/13/actualizan-norma-sismica-evitaria-colapso-de-infraestructuras-ante-un-megaterremoto/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Refuerzan prevención sanitaria en centro de justicia juvenil con operativo de vacunación contra la influenza",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/14/refuerzan-prevencion-sanitaria-en-centro-de-justicia-juvenil-con-operativo-de-vacunacion-contra-la-influenza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Más de 158 mil estudiantes participaron en simulacro de sismo-tsunami para el sector educación de la Región de Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/14/mas-de-158-mil-estudiantes-participaron-en-simulacro-de-sismo-tsunami-para-el-sector-educacion-de-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Delegado Presidencial Regional Víctor Pino expone sobre el Robo de Cables ante la Cámara de Diputados",
     "enlace": "https://regiondecoquimbo.cl/2026/05/13/delegado-presidencial-regional-victor-pino-expone-sobe-el-robo-de-cables-ante-la-camara-de-diputados/",
     "descripcion": "",
@@ -425,24 +443,6 @@
   {
     "titulo": "Plan por Alerta Oncológica ha resuelto casi 2 mil casos en la región",
     "enlace": "https://regiondecoquimbo.cl/2026/05/12/plan-por-alerta-oncologica-ha-resuelto-casi-2-mil-casos-en-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Cerca de 300 funcionarios municipales de la Región de Coquimbo se capacitan para aplicación de la Ficha Básica de Emergencia",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/12/cerca-de-300-funcionarios-municipales-de-la-region-de-coquimbo-se-capacitan-para-aplicacion-de-la-ficha-basica-de-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Mujeres rurales de Coquimbo se capacitan en Taller de Crochet para emprender y crecer",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/12/mujeres-rurales-de-coquimbo-se-capacitan-en-taller-de-crochet-para-emprender-y-crecer/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -630,6 +630,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "En Combarbalá usuarios y usuarias de INDAP reciben en sus predios a dirigencia: Muestran su labor y los apoyos obtenidos",
+    "enlace": "https://www.elcombarbalino.cl/2026/05/14/en-combarbala-usuarios-y-usuarias-de-indap-reciben-en-sus-predios-a-dirigencia-muestran-su-labor-y-los-apoyos-obtenidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Combarbalá destinará más de $327 millones del royalty minero a obras comunitarias y proyectos urbanos",
     "enlace": "https://www.elcombarbalino.cl/2026/05/13/combarbala-destinara-mas-de-327-millones-del-royalty-minero-a-obras-comunitarias-y-proyectos-urbanos/",
     "descripcion": "",
@@ -704,15 +713,6 @@
   {
     "titulo": "Ex funcionaria demanda a la Municipalidad de Combarbalá por reconocimiento de relación laboral y despido indirecto",
     "enlace": "https://www.elcombarbalino.cl/2026/04/22/ex-funcionaria-demanda-a-la-municipalidad-de-combarbala-por-reconocimiento-de-relacion-laboral-y-despido-indirecto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Concejales de Combarbalá emiten declaración pública por entrega de ayuda a crianceros y exigen rectificación a alcaldesa",
-    "enlace": "https://www.elcombarbalino.cl/2026/04/21/concejales-de-combarbala-emiten-declaracion-publica-por-entrega-de-ayuda-a-crianceros-y-exigen-rectificacion-a-alcaldesa/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -900,6 +900,24 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Club Illapel Básquetbol inicia formación de series menores femeninas en la comuna",
+    "enlace": "https://veetv.cl/basquetbol-femenino-illapel-series-menores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "IA: Una herramienta para restaurar y preservar nuestra MemorIA colectiva",
+    "enlace": "https://veetv.cl/ia-una-herramienta-para-restaurar-y-preservar-nuestra-memoria-colectiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
     "titulo": "Comunidad católica de Salamanca mantiene esperanza por regreso de “los franciscanos” tras histórica salida de la zona",
     "enlace": "https://www.elsalamanquino.cl/2026/05/13/comunidad-catolica-de-salamanca-mantiene-esperanza-por-regreso-de-los-franciscanos-tras-historica-salida-de-la-zona/",
     "descripcion": "",
@@ -1080,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Bomberos controló emergencia eléctrica en sector Barrio Martínez de Andacollo",
+    "enlace": "https://www.elandacollino.cl/2026/05/14/bomberos-controlo-emergencia-electrica-en-sector-barrio-martinez-de-andacollo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Estudiantes del Colegio Parroquial de Andacollo participaron en jornada educativa con “El Bichólogo” Alfredo Ugarte",
     "enlace": "https://www.elandacollino.cl/2026/05/14/estudiantes-del-colegio-parroquial-de-andacollo-participaron-en-jornada-educativa-con-el-bichologo-alfredo-ugarte/",
     "descripcion": "",
@@ -1154,15 +1181,6 @@
   {
     "titulo": "Estudiantes de Andacollo participaron en Liga de Futbolito",
     "enlace": "https://www.elandacollino.cl/2026/05/08/estudiantes-de-andacollo-participaron-en-liga-de-futbolito/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Informan traslados de equipos por Ruta D-51 para este jueves hacia Andacollo",
-    "enlace": "https://www.elandacollino.cl/2026/05/07/informan-traslados-de-equipos-por-ruta-d-51-para-este-jueves-hacia-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1620,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Cuello acusa “recorte criminal” en salud y emplaza a parlamentarios que apoyan reforma tributaria del Gobierno",
-    "enlace": "https://g5noticias.cl/2026/05/14/diputado-cuello-acusa-recorte-criminal-en-salud-y-emplaza-a-parlamentarios-que-apoyan-reforma-tributaria-del-gobierno/",
+    "titulo": "Más de 150 artesanos del Maule participan en Iloca en el 14° Encuentro Regional de la disciplina",
+    "enlace": "https://g5noticias.cl/2026/05/14/mas-de-150-artesanos-del-maule-participan-en-iloca-en-el-14-encuentro-regional-de-la-disciplina/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1629,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alcaldesa de Qulipué anuncia sumario y medidas tras colapso en Cesfam: «Hubo una descoordinación administrativa»",
-    "enlace": "https://g5noticias.cl/2026/05/14/alcaldesa-de-qulipue-anuncia-sumario-y-medidas-tras-colapso-en-cesfam-hubo-una-descoordinacion-administrativa/",
+    "titulo": "Diputados de Comisión de Medio Ambiente advierten riesgos medioambientales en proyecto de reconstrucción del Gobierno",
+    "enlace": "https://g5noticias.cl/2026/05/14/diputados-de-comision-de-medio-ambiente-advierten-riesgos-medioambientales-en-proyecto-de-reconstruccion-del-gobierno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1638,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Detienen a tres carabineros y al menos 15 civiles tras operativo contra organización criminal en Curanilahue",
-    "enlace": "https://g5noticias.cl/2026/05/14/detienen-a-tres-carabineros-y-al-menos-15-civiles-tras-operativo-contra-organizacion-criminal-en-curanilahue/",
+    "titulo": "Aprueban construcción del nuevo Archivo Regional de Tarapacá",
+    "enlace": "https://g5noticias.cl/2026/05/14/aprueban-construccion-del-nuevo-archivo-regional-de-tarapaca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Contralora general alerta sobre ineficiencias en Plan de Emergencia Habitacional",
-    "enlace": "https://g5noticias.cl/2026/05/14/contralora-general-alerta-sobre-ineficiencias-en-plan-de-emergencia-habitacional/",
+    "titulo": "Seremi de Salud y alcalde de Quillota llaman a personas de 60 años y más a vacunarse contra la Influenza",
+    "enlace": "https://g5noticias.cl/2026/05/14/seremi-de-salud-y-alcalde-de-quillota-llaman-a-personas-de-60-anos-y-mas-a-vacunarse-contra-la-influenza/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comisión de Hacienda despachó reforma miscelánea para la reconstrucción",
-    "enlace": "https://g5noticias.cl/2026/05/14/comision-de-hacienda-despacho-reforma-miscelanea-para-la-reconstruccion/",
+    "titulo": "Villa Alemana celebrará el Día de la Mamá con gran Expo Familia en el Parque Municipal Carlos Longhi Ruiz",
+    "enlace": "https://g5noticias.cl/2026/05/14/villa-alemana-celebrara-el-dia-de-la-mama-con-gran-expo-familia-en-el-parque-municipal-carlos-longhi-ruiz/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presidente Kast y nueva ley de desalinización: «Costó dar este primer paso, esperamos que los próximos sean mucho más rápidos»",
-    "enlace": "https://g5noticias.cl/2026/05/14/presidente-kast-y-nueva-ley-de-desalinizacion-costo-dar-este-primer-paso-esperamos-que-los-proximos-sean-mucho-mas-rapidos/",
+    "titulo": "Buscan unificar protocolos para cumplir de manera oportuna la instalación de equipos para pacientes con electrodependencia",
+    "enlace": "https://g5noticias.cl/2026/05/14/buscan-unificar-protocolos-para-cumplir-de-manera-oportuna-la-instalacion-de-equipos-para-pacientes-con-electrodependencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía de San Carlos obtiene prisión preventiva para conductor de auto robado que colisionó a patrulla municipal para evitar fiscalización",
-    "enlace": "https://g5noticias.cl/2026/05/14/fiscalia-de-san-carlos-obtiene-prision-preventiva-para-conductor-de-auto-robado-que-colisiono-a-patrulla-municipal-para-evitar-fiscalizacion/",
+    "titulo": "Hospital Dr. Gustavo Fricke inaugura salas de duelo en el marco de la Ley Dominga",
+    "enlace": "https://g5noticias.cl/2026/05/14/hospital-dr-gustavo-fricke-inaugura-salas-de-duelo-en-el-marco-de-la-ley-dominga/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chimonos Chimonos llega al Centro de Extensión Duoc UC Sede Valparaíso con su “Amenaza Cordillerana”",
-    "enlace": "https://g5noticias.cl/2026/05/14/chimonos-chimonos-llega-al-centro-de-extension-duoc-uc-sede-valparaiso-con-su-amenaza-cordillerana/",
+    "titulo": "EFE y Carabineros de Chile mantienen operativos de seguridad en Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/05/14/efe-y-carabineros-de-chile-mantienen-operativos-de-seguridad-en-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Museo y RedQ fortalecen el aprendizaje creativo y patrimonial en establecimientos municipales",
-    "enlace": "https://g5noticias.cl/2026/05/14/museo-y-redq-fortalecen-el-aprendizaje-creativo-y-patrimonial-en-establecimientos-municipales/",
+    "titulo": "800 personas degustaron el “verdadero” completo más grande de Chile en San Bernardo",
+    "enlace": "https://g5noticias.cl/2026/05/14/800-personas-degustaron-el-verdadero-completo-mas-grande-de-chile-en-san-bernardo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Mulet ingresa denuncia por eventual adulteración en cifras de producción de Codelco",
-    "enlace": "https://g5noticias.cl/2026/05/14/mulet-ingresa-denuncia-por-eventual-adulteracion-en-cifras-de-produccion-de-codelco/",
+    "titulo": "Operación MOP invernal 2026 desplegará histórica inversión de más de $18 mil millones para enfrentar emergencias en Ñuble",
+    "enlace": "https://g5noticias.cl/2026/05/14/852472/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
