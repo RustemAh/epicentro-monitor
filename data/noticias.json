@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Gobierno reconoce a deportistas de la región que lograron medallas en torneos internacionales",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/14/gobierno-reconoce-a-deportistas-de-la-region-que-lograron-medallas-en-torneos-internacionales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Se inicia proceso de formalización sanitaria de nueva unidad de diálisis de Vicuña",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/14/se-inicia-proceso-de-formalizacion-sanitaria-de-nueva-unidad-de-dialisis-de-vicuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Refuerzan prevención sanitaria en centro de justicia juvenil con operativo de vacunación contra la influenza",
     "enlace": "https://regiondecoquimbo.cl/2026/05/14/refuerzan-prevencion-sanitaria-en-centro-de-justicia-juvenil-con-operativo-de-vacunacion-contra-la-influenza/",
     "descripcion": "",
@@ -425,24 +443,6 @@
   {
     "titulo": "Diputado Bernardo Salinas en sesión especial por seguridad: «No vemos una estrategia seria, sino improvisaciones»",
     "enlace": "https://regiondecoquimbo.cl/2026/05/13/diputado-bernardo-salinas-en-sesion-especial-por-seguridad-no-vemos-una-estrategia-seria-sino-improvisaciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "71% de avance presentan obras de pavimentación en rutas D-901 y D-937 de Canela",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/13/71-de-avance-presentan-obras-de-pavimentacion-en-rutas-d-901-y-d-937-de-canela/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Plan por Alerta Oncológica ha resuelto casi 2 mil casos en la región",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/12/plan-por-alerta-oncologica-ha-resuelto-casi-2-mil-casos-en-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Patrullaje mixto permitió recuperar vehículo robado hace cinco años en Andacollo",
+    "enlace": "https://www.elandacollino.cl/2026/05/14/patrullaje-mixto-permitio-recuperar-vehiculo-robado-hace-cinco-anos-en-andacollo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Bomberos controló emergencia eléctrica en sector Barrio Martínez de Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/05/14/bomberos-controlo-emergencia-electrica-en-sector-barrio-martinez-de-andacollo/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Liceo Bicentenario Pedro Regalado Videla de Andacollo celebró 71 años con reconocimientos y anuncio de millonaria inversión",
     "enlace": "https://www.elandacollino.cl/2026/05/08/liceo-bicentenario-pedro-regalado-videla-de-andacollo-celebro-71-anos-con-reconocimientos-y-anuncio-de-millonaria-inversion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Estudiantes de Andacollo participaron en Liga de Futbolito",
-    "enlace": "https://www.elandacollino.cl/2026/05/08/estudiantes-de-andacollo-participaron-en-liga-de-futbolito/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Senadora Cicardini: “Recorte de $1.400 millones a hospitales de Atacama no es metáfora, sino una crueldad del gobierno que empeorará la salud de la región”",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/14/senadora-cicardini-recorte-de-1-400-millones-a-hospitales-de-atacama-no-es-metafora-sino-una-crueldad-del-gobierno-que-empeorara-la-salud-de-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Avanza proyecto para la futura Unidad de Angiografía del Hospital Regional de Copiapó",
     "enlace": "https://www.atacamanoticias.cl/2026/05/14/avanza-proyecto-para-la-futura-unidad-de-angiografia-del-hospital-regional-de-copiapo/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Estudiantes de Electricidad del Liceo José Santos Ossa de Vallenar realizan trabajo colaborativo",
     "enlace": "https://www.atacamanoticias.cl/2026/05/14/estudiantes-de-electricidad-del-liceo-jose-santos-ossa-de-vallenar-realizan-trabajo-colaborativo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Codelco habría inflado producción en 2025 para cumplir metas y pagar bonos a ejecutivos y trabajadores",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/14/codelco-habria-inflado-produccion-en-2025-para-cumplir-metas-y-pagar-bonos-a-ejecutivos-y-trabajadores/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,6 +1638,69 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Diputado Omar Sabat (UDI) manifiesta su profunda preocupación por millonarios recortes en Salud y oficia al Ministerio: “Desde regiones no vamos a quedarnos callados mientras desde Santiago se toman decisiones que pueden terminar debilitando hospitales fundamentales para el sur de Chile”",
+    "enlace": "https://g5noticias.cl/2026/05/14/diputado-omar-sabat-udi-manifiesta-su-profunda-preocupacion-por-millonarios-recortes-en-salud-y-oficia-al-ministerio-desde-regiones-no-vamos-a-quedarnos-callados-mientras-desde-santiago-se/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Más de 100 agresiones a funcionarios registradas este 2026: Servicio de Salud Maule impulsa jornada regional de prevención",
+    "enlace": "https://g5noticias.cl/2026/05/14/mas-de-100-agresiones-a-funcionarios-registradas-este-2026-servicio-de-salud-maule-impulsa-jornada-regional-de-prevencion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fiscalía de Ñuble obtiene veredicto condenatorio para acusado por tráfico de drogas y delitos contemplados en la Ley de Armas en Ñiquén",
+    "enlace": "https://g5noticias.cl/2026/05/14/fiscalia-de-nuble-obtiene-veredicto-condenatorio-para-acusado-por-trafico-de-drogas-y-delitos-contemplados-en-la-ley-de-armas-en-niquen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Carabineros detiene a sujetos que robaron un vehículo de transporte de encomiendas en La Pintana",
+    "enlace": "https://g5noticias.cl/2026/05/14/carabineros-detiene-a-sujetos-que-robaron-un-vehiculo-de-transporte-de-encomiendas-en-la-pintana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cerca de mil brigadistas escolares juraron su compromiso con la seguridad vial",
+    "enlace": "https://g5noticias.cl/2026/05/14/cerca-de-mil-brigadistas-escolares-juraron-su-compromiso-con-la-seguridad-vial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Valparaíso avanza en la limpieza de sus espacios públicos: Barrio Puerto contará con equipos multipropósito de limpieza urbana",
+    "enlace": "https://g5noticias.cl/2026/05/14/valparaiso-avanza-en-la-limpieza-de-sus-espacios-publicos-barrio-puerto-contara-con-equipos-multiproposito-de-limpieza-urbana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "En respuesta al alza sostenida de la cremación en Chile: Inauguran el primer Centro Ceremonial con cinerario de la zona sur oriente de Santiago",
+    "enlace": "https://g5noticias.cl/2026/05/14/en-respuesta-al-alza-sostenida-de-la-cremacion-en-chile-inauguran-el-primer-centro-ceremonial-con-cinerario-de-la-zona-sur-oriente-de-santiago/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Más de 150 artesanos del Maule participan en Iloca en el 14° Encuentro Regional de la disciplina",
     "enlace": "https://g5noticias.cl/2026/05/14/mas-de-150-artesanos-del-maule-participan-en-iloca-en-el-14-encuentro-regional-de-la-disciplina/",
     "descripcion": "",
@@ -1658,69 +1721,6 @@
   {
     "titulo": "Aprueban construcción del nuevo Archivo Regional de Tarapacá",
     "enlace": "https://g5noticias.cl/2026/05/14/aprueban-construccion-del-nuevo-archivo-regional-de-tarapaca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Seremi de Salud y alcalde de Quillota llaman a personas de 60 años y más a vacunarse contra la Influenza",
-    "enlace": "https://g5noticias.cl/2026/05/14/seremi-de-salud-y-alcalde-de-quillota-llaman-a-personas-de-60-anos-y-mas-a-vacunarse-contra-la-influenza/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Villa Alemana celebrará el Día de la Mamá con gran Expo Familia en el Parque Municipal Carlos Longhi Ruiz",
-    "enlace": "https://g5noticias.cl/2026/05/14/villa-alemana-celebrara-el-dia-de-la-mama-con-gran-expo-familia-en-el-parque-municipal-carlos-longhi-ruiz/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Buscan unificar protocolos para cumplir de manera oportuna la instalación de equipos para pacientes con electrodependencia",
-    "enlace": "https://g5noticias.cl/2026/05/14/buscan-unificar-protocolos-para-cumplir-de-manera-oportuna-la-instalacion-de-equipos-para-pacientes-con-electrodependencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Hospital Dr. Gustavo Fricke inaugura salas de duelo en el marco de la Ley Dominga",
-    "enlace": "https://g5noticias.cl/2026/05/14/hospital-dr-gustavo-fricke-inaugura-salas-de-duelo-en-el-marco-de-la-ley-dominga/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "EFE y Carabineros de Chile mantienen operativos de seguridad en Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/05/14/efe-y-carabineros-de-chile-mantienen-operativos-de-seguridad-en-vina-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "800 personas degustaron el “verdadero” completo más grande de Chile en San Bernardo",
-    "enlace": "https://g5noticias.cl/2026/05/14/800-personas-degustaron-el-verdadero-completo-mas-grande-de-chile-en-san-bernardo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Operación MOP invernal 2026 desplegará histórica inversión de más de $18 mil millones para enfrentar emergencias en Ñuble",
-    "enlace": "https://g5noticias.cl/2026/05/14/852472/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,8 +1818,44 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Fenpruss Magallanes advierte impacto de recorte presupuestario en el Hospital Clínico",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/fenpruss-magallanes-advierte-impacto-de-recorte-presupuestario-en-el-hospital-clinico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Detenido por cultivo y tráfico de droga",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/detenido-por-cultivo-y-trafico-de-droga/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Subsecretaria de la Mujer encabezó encuentro con empresarias y emprendedoras de Magallanes",
     "enlace": "https://laprensaaustral.cl/2026/05/14/subsecretaria-de-la-mujer-encabezo-encuentro-con-empresarias-y-emprendedoras-de-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Concurso de pintura reunió a alumnos de la Escuela  18 de Septiembre y del Liceo Polivalente María Behety",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/concurso-de-pintura-reunio-a-alumnos-de-la-escuela-18-de-septiembre-y-del-liceo-polivalente-maria-behety/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Ampliación del Aeropuerto de Punta Arenas se posterga hasta 2041",
+    "enlace": "https://laprensaaustral.cl/2026/05/14/ampliacion-del-aeropuerto-de-punta-arenas-se-posterga-hasta-2041/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1865,42 +1901,6 @@
   {
     "titulo": "Recortes del presupuesto del Hospital Clínico",
     "enlace": "https://laprensaaustral.cl/2026/05/14/recortes-del-presupuesto-del-hospital-clinico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Escuela de Talentos inicia nuevo ciclo con 153 estudiantes",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/escuela-de-talentos-inicia-nuevo-ciclo-con-153-estudiantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Campaña busca prevenir intoxicaciones por monóxido de carbono: 10 personas fallecieron en 2025",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/campana-busca-prevenir-intoxicaciones-por-monoxido-de-carbono-10-personas-fallecieron-en-2025/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Disfraces, ingenio y color: la Escuela Bernardo O’Higgins  celebró su aniversario con creatividad sin límites",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/disfraces-ingenio-y-color-la-escuela-bernardo-ohiggins-celebro-su-aniversario-con-creatividad-sin-limites/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Detenido por el OS-7 era el destinatario de encomiendas con casi 2 kilos de marihuana",
-    "enlace": "https://laprensaaustral.cl/2026/05/14/detenido-por-el-os-7-era-el-destinatario-de-encomiendas-con-casi-2-kilos-de-marihuana/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
