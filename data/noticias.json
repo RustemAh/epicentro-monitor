@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "En el mes del mar : CEAZA informa a pescadores y acuicultores de Tongoy sobre pronósticos de El Niño",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/15/en-el-mes-del-mar-ceaza-informa-a-pescadores-y-acuicultores-de-tongoy-sobre-pronosticos-de-el-nino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Mozart, ópera y música contemporánea: Orquesta Filarmónica de Coquimbo ofrecerá dos conciertos gratuitos en Vicuña y Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/05/15/mozart-opera-y-musica-contemporanea-orquesta-filarmonica-de-coquimbo-ofrecera-dos-conciertos-gratuitos-en-vicuna-y-coquimbo/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Hospital de Coquimbo se vuelca a lo digital: consultas de telemedicina aumentaron en un 500% el último año",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/12/hospital-de-coquimbo-se-vuelca-a-lo-digital-consultas-de-telemedicina-aumentaron-en-un-500-el-ultimo-ano/",
+    "titulo": "Seguridad ciudadana de La Serena erradica asentamientos ilegales en el Parque Coll",
+    "enlace": "https://www.elserenense.cl/comunales/2026/05/15/seguridad-ciudadana-de-la-serena-erradica-asentamientos-ilegales-en-el-parque-colleguridad-ciudadana-erradica-asentamientos-ilegales-desde-el-parque-coll/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Simulacro regional puso a prueba planes de evacuación ante sismos y tsunamis en colegios y universidades",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Más de 79 mil pensionados recibirán el Bono Invierno en la región de Coquimbo",
-    "enlace": "https://www.elserenense.cl/regionales/2026/05/12/mas-de-79-mil-pensionados-recibiran-el-bono-invierno-en-la-region-de-coquimbo/",
+    "titulo": "Orquesta Filarmónica de Coquimbo ofrecerá dos conciertos gratuitos en Vicuña y Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/05/15/orquesta-filarmonica-de-coquimbo-ofrecera-dos-conciertos-gratuitos-en-vicuna-y-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Centro de carga de buses eléctricos en Ovalle presenta un 37% de avance",
+    "enlace": "https://laserenaonline.cl/2026/05/15/centro-de-carga-de-buses-electricos-en-ovalle-presenta-un-37-de-avance/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "COANIQUEM firmó importante convenio con municipio de La Serena",
     "enlace": "https://laserenaonline.cl/2026/05/14/coaniquem-firmo-importante-convenio-con-municipio-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Prevén precipitaciones nivales de baja intensidad en sectores cordilleranos de la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/14/preven-precipitaciones-nivales-de-baja-intensidad-en-sectores-cordilleranos-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "CEMEVET y DISEP Coquimbo trabajan en conjunto en pro de los caninos y felinos de la comuna",
-    "enlace": "https://laserenaonline.cl/2026/05/14/cemevet-y-disep-coquimbo-trabajan-en-conjunto-en-pro-de-los-caninos-y-felinos-de-la-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Monte Patria dio inicio a las conmemoraciones nacionales de las Glorias Navales con emotivo homenaje a Wenceslao Vargas en Rapel",
+    "enlace": "https://www.elmontepatrino.cl/2026/05/15/monte-patria-dio-inicio-a-las-conmemoraciones-nacionales-de-las-glorias-navales-con-emotivo-homenaje-a-wenceslao-vargas-en-rapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Recreo entretenido en Colegio Los Conquistadores acercó los servicios municipales a niños, niñas y adolescentes en Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/05/14/recreo-entretenido-en-colegio-los-conquistadores-acerco-los-servicios-municipales-a-ninos-ninas-y-adolescentes-en-monte-patria/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "Este lunes comienza a operar el nuevo CESFAM de Carén en la comuna de Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/04/30/este-lunes-comienza-a-operar-el-nuevo-cesfam-de-caren-en-la-comuna-de-monte-patria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Alcalde de Monte Patria hace recuento de su gestión 2025 destacando obras y alcances de “Fondo Royalty Minero",
-    "enlace": "https://www.elmontepatrino.cl/2026/04/29/alcalde-de-monte-patria-hace-recuento-de-su-gestion-2025-destacando-obras-y-alcances-de-fondo-royalty-minero/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Músicos de Illapel inician reactivación de su sindicato con miras a una organización provincial",
+    "enlace": "https://www.davidnoticias.cl/musicos-de-illapel-inician-reactivacion-de-su-sindicato-con-miras-a-una-organizacion-provincial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "FENPRUSS Los Vilos exige renuncia del director del hospital tras denunciar persecución laboral y vulneración de derechos",
     "enlace": "https://www.davidnoticias.cl/fenpruss-los-vilos-exige-renuncia-del-director-del-hospital-tras-denunciar-persecucion-laboral-y-vulneracion-de-derechos/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Línea 62 anuncia alza en tarifas de colectivos a partir del 8 de junio",
     "enlace": "https://www.davidnoticias.cl/linea-62-anuncia-alza-en-tarifas-de-colectivos-a-partir-del-8-de-junio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Científicos advierten que la sobrepoblación de erizos negros está devastando los fondos marinos en Chile",
-    "enlace": "https://www.davidnoticias.cl/cientificos-advierten-que-la-sobrepoblacion-de-erizos-negros-esta-devastando-los-fondos-marinos-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Exintendente Francisco Sánchez deberá cumplir pena efectiva: decretan prisión preventiva mientras sentencia queda ejecutoriada",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/15/exintendente-francisco-sanchez-debera-cumplir-pena-efectiva-decretan-prision-preventiva-mientras-sentencia-queda-ejecutoriada/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Carabineros crea Sección O.S.9 en Atacama para fortalecer investigación criminal",
     "enlace": "https://www.atacamanoticias.cl/2026/05/15/carabineros-crea-seccion-o-s-9-en-atacama-para-fortalecer-investigacion-criminal/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Steinert anuncia proyecto que aumenta sueldo de carabineros en “comunas de riesgo” y para aspirantes",
     "enlace": "https://www.atacamanoticias.cl/2026/05/15/steinert-anuncia-proyecto-que-aumenta-sueldo-de-carabineros-en-comunas-de-riesgo-y-para-aspirantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno desliza “auditoría externa” para Codelco en medio de polémica por producción “inflada”",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/15/gobierno-desliza-auditoria-externa-para-codelco-en-medio-de-polemica-por-produccion-inflada/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Memoria que previene: el costo de recortar donde más importa. Por Pamela Sandoval, Directora Ejecutiva Movidos X Chile",
-    "enlace": "https://g5noticias.cl/2026/05/15/memoria-que-previene-el-costo-de-recortar-donde-mas-importa-por-pamela-sandoval-directora-ejecutiva-movidos-x-chile/",
+    "titulo": "22 médicos becarios se incorporan a la red asistencial del Servicio de Salud Viña del Mar Quillota Petorca",
+    "enlace": "https://g5noticias.cl/2026/05/15/22-medicos-becarios-se-incorporan-a-la-red-asistencial-del-servicio-de-salud-vina-del-mar-quillota-petorca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Área de oftalmología tiene un rol protagónico en el operativo médico-dental «Rapa Nui 2026»",
-    "enlace": "https://g5noticias.cl/2026/05/15/area-de-oftalmologia-tiene-un-rol-protagonico-en-el-operativo-medico-dental-rapa-nui-2026/",
+    "titulo": "Convocatoria 2026 de Premios Regionales de Arte, Cultura y Patrimonio de la Región de Ñuble",
+    "enlace": "https://g5noticias.cl/2026/05/15/convocatoria-2026-de-premios-regionales-de-arte-cultura-y-patrimonio-de-la-region-de-nuble/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comunidad de Organizaciones Solidarias renueva parte de su directorio",
-    "enlace": "https://g5noticias.cl/2026/05/15/comunidad-de-organizaciones-solidarias-renueva-parte-de-su-directorio/",
+    "titulo": "Fiscalía de Ñuble obtiene 7 años de presidio contra conductor ebrio que causó la muerte de una persona y lesiones en otras tres en San Carlos",
+    "enlace": "https://g5noticias.cl/2026/05/15/fiscalia-de-nuble-obtiene-7-anos-de-presidio-contra-conductor-ebrio-que-causo-la-muerte-de-una-persona-y-lesiones-en-otras-tres-en-san-carlos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "USM y comunidad de Lomas Latorre avanzan en diseño participativo para enfrentar emergencias",
-    "enlace": "https://g5noticias.cl/2026/05/15/usm-y-comunidad-de-lomas-latorre-avanzan-en-diseno-participativo-para-enfrentar-emergencias/",
+    "titulo": "“Nos cansamos de aceptar mentiras”: diputado Venegas responde a Barchiesi por dichos sobre recortes en Salud",
+    "enlace": "https://g5noticias.cl/2026/05/15/nos-cansamos-de-aceptar-mentiras-diputado-venegas-responde-a-barchiesi-por-dichos-sobre-recortes-en-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La vejez invisible: campaña alerta sobre pobreza y soledad en Chile",
-    "enlace": "https://g5noticias.cl/2026/05/15/la-vejez-invisible-campana-alerta-sobre-pobreza-y-soledad-en-chile/",
+    "titulo": "Segundo TOP de Santiago condena a 7 años de presidio a autor de homicidio simple en Quilicura",
+    "enlace": "https://g5noticias.cl/2026/05/15/segundo-top-de-santiago-condena-a-7-anos-de-presidio-a-autor-de-homicidio-simple-en-quilicura/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comisión de Zonas Extremas analizará brecha de médicos especialistas en una próxima sesión",
-    "enlace": "https://g5noticias.cl/2026/05/15/comision-de-zonas-extremas-analizara-brecha-de-medicos-especialistas-en-una-proxima-sesion/",
+    "titulo": "Centro Comunitario Las Cañas celebra el Día de la Danza y abre convocatoria para la Escuela de Carnaval 2026",
+    "enlace": "https://g5noticias.cl/2026/05/15/centro-comunitario-las-canas-celebra-el-dia-de-la-danza-y-abre-convocatoria-para-la-escuela-de-carnaval-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senadora Cariola por recorte en Salud: “Esto va a afectar la atención y la eficiencia no se logra reduciendo el presupuesto”",
-    "enlace": "https://g5noticias.cl/2026/05/15/senadora-cariola-por-recorte-en-salud-esto-va-a-afectar-la-atencion-y-la-eficiencia-no-se-logra-reduciendo-el-presupuesto/",
+    "titulo": "Semana de la Educación Artística 2026 inicia seminario “Hilando Saberes” con experiencias de Chile y Latinoamérica",
+    "enlace": "https://g5noticias.cl/2026/05/15/semana-de-la-educacion-artistica-2026-inicia-seminario-hilando-saberes-con-experiencias-de-chile-y-latinoamerica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Team ParaChile transformó el centro de entrenamiento paralímpico",
-    "enlace": "https://g5noticias.cl/2026/05/15/team-parachile-transformo-el-centro-de-entrenamiento-paralimpico/",
+    "titulo": "Noveno Juzgado Civil de Santiago ordena al fisco indemnizar a víctima de trauma ocular severo",
+    "enlace": "https://g5noticias.cl/2026/05/15/noveno-juzgado-civil-de-santiago-ordena-al-fisco-indemnizar-a-victima-de-trauma-ocular-severo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La emoción de la Liga Femenina y toda la adrenalina del Copec RallyMobil se toman las pantallas de Mega",
-    "enlace": "https://g5noticias.cl/2026/05/15/la-emocion-de-la-liga-femenina-y-toda-la-adrenalina-del-copec-rallymobil-se-toman-las-pantallas-de-mega/",
+    "titulo": "Condenan a autores de dos secuestros con homicidio, con posterior descuartizamiento, ocurridos en 2023 en Pudahuel",
+    "enlace": "https://g5noticias.cl/2026/05/15/condenan-a-autores-de-dos-secuestros-con-homicidio-con-posterior-descuartizamiento-ocurridos-en-2023-en-pudahuel/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cuba entra en condición crítica tras acabarse los combustibles",
-    "enlace": "https://g5noticias.cl/2026/05/15/cuba-entra-en-condicion-critica-tras-acabarse-los-combustibles/",
+    "titulo": "Puchuncaví recupera histórico espacio cultural con la inauguración de nuevo anfiteatro",
+    "enlace": "https://g5noticias.cl/2026/05/15/puchuncavi-recupera-historico-espacio-cultural-con-la-inauguracion-de-nuevo-anfiteatro/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1818,24 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Nueva grúa horquilla fortalece operaciones en caleta Barranco Amarillo",
+    "enlace": "https://laprensaaustral.cl/2026/05/15/nueva-grua-horquilla-fortalece-operaciones-en-caleta-barranco-amarillo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Arte, emociones y creatividad marcaron la Semana de la Educación Artística en jardines Integra Magallanes",
+    "enlace": "https://laprensaaustral.cl/2026/05/15/arte-emociones-y-creatividad-marcaron-la-semana-de-la-educacion-artistica-en-jardines-integra-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Perú confirma segunda vuelta presidencial entre Keiko Fujimori y Roberto Sánchez",
     "enlace": "https://laprensaaustral.cl/2026/05/15/peru-confirma-segunda-vuelta-presidencial-entre-keiko-fujimori-y-roberto-sanchez/",
     "descripcion": "",
@@ -1883,24 +1901,6 @@
   {
     "titulo": "Cordenap ante Español  en el básquetbol federado",
     "enlace": "https://laprensaaustral.cl/2026/05/15/cordenap-ante-espanol-en-el-basquetbol-federado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Fiscalía investiga a la  Fundación Captain  Paul Watson por  daños tras embestida  a buque noruego en  aguas antárticas",
-    "enlace": "https://laprensaaustral.cl/2026/05/15/fiscalia-investiga-a-la-fundacion-captain-paul-watson-por-danos-tras-embestida-a-buque-noruego-en-aguas-antarticas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Tres carabineros integraban una  banda que disputaba territorios",
-    "enlace": "https://laprensaaustral.cl/2026/05/15/tres-carabineros-integraban-una-banda-que-disputaba-territorios/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
