@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Quilitapia marca el inicio de “Última Milla” que llevará internet de alta velocidad a 43 localidades rurales",
+    "enlace": "https://laserenaonline.cl/2026/05/15/quilitapia-marca-el-inicio-de-ultima-milla-que-llevara-internet-de-alta-velocidad-a-43-localidades-rurales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Barrio Inglés será epicentro de la música, la cultura y el pisco este fin de semana",
     "enlace": "https://laserenaonline.cl/2026/05/15/barrio-ingles-sera-epicentro-de-la-musica-la-cultura-y-el-pisco-este-fin-de-semana/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Se inicia proceso de formalización sanitaria de nueva unidad de diálisis de Vicuña",
     "enlace": "https://laserenaonline.cl/2026/05/15/se-inicia-proceso-de-formalizacion-sanitaria-de-nueva-unidad-de-dialisis-de-vicuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más de 158 mil estudiantes participaron en simulacro de sismo-tsunami para sector educación en la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/15/mas-de-158-mil-estudiantes-participaron-en-simulacro-de-sismo-tsunami-para-sector-educacion-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Se inicia estrategia de test rápido en universidades de la región",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/15/se-inicia-estrategia-de-test-rapido-en-universidades-de-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "MOP finaliza mejoramiento del camino en Ruta D-205",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/15/mop-finaliza-mejoramiento-del-camino-en-ruta-d-205/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Gobierno reconoce a deportistas de la región que lograron medallas en torneos internacionales",
     "enlace": "https://regiondecoquimbo.cl/2026/05/14/gobierno-reconoce-a-deportistas-de-la-region-que-lograron-medallas-en-torneos-internacionales/",
     "descripcion": "",
@@ -425,24 +443,6 @@
   {
     "titulo": "Conmemoración del Día de la Madre reúne al sector Justicia junto a mujeres privadas de libertad",
     "enlace": "https://regiondecoquimbo.cl/2026/05/13/conmemoracion-del-dia-de-la-madre-reune-al-sector-justicia-junto-a-mujeres-privadas-de-libertad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Fondo “Recuperando Chile” busca proyectos orientados a la superación de la pobreza",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/13/fondo-recuperando-chile-busca-proyectos-orientados-a-la-superacion-de-la-pobreza/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Diputado Bernardo Salinas en sesión especial por seguridad: «No vemos una estrategia seria, sino improvisaciones»",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/13/diputado-bernardo-salinas-en-sesion-especial-por-seguridad-no-vemos-una-estrategia-seria-sino-improvisaciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Club Illapel Básquetbol inicia formación de series menores femeninas en la comuna",
-    "enlace": "https://veetv.cl/basquetbol-femenino-illapel-series-menores/",
+    "titulo": "Inician habilitación de internet y telefonía en sectores rurales de Combarbalá",
+    "enlace": "https://veetv.cl/internet-rural-combarbala-fibra-optica/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "IA: Una herramienta para restaurar y preservar nuestra MemorIA colectiva",
-    "enlace": "https://veetv.cl/ia-una-herramienta-para-restaurar-y-preservar-nuestra-memoria-colectiva/",
+    "titulo": "Club Illapel Básquetbol inicia formación de series menores femeninas en la comuna",
+    "enlace": "https://veetv.cl/basquetbol-femenino-illapel-series-menores/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1638,6 +1638,15 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Diputada Bello responde a Barchesi: «Llamarle eficiencia al recorte en salud no lo hace menos injusto, lo hace más cínico»",
+    "enlace": "https://g5noticias.cl/2026/05/15/diputada-bello-responde-a-barchesi-llamarle-eficiencia-al-recorte-en-salud-no-lo-hace-menos-injusto-lo-hace-mas-cinico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "PDI detiene a autor de femicidio en Alto Hospicio",
     "enlace": "https://g5noticias.cl/2026/05/15/pdi-detiene-a-autor-de-femicidio-en-alto-hospicio/",
     "descripcion": "",
@@ -1712,15 +1721,6 @@
   {
     "titulo": "Ya es oficial: Keiko Fujimori y Roberto Sánchez pasan a la segunda vuelta en las elecciones en Perú",
     "enlace": "https://g5noticias.cl/2026/05/15/ya-es-oficial-keiko-fujimori-y-roberto-sanchez-pasan-a-la-segunda-vuelta-en-las-elecciones-en-peru/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tabilo está ya en semifinales del Challenger de Valencia: venció en tres sets al serbio Lajovic",
-    "enlace": "https://g5noticias.cl/2026/05/15/tabilo-esta-ya-en-semifinales-del-challenger-de-valencia-vencio-en-tres-sets-al-serbio-lajovic/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
