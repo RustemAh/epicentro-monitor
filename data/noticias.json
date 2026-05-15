@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Cabo segundo de Carabineros se suicida dentro de dependencias de Labocar en Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/15/cabo-segundo-de-carabineros-se-suicida-dentro-de-dependencias-de-labocar-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "En el mes del mar : CEAZA informa a pescadores y acuicultores de Tongoy sobre pronósticos de El Niño",
     "enlace": "https://www.elcoquimbano.cl/2026/05/15/en-el-mes-del-mar-ceaza-informa-a-pescadores-y-acuicultores-de-tongoy-sobre-pronosticos-de-el-nino/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Libro USerena rescata la memoria del barrio ferroviario Villa Covico de Coquimbo a través de la voz de sus habitantes",
     "enlace": "https://www.elcoquimbano.cl/2026/05/13/libro-userena-rescata-la-memoria-del-barrio-ferroviario-villa-covico-de-coquimbo-a-traves-de-la-voz-de-sus-habitantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Mujeres rurales de Coquimbo se capacitan en Taller de Crochet para emprender y crecer",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/13/mujeres-rurales-de-coquimbo-se-capacitan-en-taller-de-crochet-para-emprender-y-crecer/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Barrio Inglés será epicentro de la música, la cultura y el pisco este fin de semana",
+    "enlace": "https://laserenaonline.cl/2026/05/15/barrio-ingles-sera-epicentro-de-la-musica-la-cultura-y-el-pisco-este-fin-de-semana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Aprueban suplemento por $2.170 millones para la construcción del alcantarillado de El Arenal",
+    "enlace": "https://laserenaonline.cl/2026/05/15/aprueban-suplemento-por-2-170-millones-para-la-construccion-del-alcantarillado-de-el-arenal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Orquesta Filarmónica de Coquimbo ofrecerá dos conciertos gratuitos en Vicuña y Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/05/15/orquesta-filarmonica-de-coquimbo-ofrecera-dos-conciertos-gratuitos-en-vicuna-y-coquimbo/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Más de 158 mil estudiantes participaron en simulacro de sismo-tsunami para sector educación en la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/05/15/mas-de-158-mil-estudiantes-participaron-en-simulacro-de-sismo-tsunami-para-sector-educacion-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 15 de mayo para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/15/reporte-del-tiempo-hoy-15-de-mayo-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "COANIQUEM firmó importante convenio con municipio de La Serena",
-    "enlace": "https://laserenaonline.cl/2026/05/14/coaniquem-firmo-importante-convenio-con-municipio-de-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Core acuerda pedir cambios en la Dirección Regional de Salud tras retrasos e inadmisibilidad de proyectos hospitalarios",
+    "enlace": "https://www.davidnoticias.cl/core-acuerda-pedir-cambios-en-la-direccion-regional-de-salud-tras-retrasos-e-inadmisibilidad-de-proyectos-hospitalarios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Músicos de Illapel inician reactivación de su sindicato con miras a una organización provincial",
     "enlace": "https://www.davidnoticias.cl/musicos-de-illapel-inician-reactivacion-de-su-sindicato-con-miras-a-una-organizacion-provincial/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "ONU interviene por denuncias contra Aguas San Isidro y comunidades destacan precedente histórico para el derecho humano al agua en Chile",
     "enlace": "https://www.davidnoticias.cl/onu-interviene-por-denuncias-contra-aguas-san-isidro-y-comunidades-destacan-precedente-historico-para-el-derecho-humano-al-agua-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Línea 62 anuncia alza en tarifas de colectivos a partir del 8 de junio",
-    "enlace": "https://www.davidnoticias.cl/linea-62-anuncia-alza-en-tarifas-de-colectivos-a-partir-del-8-de-junio/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "“Queremos que sigan invirtiendo y más”: Kast celebra millonario proyecto minero de oro en Copiapó",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/15/queremos-que-sigan-invirtiendo-y-mas-kast-celebra-millonario-proyecto-minero-de-oro-en-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Exintendente Francisco Sánchez deberá cumplir pena efectiva: decretan prisión preventiva mientras sentencia queda ejecutoriada",
     "enlace": "https://www.atacamanoticias.cl/2026/05/15/exintendente-francisco-sanchez-debera-cumplir-pena-efectiva-decretan-prision-preventiva-mientras-sentencia-queda-ejecutoriada/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "La explosiva declaración de pareja de Vivanco en fiscalía: reconoció gestiones y US$15 mil de “regalo”",
     "enlace": "https://www.atacamanoticias.cl/2026/05/15/la-explosiva-declaracion-de-pareja-de-vivanco-en-fiscalia-reconocio-gestiones-y-us15-mil-de-regalo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Steinert anuncia proyecto que aumenta sueldo de carabineros en “comunas de riesgo” y para aspirantes",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/15/steinert-anuncia-proyecto-que-aumenta-sueldo-de-carabineros-en-comunas-de-riesgo-y-para-aspirantes/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "22 médicos becarios se incorporan a la red asistencial del Servicio de Salud Viña del Mar Quillota Petorca",
-    "enlace": "https://g5noticias.cl/2026/05/15/22-medicos-becarios-se-incorporan-a-la-red-asistencial-del-servicio-de-salud-vina-del-mar-quillota-petorca/",
+    "titulo": "PDI detiene a autor de femicidio en Alto Hospicio",
+    "enlace": "https://g5noticias.cl/2026/05/15/pdi-detiene-a-autor-de-femicidio-en-alto-hospicio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Convocatoria 2026 de Premios Regionales de Arte, Cultura y Patrimonio de la Región de Ñuble",
-    "enlace": "https://g5noticias.cl/2026/05/15/convocatoria-2026-de-premios-regionales-de-arte-cultura-y-patrimonio-de-la-region-de-nuble/",
+    "titulo": "San Antonio conmemoró el Día contra la Homofobia con una masiva jornada por la inclusión y los derechos",
+    "enlace": "https://g5noticias.cl/2026/05/15/san-antonio-conmemoro-el-dia-contra-la-homofobia-con-una-masiva-jornada-por-la-inclusion-y-los-derechos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía de Ñuble obtiene 7 años de presidio contra conductor ebrio que causó la muerte de una persona y lesiones en otras tres en San Carlos",
-    "enlace": "https://g5noticias.cl/2026/05/15/fiscalia-de-nuble-obtiene-7-anos-de-presidio-contra-conductor-ebrio-que-causo-la-muerte-de-una-persona-y-lesiones-en-otras-tres-en-san-carlos/",
+    "titulo": "Decretan prisión preventiva para chofer de locomoción colectiva acusado de apuñalar a estudiante en Concepción",
+    "enlace": "https://g5noticias.cl/2026/05/15/decretan-prision-preventiva-para-chofer-de-locomocion-colectiva-acusado-de-apunalar-a-estudiante-en-concepcion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "“Nos cansamos de aceptar mentiras”: diputado Venegas responde a Barchiesi por dichos sobre recortes en Salud",
-    "enlace": "https://g5noticias.cl/2026/05/15/nos-cansamos-de-aceptar-mentiras-diputado-venegas-responde-a-barchiesi-por-dichos-sobre-recortes-en-salud/",
+    "titulo": "Mes del Mar 2026: la “Gran Bandera del Bicentenario” se iza en el centro de la capital",
+    "enlace": "https://g5noticias.cl/2026/05/15/mes-del-mar-2026-la-gran-bandera-del-bicentenario-se-iza-en-el-centro-de-la-capital/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Segundo TOP de Santiago condena a 7 años de presidio a autor de homicidio simple en Quilicura",
-    "enlace": "https://g5noticias.cl/2026/05/15/segundo-top-de-santiago-condena-a-7-anos-de-presidio-a-autor-de-homicidio-simple-en-quilicura/",
+    "titulo": "Ministro Iván Poduje apoyará cartera de inversiones de pavimentación y vivienda en Quillota",
+    "enlace": "https://g5noticias.cl/2026/05/15/ministro-ivan-poduje-apoyara-cartera-de-inversiones-de-pavimentacion-y-vivienda-en-quillota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Centro Comunitario Las Cañas celebra el Día de la Danza y abre convocatoria para la Escuela de Carnaval 2026",
-    "enlace": "https://g5noticias.cl/2026/05/15/centro-comunitario-las-canas-celebra-el-dia-de-la-danza-y-abre-convocatoria-para-la-escuela-de-carnaval-2026/",
+    "titulo": "Delegación de Paraguay conoce experiencia de EcoMercados Solidarios de FOSIS en el Valle de Aconcagua",
+    "enlace": "https://g5noticias.cl/2026/05/15/delegacion-de-paraguay-conoce-experiencia-de-ecomercados-solidarios-de-fosis-en-el-valle-de-aconcagua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Semana de la Educación Artística 2026 inicia seminario “Hilando Saberes” con experiencias de Chile y Latinoamérica",
-    "enlace": "https://g5noticias.cl/2026/05/15/semana-de-la-educacion-artistica-2026-inicia-seminario-hilando-saberes-con-experiencias-de-chile-y-latinoamerica/",
+    "titulo": "TOP de Arica condena a 15 años de presidio a autora de homicidio en la vía pública",
+    "enlace": "https://g5noticias.cl/2026/05/15/top-de-arica-condena-a-15-anos-de-presidio-a-autora-de-homicidio-en-la-via-publica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Noveno Juzgado Civil de Santiago ordena al fisco indemnizar a víctima de trauma ocular severo",
-    "enlace": "https://g5noticias.cl/2026/05/15/noveno-juzgado-civil-de-santiago-ordena-al-fisco-indemnizar-a-victima-de-trauma-ocular-severo/",
+    "titulo": "Diputado Teao se reúne con fiscal nacional para fortalecer al Ministerio Público en Rapa Nui",
+    "enlace": "https://g5noticias.cl/2026/05/15/diputado-teao-se-reune-con-fiscal-nacional-para-fortalecer-al-ministerio-publico-en-rapa-nui/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Condenan a autores de dos secuestros con homicidio, con posterior descuartizamiento, ocurridos en 2023 en Pudahuel",
-    "enlace": "https://g5noticias.cl/2026/05/15/condenan-a-autores-de-dos-secuestros-con-homicidio-con-posterior-descuartizamiento-ocurridos-en-2023-en-pudahuel/",
+    "titulo": "Ya es oficial: Keiko Fujimori y Roberto Sánchez pasan a la segunda vuelta en las elecciones en Perú",
+    "enlace": "https://g5noticias.cl/2026/05/15/ya-es-oficial-keiko-fujimori-y-roberto-sanchez-pasan-a-la-segunda-vuelta-en-las-elecciones-en-peru/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Puchuncaví recupera histórico espacio cultural con la inauguración de nuevo anfiteatro",
-    "enlace": "https://g5noticias.cl/2026/05/15/puchuncavi-recupera-historico-espacio-cultural-con-la-inauguracion-de-nuevo-anfiteatro/",
+    "titulo": "Tabilo está ya en semifinales del Challenger de Valencia: venció en tres sets al serbio Lajovic",
+    "enlace": "https://g5noticias.cl/2026/05/15/tabilo-esta-ya-en-semifinales-del-challenger-de-valencia-vencio-en-tres-sets-al-serbio-lajovic/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
