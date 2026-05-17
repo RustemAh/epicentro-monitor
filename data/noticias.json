@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Familias de Brisas del Mar celebraron la entrega de sus nuevas casas en Tongoy",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/17/familias-de-brisas-del-mar-celebraron-la-entrega-de-sus-nuevas-casas-en-tongoy/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Copec dispone de recursos para desarrollar proyectos para organizaciones sociales de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/05/15/copec-dispone-de-recursos-para-desarrollar-proyectos-para-organizaciones-sociales-de-coquimbo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Chango Rock Fest celebrará su sexta edición con 17 bandas regionales en Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/05/13/chango-rock-fest-celebrara-su-sexta-edicion-con-17-bandas-regionales-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Polémica en Coquimbo: Concejal de Coquimbo acusa grave obstrucción a funciones municipales tras incidente en la Parte Alta",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/13/polemica-en-coquimbo-concejal-de-coquimbo-acusa-grave-obstruccion-a-funciones-municipales-tras-incidente-en-la-parte-alta/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Día Nacional del Pisco reunió a autoridades, productores y referentes gastronómicos de todo Chile",
+    "enlace": "https://laserenaonline.cl/2026/05/17/dia-nacional-del-pisco-reunio-a-autoridades-productores-y-referentes-gastronomicos-de-todo-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Exposición sobre abejas silvestres acercó la ciencia y naturaleza a la comunidad andacollina",
     "enlace": "https://laserenaonline.cl/2026/05/17/exposicion-sobre-abejas-silvestres-acerco-la-ciencia-y-naturaleza-a-la-comunidad-andacollina/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Coquimbo estrena sala de educación ambiental en El Culebrón: “Los residuos se convierten en recursos”",
     "enlace": "https://laserenaonline.cl/2026/05/16/coquimbo-estrena-sala-de-educacion-ambiental-en-el-culebron-los-residuos-se-convierten-en-recursos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena se integra a la primera Red Chilena de Hubs Municipales",
-    "enlace": "https://laserenaonline.cl/2026/05/16/la-serena-se-integra-a-la-primera-red-chilena-de-hubs-municipales/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Tradición y patrimonio: Comunidad de Pejerreyes en Monte Patria celebra nueva jornada del “Día del Criancero”",
+    "enlace": "https://www.elmontepatrino.cl/2026/05/17/tradicion-y-patrimonio-comunidad-de-pejerreyes-en-monte-patria-celebra-nueva-jornada-del-dia-del-criancero/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Monte Patria dio inicio a las conmemoraciones nacionales de las Glorias Navales con emotivo homenaje a Wenceslao Vargas en Rapel",
     "enlace": "https://www.elmontepatrino.cl/2026/05/15/monte-patria-dio-inicio-a-las-conmemoraciones-nacionales-de-las-glorias-navales-con-emotivo-homenaje-a-wenceslao-vargas-en-rapel/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "Se esperan temperaturas sobre los 30 grados en valles interiores de la Región de Coquimbo para este sábado 2 de mayo",
     "enlace": "https://www.elmontepatrino.cl/2026/04/30/se-esperan-temperaturas-sobre-los-30-grados-en-valles-interiores-de-la-region-de-coquimbo-para-este-sabado-2-de-mayo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Este lunes comienza a operar el nuevo CESFAM de Carén en la comuna de Monte Patria",
-    "enlace": "https://www.elmontepatrino.cl/2026/04/30/este-lunes-comienza-a-operar-el-nuevo-cesfam-de-caren-en-la-comuna-de-monte-patria/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -898,6 +898,24 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Inician habilitación de internet y telefonía en sectores rurales de Combarbalá",
+    "enlace": "https://veetv.cl/internet-rural-combarbala-fibra-optica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Club Illapel Básquetbol inicia formación de series menores femeninas en la comuna",
+    "enlace": "https://veetv.cl/basquetbol-femenino-illapel-series-menores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Comunidad católica de Salamanca mantiene esperanza por regreso de “los franciscanos” tras histórica salida de la zona",
@@ -1620,6 +1638,42 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Carlos Cabezas presenta versión de «No estás» en vivo junto a La Banda del Dolor y prepara show en Teatro CA660",
+    "enlace": "https://g5noticias.cl/2026/05/17/carlos-cabezas-presenta-version-de-no-estas-en-vivo-junto-a-la-banda-del-dolor-y-prepara-show-en-teatro-ca660/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Salesforce reúne en Chile a empresas de todos los tamaños e industrias para dar el salto hacia la era agéntica",
+    "enlace": "https://g5noticias.cl/2026/05/17/salesforce-reune-en-chile-a-empresas-de-todos-los-tamanos-e-industrias-para-dar-el-salto-hacia-la-era-agentica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Día Mundial de la Hipertensión: llaman a fortalecer hábitos saludables para prevenir enfermedades cardiovasculares",
+    "enlace": "https://g5noticias.cl/2026/05/17/dia-mundial-de-la-hipertension-llaman-a-fortalecer-habitos-saludables-para-prevenir-enfermedades-cardiovasculares/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cuidar mejor: el valor de llegar antes. Por Karen Valenzuela, Gerente de Recursos Humanos de Essity Chile",
+    "enlace": "https://g5noticias.cl/2026/05/17/cuidar-mejor-el-valor-de-llegar-antes-por-karen-valenzuela-gerente-de-recursos-humanos-de-essity-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "El legado de Internet: seguridad, inclusión y el compromiso con una sociedad más conectada. Por Leandro Gómez, CEO LEG Technologies",
     "enlace": "https://g5noticias.cl/2026/05/17/el-legado-de-internet-seguridad-inclusion-y-el-compromiso-con-una-sociedad-mas-conectada-por-leandro-gomez-ceo-leg-technologies/",
     "descripcion": "",
@@ -1667,42 +1721,6 @@
   {
     "titulo": "8 de cada 10 consumidores priorizan un consumo sostenible, según estudio de Mondelēz International",
     "enlace": "https://g5noticias.cl/2026/05/17/8-de-cada-10-consumidores-priorizan-un-consumo-sostenible-segun-estudio-de-mondelez-international/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Día del Internet: No todo es “nube”. Por Francisco Silva, Country Manager Chile – Perú de Kingston Technology",
-    "enlace": "https://g5noticias.cl/2026/05/17/dia-del-internet-no-todo-es-nube-por-francisco-silva-country-manager-chile-peru-de-kingston-technology/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Resiliencia de las redes digitales: El desafío de las telecomunicaciones",
-    "enlace": "https://g5noticias.cl/2026/05/17/resiliencia-de-las-redes-digitales-el-desafio-de-las-telecomunicaciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Día Mundial del Reciclaje: Ball sigue comprometida con la gestión responsable del aluminio",
-    "enlace": "https://g5noticias.cl/2026/05/17/dia-mundial-del-reciclaje-ball-sigue-comprometida-con-la-gestion-responsable-del-aluminio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "La silenciosa batalla de la depresión juvenil: Cuando el tratamiento estándar no basta y la neuromodulación cerebral abre una nueva puerta de esperanza",
-    "enlace": "https://g5noticias.cl/2026/05/17/la-silenciosa-batalla-de-la-depresion-juvenil-cuando-el-tratamiento-estandar-no-basta-y-la-neuromodulacion-cerebral-abre-una-nueva-puerta-de-esperanza-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
