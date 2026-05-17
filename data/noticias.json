@@ -270,6 +270,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Ciencia, tecnología y territorio:UCN será sede de encuentro sobre diversificación acuícola",
+    "enlace": "https://serenaycoquimbo.cl/ciencia-tecnologia-y-territorioucn-sera-sede-de-encuentro-sobre-diversificacion-acuicola/?utm_source=rss&utm_medium=rss&utm_campaign=ciencia-tecnologia-y-territorioucn-sera-sede-de-encuentro-sobre-diversificacion-acuicola",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Tradición y patrimonio: comunidad de Pejerreyes celebra nueva jornada del “Día del Criancero”",
+    "enlace": "https://serenaycoquimbo.cl/tradicion-y-patrimonio-comunidad-de-pejerreyes-celebra-nueva-jornada-del-dia-del-criancero/?utm_source=rss&utm_medium=rss&utm_campaign=tradicion-y-patrimonio-comunidad-de-pejerreyes-celebra-nueva-jornada-del-dia-del-criancero",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Dirigente de La Higuera es reconocido a nivel nacional por su emprendimiento de reciclaje y valorización de residuos",
+    "enlace": "https://serenaycoquimbo.cl/dirigente-de-la-higuera-es-reconocido-a-nivel-nacional-por-su-emprendimiento-de-reciclaje-y-valorizacion-de-residuos/?utm_source=rss&utm_medium=rss&utm_campaign=dirigente-de-la-higuera-es-reconocido-a-nivel-nacional-por-su-emprendimiento-de-reciclaje-y-valorizacion-de-residuos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "La Serena. Temblor ocurrió a las 23:23 horas de hoy viernes",
     "enlace": "https://serenaycoquimbo.cl/la-serena-temblor-ocurrio-a-las-2323-horas-de-hoy-viernes/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-temblor-ocurrio-a-las-2323-horas-de-hoy-viernes",
     "descripcion": "",
@@ -326,33 +353,6 @@
   {
     "titulo": "La Serena. Hombre joven cae desde 3 metros de altura y queda con lesiones en el cráneo",
     "enlace": "https://serenaycoquimbo.cl/la-serena-hombre-joven-cae-desde-3-metros-de-altura-y-queda-con-lesiones-en-el-craneo/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-hombre-joven-cae-desde-3-metros-de-altura-y-queda-con-lesiones-en-el-craneo",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "La Serena. Adulto mayor fue hallado sin vida al interior de domicilio",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-adulto-mayor-fue-hallado-sin-vida-al-interior-de-domicilio/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-adulto-mayor-fue-hallado-sin-vida-al-interior-de-domicilio",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "La Serena. 6 unidades de bomberos combatieron incendio forestal",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-6-unidades-de-bomberos-combatieron-incendio-forestal/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-6-unidades-de-bomberos-combatieron-incendio-forestal",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Región Coquimbo. Hoy sábado. Vehículo cae a barranco. 1 lesionado",
-    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-hoy-sabado-vehiculo-cae-a-barranco-1-lesionado/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-hoy-sabado-vehiculo-cae-a-barranco-1-lesionado",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Sismo de menor intensidad en la Región de Coquimbo",
+    "enlace": "https://www.davidnoticias.cl/sismo-de-menor-intensidad-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "CONFUSAM convoca a movilización nacional en defensa de la Atención Primaria de Salud ante recorte presupuestario",
     "enlace": "https://www.davidnoticias.cl/confusam-convoca-a-movilizacion-nacional-en-defensa-de-la-atencion-primaria-de-salud-ante-recorte-presupuestario/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Justicia obliga al Hospital de Los Vilos a reincorporar a funcionaria removida de jefatura",
     "enlace": "https://www.davidnoticias.cl/justicia-obliga-al-hospital-de-los-vilos-a-reincorporar-a-funcionaria-removida-de-jefatura/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Alerta por impacto ambiental: aprueban millonaria prospección minera de Barrick Gold en nacientes del Río Turbio",
-    "enlace": "https://www.davidnoticias.cl/alerta-por-impacto-ambiental-aprueban-millonaria-prospeccion-minera-de-barrick-gold-en-nacientes-del-rio-turbio/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1638,8 +1638,26 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Resaltan efectos de la contaminación acústica y del ambiente en la salud mental",
+    "enlace": "https://g5noticias.cl/2026/05/16/resaltan-efectos-de-la-contaminacion-acustica-y-del-ambiente-en-la-salud-mental/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Galería La Caracola ULagos inauguró dos exposiciones sobre la memoria y la crítica social",
     "enlace": "https://g5noticias.cl/2026/05/16/galeria-la-caracola-ulagos-inauguro-dos-exposiciones-sobre-la-memoria-y-la-critica-social/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Deportes Limache cayó ante la UC en Quillota y cedió terreno en la disputa por el liderato, mientras los cruzados quedan terceros",
+    "enlace": "https://g5noticias.cl/2026/05/16/deportes-limache-cayo-ante-la-uc-en-quillota-y-cedio-terreno-en-la-disputa-por-el-liderato-mientras-los-cruzados-quedan-terceros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,6 +1692,15 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Santiago Wanderers derrotó como visitante a Curicó Unido y trepó al segundo lugar de la tabla de Ascenso",
+    "enlace": "https://g5noticias.cl/2026/05/16/santiago-wanderers-derroto-como-visitante-a-curico-unido-y-trepo-al-segundo-lugar-de-la-tabla-de-ascenso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Bancada Basura Cero se relanza en el Congreso con apoyo transversal de diputados y diputadas para enfrentar crisis de residuos",
     "enlace": "https://g5noticias.cl/2026/05/16/bancada-basura-cero-se-relanza-en-el-congreso-con-apoyo-transversal-de-diputados-y-diputadas-para-enfrentar-crisis-de-residuos/",
     "descripcion": "",
@@ -1692,35 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Clemente Huerta lucho por estar en el podio pero no pudo alcanzar su objetivo",
-    "enlace": "https://g5noticias.cl/2026/05/16/clemente-huerta-lucho-por-estar-en-el-podio-pero-no-pudo-alcanzar-su-objetivo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Incognito Chat de Meta: Check Point advierte que la privacidad sin trazabilidad abre vacíos regulatorios críticos",
-    "enlace": "https://g5noticias.cl/2026/05/16/incognito-chat-de-meta-check-point-advierte-que-la-privacidad-sin-trazabilidad-abre-vacios-regulatorios-criticos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Acalis, en alianza con Universidad Los Andes, inicia programa Cuidar + Cerca dirigido a equipos de asistencia de la residencia",
-    "enlace": "https://g5noticias.cl/2026/05/16/acalis-en-alianza-con-universidad-los-andes-inicia-programa-cuidar-cerca-dirigido-a-equipos-de-asistencia-de-la-residencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Corporación MATER cumple 30 años con el desafío de sacar 1.000 niños cada año de la lista de espera",
-    "enlace": "https://g5noticias.cl/2026/05/16/corporacion-mater-cumple-30-anos-con-el-desafio-de-sacar-1-000-ninos-cada-ano-de-la-lista-de-espera-2/",
+    "titulo": "IA y salud mental: los peligros de que ChatGPT sea mi psicólogo. Por Nicolás Núñez, Psicólogo, Magíster en Neurociencia y Docente en UNAB.",
+    "enlace": "https://g5noticias.cl/2026/05/16/ia-y-salud-mental-los-peligros-de-que-chatgpt-sea-mi-psicologo-por-nicolas-nunez-psicologo-magister-en-neurociencia-y-docente-en-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Más de 120 mujeres inician su participación en el Programa Mujeres Jefas de Hogar",
+    "enlace": "https://elmagallanico.com/2026/05/17/mas-de-120-mujeres-inician-su-participacion-en-el-programa-mujeres-jefas-de-hogar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Taller Gastronómico: “Del Seno Skyring al Plato” reunió a vecinos de Río Verde",
     "enlace": "https://elmagallanico.com/2026/05/16/taller-gastronomico-del-seno-skyring-al-plato-reunio-a-vecinos-de-rio-verde/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Aguas Magallanes lanza campaña de invierno y llama al cuidado de instalaciones domiciliarias",
     "enlace": "https://elmagallanico.com/2026/05/13/aguas-magallanes-lanza-campana-de-invierno-y-llama-al-cuidado-de-instalaciones-domiciliarias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Vivir en el Estrecho: ¿Un privilegio o una multa de residencia?",
-    "enlace": "https://elmagallanico.com/2026/05/12/vivir-en-el-estrecho-un-privilegio-o-una-multa-de-residencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
