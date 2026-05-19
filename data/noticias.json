@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Liga Nacional de Hockey en línea se disputará en el Parque Pedro de Valdivia de La Serena",
+    "enlace": "https://www.elserenense.cl/deportes/2026/05/19/liga-nacional-de-hockey-en-linea-se-disputara-en-el-parque-pedro-de-valdivia-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Más de 80 voces dieron vida al primer ensayo del nuevo Coro Comunitario APAC en La Serena",
     "enlace": "https://www.elserenense.cl/tendencias/2026/05/19/mas-de-80-voces-dieron-vida-al-primer-ensayo-del-nuevo-coro-comunitario-apac-en-la-serena/",
     "descripcion": "",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Con emotiva ceremonia bendicen nueva capilla de la Virgen de Andacollo en La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/05/14/con-emotiva-ceremonia-bendicen-nueva-capilla-de-la-virgen-de-andacollo-en-la-serena/",
+    "titulo": "Trabajo colaborativo entre comunidad y Los Pelambres permite sumar nuevos espacios deportivos en Illapel y Salamanca",
+    "enlace": "https://laserenaonline.cl/2026/05/19/trabajo-colaborativo-entre-comunidad-y-los-pelambres-permite-sumar-nuevos-espacios-deportivos-en-illapel-y-salamanca/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Nueva sentencia respalda obligatoriedad de las vacunas del PNI",
+    "enlace": "https://laserenaonline.cl/2026/05/19/nueva-sentencia-respalda-obligatoriedad-de-las-vacunas-del-pni/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Delegado Presidencial Víctor Pino invita a acceder al beneficio de Cupón de Gas",
     "enlace": "https://laserenaonline.cl/2026/05/19/delegado-presidencial-victor-pino-invita-a-acceder-al-beneficio-de-cupon-de-gas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Seguridad municipal de La Serena recupera dos vehículos con encargo por robo",
-    "enlace": "https://laserenaonline.cl/2026/05/19/seguridad-municipal-de-la-serena-recupera-dos-vehiculos-con-encargo-por-robo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 19 de mayo para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/19/el-tiempo-hoy-19-de-mayo-para-la-region-de-coquimbo-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,7 +450,7 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Ovalle conmemorará a las Glorias Navales con un emotivo acto y Desfile de Honor",
+    "titulo": "Ovalle conmemorará las Glorias Navales con un emotivo acto y Desfile de Honor",
     "enlace": "https://ovallehoy.cl/ovalle-conmemorara-a-las-glorias-navales-con-un-emotivo-acto-y-desfile-de-honor/",
     "descripcion": "",
     "publicado": "",
@@ -900,22 +900,13 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Guerra del Pacífico: Solicitan declarar Hija Ilustre de Illapel a María Quiteria Ramírez Reyes y levantar un busto en su honor",
-    "enlace": "https://veetv.cl/maria-quiteria-illapel-hija-ilustre/",
+    "titulo": "Trabajo colaborativo entre comunidad y Los Pelambres permite sumar nuevos espacios deportivos en Salamanca",
+    "enlace": "https://www.elsalamanquino.cl/2026/05/19/trabajo-colaborativo-entre-comunidad-y-los-pelambres-permite-sumar-nuevos-espacios-deportivos-en-salamanca/",
     "descripcion": "",
     "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "Inician habilitación de internet y telefonía en sectores rurales de Combarbalá",
-    "enlace": "https://veetv.cl/internet-rural-combarbala-fibra-optica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
     "titulo": "Buscan recoger experiencias de personas migrantes para fortalecer atención en salud en Salamanca",
@@ -999,13 +990,13 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Mujeres de Salamanca destacan el impacto del Programa 4 a 7 en su autonomía económica",
-    "enlace": "https://www.elsalamanquino.cl/2026/04/29/mujeres-de-salamanca-destacan-el-impacto-del-programa-4-a-7-en-su-autonomia-economica/",
+    "titulo": "Vecinos de Illapel proponen declarar Hija Ilustre y levantar un busto en honor a combatiente de la Guerra del Pacifico",
+    "enlace": "https://www.davidnoticias.cl/vecinos-de-illapel-proponen-declarar-hija-ilustre-y-levantar-un-busto-en-honor-a-combatiente-de-la-guerra-del-pacifico/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Un Gobierno que se excusa en el pasado",
@@ -1082,15 +1073,6 @@
   {
     "titulo": "CONFUSAM convoca a movilización nacional en defensa de la Atención Primaria de Salud ante recorte presupuestario",
     "enlace": "https://www.davidnoticias.cl/confusam-convoca-a-movilizacion-nacional-en-defensa-de-la-atencion-primaria-de-salud-ante-recorte-presupuestario/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Alcalde de Los Vilos retira solicitud para suspender arraigo nacional en audiencia judicial",
-    "enlace": "https://www.davidnoticias.cl/alcalde-de-los-vilos-retira-solicitud-para-suspender-arraigo-nacional-en-audiencia-judicial/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1638,8 +1620,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hospital Biprovincial Quillota Petorca avanza hacia la consolidación del Parto Respetado",
-    "enlace": "https://g5noticias.cl/2026/05/19/hospital-biprovincial-quillota-petorca-avanza-hacia-la-consolidacion-del-parto-respetado/",
+    "titulo": "Hasta $6.000 de descuento en cilindros de 15 kilos: Los Héroes lanza beneficio en gas para afiliados pensionados",
+    "enlace": "https://g5noticias.cl/2026/05/19/hasta-6-000-de-descuento-en-cilindros-de-15-kilos-los-heroes-lanza-beneficio-en-gas-para-afiliados-pensionados/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1629,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Nathalie Castillo arremete contra megareforma tributaria: “Beneficia a los grandes poderes económicos y debilita al Estado”",
-    "enlace": "https://g5noticias.cl/2026/05/19/diputada-nathalie-castillo-arremete-contra-megareforma-tributaria-beneficia-a-los-grandes-poderes-economicos-y-debilita-al-estado/",
+    "titulo": "Cambios a normativa urbana: ¿Dinamización necesaria o riesgo de desorden? Por Cristián Martínez, fundador de Crece Inmobiliario",
+    "enlace": "https://g5noticias.cl/2026/05/19/cambios-a-normativa-urbana-dinamizacion-necesaria-o-riesgo-de-desorden-por-cristian-martinez-fundador-de-crece-inmobiliario/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Artistas y gestores culturales del Biobío profundizaron en mediación para las artes escénicas",
-    "enlace": "https://g5noticias.cl/2026/05/19/artistas-y-gestores-culturales-del-biobio-profundizaron-en-mediacion-para-las-artes-escenicas/",
+    "titulo": "Teatro Centenario de La Serena presenta una intensa semana de música y teatro en vivo",
+    "enlace": "https://g5noticias.cl/2026/05/19/teatro-centenario-de-la-serena-presenta-una-intensa-semana-de-musica-y-teatro-en-vivo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputados Coca Ñanco y Jaime Bassa ofician a Cancillería por chilenos secuestrados en flotilla humanitaria hacia Gaza",
-    "enlace": "https://g5noticias.cl/2026/05/19/diputados-coca-nanco-y-jaime-bassa-ofician-a-cancilleria-por-chilenos-secuestrados-en-flotilla-humanitaria-hacia-gaza/",
+    "titulo": "Corte Suprema fija en dos años la suspensión de licencia de condenado por manejo en estado de ebriedad",
+    "enlace": "https://g5noticias.cl/2026/05/19/corte-suprema-fija-en-dos-anos-la-suspension-de-licencia-de-condenado-por-manejo-en-estado-de-ebriedad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "MOP y Municipio de Chillán Viejo coordinan proyectos clave para la comuna",
-    "enlace": "https://g5noticias.cl/2026/05/19/mop-y-municipio-de-chillan-viejo-coordinan-proyectos-clave-para-la-comuna/",
+    "titulo": "Corte Suprema confirma fallo que acogió demanda de interés colectivo contra empresas eléctricas",
+    "enlace": "https://g5noticias.cl/2026/05/19/corte-suprema-confirma-fallo-que-acogio-demanda-de-interes-colectivo-contra-empresas-electricas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los Tres comienza este fin de semana sus esperados conciertos por el lanzamiento de su álbum XCLNT",
-    "enlace": "https://g5noticias.cl/2026/05/19/los-tres-comienza-este-fin-de-semana-sus-esperados-conciertos-por-el-lanzamiento-de-su-album-xclnt/",
+    "titulo": "Juzgado de Garantía de Los Ángeles ordena la prisión preventiva de imputado por homicidio calificado",
+    "enlace": "https://g5noticias.cl/2026/05/19/juzgado-de-garantia-de-los-angeles-ordena-la-prision-preventiva-de-imputado-por-homicidio-calificado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Permisología le costó a Chile casi US$3 mil millones y mantiene en espera más de 40 mil empleos",
-    "enlace": "https://g5noticias.cl/2026/05/19/permisologia-le-costo-a-chile-casi-us3-mil-millones-y-mantiene-en-espera-mas-de-40-mil-empleos/",
+    "titulo": "Mundial 2026: chilenos eligen a Portugal y Cristiano Ronaldo como sus favoritos y ven a Argentina como posible decepción",
+    "enlace": "https://g5noticias.cl/2026/05/19/mundial-2026-chilenos-eligen-a-portugal-y-cristiano-ronaldo-como-sus-favoritos-y-ven-a-argentina-como-posible-decepcion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputadas PDG de la Macrozona Sur valoran detención de Jorge Huenchullán en Temucuicui y piden plan integral de seguridad",
-    "enlace": "https://g5noticias.cl/2026/05/19/diputadas-pdg-de-la-macrozona-sur-valoran-detencion-de-jorge-huenchullan-en-temucuicui-y-piden-plan-integral-de-seguridad/",
+    "titulo": "Colegio de Profesores expone a Slep Santiago Centro, problemáticas como: contratos hasta junio, retraso en titularidad docente y recorte en infraestructura, entre otros",
+    "enlace": "https://g5noticias.cl/2026/05/19/colegio-de-profesores-expone-a-slep-santiago-centro-problematicas-como-contratos-hasta-junio-retraso-en-titularidad-docente-y-recorte-en-infraestructura-entre-otros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Convierte el feriado del 21 de mayo en una miniescapada de hasta cinco días",
-    "enlace": "https://g5noticias.cl/2026/05/19/convierte-el-feriado-del-21-de-mayo-en-una-miniescapada-de-hasta-cinco-dias/",
+    "titulo": "Senador Ossandón hace efectiva la querella por injurias: “No paro hasta limpiar mi honra”",
+    "enlace": "https://g5noticias.cl/2026/05/19/senador-ossandon-hace-efectiva-la-querella-por-injurias-no-paro-hasta-limpiar-mi-honra/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Frente Amplio presenta proyecto de ley para que cada ministro de Hacienda informe presencialmente en el Congreso Nacional las modificaciones presupuestarias aplicadas",
-    "enlace": "https://g5noticias.cl/2026/05/19/frente-amplio-presenta-proyecto-de-ley-para-que-cada-ministro-de-hacienda-informe-presencialmente-en-el-congreso-nacional-las-modificaciones-presupuestarias-aplicadas/",
+    "titulo": "Seremi del Medio Ambiente hace positivo balance de la implementación de la Ley de Reciclaje en la región",
+    "enlace": "https://g5noticias.cl/2026/05/19/seremi-del-medio-ambiente-hace-positivo-balance-de-la-implementacion-de-la-ley-de-reciclaje-en-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1800,24 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Vecinos de loteo valles Los Sauces I y II recibieron sus viviendas",
+    "enlace": "https://laprensaaustral.cl/2026/05/19/vecinos-de-loteo-valles-los-sauces-i-y-ii-recibieron-sus-viviendas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Muerte en Zona Franca: PDI investiga fallas mecánicas y local comercial asegura que trabajador “no mantiene vínculo laboral”",
+    "enlace": "https://laprensaaustral.cl/2026/05/19/muerte-en-zona-franca-pdi-investiga-fallas-mecanicas-y-local-comercial-asegura-que-trabajador-no-mantiene-vinculo-laboral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Israel detiene a activistas de flotilla humanitaria que buscaba llegar a Gaza",
     "enlace": "https://laprensaaustral.cl/2026/05/19/israel-detiene-a-activistas-de-flotilla-humanitaria-que-buscaba-llegar-a-gaza/",
     "descripcion": "",
@@ -1890,22 +1890,13 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Exito de participantes y público coronó  primer torneo de tenis de mesa fueguino",
-    "enlace": "https://laprensaaustral.cl/2026/05/19/exito-de-participantes-y-publico-corono-primer-torneo-de-tenis-de-mesa-fueguino/",
+    "titulo": "Tabsa y Municipio de Cabo de Hornos se reúnen para presentar proyectos de conectividad",
+    "enlace": "https://elmagallanico.com/2026/05/19/tabsa-y-municipio-de-cabo-de-hornos-se-reunen-para-presentar-proyectos-de-conectividad/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Futbolista fueguino jugará  con selección juvenil en Italia",
-    "enlace": "https://laprensaaustral.cl/2026/05/19/futbolista-fueguino-jugara-con-seleccion-juvenil-en-italia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
     "titulo": "70 personas mayores de Natales se integraron al programa Vínculos",
@@ -1982,15 +1973,6 @@
   {
     "titulo": "Últimos días para postular a los Fondos Concursables Enap Impulsa 2026",
     "enlace": "https://elmagallanico.com/2026/05/16/68823/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Dos detenidos por homicidio de adulto mayor quedan en prisión preventiva",
-    "enlace": "https://elmagallanico.com/2026/05/16/dos-detenidos-por-homicidio-de-adulto-mayor-quedan-en-prision-preventiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
