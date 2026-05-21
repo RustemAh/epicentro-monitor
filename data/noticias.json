@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Autoridades realizan operativo en La Serena para facilitar activación del Cupón de Gas",
+    "enlace": "https://laserenaonline.cl/2026/05/21/autoridades-realizan-operativo-en-la-serena-para-facilitar-activacion-del-cupon-de-gas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Coquimbo impulsa innovador proyecto biotecnológico basado en larvas de mosca soldado negro",
+    "enlace": "https://laserenaonline.cl/2026/05/21/coquimbo-impulsa-innovador-proyecto-biotecnologico-basado-en-larvas-de-mosca-soldado-negro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Destacan avances y desafíos de la transición energética frente al Cambio Climático",
     "enlace": "https://laserenaonline.cl/2026/05/21/destacan-avances-y-desafios-de-la-transicion-energetica-frente-al-cambio-climatico/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "CGE realizó simulacro ante emergencias junto a autoridades de la región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/05/21/cge-realizo-simulacro-ante-emergencias-junto-a-autoridades-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "En menos de una hora, Carabineros de Tierras Blancas recupera dos vehículos robados",
-    "enlace": "https://laserenaonline.cl/2026/05/21/en-menos-de-una-hora-carabineros-de-tierras-blancas-recupera-dos-vehiculos-robados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 21 de mayo para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/21/el-tiempo-hoy-21-de-mayo-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1638,6 +1638,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "¿El futuro de la democracia? Peter Thiel y la Ilustración oscura. Por Fabián Pérez Académico Departamento de Humanidades Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/05/21/el-futuro-de-la-democracia-peter-thiel-y-la-ilustracion-oscura-por-fabian-perez-academico-departamento-de-humanidades-universidad-andres-bello/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con foco en sostenibilidad y economía circular se celebrará el Summit de Innovación 2026 en Envases",
+    "enlace": "https://g5noticias.cl/2026/05/21/con-foco-en-sostenibilidad-y-economia-circular-se-celebrara-el-summit-de-innovacion-2026-en-envases/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "El quirófano vacío, trabajar bien no siempre protege. Por Isabel Margarita Correa Núñez, académica de la Escuela de Psicología de Universidad Santo Tomás Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/05/21/el-quirofano-vacio-trabajar-bien-no-siempre-protege-por-isabel-margarita-correa-nunez-academica-de-la-escuela-de-psicologia-de-universidad-santo-tomas-vina-del-mar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Vergüenza y miedo a equivocarse: las principales barreras de los chilenos para aprender inglés",
+    "enlace": "https://g5noticias.cl/2026/05/21/verguenza-y-miedo-a-equivocarse-las-principales-barreras-de-los-chilenos-para-aprender-ingles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Chile se posiciona 47° en el Índice de Inmigración 2026 a nivel mundial",
+    "enlace": "https://g5noticias.cl/2026/05/21/chile-se-posiciona-47-en-el-indice-de-inmigracion-2026-a-nivel-mundial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Salas deterioradas: ¿Cómo aprende un niño en un lugar donde no quiere estar? Por Dr. Jaime Fauré, académico de Psicopedagogía de la Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/05/21/salas-deterioradas-como-aprende-un-nino-en-un-lugar-donde-no-quiere-estar-por-dr-jaime-faure-academico-de-psicopedagogia-de-la-universidad-andres-bello/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Apocalyptica confirma regreso a Chile para octubre próximo",
     "enlace": "https://g5noticias.cl/2026/05/21/apocalyptica-confirma-regreso-a-chile-para-octubre-proximo/",
     "descripcion": "",
@@ -1674,58 +1728,94 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "ProChile lanza en Quillota estudio clave para impulsar el tomate fresco de la Región de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/05/21/prochile-lanza-en-quillota-estudio-clave-para-impulsar-el-tomate-fresco-de-la-region-de-valparaiso/",
+    "titulo": "UdeC se coronó campeón a estadio lleno en la final de la Copa Chile CHERY by Cecinas Llanquihue 2026",
+    "enlace": "https://araucovision.cl/udec-se-corono-campeon-a-estadio-lleno-en-la-final-de-la-copa-chile-chery-by-cecinas-llanquihue-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "PUCV innova en postgrado con aula tecnológica que conecta estudiantes dentro y fuera de la región",
-    "enlace": "https://g5noticias.cl/2026/05/21/pucv-innova-en-postgrado-con-aula-tecnologica-que-conecta-estudiantes-dentro-y-fuera-de-la-region/",
+    "titulo": "Naval sumó un valioso empate en Santiago y sigue firme en la parte alta de la Tercera División A.",
+    "enlace": "https://araucovision.cl/naval-sumo-un-valioso-empate-en-santiago-y-sigue-firme-en-la-parte-alta-de-la-tercera-division-a/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Invierno sin sobresaltos: 5 claves para cuidar la salud después de los 40 y evitar complicaciones respiratorias",
-    "enlace": "https://g5noticias.cl/2026/05/21/invierno-sin-sobresaltos-5-claves-para-cuidar-la-salud-despues-de-los-40-y-evitar-complicaciones-respiratorias/",
+    "titulo": "Nuevo Cesfam de Carampangue sería entregado en octubre",
+    "enlace": "https://araucovision.cl/nuevo-cesfam-de-carampangue-seria-entregado-en-octubre/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Magallanes da un paso histórico en salud: UMAG inicia formación de especialistas médicos en la zona austral",
-    "enlace": "https://g5noticias.cl/2026/05/21/magallanes-da-un-paso-historico-en-salud-umag-inicia-formacion-de-especialistas-medicos-en-la-zona-austral/",
+    "titulo": "Seminario abordará la intermodalidad  como clave para la  competitividad logística en Chile",
+    "enlace": "https://araucovision.cl/seminario-abordara-la-intermodalidad-como-clave-para-la-competitividad-logistica-en-chile/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Sercotec invita a postular a programa que potencia los gremios regionales",
-    "enlace": "https://g5noticias.cl/2026/05/21/sercotec-invita-a-postular-a-programa-que-potencia-los-gremios-regionales/",
+    "titulo": "Exitosa jornada de capacitación en lactancia materna en Lebu",
+    "enlace": "https://araucovision.cl/exitosa-jornada-de-capacitacion-en-lactancia-materna-en-lebu/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Falleció Ronald Bown, quien fue presidente de Asoex por más de tres décadas",
-    "enlace": "https://g5noticias.cl/2026/05/21/fallecio-ronald-bown-quien-fue-presidente-de-asoex-por-mas-de-tres-decadas/",
+    "titulo": "Luis Geraldo Barra lució en Mendoza y puso a Arauco en el podio",
+    "enlace": "https://araucovision.cl/luis-geraldo-barra-lucio-en-mendoza-y-puso-a-arauco-en-el-podio/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Pintor araucano debuta en San Francisco Art Fair una de las ferias de arte contemporáneo más importantes de Estados Unidos",
+    "enlace": "https://araucovision.cl/pintor-araucano-debuta-en-san-francisco-art-fair-una-de-las-ferias-de-arte-contemporaneo-mas-importantes-de-estados-unidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Katteyes estrena “Ponte Ponte”: El último adelanto de su primer disco",
+    "enlace": "https://araucovision.cl/katteyes-estrena-ponte-ponte-el-ultimo-adelanto-de-su-primer-disco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Campaña de prevención de cortes “Empecemos por casa” llega al Biobío para fortalecer la seguridad del suministro eléctrico en invierno",
+    "enlace": "https://araucovision.cl/campana-de-prevencion-de-cortes-empecemos-por-casa-llega-al-biobio-para-fortalecer-la-seguridad-del-suministro-electrico-en-invierno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Provincia de Arauco se despidió en semifinales de la Copa de Campeones ANFA Biobío",
+    "enlace": "https://araucovision.cl/provincia-de-arauco-se-despidio-en-semifinales-de-la-copa-de-campeones-anfa-biobio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
     "titulo": "Parte campeonato laboral de vóleibol senior",
