@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "De la nave de Prat al actual buque escuela: la evolución de la Esmeralda en tamaño, tecnología y velocidad",
+    "enlace": "https://laserenaonline.cl/2026/05/22/de-la-nave-de-prat-al-actual-buque-escuela-la-evolucion-de-la-esmeralda-en-tamano-tecnologia-y-velocidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Arranca la competencia universitaria: LDES 2026 en el voleibol se jugó la primera fecha",
+    "enlace": "https://laserenaonline.cl/2026/05/22/arranca-la-competencia-universitaria-ldes-2026-en-el-voleibol-se-jugo-la-primera-fecha/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Aguas del Valle presenta proyecto de reúso de agua a consejeros regionales",
     "enlace": "https://laserenaonline.cl/2026/05/22/aguas-del-valle-presenta-proyecto-de-reuso-de-agua-a-consejeros-regionales/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Aprueban modificación ambiental del parque fotovoltaico Las Terrazas en Ovalle",
     "enlace": "https://laserenaonline.cl/2026/05/22/aprueban-modificacion-ambiental-del-parque-fotovoltaico-las-terrazas-en-ovalle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Mesa GORE – Educación Superior pone a la salud mental como prioridad de su gestión 2026",
-    "enlace": "https://laserenaonline.cl/2026/05/22/mesa-gore-educacion-superior-pone-a-la-salud-mental-como-prioridad-de-su-gestion-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Invitan a disfrutar con actividades educativas este fin de semana en el cerro Grande",
-    "enlace": "https://laserenaonline.cl/2026/05/22/invitan-a-disfrutar-con-actividades-educativas-este-fin-de-semana-en-el-cerro-grande/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Corte Internacional de Justicia respalda derecho a huelga y zanja histórica disputa laboral",
+    "enlace": "https://www.davidnoticias.cl/corte-internacional-de-justicia-respalda-derecho-a-huelga-y-zanja-historica-disputa-laboral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Denuncian presuntas irregularidades y hostigamiento en obra sanitaria de Los Vilos: recurso judicial apunta contra funcionarios municipales",
     "enlace": "https://www.davidnoticias.cl/denuncian-presuntas-irregularidades-y-hostigamiento-en-obra-sanitaria-de-los-vilos-recurso-judicial-apunta-contra-funcionarios-municipales/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Kast saca a Trinidad Steinert y Mara Sedini en sorpresivo cambio de gabinete a solo dos meses de gobierno",
     "enlace": "https://www.davidnoticias.cl/kast-saca-a-trinidad-steinert-y-mara-sedini-en-sorpresivo-cambio-de-gabinete-a-solo-dos-meses-de-gobierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Vecinos de Illapel proponen declarar Hija Ilustre y levantar un busto en honor a combatiente de la Guerra del Pacifico",
-    "enlace": "https://www.davidnoticias.cl/vecinos-de-illapel-proponen-declarar-hija-ilustre-y-levantar-un-busto-en-honor-a-combatiente-de-la-guerra-del-pacifico/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "[VIDEO] Vallenar: Bomberos rescata a perro atrapado en talud de la ruta C-527",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/22/video-vallenar-bomberos-rescata-a-perro-atrapado-en-talud-de-la-ruta-c-527/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Urcullú (REP) denuncia irregularidades en CFT Atacama: “La región fue ’conejillo de indias’ del SLEP”",
     "enlace": "https://www.atacamanoticias.cl/2026/05/21/urcullu-rep-denuncia-irregularidades-en-cft-atacama-la-region-fue-conejillo-de-indias-del-slep/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Servicio de protección y UDA unen capacidades para especializar a más de 500 profesionales de la red en la región",
     "enlace": "https://www.atacamanoticias.cl/2026/05/20/servicio-de-proteccion-y-uda-unen-capacidades-para-especializar-a-mas-de-500-profesionales-de-la-red-en-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Realizan Conversatorio sobre Aulas Emocionalmente Seguras en Escuela República de los Estados Unidos de Vallenar",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/20/realizan-conversatorio-sobre-aulas-emocionalmente-seguras-en-escuela-republica-de-los-estados-unidos-de-vallenar/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
