@@ -270,6 +270,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Nacional. Esta tarde. Mujer muere y sus 2 hijas quedan graves. Sobre su auto cayó carga que se desprendió de camión",
+    "enlace": "https://serenaycoquimbo.cl/nacional-esta-tarde-mujer-muere-y-sus-2-hijas-quedan-graves-sobre-su-auto-cayo-carga-que-se-desprendio-de-camion/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-tarde-mujer-muere-y-sus-2-hijas-quedan-graves-sobre-su-auto-cayo-carga-que-se-desprendio-de-camion",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Coquimbo. Esta noche, vehículo cae a un costado de la ruta, cerca de Morrillos",
+    "enlace": "https://serenaycoquimbo.cl/coquimbo-esta-noche-vehiculo-cae-a-un-costado-de-la-ruta-cerca-de-morrillos/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-esta-noche-vehiculo-cae-a-un-costado-de-la-ruta-cerca-de-morrillos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "CMP y Carabineros refuerzan campaña de seguridad ferroviaria ante fin de semana largo",
+    "enlace": "https://serenaycoquimbo.cl/cmp-y-carabineros-refuerzan-campana-de-seguridad-ferroviaria-ante-fin-de-semana-largo/?utm_source=rss&utm_medium=rss&utm_campaign=cmp-y-carabineros-refuerzan-campana-de-seguridad-ferroviaria-ante-fin-de-semana-largo",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "El Casco Histórico de La Serena se transforma en el epicentro de la «Experiencia del Pisco 2026»",
     "enlace": "https://serenaycoquimbo.cl/el-casco-historico-de-la-serena-se-transforma-en-el-epicentro-de-la-experiencia-del-pisco-2026/?utm_source=rss&utm_medium=rss&utm_campaign=el-casco-historico-de-la-serena-se-transforma-en-el-epicentro-de-la-experiencia-del-pisco-2026",
     "descripcion": "",
@@ -326,33 +353,6 @@
   {
     "titulo": "Carabineros intensifica despliegues especializados en Coquimbo: se decomisó droga, armas y hubo quince detenidos",
     "enlace": "https://serenaycoquimbo.cl/carabineros-intensifica-despliegues-especializados-en-coquimbo-se-decomiso-droga-armas-y-hubo-quince-detenidos/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-intensifica-despliegues-especializados-en-coquimbo-se-decomiso-droga-armas-y-hubo-quince-detenidos",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Carabineros frustra venta de droga en pleno centro de La Serena",
-    "enlace": "https://serenaycoquimbo.cl/carabineros-frustra-venta-de-droga-en-pleno-centro-de-la-serena/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-frustra-venta-de-droga-en-pleno-centro-de-la-serena",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Un aporte al empleo femenino: Sercotec lanza Capital Abeja Emprende 2026",
-    "enlace": "https://serenaycoquimbo.cl/un-aporte-al-empleo-femenino-sercotec-lanza-capital-abeja-emprende-2026/?utm_source=rss&utm_medium=rss&utm_campaign=un-aporte-al-empleo-femenino-sercotec-lanza-capital-abeja-emprende-2026",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Diputado Salinas: “La caída de la ministra demuestra el fracaso del plan de seguridad de Kast”",
-    "enlace": "https://serenaycoquimbo.cl/diputado-salinas-la-caida-de-la-ministra-demuestra-el-fracaso-del-plan-de-seguridad-de-kast/?utm_source=rss&utm_medium=rss&utm_campaign=diputado-salinas-la-caida-de-la-ministra-demuestra-el-fracaso-del-plan-de-seguridad-de-kast",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Fiscalía reformulará investigación por atropello que dejó una víctima fatal en Salamanca",
-    "enlace": "https://veetv.cl/atropello-fatal-salamanca-investigacion/",
+    "titulo": "Ajuste presupuestario en salud genera preocupación por impacto en la red del Choapa",
+    "enlace": "https://veetv.cl/recorte-salud-choapa-impacto/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Guerra del Pacífico: Solicitan declarar Hija Ilustre de Illapel a María Quiteria Ramírez Reyes y levantar un busto en su honor",
-    "enlace": "https://veetv.cl/maria-quiteria-illapel-hija-ilustre/",
+    "titulo": "Fiscalía reformulará investigación por atropello que dejó una víctima fatal en Salamanca",
+    "enlace": "https://veetv.cl/atropello-fatal-salamanca-investigacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chile como “refugio verde” global: Por qué los ojos de la inversión extranjera están puestos en el modelo de conservación chileno",
-    "enlace": "https://g5noticias.cl/2026/05/21/chile-como-refugio-verde-global-por-que-los-ojos-de-la-inversion-extranjera-estan-puestos-en-el-modelo-de-conservacion-chileno/",
+    "titulo": "¿Es Chile un país marítimo?, Por Carlos Mondaca, periodista",
+    "enlace": "https://g5noticias.cl/2026/05/21/es-chile-un-pais-maritimo-por-carlos-mondaca-periodista/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El oráculo de Los Andes: la montaña como patrimonio y punto de encuentro. Por Alejandra Valdés Raczynski, Directora Ejecutiva de la Corporación Cultural de Lo Barnechea",
-    "enlace": "https://g5noticias.cl/2026/05/21/el-oraculo-de-los-andes-la-montana-como-patrimonio-y-punto-de-encuentro-por-alejandra-valdes-raczynski-directora-ejecutiva-de-la-corporacion-cultural-de-lo-barnechea/",
+    "titulo": "Universidad Católica derrotó a Barcelona de Guayaquil y quedó al mando del Grupo D de Copa Libertadores",
+    "enlace": "https://g5noticias.cl/2026/05/21/universidad-catolica-derroto-a-barcelona-de-guayaquil-y-quedo-al-mando-del-grupo-d-de-copa-libertadores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Rapa Nui incorpora por primera vez vehículos híbridos a su flota turística",
-    "enlace": "https://g5noticias.cl/2026/05/21/rapa-nui-incorpora-por-primera-vez-vehiculos-hibridos-a-su-flota-turistica/",
+    "titulo": "Encargados municipales y agentes culturales del Biobío fortalecen herramientas de gestión cultural",
+    "enlace": "https://g5noticias.cl/2026/05/21/encargados-municipales-y-agentes-culturales-del-biobio-fortalecen-herramientas-de-gestion-cultural/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Explorarán uso de ecología química para enfrentar plagas emergentes en huertos orgánicos de arándanos",
-    "enlace": "https://g5noticias.cl/2026/05/21/exploraran-uso-de-ecologia-quimica-para-enfrentar-plagas-emergentes-en-huertos-organicos-de-arandanos/",
+    "titulo": "AbastibleTec integra a Zensi para fortalecer su negocio de soluciones energéticas inteligentes",
+    "enlace": "https://g5noticias.cl/2026/05/21/abastibletec-integra-a-zensi-para-fortalecer-su-negocio-de-soluciones-energeticas-inteligentes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Zamarrear a un niño puede causar daño cerebral incluso sin dejar marcas visibles",
-    "enlace": "https://g5noticias.cl/2026/05/21/zamarrear-a-un-nino-puede-causar-dano-cerebral-incluso-sin-dejar-marcas-visibles/",
+    "titulo": "4ª Semana de la Experiencia del Paciente: Sistema de salud chileno puede y debe reorganizarse en torno a las personas",
+    "enlace": "https://g5noticias.cl/2026/05/21/4a-semana-de-la-experiencia-del-paciente-sistema-de-salud-chileno-puede-y-debe-reorganizarse-en-torno-a-las-personas-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Comuna vuelve a escena con “El beso de Rock Hudson”, una obra sobre VIH, amor y política",
-    "enlace": "https://g5noticias.cl/2026/05/21/la-comuna-vuelve-a-escena-con-el-beso-de-rock-hudson-una-obra-sobre-vih-amor-y-politica/",
+    "titulo": "Alerta sobre señales tempranas de pérdida auditiva que suelen pasar desapercibidas",
+    "enlace": "https://g5noticias.cl/2026/05/21/alerta-sobre-senales-tempranas-de-perdida-auditiva-que-suelen-pasar-desapercibidas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Walmart, Falabella y Ripley lideran la conversación digital sobre marcas en Chile",
-    "enlace": "https://g5noticias.cl/2026/05/21/walmart-falabella-y-ripley-lideran-la-conversacion-digital-sobre-marcas-en-chile/",
+    "titulo": "CHERY impulsa campaña de precios especiales en conmemoración de sus 20 años en Chile",
+    "enlace": "https://g5noticias.cl/2026/05/21/chery-impulsa-campana-de-precios-especiales-en-conmemoracion-de-sus-20-anos-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El gigante industrial de Independencia reabre sus puertas este 31 de mayo",
-    "enlace": "https://g5noticias.cl/2026/05/21/el-gigante-industrial-de-independencia-reabre-sus-puertas-este-31-de-mayo/",
+    "titulo": "“Historias rebeldes de mujeres con guantes”: lanzan libro que aborda brechas de género en la ciencia",
+    "enlace": "https://g5noticias.cl/2026/05/21/historias-rebeldes-de-mujeres-con-guantes-lanzan-libro-que-aborda-brechas-de-genero-en-la-ciencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bienestar y nutrición sostenible con sello veterinario",
-    "enlace": "https://g5noticias.cl/2026/05/21/bienestar-y-nutricion-sostenible-con-sello-veterinario/",
+    "titulo": "CNR realiza despliegue en valles de Arica y Parinacota para identificar necesidades hídricas y fomentar mayor inversión en riego",
+    "enlace": "https://g5noticias.cl/2026/05/21/cnr-realiza-despliegue-en-valles-de-arica-y-parinacota-para-identificar-necesidades-hidricas-y-fomentar-mayor-inversion-en-riego/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿El futuro de la democracia? Peter Thiel y la Ilustración oscura. Por Fabián Pérez Académico Departamento de Humanidades Universidad Andrés Bello",
-    "enlace": "https://g5noticias.cl/2026/05/21/el-futuro-de-la-democracia-peter-thiel-y-la-ilustracion-oscura-por-fabian-perez-academico-departamento-de-humanidades-universidad-andres-bello/",
+    "titulo": "¿Por qué nuestros abuelos no necesitaban una ley para reciclar?. Por Pamela Bonert, profesora del Departamento de Ingeniería Química y Ambiental, Universidad Técnica Federico Santa María",
+    "enlace": "https://g5noticias.cl/2026/05/21/por-que-nuestros-abuelos-no-necesitaban-una-ley-para-reciclar-por-pamela-bonert-profesora-del-departamento-de-ingenieria-quimica-y-ambiental-universidad-tecnica-federico-santa-maria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
