@@ -270,6 +270,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Región Coquimbo. Tres temblores han ocurrido hoy jueves. El último fue a las 22:04 horas",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-tres-temblores-han-ocurrido-hoy-jueves-el-ultimo-fue-a-las-2204-horas/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-tres-temblores-han-ocurrido-hoy-jueves-el-ultimo-fue-a-las-2204-horas",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Nacional. Esta tarde. Mujer muere y sus 2 hijas quedan graves. Sobre su auto cayó carga que se desprendió de camión",
     "enlace": "https://serenaycoquimbo.cl/nacional-esta-tarde-mujer-muere-y-sus-2-hijas-quedan-graves-sobre-su-auto-cayo-carga-que-se-desprendio-de-camion/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-tarde-mujer-muere-y-sus-2-hijas-quedan-graves-sobre-su-auto-cayo-carga-que-se-desprendio-de-camion",
     "descripcion": "",
@@ -344,15 +353,6 @@
   {
     "titulo": "La Serena. Esta tarde, apuñalan a hombre en múltiples ocasiones en las afueras de Mall",
     "enlace": "https://serenaycoquimbo.cl/la-serena-esta-tarde-apunalan-a-hombre-en-multiples-ocasiones-en-las-afueras-de-mall/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-esta-tarde-apunalan-a-hombre-en-multiples-ocasiones-en-las-afueras-de-mall",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Carabineros intensifica despliegues especializados en Coquimbo: se decomisó droga, armas y hubo quince detenidos",
-    "enlace": "https://serenaycoquimbo.cl/carabineros-intensifica-despliegues-especializados-en-coquimbo-se-decomiso-droga-armas-y-hubo-quince-detenidos/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-intensifica-despliegues-especializados-en-coquimbo-se-decomiso-droga-armas-y-hubo-quince-detenidos",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1638,6 +1638,69 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "“Sonidos de una historia común”: Teatro del Lago abre sus puertas uniendo música y patrimonio para todo público",
+    "enlace": "https://g5noticias.cl/2026/05/22/sonidos-de-una-historia-comun-teatro-del-lago-abre-sus-puertas-uniendo-musica-y-patrimonio-para-todo-publico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Veolia impulsa nueva edición de programa educativo ambiental para formar “guardianes del agua”",
+    "enlace": "https://g5noticias.cl/2026/05/22/veolia-impulsa-nueva-edicion-de-programa-educativo-ambiental-para-formar-guardianes-del-agua/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Asociatividad y liderazgo femenino marcan encuentro sobre Productos Forestales No Madereros en Panguipulli",
+    "enlace": "https://g5noticias.cl/2026/05/21/asociatividad-y-liderazgo-femenino-marcan-encuentro-sobre-productos-forestales-no-madereros-en-panguipulli/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Estudio UDLA describe cambios de astrocitos ante enfermedades neurodegenerativas",
+    "enlace": "https://g5noticias.cl/2026/05/21/estudio-udla-describe-cambios-de-astrocitos-ante-enfermedades-neurodegenerativas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Carabinero de franco fue herido a bala en violento asalto",
+    "enlace": "https://g5noticias.cl/2026/05/21/carabinero-de-franco-fue-herido-a-bala-en-violento-asalto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Ministro de Agricultura lamenta fallecimiento de Ronald Bown y releva su aporte al desarrollo agroexportador chileno",
+    "enlace": "https://g5noticias.cl/2026/05/21/ministro-de-agricultura-lamenta-fallecimiento-de-ronald-bown-y-releva-su-aporte-al-desarrollo-agroexportador-chileno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "4 claves para reforzar el sistema inmune ante los virus respiratorios",
+    "enlace": "https://g5noticias.cl/2026/05/21/4-claves-para-reforzar-el-sistema-inmune-ante-los-virus-respiratorios-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "¿Es Chile un país marítimo?, Por Carlos Mondaca, periodista",
     "enlace": "https://g5noticias.cl/2026/05/21/es-chile-un-pais-maritimo-por-carlos-mondaca-periodista/",
     "descripcion": "",
@@ -1658,69 +1721,6 @@
   {
     "titulo": "Encargados municipales y agentes culturales del Biobío fortalecen herramientas de gestión cultural",
     "enlace": "https://g5noticias.cl/2026/05/21/encargados-municipales-y-agentes-culturales-del-biobio-fortalecen-herramientas-de-gestion-cultural/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "AbastibleTec integra a Zensi para fortalecer su negocio de soluciones energéticas inteligentes",
-    "enlace": "https://g5noticias.cl/2026/05/21/abastibletec-integra-a-zensi-para-fortalecer-su-negocio-de-soluciones-energeticas-inteligentes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "4ª Semana de la Experiencia del Paciente: Sistema de salud chileno puede y debe reorganizarse en torno a las personas",
-    "enlace": "https://g5noticias.cl/2026/05/21/4a-semana-de-la-experiencia-del-paciente-sistema-de-salud-chileno-puede-y-debe-reorganizarse-en-torno-a-las-personas-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Alerta sobre señales tempranas de pérdida auditiva que suelen pasar desapercibidas",
-    "enlace": "https://g5noticias.cl/2026/05/21/alerta-sobre-senales-tempranas-de-perdida-auditiva-que-suelen-pasar-desapercibidas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "CHERY impulsa campaña de precios especiales en conmemoración de sus 20 años en Chile",
-    "enlace": "https://g5noticias.cl/2026/05/21/chery-impulsa-campana-de-precios-especiales-en-conmemoracion-de-sus-20-anos-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "“Historias rebeldes de mujeres con guantes”: lanzan libro que aborda brechas de género en la ciencia",
-    "enlace": "https://g5noticias.cl/2026/05/21/historias-rebeldes-de-mujeres-con-guantes-lanzan-libro-que-aborda-brechas-de-genero-en-la-ciencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "CNR realiza despliegue en valles de Arica y Parinacota para identificar necesidades hídricas y fomentar mayor inversión en riego",
-    "enlace": "https://g5noticias.cl/2026/05/21/cnr-realiza-despliegue-en-valles-de-arica-y-parinacota-para-identificar-necesidades-hidricas-y-fomentar-mayor-inversion-en-riego/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Por qué nuestros abuelos no necesitaban una ley para reciclar?. Por Pamela Bonert, profesora del Departamento de Ingeniería Química y Ambiental, Universidad Técnica Federico Santa María",
-    "enlace": "https://g5noticias.cl/2026/05/21/por-que-nuestros-abuelos-no-necesitaban-una-ley-para-reciclar-por-pamela-bonert-profesora-del-departamento-de-ingenieria-quimica-y-ambiental-universidad-tecnica-federico-santa-maria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
