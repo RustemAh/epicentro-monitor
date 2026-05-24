@@ -900,24 +900,6 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Ajuste presupuestario en salud genera preocupación por impacto en la red del Choapa",
-    "enlace": "https://veetv.cl/recorte-salud-choapa-impacto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "Fiscalía reformulará investigación por atropello que dejó una víctima fatal en Salamanca",
-    "enlace": "https://veetv.cl/atropello-fatal-salamanca-investigacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
     "titulo": "Agricultor salamanquino destaca lo valiosa que es su labor: “Dar trabajo y que la gente se alimente con mis productos”",
     "enlace": "https://www.elsalamanquino.cl/2026/05/20/agricultor-salamanquino-destaca-lo-valiosa-que-es-su-labor-dar-trabajo-y-que-la-gente-se-alimente-con-mis-productos/",
     "descripcion": "",
@@ -1638,6 +1620,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[OPINIÓN] Las Salinas: el fallo que mostró cómo se decide realmente el territorio en Chile (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/05/24/opinion-las-salinas-el-fallo-que-mostro-como-se-decide-realmente-el-territorio-en-chile-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-las-salinas-el-fallo-que-mostro-como-se-decide-realmente-el-territorio-en-chile-jorge-bustos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[OPINIÓN] La burocracia de la delación (Marcelo Trivelli)",
     "enlace": "https://diariolaquinta.cl/2026/05/23/opinion-la-burocracia-de-la-delacion-marcelo-trivelli/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-la-burocracia-de-la-delacion-marcelo-trivelli",
     "descripcion": "",
@@ -1719,12 +1710,48 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Aclamada obra teatral “Sala de Profes” llega a Quillota con entrada gratuita",
-    "enlace": "https://diariolaquinta.cl/2026/05/20/aclamada-obra-teatral-sala-de-profes-llega-a-quillota-con-entrada-gratuita/?utm_source=rss&utm_medium=rss&utm_campaign=aclamada-obra-teatral-sala-de-profes-llega-a-quillota-con-entrada-gratuita",
+    "titulo": "Patrullaje por aniversario de club de fútbol culmina con dos detenidos",
+    "enlace": "https://g5noticias.cl/2026/05/24/patrullaje-por-aniversario-de-club-de-futbol-culmina-con-dos-detenidos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Un laboratorio en el Valle de Elqui impulsa nueva generación de destilados premium",
+    "enlace": "https://g5noticias.cl/2026/05/24/un-laboratorio-en-el-valle-de-elqui-impulsa-nueva-generacion-de-destilados-premium/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "SOM Benavides y Naín: Comisarías de La Araucanía cambian denominación en honor a sus mártires",
+    "enlace": "https://g5noticias.cl/2026/05/24/som-benavides-y-nain-comisarias-de-la-araucania-cambian-denominacion-en-honor-a-sus-martires/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Estudiantes USS fortalecen el cuidado y autocuidado en personas con demencia",
+    "enlace": "https://g5noticias.cl/2026/05/24/estudiantes-uss-fortalecen-el-cuidado-y-autocuidado-en-personas-con-demencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Rehabilitación en cáncer: un cuidado continuo desde el diagnóstico",
+    "enlace": "https://g5noticias.cl/2026/05/24/rehabilitacion-en-cancer-un-cuidado-continuo-desde-el-diagnostico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
@@ -1766,51 +1793,6 @@
   {
     "titulo": "Deportes Limache sigue sin levantar cabeza y cayó por goleada ante Deportes La Serena",
     "enlace": "https://g5noticias.cl/2026/05/24/deportes-limache-sigue-sin-levantar-cabeza-y-cayo-por-goleada-ante-deportes-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Con éxito culmina la cuarta y última etapa del Atacama Challenger 2026: Felipe Garry y Andrea Yuvancic campeones elite y Cristóbal Vidaurre campeón Iberoamericano Master C1",
-    "enlace": "https://g5noticias.cl/2026/05/24/con-exito-culmina-la-cuarta-y-ultima-etapa-del-atacama-challenger-2026-felipe-garry-y-andrea-yuvancic-campeones-elite-y-cristobal-vidaurre-campeon-iberoamericano-master-c1/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Seminario proyecto de Ley de Reactivación Económica: Expertos y autoridades analizarán los mecanismos de declaración y repatriación de capitales",
-    "enlace": "https://g5noticias.cl/2026/05/24/seminario-proyecto-de-ley-de-reactivacion-economica-expertos-y-autoridades-analizaran-los-mecanismos-de-declaracion-y-repatriacion-de-capitales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ignacio “Nacho” Cornejo completa el prólogo del Desafío Ruta 40 y se enfoca en las etapas largas",
-    "enlace": "https://g5noticias.cl/2026/05/24/ignacio-nacho-cornejo-completa-el-prologo-del-desafio-ruta-40-y-se-enfoca-en-las-etapas-largas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Leones de Quilpué y Puente definirán al último finalista de la LNB",
-    "enlace": "https://g5noticias.cl/2026/05/24/leones-de-quilpue-y-puente-definiran-al-ultimo-finalista-de-la-lnb/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tomás de Gavardo debuta en el «Ruta 40» por la 3° fecha del campeonato del mundo de rally cross country",
-    "enlace": "https://g5noticias.cl/2026/05/24/tomas-de-gavardo-debuta-en-el-ruta-40-por-la-3-fecha-del-campeonato-del-mundo-de-rally-cross-country/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
