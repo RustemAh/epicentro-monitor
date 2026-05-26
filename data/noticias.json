@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Seremi de Minería y Delegado Presidencial de Choapa visitan faena de Minera Los Pelambres",
+    "enlace": "https://laserenaonline.cl/2026/05/26/seremi-de-mineria-y-delegado-presidencial-de-choapa-visitan-faena-de-minera-los-pelambres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Cyber internet empresas: cómo mejorar la conectividad de tu pyme",
+    "enlace": "https://laserenaonline.cl/2026/05/26/cyber-internet-empresas-como-mejorar-la-conectividad-de-tu-pyme/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Subdere transfiere más de $272 millones para trabajadores del aseo externalizado de La Serena",
+    "enlace": "https://laserenaonline.cl/2026/05/26/subdere-transfiere-mas-de-272-millones-para-trabajadores-del-aseo-externalizado-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "El Illapel comienza la evaluación de las postulaciones al Programa Mujeres Gásfiter de Aguas del Valle",
     "enlace": "https://laserenaonline.cl/2026/05/26/el-illapel-comienza-la-evaluacion-de-las-postulaciones-al-programa-mujeres-gasfiter-de-aguas-del-valle/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Alcaldesa Norambuena convoca comité de seguridad pública ante hechos delictuales que han afectado La Serena",
     "enlace": "https://laserenaonline.cl/2026/05/26/alcaldesa-norambuena-convoca-comite-de-seguridad-publica-ante-hechos-delictuales-que-han-afectado-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Comenzó juicio oral por caso de fraude en la Corporación municipal de La Serena",
-    "enlace": "https://laserenaonline.cl/2026/05/26/la-serena-comenzo-juicio-oral-por-caso-de-fraude-en-la-corporacion-municipal-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Desarticulan banda dedicada al tráfico de drogas en La Serena",
-    "enlace": "https://laserenaonline.cl/2026/05/26/desarticulan-banda-dedicada-al-trafico-de-drogas-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Condenan a sujetos tras riña ocurrida en recinto penitenciario en que hubo un fallecido",
-    "enlace": "https://laserenaonline.cl/2026/05/26/la-serena-condenan-a-sujetos-tras-rina-ocurrida-en-recinto-penitenciario-en-que-hubo-un-fallecido/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Anuncian masivo calendario de operativos de esterilización de mascotas para junio en Ovalle",
+    "enlace": "https://ovallehoy.cl/anuncian-masivo-calendario-de-operativos-de-esterilizacion-de-mascotas-para-junio-en-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Invitan a actualizar postulación al subsidio eléctrico para acceder a descuentos en cuentas de la luz",
     "enlace": "https://ovallehoy.cl/invitan-a-actualizar-postulacion-al-subsidio-electrico-para-acceder-a-descuentos-en-cuentas-de-la-luz/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Productores caprinos aprenden estrategias para optimizar la alimentación animal frente a los efectos del cambio climático",
     "enlace": "https://ovallehoy.cl/productores-caprinos-aprenden-estrategias-para-optimizar-la-alimentacion-animal-frente-a-los-efectos-del-cambio-climatico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Ovalle rinde homenaje a los recicladores de base en una emotiva jornada de concientización ambiental",
-    "enlace": "https://ovallehoy.cl/ovalle-rinde-homenaje-a-los-recicladores-de-base-en-una-emotiva-jornada-de-concientizacion-ambiental/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -720,6 +720,96 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Hospital de Illapel refuerza medidas de prevención de infecciones y enfermedades",
+    "enlace": "https://illapelchile.cl/salud/hospital-de-illapel-refuerza-medidas-de-prevencion-de-infecciones-y-enfermedades/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Abren postulaciones para la sexta versión de “Emprende Illapel”, programa impulsado por Minera Los Pelambres y el municipio",
+    "enlace": "https://illapelchile.cl/lospelambres/abren-postulaciones-para-la-sexta-version-de-emprende-illapel-programa-impulsado-por-minera-los-pelambres-y-el-municipio-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Hospital de Illapel y Universidad Central fortalecen educación a gestantes a través de taller interdisciplinario",
+    "enlace": "https://illapelchile.cl/salud/hospital-de-illapel-y-universidad-central-fortalecen-educacion-a-gestantes-a-traves-de-taller-interdisciplinario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Abren postulaciones para la sexta versión de “Emprende Illapel”, programa impulsado por Minera Los Pelambres y el municipio",
+    "enlace": "https://illapelchile.cl/lospelambres/abren-postulaciones-para-la-sexta-version-de-emprende-illapel-programa-impulsado-por-minera-los-pelambres-y-el-municipio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Municipio de Illapel lanza Fondos Concursables 2026 con inversión de $81 millones",
+    "enlace": "https://illapelchile.cl/social/municipio-de-illapel-lanza-fondos-concursables-2026-con-inversion-de-81-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "PDI detiene a dos imputados por microtráfico de drogas en sector El Balneario de Illapel",
+    "enlace": "https://illapelchile.cl/policial/pdi-detiene-a-dos-imputados-por-microtrafico-de-drogas-en-sector-el-balneario-de-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Invitan a gestantes de Illapel a participar en taller sobre parto y derechos laborales durante el embarazo",
+    "enlace": "https://illapelchile.cl/salud/invitan-a-gestantes-de-illapel-a-participar-en-taller-sobre-parto-y-derechos-laborales-durante-el-embarazo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Municipio de Illapel inaugura ciclovía recreativa para fomentar el deporte y la vida sana en la comuna",
+    "enlace": "https://illapelchile.cl/deportes/municipio-de-illapel-inaugura-ciclovia-recreativa-para-fomentar-el-deporte-y-la-vida-sana-en-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "SEREMI de Energía y SEC abordan con dirigentes de Illapel inquietudes por el suministro eléctrico",
+    "enlace": "https://illapelchile.cl/actualidad/seremi-de-energia-y-sec-abordan-con-dirigentes-de-illapel-inquietudes-por-el-suministro-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Hospital de Illapel destacó avances en cirugías, salud mental y hospitalización domiciliaria durante su cuenta pública participativa",
+    "enlace": "https://illapelchile.cl/salud/hospital-de-illapel-destaco-avances-en-cirugias-salud-mental-y-hospitalizacion-domiciliaria-durante-su-cuenta-publica-participativa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Provincia de Choapa refuerza coordinación en seguridad con nueva sesión del Sistema STOP",
     "enlace": "https://www.elillapelino.cl/2026/05/26/provincia-de-choapa-refuerza-coordinacion-en-seguridad-con-nueva-sesion-del-sistema-stop/",
     "descripcion": "",
@@ -828,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Seremi de Minería y Delegado Presidencial de Choapa visitan faena de Minera Los Pelambres",
+    "enlace": "https://www.elsalamanquino.cl/2026/05/26/seremi-de-mineria-y-delegado-presidencial-de-choapa-visitan-faena-de-minera-los-pelambres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Hospital de Salamanca invita a nueva jornada comunitaria de salud mental y bienestar en plaza de armas",
     "enlace": "https://www.elsalamanquino.cl/2026/05/25/hospital-de-salamanca-invita-a-nueva-jornada-comunitaria-de-salud-mental-y-bienestar-en-plaza-de-armas/",
     "descripcion": "",
@@ -902,15 +1001,6 @@
   {
     "titulo": "Cuerpo de Bomberos de Salamanca celebró 74 años de servicio y compromiso con la comunidad",
     "enlace": "https://www.elsalamanquino.cl/2026/05/12/cuerpo-de-bomberos-de-salamanca-celebro-74-anos-de-servicio-y-compromiso-con-la-comunidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Hospital de Salamanca destacó iniciativas de salud mental y apoyo comunitario durante 2025",
-    "enlace": "https://www.elsalamanquino.cl/2026/05/11/hospital-de-salamanca-destaco-iniciativas-de-salud-mental-y-apoyo-comunitario-durante-2025/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1188,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Vecinas y vecinos de Tierra Amarilla se certificaron en taller de formación para cuidadores de adultos mayores",
+    "enlace": "https://www.atacamanoticias.cl/2026/05/26/vecinas-y-vecinos-de-tierra-amarilla-se-certificaron-en-taller-de-formacion-para-cuidadores-de-adultos-mayores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Fiscalía obtuvo pena efectiva de cárcel para conductor que atropelló a jugadora de Deportes Copiapó",
     "enlace": "https://www.atacamanoticias.cl/2026/05/26/fiscalia-obtuvo-pena-efectiva-de-carcel-para-conductor-que-atropello-a-jugadora-de-deportes-copiapo/",
     "descripcion": "",
@@ -1262,15 +1361,6 @@
   {
     "titulo": "Gobierno revela baches de la era Boric tras auditoría total: Riesgo fiscal superaría US$9.200 millones",
     "enlace": "https://www.atacamanoticias.cl/2026/05/26/gobierno-revela-baches-de-la-era-boric-tras-auditoria-total-riesgo-fiscal-superaria-us9-200-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Oposición exige a Kast una Cuenta Pública “sin datos falsos” y planes en salud, seguridad y economía",
-    "enlace": "https://www.atacamanoticias.cl/2026/05/26/oposicion-exige-a-kast-una-cuenta-publica-sin-datos-falsos-y-planes-en-salud-seguridad-y-economia/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1548,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[OPINIÓN] Un conocido arquitecto miente a través del Diario Financiero (Patricio Herman)",
+    "enlace": "https://diariolaquinta.cl/2026/05/26/opinion-un-conocido-arquitecto-miente-a-traves-del-diario-financiero-patricio-herman/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-un-conocido-arquitecto-miente-a-traves-del-diario-financiero-patricio-herman",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Dale con que las gallinas mean (El Diantre)",
     "enlace": "https://diariolaquinta.cl/2026/05/26/dale-con-que-las-gallinas-mean-el-diantre/?utm_source=rss&utm_medium=rss&utm_campaign=dale-con-que-las-gallinas-mean-el-diantre",
     "descripcion": "",
@@ -1539,17 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de Valparaíso: Aumento de Alimentos RIT C-868-2025 «Almarza / Apablaza»",
-    "enlace": "https://diariolaquinta.cl/2026/05/23/notificacion-tribunal-de-familia-de-valparaiso-aumento-de-alimentos-rit-c-868-2025-almarza-apablaza-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-valparaiso-aumento-de-alimentos-rit-c-868-2025-almarza-apablaza-3",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Municipalidad de La Cruz celebrará el Día de los Patrimonios con tres días de actividades culturales, patrimoniales y familiares",
-    "enlace": "https://g5noticias.cl/2026/05/26/municipalidad-de-la-cruz-celebrara-el-dia-de-los-patrimonios-con-tres-dias-de-actividades-culturales-patrimoniales-y-familiares/",
+    "titulo": "Del 29 al 31 de mayo: Feria Al Cateo se viste de lana en el drop off de Casacostanera",
+    "enlace": "https://g5noticias.cl/2026/05/26/del-29-al-31-de-mayo-feria-al-cateo-se-viste-de-lana-en-el-drop-off-de-casacostanera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1557,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobernador Mundaca inspeccionó e inauguró diversos proyectos en la comuna de Villa Alemana financiados por el Gobierno Regional",
-    "enlace": "https://g5noticias.cl/2026/05/26/gobernador-mundaca-inspecciono-e-inauguro-diversos-proyectos-en-la-comuna-de-villa-alemana-financiados-por-el-gobierno-regional/",
+    "titulo": "Comité Sectorial de Emergencia del Minagri define estrategia preventiva frente a riesgos climáticos en el sector silvoagropecuario",
+    "enlace": "https://g5noticias.cl/2026/05/26/comite-sectorial-de-emergencia-del-minagri-define-estrategia-preventiva-frente-a-riesgos-climaticos-en-el-sector-silvoagropecuario/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1566,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremi de Seguridad y Gerente de EFE Valparaíso coordinan nuevas medidas para la seguridad del servicio Limache-Puerto",
-    "enlace": "https://g5noticias.cl/2026/05/26/seremi-de-seguridad-y-gerente-de-efe-valparaiso-coordinan-nuevas-medidas-para-la-seguridad-del-servicio-limache-puerto/",
+    "titulo": "Autoridades destacan el valor del canotaje en la rehabilitación de mujeres sobrevivientes de cáncer de mama",
+    "enlace": "https://g5noticias.cl/2026/05/26/autoridades-destacan-el-valor-del-canotaje-en-la-rehabilitacion-de-mujeres-sobrevivientes-de-cancer-de-mama/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1575,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros refuerza ofensiva contra el narcotráfico y destruye más de 400 mil plantas de cannabis",
-    "enlace": "https://g5noticias.cl/2026/05/26/carabineros-refuerza-ofensiva-contra-el-narcotrafico-y-destruye-mas-de-400-mil-plantas-de-cannabis/",
+    "titulo": "Qué plantea realmente la nueva encíclica del Papa sobre inteligencia artificial y dignidad humana",
+    "enlace": "https://g5noticias.cl/2026/05/26/que-plantea-realmente-la-nueva-enciclica-del-papa-sobre-inteligencia-artificial-y-dignidad-humana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1584,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Apuñalan a guardia tras riña al interior del metro estación Pedro de Valdivia",
-    "enlace": "https://g5noticias.cl/2026/05/26/apunalan-a-guardia-tras-rina-al-interior-del-metro-estacion-pedro-de-valdivia/",
+    "titulo": "¿Es posible coparentar con un agresor? Por Ivonne Maldonado, Directora Carrera de Psicología, Universidad de Las Américas, Sede Concepción",
+    "enlace": "https://g5noticias.cl/2026/05/26/es-posible-coparentar-con-un-agresor-por-ivonne-maldonado-directora-carrera-de-psicologia-universidad-de-las-americas-sede-concepcion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1593,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Libertarios y republicanos anuncian acusación constitucional contra exministro Grau por “inconsistencia” en proyección de deuda",
-    "enlace": "https://g5noticias.cl/2026/05/26/libertarios-y-republicanos-anuncian-acusacion-constitucional-contra-exministro-grau-por-inconsistencia-en-proyeccion-de-deuda/",
+    "titulo": "Cerca del 30% edificios en Chile no cuentan con seguros contra sismos",
+    "enlace": "https://g5noticias.cl/2026/05/26/cerca-del-30-edificios-en-chile-no-cuentan-con-seguros-contra-sismos-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1602,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Un total de 14 detenidos arroja como resultado la última ronda impacto en San Felipe",
-    "enlace": "https://g5noticias.cl/2026/05/26/un-total-de-14-detenidos-arroja-como-resultado-la-ultima-ronda-impacto-en-san-felipe/",
+    "titulo": "Sernapesca Valparaíso realiza donación de especies CITES al Bioparque Fundo El Carmen y a la Pontificia Universidad Católica de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/05/26/sernapesca-valparaiso-realiza-donacion-de-especies-cites-al-bioparque-fundo-el-carmen-y-a-la-pontificia-universidad-catolica-de-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1611,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nogales celebrará el Día del Patrimonio con misa, folclore y feria patrimonial este 30 de mayo",
-    "enlace": "https://g5noticias.cl/2026/05/26/nogales-celebrara-el-dia-del-patrimonio-con-misa-folclore-y-feria-patrimonial-este-30-de-mayo/",
+    "titulo": "Del calendario a los goles: cómo la IA de Galaxy S26 Ultra mejora la experiencia del fútbol",
+    "enlace": "https://g5noticias.cl/2026/05/26/del-calendario-a-los-goles-como-la-ia-de-galaxy-s26-ultra-mejora-la-experiencia-del-futbol/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1620,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hoy: Chilevisión transmite en vivo partido de Coquimbo Unido por Copa Conmebol Libertadores",
-    "enlace": "https://g5noticias.cl/2026/05/26/hoy-chilevision-transmite-en-vivo-partido-de-coquimbo-unido-por-copa-conmebol-libertadores/",
+    "titulo": "Ya son visibles los cambios en las veredas de calle Clarencia en Concón",
+    "enlace": "https://g5noticias.cl/2026/05/26/ya-son-visibles-los-cambios-en-las-veredas-de-calle-clarencia-en-concon/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1629,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comienza campaña de limpieza de la red de alcantarillado de la región Metropolitana que se extiende por más de 11 mil kilómetros",
-    "enlace": "https://g5noticias.cl/2026/05/26/comienza-campana-de-limpieza-de-la-red-de-alcantarillado-de-la-region-metropolitana-que-se-extiende-por-mas-de-11-mil-kilometros/",
+    "titulo": "Con el eslogan “Prende el ahorro”: Ministra Rincón da puntapié inicial a la quinta convocatoria del subsidio eléctrico",
+    "enlace": "https://g5noticias.cl/2026/05/26/con-el-eslogan-prende-el-ahorro-ministra-rincon-da-puntapie-inicial-a-la-quinta-convocatoria-del-subsidio-electrico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Más de 50 comercios ofrecerán descuentos durante las Invernadas 2026",
+    "enlace": "https://elmagallanico.com/2026/05/26/mas-de-50-comercios-ofreceran-descuentos-durante-las-invernadas-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Educación encabezó inicio de la Semana de la Seguridad Escolar y Parvularia",
     "enlace": "https://elmagallanico.com/2026/05/26/educacion-encabezo-inicio-de-la-semana-de-la-seguridad-escolar-y-parvularia/",
     "descripcion": "",
@@ -1892,15 +1991,6 @@
   {
     "titulo": "Más de 130 proyectos ya han sido ingresados al Fondo Concursable de Aguas Magallanes",
     "enlace": "https://elmagallanico.com/2026/05/23/mas-de-130-proyectos-ya-han-sido-ingresados-al-fondo-concursable-de-aguas-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "TransAlerce se acerca a los 500.000 pasajeros en abril y consolida tendencia de crecimiento",
-    "enlace": "https://elmagallanico.com/2026/05/23/transalerce-se-acerca-a-los-500-000-pasajeros-en-abril-y-consolida-tendencia-de-crecimiento/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
