@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Corte programado de energía afectará a sector Alto Oriente de Las Compañías en La Serena este viernes",
+    "enlace": "https://www.elserenense.cl/comunales/2026/05/28/corte-programado-de-energia-afectara-a-sector-alto-oriente-de-las-companias-en-la-serena-este-viernes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "La “Tía Rica” abrirá sus puertas en el Día de los Patrimonios en La Serena",
     "enlace": "https://www.elserenense.cl/tendencias/2026/05/28/la-tia-rica-abrira-sus-puertas-en-el-dia-de-los-patrimonios-en-la-serena/",
     "descripcion": "",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "La Serena inaugura nuevo Punto de Seguridad permanente en La Pampa",
-    "enlace": "https://www.elserenense.cl/comunales/2026/05/27/la-serena-inaugura-nuevo-punto-de-seguridad-permanente-en-la-pampa/",
+    "titulo": "Plazas patrimoniales de La Serena cobrarán vida en entretenido tour teatralizado para niñas y niños",
+    "enlace": "https://laserenaonline.cl/2026/05/28/plazas-patrimoniales-de-la-serena-cobraran-vida-en-entretenido-tour-teatralizado-para-ninas-y-ninos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "INACAP La Serena y Fedetur impulsan la especialización en turismo de negocios con masivo seminario regional",
+    "enlace": "https://laserenaonline.cl/2026/05/28/inacap-la-serena-y-fedetur-impulsan-la-especializacion-en-turismo-de-negocios-con-masivo-seminario-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Con pasaporte en mano y luces en la historia: La Serena se prepara para un masivo Día del Patrimonio en familia",
     "enlace": "https://laserenaonline.cl/2026/05/28/con-pasaporte-en-mano-y-luces-en-la-historia-la-serena-se-prepara-para-un-masivo-dia-del-patrimonio-en-familia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 28 de mayo para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/28/el-tiempo-hoy-28-de-mayo-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "40 años de la Sociedad de Escritores de Chile en la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/27/40-anos-de-la-sociedad-de-escritores-de-chile-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1017,6 +1017,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Seremi de Minería y Delegado Presidencial de Choapa visitan faena de Minera Los Pelambres",
+    "enlace": "https://www.davidnoticias.cl/seremi-de-mineria-y-delegado-presidencial-de-choapa-visitan-faena-de-minera-los-pelambres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "El pan amenaza con transformarse en un lujo: expertos advierten fuerte impacto en el bolsillo de los chilenos",
     "enlace": "https://www.davidnoticias.cl/el-pan-amenaza-con-transformarse-en-un-lujo-expertos-advierten-fuerte-impacto-en-el-bolsillo-de-los-chilenos/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Centro Científico CEAZA estudiará los cañones submarinos del Archipiélago de Humboldt",
     "enlace": "https://www.davidnoticias.cl/centro-cientifico-ceaza-estudiara-los-canones-submarinos-del-archipielago-de-humboldt/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Deportistas denuncian abandono del techado municipal de Los Vilos y cuestionan prioridades del Royalty Minero",
-    "enlace": "https://www.davidnoticias.cl/deportistas-denuncian-abandono-del-techado-municipal-de-los-vilos-y-cuestionan-prioridades-del-royalty-minero/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,94 +1458,22 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Con histórico encendido de luces e inversión de 136 millones: Petorca inaugura la renovada Multicancha en sector La Chimba Norte",
-    "enlace": "https://laliguanoticias.cl/2026/05/28/con-historico-encendido-de-luces-e-inversion-de-136-millones-petorca-inaugura-la-renovada-multicancha-en-sector-la-chimba-norte/",
+    "titulo": "Valparaíso celebra el Día del Patrimonio 2026 con amplia programación cultural y comunitaria",
+    "enlace": "https://diariolaquinta.cl/2026/05/28/valparaiso-celebra-el-dia-del-patrimonio-2026-con-amplia-programacion-cultural-y-comunitaria/?utm_source=rss&utm_medium=rss&utm_campaign=valparaiso-celebra-el-dia-del-patrimonio-2026-con-amplia-programacion-cultural-y-comunitaria",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "BAFONA llegará a Papudo para celebrar el Día de los Patrimonios: habrá recorridos y relatos de memoria campesina",
-    "enlace": "https://laliguanoticias.cl/2026/05/27/bafona-llegara-a-papudo-para-celebrar-el-dia-de-los-patrimonios-habra-recorridos-y-relatos-de-memoria-campesina/",
+    "titulo": "[OPINIÓN] San Antonio: la unanimidad de los que no leen (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/05/28/opinion-san-antonio-la-unanimidad-de-los-que-no-leen-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-san-antonio-la-unanimidad-de-los-que-no-leen-jorge-bustos",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Organizaciones comunitarias de Petorca se capacitaron en herramientas digitales y formulación de proyectos",
-    "enlace": "https://laliguanoticias.cl/2026/05/27/organizaciones-comunitarias-de-petorca-se-capacitaron-en-herramientas-digitales-y-formulacion-de-proyectos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputado Mella pide a EFE plan de buses de acercamiento para unir La Ligua con la futura estación de La Calera",
-    "enlace": "https://laliguanoticias.cl/2026/05/26/diputado-mella-pide-a-efe-plan-de-buses-de-acercamiento-para-unir-la-ligua-con-la-futura-estacion-de-la-calera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Concejo Municipal de Petorca decide salvar a exalcalde Villalobos y rechaza llevarlo al TER por faltas a la probidad administrativa",
-    "enlace": "https://laliguanoticias.cl/2026/05/25/concejo-municipal-de-petorca-decide-salvar-a-exalcalde-villalobos-y-rechaza-llevarlo-al-ter-por-faltas-a-la-probidad-administrativa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Hospital Biprovincial es el primer recinto de salud de la Región en acreditarse internacionalmente en manejo integral del Ataque Cerebrovascular",
-    "enlace": "https://laliguanoticias.cl/2026/05/25/hospital-biprovincial-es-el-primer-recinto-de-salud-de-la-region-en-acreditarse-internacionalmente-en-manejo-integral-del-ataque-cerebrovascular/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Dictan condena de 73 años en total para tres delincuentes culpables de robo calificado en La Ligua el 2024",
-    "enlace": "https://laliguanoticias.cl/2026/05/25/dictan-condena-de-73-anos-en-total-para-tres-delincuentes-culpables-de-robo-calificado-en-la-ligua-el-2024/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Gimnasio Municipal de Papudo fue reinaugurado con nuevo nombre en homenaje a Zoila Cortez Pérez",
-    "enlace": "https://laliguanoticias.cl/2026/05/24/gimnasio-municipal-de-papudo-fue-reinaugurado-con-nuevo-nombre-en-homenaje-a-zoila-cortez-perez/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Federación de Funcionarios Municipales de Valparaíso responde a dichos del CORE Juan Ibacache y defiende labor del sector público comunal",
-    "enlace": "https://laliguanoticias.cl/2026/05/19/federacion-de-funcionarios-municipales-de-valparaiso-responde-a-dichos-del-core-juan-ibacache-y-defiende-labor-del-sector-publico-comunal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Primera Ronda Impacto del año en Petorca deja dos detenidos por infracción a la Ley de Drogas",
-    "enlace": "https://laliguanoticias.cl/2026/05/19/primera-ronda-impacto-del-ano-en-petorca-deja-dos-detenidos-por-infraccion-a-la-ley-de-drogas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
     "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Aumento de alimentos RIT C-780-2025 «Martínez / Rosales»",
@@ -1620,26 +1548,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En el Día del Patrimonio CENTEX va al rescate de la música chilena con Feria de Vinilos",
-    "enlace": "https://diariolaquinta.cl/2026/05/27/en-el-dia-del-patrimonio-centex-va-al-rescate-de-la-musica-chilena-con-feria-de-vinilos/?utm_source=rss&utm_medium=rss&utm_campaign=en-el-dia-del-patrimonio-centex-va-al-rescate-de-la-musica-chilena-con-feria-de-vinilos",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Aumento de alimentos RIT C-780-2025 «Martínez / Rosales»",
-    "enlace": "https://diariolaquinta.cl/2026/05/27/notificacion-tribunal-de-familia-de-san-antonio-aumento-de-alimentos-rit-c-780-2025-martinez-rosales-4/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-aumento-de-alimentos-rit-c-780-2025-martinez-rosales-4",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Illapel: Fiscalía instruyó diligencias por hallazgo ocurrido en planta de tratamiento de aguas",
-    "enlace": "https://g5noticias.cl/2026/05/28/illapel-fiscalia-instruyo-diligencias-por-hallazgo-ocurrido-en-planta-de-tratamiento-de-aguas/",
+    "titulo": "SEBV de Carabineros logró captura de imputado por violento robo con homicidio en 2004",
+    "enlace": "https://g5noticias.cl/2026/05/28/sebv-de-carabineros-logro-captura-de-imputado-por-violento-robo-con-homicidio-en-2004/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1557,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Estudiantes del Colegio Canadá acceden a programas propedéuticos de prestigiosas universidades de la región",
-    "enlace": "https://g5noticias.cl/2026/05/28/estudiantes-del-colegio-canada-acceden-a-programas-propedeuticos-de-prestigiosas-universidades-de-la-region/",
+    "titulo": "Corte Suprema declara prescripción de cobro de pagarés CAE",
+    "enlace": "https://g5noticias.cl/2026/05/28/corte-suprema-declara-prescripcion-de-cobro-de-pagares-cae/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1566,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más que entretención: ¿cómo el juego impulsa el aprendizaje en la primera infancia?",
-    "enlace": "https://g5noticias.cl/2026/05/28/mas-que-entretencion-como-el-juego-impulsa-el-aprendizaje-en-la-primera-infancia/",
+    "titulo": "Valparaíso cuenta con primer Plan de Acción Comunal de Cambio Climático",
+    "enlace": "https://g5noticias.cl/2026/05/28/valparaiso-cuenta-con-primer-plan-de-accion-comunal-de-cambio-climatico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1575,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alfonso Undurraga, presidente de Vinos de Chile: “Chile sigue teniendo condiciones extraordinarias para competir en el mundo”",
-    "enlace": "https://g5noticias.cl/2026/05/28/alfonso-undurraga-presidente-de-vinos-de-chile-chile-sigue-teniendo-condiciones-extraordinarias-para-competir-en-el-mundo/",
+    "titulo": "Mineduc impulsa acciones de prevención y autocuidado en el marco de la semana de la seguridad escolar y parvularia",
+    "enlace": "https://g5noticias.cl/2026/05/28/mineduc-impulsa-acciones-de-prevencion-y-autocuidado-en-el-marco-de-la-semana-de-la-seguridad-escolar-y-parvularia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1584,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "ALTO Chile lanza mesas de trabajo regionales con el retail y Carabineros para frenar los delitos en el comercio",
-    "enlace": "https://g5noticias.cl/2026/05/28/alto-chile-lanza-mesas-de-trabajo-regionales-con-el-retail-y-carabineros-para-frenar-los-delitos-en-el-comercio/",
+    "titulo": "Subsecretario de Redes Asistenciales visita urgencia del HUAP en el marco de la implementación de la Campaña de Invierno 2026",
+    "enlace": "https://g5noticias.cl/2026/05/28/subsecretario-de-redes-asistenciales-visita-urgencia-del-huap-en-el-marco-de-la-implementacion-de-la-campana-de-invierno-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1593,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Agrupaciones artísticas USerena realizarán una serie de actividades para conmemorar el Día de los Patrimonios",
-    "enlace": "https://g5noticias.cl/2026/05/28/agrupaciones-artisticas-userena-realizaran-una-serie-de-actividades-para-conmemorar-el-dia-de-los-patrimonios/",
+    "titulo": "Universidad de Valparaíso y Esval impulsan investigación sobre bacterias multirresistentes en el Estero de Reñaca",
+    "enlace": "https://g5noticias.cl/2026/05/28/universidad-de-valparaiso-y-esval-impulsan-investigacion-sobre-bacterias-multirresistentes-en-el-estero-de-renaca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1602,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado René García (RN) advierte posible fuerte alza del pan y llama a las autoridades a reaccionar ante escasez de insumos agrícolas",
-    "enlace": "https://g5noticias.cl/2026/05/28/diputado-rene-garcia-rn-advierte-posible-fuerte-alza-del-pan-y-llama-a-las-autoridades-a-reaccionar-ante-escasez-de-insumos-agricolas/",
+    "titulo": "Subsecretario de Hacienda anuncia baja de $65 por litro en el precio del diésel para este jueves",
+    "enlace": "https://g5noticias.cl/2026/05/28/subsecretario-de-hacienda-anuncia-baja-de-65-por-litro-en-el-precio-del-diesel-para-este-jueves/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1611,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PUCV integra histórico estudio internacional sobre la velocidad de la obesidad en el mundo",
-    "enlace": "https://g5noticias.cl/2026/05/28/pucv-integra-historico-estudio-internacional-sobre-la-velocidad-de-la-obesidad-en-el-mundo/",
+    "titulo": "Team Cuidarnos: Minsal lanza Campaña comunicacional de Invierno 2026 con llamado a la prevención y responsabilidad individual",
+    "enlace": "https://g5noticias.cl/2026/05/28/team-cuidarnos-minsal-lanza-campana-comunicacional-de-invierno-2026-con-llamado-a-la-prevencion-y-responsabilidad-individual/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1620,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Santo Domingo inaugura nuevo punto limpio para fortalecer la gestión de residuos domiciliarios",
-    "enlace": "https://g5noticias.cl/2026/05/28/santo-domingo-inaugura-nuevo-punto-limpio-para-fortalecer-la-gestion-de-residuos-domiciliarios/",
+    "titulo": "Tabaco y vapeo en el trabajo: preguntas incómodas que la medicina laboral no puede eludir. Por Dr. David González Guzmán, miembro del directorio de la Sociedad Chilena de Medicina del Trabajo (SOCHMET).",
+    "enlace": "https://g5noticias.cl/2026/05/28/tabaco-y-vapeo-en-el-trabajo-preguntas-incomodas-que-la-medicina-laboral-no-puede-eludir-por-dr-david-gonzalez-guzman-miembro-del-directorio-de-la-sociedad-chilena-de-medicina-del-trabajo-sochmet/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1629,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Viaje al Centro del Teatro: Teatro Municipal de Las Condes abre sus puertas este Día del Patrimonio",
-    "enlace": "https://g5noticias.cl/2026/05/28/viaje-al-centro-del-teatro-teatro-municipal-de-las-condes-abre-sus-puertas-este-dia-del-patrimonio/",
+    "titulo": "$1.180.000.000 dispuso Corfo Valparaíso para apoyar la innovación, el emprendimiento y la inversión productiva",
+    "enlace": "https://g5noticias.cl/2026/05/28/1-180-000-000-dispuso-corfo-valparaiso-para-apoyar-la-innovacion-el-emprendimiento-y-la-inversion-productiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
