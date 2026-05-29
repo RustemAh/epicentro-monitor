@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "UCN abre sus puertas a la comunidad para celebrar el Día de los Patrimonios y la Feria del Mar 2026",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/29/ucn-abre-sus-puertas-a-la-comunidad-para-celebrar-el-dia-de-los-patrimonios-y-la-feria-del-mar-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Observatorio de Guanaqueros abrirá gratis este fin de semana por el Día de los Patrimonios",
     "enlace": "https://www.elcoquimbano.cl/2026/05/28/observatorio-de-guanaqueros-abrira-gratis-este-fin-de-semana-por-el-dia-de-los-patrimonios/",
     "descripcion": "",
@@ -81,13 +90,22 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Adulto mayor que se desplazaba en scooter murió tras ser atropellado por camión entre La Serena y Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/26/adulto-mayor-que-se-desplazaba-en-scooter-murio-tras-ser-atropellado-por-camion-entre-la-serena-y-coquimbo/",
+    "titulo": "Plazas patrimoniales de La Serena cobrarán vida en tour teatralizado para niños y ñiñas",
+    "enlace": "https://www.elserenense.cl/comunales/2026/05/29/plazas-patrimoniales-de-la-serena-cobraran-vida-en-tour-teatralizado-para-ninos-y-ninas/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "“Mil Pedazos”: del Festival de Málaga a su Avant Premiere en La Serena",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/05/29/mil-pedazos-del-festival-de-malaga-a-su-avant-premiere-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Corte programado de energía afectará a sector Alto Oriente de Las Compañías en La Serena este viernes",
@@ -162,20 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Remate. Inmueble casa N° 2 del condominio G&G, calle Juan Cisternas 2273, La Serena",
-    "enlace": "https://www.elserenense.cl/legales/2026/05/27/remate-inmueble-casa-n-2-del-condominio-gg-calle-juan-cisternas-2273-la-serena-2/",
+    "titulo": "La Serena se consolida como el gran epicentro del turismo de negocios en la región",
+    "enlace": "https://laserenaonline.cl/2026/05/29/la-serena-se-consolida-como-el-gran-epicentro-del-turismo-de-negocios-en-la-region/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Destaca participación femenina en construcción del nuevo hospital de La Serena",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/05/27/destaca-participacion-femenina-en-construccion-del-nuevo-hospital-de-la-serena/",
+    "titulo": "Alcanzan un 52% de avance en la reposición del Puente Marquesa en Vicuña",
+    "enlace": "https://laserenaonline.cl/2026/05/29/alcanzan-un-52-de-avance-en-la-reposicion-del-puente-marquesa-en-vicuna/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Promueven la recuperación del espacio público en La Serena y anuncia actividades para el Día del Patrimonio Cultural en la región",
+    "enlace": "https://laserenaonline.cl/2026/05/29/promueven-la-recuperacion-del-espacio-publico-en-la-serena-y-anuncia-actividades-para-el-dia-del-patrimonio-cultural-en-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Un 50% de avance presentan las obras de renovación de colectores de Aguas del Valle en Avenida Balmaceda",
     "enlace": "https://laserenaonline.cl/2026/05/28/un-50-de-avance-presentan-las-obras-de-renovacion-de-colectores-de-aguas-del-valle-en-avenida-balmaceda/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Joven serenense salva 6 vidas concretándose la primera donación de órganos de la comuna en lo que va del año",
-    "enlace": "https://laserenaonline.cl/2026/05/28/joven-serenense-salva-6-vidas-concretandose-la-primera-donacion-de-organos-de-la-comuna-en-lo-que-va-del-ano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Detectives de la PDI detienen a imputado por abuso sexual en La Serena",
-    "enlace": "https://laserenaonline.cl/2026/05/28/detectives-de-la-pdi-detienen-a-imputado-por-abuso-sexual-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Molestia entre conductores por cambio en semáforo y señalética de calle Girasoles en La Florida",
-    "enlace": "https://laserenaonline.cl/2026/05/28/molestia-entre-conductores-por-cambio-en-semaforo-y-senaletica-de-calle-girasoles-en-la-florida/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Gestiones de autoridades regionales permite el rápido retorno de deportistas ovallinos varados en Bolivia por crisis social",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/29/gestiones-de-autoridades-regionales-permite-el-rapido-retorno-de-deportistas-ovallinos-varados-en-bolivia-por-crisis-social/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "MOP alcanza un 52% de avance en la reposición del Puente Marquesa en Vicuña",
+    "enlace": "https://regiondecoquimbo.cl/2026/05/29/mop-alcanza-un-52-de-avance-en-la-reposicion-del-puente-marquesa-en-vicuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "La “Tía Rica” abrirá sus puertas en el Día de los Patrimonios en La Serena",
     "enlace": "https://regiondecoquimbo.cl/2026/05/28/la-tia-rica-abrira-sus-puertas-en-el-dia-de-los-patrimonios-en-la-serena/",
     "descripcion": "",
@@ -432,22 +450,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Cuatro comunas de la provincia del Limarí recibirán apoyo de Red Cultura para fortalecer su desarrollo cultural",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/27/cuatro-comunas-de-la-provincia-del-limari-recibiran-apoyo-de-red-cultura-para-fortalecer-su-desarrollo-cultural/",
+    "titulo": "Reconocen a mujeres de la Región de Coquimbo por su aporte al desarrollo sostenible y la innovación rural",
+    "enlace": "https://ovallehoy.cl/reconocen-a-mujeres-de-la-region-de-coquimbo-por-su-aporte-al-desarrollo-sostenible-y-la-innovacion-rural/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Hasta el 23 de julio está abierto el Concurso Literario Autobiográfico de Personas Mayores",
-    "enlace": "https://regiondecoquimbo.cl/2026/05/27/hasta-el-23-de-julio-esta-abierto-el-concurso-literario-autobiografico-de-personas-mayores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "Ovalle registra la tercera cifra más alta de reinserción juvenil en la región",
@@ -531,12 +540,12 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "Gobernador destaca recuperación de la gestión regional y nuevas inversiones en Cuenta Pública al CORE",
-    "enlace": "https://ovallehoy.cl/gobernador-destaca-recuperacion-de-la-gestion-regional-y-nuevas-inversiones-en-cuenta-publica-al-core/",
+    "titulo": "Monte Patria capacita monitores ante amplia demanda de baile entretenido",
+    "enlace": "https://www.elmontepatrino.cl/2026/05/29/monte-patria-capacita-monitores-ante-amplia-demanda-de-baile-entretenido/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
@@ -614,15 +623,6 @@
   {
     "titulo": "Tradición y patrimonio: Comunidad de Pejerreyes en Monte Patria celebra nueva jornada del “Día del Criancero”",
     "enlace": "https://www.elmontepatrino.cl/2026/05/17/tradicion-y-patrimonio-comunidad-de-pejerreyes-en-monte-patria-celebra-nueva-jornada-del-dia-del-criancero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Monte Patria dio inicio a las conmemoraciones nacionales de las Glorias Navales con emotivo homenaje a Wenceslao Vargas en Rapel",
-    "enlace": "https://www.elmontepatrino.cl/2026/05/15/monte-patria-dio-inicio-a-las-conmemoraciones-nacionales-de-las-glorias-navales-con-emotivo-homenaje-a-wenceslao-vargas-en-rapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1008,92 +1008,92 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Canela recibió jornada de Gobierno en Terreno con apoyo municipal y servicios públicos",
-    "enlace": "https://losviloschile.cl/canela/canela-recibio-jornada-de-gobierno-en-terreno-con-apoyo-municipal-y-servicios-publicos/",
+    "titulo": "Presentan demanda contra Municipalidad de Illapel por accidente protagonizado por conductor de vehículo municipal",
+    "enlace": "https://www.davidnoticias.cl/presentan-demanda-contra-municipalidad-de-illapel-por-accidente-protagonizado-por-conductor-de-vehiculo-municipal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Tribunal de Los Vilos ordena vacunar a tres hermanos por incumplir esquema obligatorio de vacunación",
-    "enlace": "https://losviloschile.cl/actualidad/tribunal-de-los-vilos-ordena-vacunar-a-tres-hermanos-por-incumplir-esquema-obligatorio-de-vacunacion/",
+    "titulo": "Seremi de Minería y Delegado Presidencial de Choapa visitan faena de Minera Los Pelambres",
+    "enlace": "https://www.davidnoticias.cl/seremi-de-mineria-y-delegado-presidencial-de-choapa-visitan-faena-de-minera-los-pelambres/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Minera Los Pelambres y Municipalidad de Los Vilos abren postulaciones a programas de emprendimiento",
-    "enlace": "https://losviloschile.cl/lospelambres/minera-los-pelambres-y-municipalidad-de-los-vilos-abren-postulaciones-a-programas-de-emprendimiento/",
+    "titulo": "El pan amenaza con transformarse en un lujo: expertos advierten fuerte impacto en el bolsillo de los chilenos",
+    "enlace": "https://www.davidnoticias.cl/el-pan-amenaza-con-transformarse-en-un-lujo-expertos-advierten-fuerte-impacto-en-el-bolsillo-de-los-chilenos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Más de 1.200 procedimientos y cerca de 80 detenidos marcan balance de seguridad en Los Vilos",
-    "enlace": "https://losviloschile.cl/policial/mas-de-1-200-procedimientos-y-cerca-de-80-detenidos-marcan-balance-de-seguridad-en-los-vilos/",
+    "titulo": "Concejal de Canela destaca reunión con Contralor Regional para abordar problemáticas del Choapa",
+    "enlace": "https://www.davidnoticias.cl/concejal-de-canela-destaca-reunion-con-contralor-regional-para-abordar-problematicas-del-choapa/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Proyecto de conservación del cuartel BICRIM de Los Vilos alcanza un 73% de avance",
-    "enlace": "https://losviloschile.cl/actualidad/proyecto-de-conservacion-del-cuartel-bicrim-de-los-vilos-alcanza-un-73-de-avance/",
+    "titulo": "La Inteligencia Artificial imagina un nuevo rostro para la costanera de Los Vilos",
+    "enlace": "https://www.davidnoticias.cl/la-inteligencia-artificial-imagina-un-nuevo-rostro-para-la-costanera-de-los-vilos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Masiva preparación ante emergencias: 139 establecimientos del Choapa participaron en simulacro de terremoto y tsunami",
-    "enlace": "https://losviloschile.cl/actualidad/masiva-preparacion-ante-emergencias-139-establecimientos-del-choapa-participaron-en-simulacro-de-terremoto-y-tsunami/",
+    "titulo": "Dolor en el deporte vileño: joven futbolista fallece tras descompensarse en partido en Los Vilos",
+    "enlace": "https://www.davidnoticias.cl/dolor-en-el-deporte-vileno-joven-futbolista-fallece-tras-descompensarse-en-partido-en-los-vilos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Obras de pavimentación en rutas D-901 y D-937 de Canela alcanzan un 71% de avance",
-    "enlace": "https://losviloschile.cl/canela/obras-de-pavimentacion-en-rutas-d-901-y-d-937-de-canela-alcanzan-un-71-de-avance/",
+    "titulo": "Consejero regional Juan Hisi se reúne con ministra de Salud para impulsar escáner para Hospital de Los Vilos",
+    "enlace": "https://www.davidnoticias.cl/consejero-regional-juan-hisi-se-reune-con-ministra-de-salud-para-impulsar-escaner-para-hospital-de-los-vilos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Los Vilos volverá a recibir operativo de donación de sangre de la campaña “Ruta Salvavidas”",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-volvera-a-recibir-operativo-de-donacion-de-sangre-de-la-campana-ruta-salvavidas/",
+    "titulo": "Hallan feto humano de aproximadamente cinco meses en planta de tratamiento de Illapel",
+    "enlace": "https://www.davidnoticias.cl/hallan-feto-humano-de-aproximadamente-cinco-meses-en-planta-de-tratamiento-de-illapel/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "PDI recupera vehículo sustraído a su propietaria en Los Vilos mediante engaño de una red de estafadores",
-    "enlace": "https://losviloschile.cl/policial/pdi-recupera-vehiculo-sustraido-a-su-propietaria-en-los-vilos-mediante-engano-de-una-red-de-estafadores/",
+    "titulo": "Lo que vive oculto bajo el desierto: investigación inédita busca proteger especies invisibles y preservar el futuro del desierto florido",
+    "enlace": "https://www.davidnoticias.cl/lo-que-vive-oculto-bajo-el-desierto-investigacion-inedita-busca-proteger-especies-invisibles-y-preservar-el-futuro-del-desierto-florido/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Hospital de Los Vilos relevó avances en atención y proyectó desafíos para 2026",
-    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-relevo-avances-en-atencion-y-proyecto-desafios-para-2026/",
+    "titulo": "Centro Científico CEAZA estudiará los cañones submarinos del Archipiélago de Humboldt",
+    "enlace": "https://www.davidnoticias.cl/centro-cientifico-ceaza-estudiara-los-canones-submarinos-del-archipielago-de-humboldt/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
@@ -1548,6 +1548,78 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[NOTIFICACIÓN] Segundo Juzgado de Letras de San Antonio: Posesión efectiva ROL -V-87-2025 «Muñoz / Muñoz»",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/notificacion-segundo-juzgado-de-letras-de-san-antonio-posesion-efectiva-rol-v-87-2025-munoz-munoz/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-segundo-juzgado-de-letras-de-san-antonio-posesion-efectiva-rol-v-87-2025-munoz-munoz",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Aumento de alimentos RIT C-780-2025 «Martínez / Rosales»",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/notificacion-tribunal-de-familia-de-san-antonio-aumento-de-alimentos-rit-c-780-2025-martinez-rosales-6/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-aumento-de-alimentos-rit-c-780-2025-martinez-rosales-6",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Segundo Juzgado de Letras de San Antonio: Posesión efectiva ROL V-61-2025 «Pizarro / Fuentealba»",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/notificacion-segundo-juzgado-de-letras-de-san-antonio-posesion-efectiva-rol-v-61-2025-pizarro-fuentealba-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-segundo-juzgado-de-letras-de-san-antonio-posesion-efectiva-rol-v-61-2025-pizarro-fuentealba-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Juzgado Mixto de Quintero: Solicitud de declaración de herencia ROL V-47-2026 «Chandía / Aedo»",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/notificacion-juzgado-mixto-de-quintero-solicitud-de-declaracion-de-herencia-rol-v-47-2026-chandia-aedo-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-mixto-de-quintero-solicitud-de-declaracion-de-herencia-rol-v-47-2026-chandia-aedo-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[REMATE] Cartagena: Casa y sitio – 25/JUNIO/2026",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/remate-cartagena-casa-y-sitio-25-junio-2026-3/?utm_source=rss&utm_medium=rss&utm_campaign=remate-cartagena-casa-y-sitio-25-junio-2026-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Alimentos RIT C-286-2026 «Mela»",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-286-2026-mela-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-286-2026-mela-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Impugnación y reclamación de paternidad RIT C-2-2026 «Cornejo»",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/notificacion-tribunal-de-familia-de-san-antonio-impugnacion-y-reclamacion-de-paternidad-rit-c-2-2026-cornejo-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-impugnacion-y-reclamacion-de-paternidad-rit-c-2-2026-cornejo-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Aumento alimentos RIT C-1078-2025 «Contreras»",
+    "enlace": "https://diariolaquinta.cl/2026/05/29/notificacion-tribunal-de-familia-de-san-antonio-aumento-alimentos-rit-c-1078-2025-contreras-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-aumento-alimentos-rit-c-1078-2025-contreras-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Valparaíso cuenta con primer Plan de Acción Comunal de Cambio Climático",
     "enlace": "https://diariolaquinta.cl/2026/05/28/valparaiso-cuenta-con-primer-plan-de-accion-comunal-de-cambio-climatico/?utm_source=rss&utm_medium=rss&utm_campaign=valparaiso-cuenta-con-primer-plan-de-accion-comunal-de-cambio-climatico",
     "descripcion": "",
@@ -1566,80 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad de Villa Alemana prepara nutrida agenda para sumarse a la celebración del Día del Patrimonio 2026",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/municipalidad-de-villa-alemana-prepara-nutrida-agenda-para-sumarse-a-la-celebracion-del-dia-del-patrimonio-2026/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-villa-alemana-prepara-nutrida-agenda-para-sumarse-a-la-celebracion-del-dia-del-patrimonio-2026",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Valparaíso celebra el Día del Patrimonio 2026 con amplia programación cultural y comunitaria",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/valparaiso-celebra-el-dia-del-patrimonio-2026-con-amplia-programacion-cultural-y-comunitaria/?utm_source=rss&utm_medium=rss&utm_campaign=valparaiso-celebra-el-dia-del-patrimonio-2026-con-amplia-programacion-cultural-y-comunitaria",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[OPINIÓN] San Antonio: la unanimidad de los que no leen (Jorge Bustos)",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/opinion-san-antonio-la-unanimidad-de-los-que-no-leen-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-san-antonio-la-unanimidad-de-los-que-no-leen-jorge-bustos",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Aumento de alimentos RIT C-780-2025 «Martínez / Rosales»",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/notificacion-tribunal-de-familia-de-san-antonio-aumento-de-alimentos-rit-c-780-2025-martinez-rosales-5/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-aumento-de-alimentos-rit-c-780-2025-martinez-rosales-5",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Segundo Juzgado de Letras de San Antonio: Posesión efectiva ROL V-61-2025 «Pizarro / Fuentealba»",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/notificacion-segundo-juzgado-de-letras-de-san-antonio-posesion-efectiva-rol-v-61-2025-pizarro-fuentealba-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-segundo-juzgado-de-letras-de-san-antonio-posesion-efectiva-rol-v-61-2025-pizarro-fuentealba-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado Mixto de Quintero: Solicitud de declaración de herencia ROL V-47-2026 «Chandía / Aedo»",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/notificacion-juzgado-mixto-de-quintero-solicitud-de-declaracion-de-herencia-rol-v-47-2026-chandia-aedo-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-mixto-de-quintero-solicitud-de-declaracion-de-herencia-rol-v-47-2026-chandia-aedo-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[REMATE] Cartagena: Casa y sitio – 25/JUNIO/2026",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/remate-cartagena-casa-y-sitio-25-junio-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=remate-cartagena-casa-y-sitio-25-junio-2026-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Alimentos RIT C-286-2026 «Mela»",
-    "enlace": "https://diariolaquinta.cl/2026/05/28/notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-286-2026-mela/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-286-2026-mela",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Cuáles son las condiciones óptimas para jugar al nuevo Forza Horizon 6?",
-    "enlace": "https://g5noticias.cl/2026/05/29/cuales-son-las-condiciones-optimas-para-jugar-al-nuevo-forza-horizon-6/",
+    "titulo": "Con Fiesta de Los Locos Años 20 cerrará propuesta de Fin de Semana de Los Patrimonios en Quinta Normal",
+    "enlace": "https://g5noticias.cl/2026/05/29/con-fiesta-de-los-locos-anos-20-cerrara-propuesta-de-fin-de-semana-de-los-patrimonios-en-quinta-normal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los directorios chilenos saben lo que les falta, pero no logran cambiar: el 80% de su tiempo se va en agenda operativa",
-    "enlace": "https://g5noticias.cl/2026/05/29/los-directorios-chilenos-saben-lo-que-les-falta-pero-no-logran-cambiar-el-80-de-su-tiempo-se-va-en-agenda-operativa/",
+    "titulo": "SLEP del Aconcagua reunió a más de 200 personas en jornada sobre autismo e inclusión con reconocidas exponentes",
+    "enlace": "https://g5noticias.cl/2026/05/29/slep-del-aconcagua-reunio-a-mas-de-200-personas-en-jornada-sobre-autismo-e-inclusion-con-reconocidas-exponentes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Académico UV compitió con campeones mundiales y logró podio en torneo internacional en Miami",
-    "enlace": "https://g5noticias.cl/2026/05/29/academico-uv-compitio-con-campeones-mundiales-y-logro-podio-en-torneo-internacional-en-miami/",
+    "titulo": "Tribunal de Defensa de la Libre Competencia dicta un informe que aprueba la solicitud de extensión de la concesión vigente del Terminal N° 2 del Puerto de Valparaíso hasta el 31 de diciembre de 2029, y fija las condiciones a las que deberá sujetarse su eventual licitación",
+    "enlace": "https://g5noticias.cl/2026/05/29/tribunal-de-defensa-de-la-libre-competencia-dicta-un-informe-que-aprueba-la-solicitud-de-extension-de-la-concesion-vigente-del-terminal-n-2-del-puerto-de-valparaiso-hasta-el-31-de-diciembre-de-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El cobre: memoria y futuro de Chile. Por Francisco Lecaros, presidente de la Alianza Minera de América Latina (ALMA)",
-    "enlace": "https://g5noticias.cl/2026/05/29/el-cobre-memoria-y-futuro-de-chile-por-francisco-lecaros-presidente-de-la-alianza-minera-de-america-latina-alma-2/",
+    "titulo": "Chile y sus cielos: patrimonio científico bajo amenaza. Por Marcelo Ipinza Académico Instituto de Matemática, Física y Estadística Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/05/29/chile-y-sus-cielos-patrimonio-cientifico-bajo-amenaza-por-marcelo-ipinza-academico-instituto-de-matematica-fisica-y-estadistica-universidad-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Blindaje ante la IA: el nuevo vector de riesgo que las empresas no pueden ignorar",
-    "enlace": "https://g5noticias.cl/2026/05/29/blindaje-ante-la-ia-el-nuevo-vector-de-riesgo-que-las-empresas-no-pueden-ignorar/",
+    "titulo": "Encuesta Cadem y cuenta pública: 44% cree que el Presidente Kast debería usarla principalmente para reconocer errores y enmendar el rumbo y 40% para presentar nuevos anuncios y reformas",
+    "enlace": "https://g5noticias.cl/2026/05/29/encuesta-cadem-y-cuenta-publica-44-cree-que-el-presidente-kast-deberia-usarla-principalmente-para-reconocer-errores-y-enmendar-el-rumbo-y-40-para-presentar-nuevos-anuncios-y-reformas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En piscinas termales y alojamientos: Grupo termal Patagonia Andina lanza campaña online con descuentos en piscinas termales y alojamientos",
-    "enlace": "https://g5noticias.cl/2026/05/29/en-piscinas-termales-y-alojamientos-grupo-termal-patagonia-andina-lanza-campana-online-con-descuentos-en-piscinas-termales-y-alojamientos/",
+    "titulo": "MINVU destina más de 7 mil millones de pesos en la Región de Valparaíso para proyectos del programa de pavimentación participativa",
+    "enlace": "https://g5noticias.cl/2026/05/29/minvu-destina-mas-de-7-mil-millones-de-pesos-en-la-region-de-valparaiso-para-proyectos-del-programa-de-pavimentacion-participativa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los modelos de motos más exclusivos y esperados del diseño italiano ya están en Bistolfi Motors",
-    "enlace": "https://g5noticias.cl/2026/05/29/los-modelos-de-motos-mas-exclusivos-y-esperados-del-diseno-italiano-ya-estan-en-bistolfi-motors/",
+    "titulo": "All New Trailseeker 2026: el ADN aventurero de Subaru evoluciona hacia una nueva era eléctrica",
+    "enlace": "https://g5noticias.cl/2026/05/29/all-new-trailseeker-2026-el-adn-aventurero-de-subaru-evoluciona-hacia-una-nueva-era-electrica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Heroico triunfo de Universidad Católica: derrotó a Boca Juniors 1-0 en La Bombonera y clasifica como líder del grupo D de Copa Libertadores",
-    "enlace": "https://g5noticias.cl/2026/05/28/heroico-triunfo-de-universidad-catolica-derroto-a-boca-juniors-1-0-en-la-bombonera-y-clasifica-como-lider-del-grupo-d-de-copa-libertadores/",
+    "titulo": "La tasa de desocupación nacional llegó al 9,1% en el trimestre febrero-abril de 2026",
+    "enlace": "https://g5noticias.cl/2026/05/29/la-tasa-de-desocupacion-nacional-llego-al-91-en-el-trimestre-febrero-abril-de-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subsecretaría de Educación Superior entrega más de 751 mil beneficios estudiantiles",
-    "enlace": "https://g5noticias.cl/2026/05/28/subsecretaria-de-educacion-superior-entrega-mas-de-751-mil-beneficios-estudiantiles/",
+    "titulo": "USM concluye ciclo “Valparaíso inspira” con foco en alianzas y desarrollo territorial",
+    "enlace": "https://g5noticias.cl/2026/05/29/usm-concluye-ciclo-valparaiso-inspira-con-foco-en-alianzas-y-desarrollo-territorial/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Con Lionel Messi a la cabeza: Argentina dio a conocer la lista de convocados al Mundial 2026",
-    "enlace": "https://g5noticias.cl/2026/05/28/con-lionel-messi-a-la-cabeza-argentina-dio-a-conocer-la-lista-de-convocados-al-mundial-2026/",
+    "titulo": "Estados Unidos, México y Canadá refuerzan medidas por brote de ébola de cara al Mundial 2026",
+    "enlace": "https://g5noticias.cl/2026/05/29/estados-unidos-mexico-y-canada-refuerzan-medidas-por-brote-ebola-de-cara-al-mundial-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,8 +1818,8 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Uno de los menores del asalto a niña de 12 años fue enviado a la cárcel de Río de los Ciervos",
-    "enlace": "https://laprensaaustral.cl/2026/05/29/uno-de-los-menores-del-asalto-a-nina-de-12-anos-fue-enviado-a-la-carcel-de-rio-de-los-ciervos/",
+    "titulo": "Español enfrenta al Chile buscando seguir puntero",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/espanol-enfrenta-al-chile-buscando-seguir-puntero/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1827,8 +1827,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Carabineros realizó 354 controles en  operativo que concluye esta noche",
-    "enlace": "https://laprensaaustral.cl/2026/05/29/carabineros-realizo-354-controles-en-operativo-que-concluye-esta-noche/",
+    "titulo": "“Copa Aniversario” organiza el Club de Natación Punta Arenas",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/copa-aniversario-organiza-el-club-de-natacion-punta-arenas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1836,8 +1836,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Fiscal estableció que asistente social recibió pagos para ingresar al menos tres celulares a la cárcel",
-    "enlace": "https://laprensaaustral.cl/2026/05/29/fiscal-establecio-que-asistente-social-recibio-pagos-para-ingresar-al-menos-tres-celulares-a-la-carcel/",
+    "titulo": "Naranjo se fue a negro",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/naranjo-se-fue-a-negro/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1845,8 +1845,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Cinco partidos dieron el  vamos al vóleibol laboral",
-    "enlace": "https://laprensaaustral.cl/2026/05/28/cinco-partidos-dieron-el-vamos-al-voleibol-laboral/",
+    "titulo": "El patrimonio no puede seguir esperando",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/el-patrimonio-no-puede-seguir-esperando/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1854,8 +1854,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Vickery, Umag y Liceo son punteros en el “maxi”",
-    "enlace": "https://laprensaaustral.cl/2026/05/28/vickery-umag-y-liceo-son-punteros-en-el-maxi/",
+    "titulo": "Biministro Alvarado pidió a delegados presidenciales  que “la principal oficina debe ser el territorio”",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/biministro-alvarado-pidio-a-delegados-presidenciales-que-la-principal-oficina-debe-ser-el-territorio/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1863,8 +1863,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "“Aquí estoy para escucharlos”: Carla Jiménez Soto  asumió como nueva concejala de Punta Arenas",
-    "enlace": "https://laprensaaustral.cl/2026/05/28/aqui-estoy-para-escucharlos-carla-jimenez-soto-asumio-como-nueva-concejala-de-punta-arenas/",
+    "titulo": "En la próxima década  el “cruce de la muerte”  se convertiría en rotonda",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/en-la-proxima-decada-el-cruce-de-la-muerte-se-convertiria-en-rotonda/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Convención nacional de Leones destaca construcción  de Centro de Rehabilitación en Cabo de Hornos",
-    "enlace": "https://laprensaaustral.cl/2026/05/28/convencion-nacional-de-leones-destaca-construccion-de-centro-de-rehabilitacion-en-cabo-de-hornos/",
+    "titulo": "Ministro de Defensa preside en Punta Arenas el Consejo Aéreo  y anuncia reemplazo de los F-5 a “mediano o corto plazo”",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/ministro-de-defensa-preside-en-punta-arenas-el-consejo-aereo-y-anuncia-reemplazo-de-los-f-5-a-mediano-o-corto-plazo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "UC busca el premio mayor en “La Bombonera”",
-    "enlace": "https://laprensaaustral.cl/2026/05/28/uc-busca-el-premio-mayor-en-la-bombonera/",
+    "titulo": "Pobladores de Río Verde rescatan tradiciones  campesinas en taller de talabartería",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/pobladores-de-rio-verde-rescatan-tradiciones-campesinas-en-taller-de-talabarteria/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Liga Escolar: atletas  se dan cita en el Fiscal",
-    "enlace": "https://laprensaaustral.cl/2026/05/28/liga-escolar-atletas-se-dan-cita-en-el-fiscal/",
+    "titulo": "Andes Salud inaugura  su clínica en Magallanes  y anuncia nueva etapa  con ampliación de servicios",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/andes-salud-inaugura-su-clinica-en-magallanes-y-anuncia-nueva-etapa-con-ampliacion-de-servicios/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1899,13 +1899,40 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Mitos y leyendas transformaron al jardín “Bambi” en un escenario de imaginación y arte",
-    "enlace": "https://laprensaaustral.cl/2026/05/28/mitos-y-leyendas-transformaron-al-jardin-bambi-en-un-escenario-de-imaginacion-y-arte/",
+    "titulo": "Inauguran biblioteca solidaria “Palabras que Abrigan” para personas en situación de calle",
+    "enlace": "https://laprensaaustral.cl/2026/05/29/inauguran-biblioteca-solidaria-palabras-que-abrigan-para-personas-en-situacion-de-calle/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
     "zona": "Punta Arenas",
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "El terror de internet llega a la pantalla grande con el estreno de “Backrooms: Sin salida” en CineStar",
+    "enlace": "https://elmagallanico.com/2026/05/29/el-terror-de-internet-llega-a-la-pantalla-grande-con-el-estreno-de-backrooms-sin-salida-en-cinestar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Ministro de Defensa presidió primera sesión del Consejo Aéreo en la IVª Brigada Aérea",
+    "enlace": "https://elmagallanico.com/2026/05/29/ministro-de-defensa-presidio-primera-sesion-del-consejo-aereo-en-la-iva-brigada-aerea/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Enap invita a un entretenido Día del Patrimonio para conocer su historia energética y resaltar el valor patrimonial de Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/05/29/enap-invita-a-un-entretenido-dia-del-patrimonio-para-conocer-su-historia-energetica-y-resaltar-el-valor-patrimonial-de-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
     "titulo": "Edelmag abre su histórica Central Eléctrica para el día del Patrimonio",
@@ -1964,33 +1991,6 @@
   {
     "titulo": "Enap Impulsa 2026 cierra el proceso de postulaciones con la cifra récord de 178 proyectos en Magallanes",
     "enlace": "https://elmagallanico.com/2026/05/26/enap-impulsa-2026-cierra-el-proceso-de-postulaciones-con-la-cifra-record-de-178-proyectos-en-magallanes-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Enap Impulsa 2026 cierra el proceso de postulaciones con la cifra récord de 178 proyectos en Magallanes",
-    "enlace": "https://elmagallanico.com/2026/05/26/enap-impulsa-2026-cierra-el-proceso-de-postulaciones-con-la-cifra-record-de-178-proyectos-en-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "𝑵𝒖𝒏𝒄𝒂 𝒆𝒔 𝒕𝒂𝒓𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓𝒍a",
-    "enlace": "https://elmagallanico.com/2026/05/24/%f0%9d%91%b5%f0%9d%92%96%f0%9d%92%8f%f0%9d%92%84%f0%9d%92%82-%f0%9d%92%86%f0%9d%92%94-%f0%9d%92%95%f0%9d%92%82%f0%9d%92%93%f0%9d%92%85%f0%9d%92%86-%f0%9d%92%91%f0%9d%92%82%f0%9d%92%93%f0%9d%92%82/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Gobierno lanzó su estrategia nacional contra la explotación sexual de niños, niñas y adolescentes",
-    "enlace": "https://elmagallanico.com/2026/05/23/gobierno-lanzo-su-estrategia-nacional-contra-la-explotacion-sexual-de-ninos-ninas-y-adolescentes/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
