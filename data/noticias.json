@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Exitoso plan de prevención escolar se extenderá a colegios municipales",
+    "enlace": "https://laserenaonline.cl/2026/05/30/exitoso-plan-de-prevencion-escolar-se-extendera-a-colegios-municipales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Andacollo moderniza la entrega de licencias de conducir con tecnología de última generación",
     "enlace": "https://laserenaonline.cl/2026/05/30/andacollo-moderniza-la-entrega-de-licencias-de-conducir-con-tecnologia-de-ultima-generacion/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "La Serena iluminará su patrimonio con especátulo artístico en plena Plaza de Armas",
     "enlace": "https://laserenaonline.cl/2026/05/30/la-serena-iluminara-su-patrimonio-con-especatulo-artistico-en-plena-plaza-de-armas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Operativo “Seguridad Total” ha desplegado rondas en 11 comunas de la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/05/29/operativo-seguridad-total-ha-desplegado-rondas-en-11-comunas-de-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "“La danza de una pérdida” inicia circulación con estreno en Illapel",
-    "enlace": "https://veetv.cl/la-danza-de-una-perdida-inicia-circulacion-con-estreno-en-illapel/",
+    "titulo": "¿Cómo funciona el Sistema STOP y qué información aporta para la seguridad en el Choapa?",
+    "enlace": "https://veetv.cl/sistema-stop-seguridad-delitos-provincia-choapa/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Teatro del Choapa llegará a Colombia con gira de Ascetas",
-    "enlace": "https://veetv.cl/teatro-del-choapa-llegara-a-colombia-con-gira-de-ascetas/",
+    "titulo": "“La danza de una pérdida” inicia circulación con estreno en Illapel",
+    "enlace": "https://veetv.cl/la-danza-de-una-perdida-inicia-circulacion-con-estreno-en-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Pescadores artesanales mantienen paralización indefinida y refuerzan trabajo conjunto entre caletas de la Región de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/05/30/pescadores-artesanales-mantienen-paralizacion-indefinida-y-refuerzan-trabajo-conjunto-entre-caletas-de-la-region-de-valparaiso/",
+    "titulo": "Radiografía del lector chileno: Menores de 35 concentran más del 70% de la actividad lectora, donde el romance y la fantasía lideran sus preferencias",
+    "enlace": "https://g5noticias.cl/2026/05/30/radiografia-del-lector-chileno-menores-de-35-concentran-mas-del-70-de-la-actividad-lectora-donde-el-romance-y-la-fantasia-lideran-sus-preferencias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Con la presentación de una obra de teatro y la exhibición de instrumental clínico el Hospital Dr. Gustavo Fricke conmemoró el Día del Patrimonio Cultural",
-    "enlace": "https://g5noticias.cl/2026/05/30/con-la-presentacion-de-una-obra-de-teatro-y-la-exhibicion-de-instrumental-clinico-el-hospital-dr-gustavo-fricke-conmemoro-el-dia-del-patrimonio-cultural/",
+    "titulo": "Senador DC Iván Flores por Cuenta Pública: “Espero que el gobierno recapacite; este primer tiempo ha sido del terror ”",
+    "enlace": "https://g5noticias.cl/2026/05/30/senador-dc-ivan-flores-por-cuenta-publica-espero-que-el-gobierno-recapacite-este-primer-tiempo-ha-sido-del-terror/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "ANCCh, Fesan y Fenacopel abordan desafíos de agua potable rural y electricidad en reunión con el MOP",
-    "enlace": "https://g5noticias.cl/2026/05/30/ancch-fesan-y-fenacopel-abordan-desafios-de-agua-potable-rural-y-electricidad-en-reunion-con-el-mop/",
+    "titulo": "¿Por qué algunas personas revisan constantemente WhatsApp aunque no tengan mensajes? Esto dicen los expertos",
+    "enlace": "https://g5noticias.cl/2026/05/30/por-que-algunas-personas-revisan-constantemente-whatsapp-aunque-no-tengan-mensajes-esto-dicen-los-expertos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El París Saint-Germain se queda nuevamente con el título de la Champions League tras derrotar por penales en la gran final al Arsenal inglés",
-    "enlace": "https://g5noticias.cl/2026/05/30/el-paris-saint-germain-se-queda-nuevamente-con-el-titulo-de-la-champions-league-tras-derrotar-por-penales-en-la-gran-final-al-arsenal-ingles/",
+    "titulo": "Desafío Futuro Copec Avonni extiende plazo de postulación hasta el 14 de junio",
+    "enlace": "https://g5noticias.cl/2026/05/30/desafio-futuro-copec-avonni-extiende-plazo-de-postulacion-hasta-el-14-de-junio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Centralizar para simplificar: la nueva relación de los chilenos con sus pagos. Por Rodrigo Cornejo S., Gerente comercial y socio de Otrospagos.com",
-    "enlace": "https://g5noticias.cl/2026/05/30/centralizar-para-simplificar-la-nueva-relacion-de-los-chilenos-con-sus-pagos-por-rodrigo-cornejo-s-gerente-comercial-y-socio-de-otrospagos-com/",
+    "titulo": "Los Andes lanza plataforma para proyectar medidas frente al cambio climático",
+    "enlace": "https://g5noticias.cl/2026/05/30/los-andes-lanza-plataforma-para-proyectar-medidas-frente-al-cambio-climatico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Santiago Wanderers no pudo en Playa Ancha contra Unión Española y debió conformarse con un angustiante empate 2 a 2",
-    "enlace": "https://g5noticias.cl/2026/05/30/santiago-wanderers-no-pudo-en-playa-ancha-contra-union-espanola-y-debio-conformarse-con-un-angustiante-empate-2-a-2/",
+    "titulo": "Teatro Sporting debuta con Chofi y Tapia",
+    "enlace": "https://g5noticias.cl/2026/05/30/teatro-sporting-debuta-con-chofi-y-tapia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CyberDay 2026: Salfa activará promociones en su ecommerce para vehículos, arriendo y equipos John Deere",
-    "enlace": "https://g5noticias.cl/2026/05/30/cyberday-2026-salfa-activara-promociones-en-su-ecommerce-para-vehiculos-arriendo-y-equipos-john-deere/",
+    "titulo": "Proyecto USM utiliza optimización y teoría de juegos para diseñar patrullajes urbanos más eficientes",
+    "enlace": "https://g5noticias.cl/2026/05/30/proyecto-usm-utiliza-optimizacion-y-teoria-de-juegos-para-disenar-patrullajes-urbanos-mas-eficientes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "No basta con bajar los precios: 7 claves para que tu empresa destaque en el próximo Cyber Day",
-    "enlace": "https://g5noticias.cl/2026/05/30/no-basta-con-bajar-los-precios-7-claves-para-que-tu-empresa-destaque-en-el-proximo-cyber-day/",
+    "titulo": "Lula da Silva a Estados Unidos: «No aceptamos ser tratados como niños»",
+    "enlace": "https://g5noticias.cl/2026/05/30/lula-da-silva-a-estados-unidos-no-aceptamos-ser-tratados-como-ninos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Liga de Ascenso: San Luis de Quillota rescató como visitante un empate sin goles frente a Deportes Recoleta",
-    "enlace": "https://g5noticias.cl/2026/05/30/liga-de-ascenso-san-luis-de-quillota-rescato-como-visitante-un-empate-sin-goles-frente-a-deportes-recoleta/",
+    "titulo": "Alarma en Alemania: aeropuerto de Múnich cerró sus operaciones por una hora tras alerta de un posible dron",
+    "enlace": "https://g5noticias.cl/2026/05/30/alarma-en-alemania-aeropuerto-de-munich-cerro-sus-operaciones-por-una-hora-tras-alerta-de-un-posible-dron/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 500 mujeres de la Región Metropolitana accedieron a mamografías gratuitas",
-    "enlace": "https://g5noticias.cl/2026/05/30/mas-de-500-mujeres-de-la-region-metropolitana-accedieron-a-mamografias-gratuitas/",
+    "titulo": "Cuatro errores que están frenando la contratación de talento en Chile",
+    "enlace": "https://g5noticias.cl/2026/05/30/cuatro-errores-que-estan-frenando-la-contratacion-de-talento-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
