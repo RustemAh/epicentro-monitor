@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Tongoy vivió una fiesta deportiva con la llegada de la corrida Sand Run organizada por la Armada y Municipio de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/30/tongoy-vivio-una-fiesta-deportiva-con-la-llegada-de-la-corrida-sand-run-organizada-ppr-la-armada-y-municipio-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "“Patrimoniando en Coquimbo” convocó a cientos de personas en una exitosa primera jornada de celebración",
+    "enlace": "https://www.elcoquimbano.cl/2026/05/30/patrimoniando-en-coquimbo-convoco-a-cientos-de-personas-en-una-exitosa-primera-jornada-de-celebracion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Remate. Departamento 301, Edificio B y estacionamiento 42. Condominio Paseo San Carlos IV, Coquimbo.",
     "enlace": "https://www.elcoquimbano.cl/2026/05/30/remate-departamento-301-edificio-b-y-estacionamiento-42-condominio-paseo-san-carlos-iv-coquimbo/",
     "descripcion": "",
@@ -72,22 +90,22 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Olas que sanan: Surf Therapy Coquimbo culmina exitoso piloto de salud mental infantil en Guayacán",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/28/olas-que-sanan-surf-therapy-coquimbo-culmina-exitoso-piloto-de-salud-mental-infantil-en-guayacan/",
+    "titulo": "Balance Colo Colo y Deportes La Serena: 11 detenidos y violentas agresiones a hinchas albos infiltrados en galería",
+    "enlace": "https://www.elserenense.cl/comunales/2026/05/30/balance-colo-colo-y-deportes-la-serena-11-detenidos-y-violentas-agresiones-a-hinchas-albos-infiltrados-en-galeria/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Refuerzan despliegue para impulsar la activación del Cupón de Gas en la Región de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/05/27/refuerzan-despliegue-para-impulsar-la-activacion-del-cupon-de-gas-en-la-region-de-coquimbo/",
+    "titulo": "Deportes La Serena dio batalla ante el líder, pero cayó en un intenso duelo en La Portada",
+    "enlace": "https://www.elserenense.cl/comunales/2026/05/30/deportes-la-serena-dio-batalla-ante-el-lider-pero-cayo-en-un-intenso-duelo-en-la-portada/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Detectives recuperan especies avaluadas en $3,5 millones y detienen a imputado tras robo a vivienda en La Serena",
@@ -155,24 +173,6 @@
   {
     "titulo": "Corte programado de energía afectará a sector Alto Oriente de Las Compañías en La Serena este viernes",
     "enlace": "https://www.elserenense.cl/comunales/2026/05/28/corte-programado-de-energia-afectara-a-sector-alto-oriente-de-las-companias-en-la-serena-este-viernes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La “Tía Rica” abrirá sus puertas en el Día de los Patrimonios en La Serena",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/05/28/la-tia-rica-abrira-sus-puertas-en-el-dia-de-los-patrimonios-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Remate. Inmueble casa N° 2 del condominio G&G, calle Juan Cisternas 2273, La Serena",
-    "enlace": "https://www.elserenense.cl/legales/2026/05/28/remate-inmueble-casa-n-2-del-condominio-gg-calle-juan-cisternas-2273-la-serena-3/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Accidente vehicular en Salamanca deja una persona lesionada en sector El Boldo",
+    "enlace": "https://www.elsalamanquino.cl/2026/05/30/accidente-vehicular-en-salamanca-deja-una-persona-lesionada-en-sector-el-boldo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Vehículo con encargo por robo fue recuperado durante patrullaje preventivo en Salamanca",
     "enlace": "https://www.elsalamanquino.cl/2026/05/30/vehiculo-con-encargo-por-robo-fue-recuperado-durante-patrullaje-preventivo-en-salamanca/",
     "descripcion": "",
@@ -992,15 +1001,6 @@
   {
     "titulo": "Buscan recoger experiencias de personas migrantes para fortalecer atención en salud en Salamanca",
     "enlace": "https://www.elsalamanquino.cl/2026/05/19/buscan-recoger-experiencias-de-personas-migrantes-para-fortalecer-atencion-en-salud-en-salamanca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Concejo Municipal de Salamanca aprobó recursos para televigilancia y subvenciones comunitarias",
-    "enlace": "https://www.elsalamanquino.cl/2026/05/18/concejo-municipal-de-salamanca-aprobo-recursos-para-televigilancia-y-subvenciones-comunitarias/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Con solo 10 años: Andacollina Maithe Espinoza se corona campeona internacional de Mountain Bike en Brasil",
+    "enlace": "https://www.elandacollino.cl/2026/05/30/con-solo-10-anos-andacollina-maithe-espinoza-se-corona-campeona-internacional-de-mountain-bike-en-brasil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Andacollo moderniza la entrega de licencias de conducir con tecnología de última generación",
     "enlace": "https://www.elandacollino.cl/2026/05/30/andacollo-moderniza-la-entrega-de-licencias-de-conducir-con-tecnologia-de-ultima-generacion/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Intentan incendiar cierre perimetral de nuevos juegos infantiles en Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/05/20/intentan-incendiar-cierre-perimetral-de-nuevos-juegos-infantiles-en-andacollo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Cochilco eleva el precio promedio del cobrea US$ 5,55 la libra para el año 2026",
-    "enlace": "https://www.elandacollino.cl/2026/05/20/cochilco-eleva-el-precio-promedio-del-cobrea-us-555-la-libra-para-el-ano-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Día del Patrimonio: alta convocatoria en jornada abierta en cementerio Santa Inés y recorridos en palacios y sitios patrimoniales de Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/05/30/dia-del-patrimonio-alta-convocatoria-en-jornada-abierta-en-cementerio-santa-ines-y-recorridos-en-palacios-y-sitios-patrimoniales-de-vina-del-mar/",
+    "titulo": "Inteligencia artificial, salud mental y emprendimiento: UNAB abre ciclo gratuito de charlas online para todo público",
+    "enlace": "https://g5noticias.cl/2026/05/30/inteligencia-artificial-salud-mental-y-emprendimiento-unab-abre-ciclo-gratuito-de-charlas-online-para-todo-publico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comisión Especial de Zonas Extremas paticipará de actividades conmemorativas del asalto y toma del Morro de Arica",
-    "enlace": "https://g5noticias.cl/2026/05/30/comision-especial-de-zonas-extremas-paticipara-de-actividades-conmemorativas-del-asalto-y-toma-del-morro-de-arica/",
+    "titulo": "CyberDay 2026: guía sobre qué hacer para evitar caer en estafas digitales",
+    "enlace": "https://g5noticias.cl/2026/05/30/cyberday-2026-guia-sobre-que-hacer-para-evitar-caer-en-estafas-digitales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alta convocatoria marcó la primera jornada del Día de los Patrimonios en la Seremi de Salud de Valparaíso, con más de un centenar de asistentes",
-    "enlace": "https://g5noticias.cl/2026/05/30/alta-convocatoria-marco-la-primera-jornada-del-dia-de-los-patrimonios-en-la-seremi-de-salud-de-valparaiso-con-mas-de-un-centenar-de-asistentes/",
+    "titulo": "Milagro en Laos: rescatan a cinco hombres atrapados en una cueva inundada",
+    "enlace": "https://g5noticias.cl/2026/05/30/milagro-en-laos-rescatan-a-cinco-hombres-atrapados-en-una-cueva-inundada/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Unión San Felipe venció en casa a Deportes Puerto Montt y se aleja de las últimas posiciones de la tabla de la Liga de Ascenso",
-    "enlace": "https://g5noticias.cl/2026/05/30/union-san-felipe-vencio-en-casa-a-deportes-puerto-montt-y-se-aleja-de-las-ultimas-posiciones-de-la-tabla-de-la-liga-de-ascenso/",
+    "titulo": "Tensión en Medio Oriente: EE.UU. ataca un barco que intentaba romper el bloqueo a Irán cerca del estrecho de Ormuz",
+    "enlace": "https://g5noticias.cl/2026/05/30/tension-en-medio-oriente-ee-uu-ataca-un-barco-que-intentaba-romper-el-bloqueo-a-iran-cerca-del-estrecho-de-ormuz/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PAR Explora O’Higgins forma a 135 educadoras de párvulos en investigación artística para la primera infancia",
-    "enlace": "https://g5noticias.cl/2026/05/30/par-explora-ohiggins-forma-a-135-educadoras-de-parvulos-en-investigacion-artistica-para-la-primera-infancia/",
+    "titulo": "El comprador de último minuto domina el Cyber: más de un tercio de las compras del último día se concentra al cierre del evento",
+    "enlace": "https://g5noticias.cl/2026/05/30/el-comprador-de-ultimo-minuto-domina-el-cyber-mas-de-un-tercio-de-las-compras-del-ultimo-dia-se-concentra-al-cierre-del-evento/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cinco tips para elegir tecnología y aprovechar mejor las ofertas online",
-    "enlace": "https://g5noticias.cl/2026/05/30/cinco-tips-para-elegir-tecnologia-y-aprovechar-mejor-las-ofertas-online/",
+    "titulo": "Nueva alianza en la televisión: Porcel TV y TV+ se unen para transmitir la Cuenta Pública 2026",
+    "enlace": "https://g5noticias.cl/2026/05/30/nueva-alianza-en-la-television-porcel-tv-y-tv-se-unen-para-transmitir-la-cuenta-publica-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Encuentro por la Defensa de la Educación Pública: organizaciones de la Región de Valparaíso llaman a enfrentar los recortes y el desmantelamiento impulsado por Kast",
-    "enlace": "https://g5noticias.cl/2026/05/30/encuentro-por-la-defensa-de-la-educacion-publica-organizaciones-de-la-region-de-valparaiso-llaman-a-enfrentar-los-recortes-y-el-desmantelamiento-impulsado-por-kast/",
+    "titulo": "Desmanes en Francia: Más de 400 detenidos durante celebraciones tras victoria del PSG en final de Champions League",
+    "enlace": "https://g5noticias.cl/2026/05/30/desmanes-en-francia-mas-de-400-detenidos-durante-celebraciones-tras-victoria-del-psg-en-final-de-champions-league/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Andrés Celis acusa falta de voluntad política de Mundaca para dar continuidad al programa de televigilancia con drones",
-    "enlace": "https://g5noticias.cl/2026/05/30/diputado-andres-celis-acusa-falta-de-voluntad-politica-de-mundaca-para-dar-continuidad-al-programa-de-televigilancia-con-drones/",
+    "titulo": "Universidad Gabriela Mistral realizará II Simposio Internacional de Salud Mental Perinatal",
+    "enlace": "https://g5noticias.cl/2026/05/30/universidad-gabriela-mistral-realizara-ii-simposio-internacional-de-salud-mental-perinatal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Colo Colo se mantiene firme en el primer lugar de la Liga de Primera: venció 4-2 a Deportes La Serena en La Portada",
-    "enlace": "https://g5noticias.cl/2026/05/30/colo-colo-se-mantiene-firme-en-el-primer-lugar-de-la-liga-de-primera-vencio-4-2-a-deportes-la-serena-en-la-portada/",
+    "titulo": "Juzgado de Garantía de Coronel decreta la privación de libertad de imputados por robo con homicidio",
+    "enlace": "https://g5noticias.cl/2026/05/30/juzgado-de-garantia-de-coronel-decreta-la-privacion-de-libertad-de-imputados-por-robo-con-homicidio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Las lluvias no terminan con la sequía: Biobío ante el desafío climático de “El Niño”",
-    "enlace": "https://g5noticias.cl/2026/05/30/las-lluvias-no-terminan-con-la-sequia-biobio-ante-el-desafio-climatico-de-el-nino/",
+    "titulo": "Sistema de Información Geográfica: la innovación que está transformando la gestión del riesgo de desastres en centros de trabajo",
+    "enlace": "https://g5noticias.cl/2026/05/30/sistema-de-informacion-geografica-la-innovacion-que-esta-transformando-la-gestion-del-riesgo-de-desastres-en-centros-de-trabajo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
