@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Colegio Islón de La Serena organizó VII versión de la Corrida Familiar y Feria Saludable de Escuelas Rurales",
+    "enlace": "https://www.elserenense.cl/educacion/2026/06/05/colegio-islon-de-la-serena-organizo-vii-version-de-la-corrida-familiar-y-feria-saludable-de-escuelas-rurales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Festival Papayo 2026 reprograma su fecha y confirma su realización para agosto en La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/06/05/festival-papayo-2026-reprograma-su-fecha-y-confirma-su-realizacion-para-agosto-en-la-serena/",
     "descripcion": "",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Comenzó en La Serena el Encuentro Nacional de Alcaldes y Alcaldesas 2026 de la Asociación Chilena de Municipalidades",
-    "enlace": "https://www.elserenense.cl/comunales/2026/06/03/comenzo-en-la-serena-el-encuentro-nacional-de-alcaldes-y-alcaldesas-2026-de-la-asociacion-chilena-de-municipalidades/",
+    "titulo": "Más de 7 mil personas ya están trabajando en el proyecto Adaptación Operacional de Minera Los Pelambres",
+    "enlace": "https://laserenaonline.cl/2026/06/05/mas-de-7-mil-personas-ya-estan-trabajando-en-el-proyecto-adaptacion-operacional-de-minera-los-pelambres/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Sembrando conciencia ambiental: niños del jardín infantil Hospital San Pablo reciclan sus residuos",
+    "enlace": "https://laserenaonline.cl/2026/06/05/sembrando-conciencia-ambiental-ninos-del-jardin-infantil-hospital-san-pablo-reciclan-sus-residuos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Centro Cultural Palace invita a descubrir los secretos del océano en exposición fotográfica submarina",
+    "enlace": "https://laserenaonline.cl/2026/06/05/centro-cultural-palace-invita-a-descubrir-los-secretos-del-oceano-en-exposicion-fotografica-submarina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Alcaldes de La Serena y Puerto Montt piden al Presidente Kast flexibilizar norma que limita instalación de casinos",
     "enlace": "https://laserenaonline.cl/2026/06/05/alcaldes-de-la-serena-y-puerto-montt-piden-al-presidente-kast-flexibilizar-norma-que-limita-instalacion-de-casinos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 5 de mayo para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/05/el-tiempo-hoy-5-de-mayo-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Alcaldesa Norambuena evalúa acciones legales por destrozos y rayados que dejó marcha estudiantil",
-    "enlace": "https://laserenaonline.cl/2026/06/04/alcaldesa-norambuena-evalua-acciones-legales-por-destrozos-y-rayados-que-dejo-marcha-estudiantil/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Club de adulto mayor de La Serena realiza sesión fotográfica",
-    "enlace": "https://laserenaonline.cl/2026/06/04/club-de-adulto-mayor-de-la-serena-realiza-sesion-fotografica/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Ministro Secretario General de la Presidencia José García Ruminot refuerza mensaje de Gobierno al Gabinete Regional",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/05/ministro-secretario-general-de-la-presidencia-jose-garcia-ruminot-refuerza-mensaje-de-gobierno-al-gabinete-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Ministro Poduje encabeza entrega de más de 230 subsidios habitacionales para familias de La Serena",
     "enlace": "https://regiondecoquimbo.cl/2026/06/05/ministro-poduje-encabeza-entrega-de-mas-de-230-subsidios-habitacionales-para-familias-de-la-serena/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Municipalidad de La Serena condena rayados tras marcha estudiantil",
     "enlace": "https://regiondecoquimbo.cl/2026/06/04/municipalidad-de-la-serena-condena-rayados-tras-marcha-estudiantil/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "7,5% de los adolescentes consume tabaco y 37,7% estuvo expuesto al humo en su hogar",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/04/75-de-los-adolescentes-consume-tabaco-y-377-estuvo-expuesto-al-humo-en-su-hogar/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Reducción de jornada laboral: ¿Se reabre el debate sobre el futuro del trabajo?",
+    "enlace": "https://www.davidnoticias.cl/reduccion-de-jornada-laboral-se-reabre-el-debate-sobre-el-futuro-del-trabajo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "CEDUC UCV sede Choapa avanza la autosuficiencia energética",
     "enlace": "https://www.davidnoticias.cl/ceduc-ucv-sede-choapa-avanza-la-autosuficiencia-energetica/",
     "descripcion": "",
@@ -1089,13 +1098,13 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Recorte de US$ 70 millones golpeará a municipios del país por reforma que elimina contribuciones a adultos mayores",
-    "enlace": "https://www.davidnoticias.cl/recorte-de-us-70-millones-golpeara-a-municipios-del-pais-por-reforma-que-elimina-contribuciones-a-adultos-mayores/",
+    "titulo": "Reunión entre Municipalidad de Andacollo y Aguas del Valle aclara situaciones de inversiones y problemáticas con fallas en la red",
+    "enlace": "https://www.elandacollino.cl/2026/06/05/reunion-entre-municipalidad-de-andacollo-y-aguas-del-valle-aclara-situaciones-de-inversiones-y-problematicas-con-fallas-en-la-red/",
     "descripcion": "",
     "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Subsecretario de Minería presenta a pequeños mineros de Elqui y Limarí alcances del primer proyecto minero del gobierno",
@@ -1179,12 +1188,12 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Con solo 10 años: Andacollina Maithe Espinoza se corona campeona internacional de Mountain Bike en Brasil",
-    "enlace": "https://www.elandacollino.cl/2026/05/30/con-solo-10-anos-andacollina-maithe-espinoza-se-corona-campeona-internacional-de-mountain-bike-en-brasil/",
+    "titulo": "Municipalidad de Paihuano destituye a funcionaria tras sumario por incumplimiento de licencia médica",
+    "enlace": "https://www.elpaihuanino.cl/2026/06/05/municipalidad-de-paihuano-destituye-a-funcionaria-tras-sumario-por-incumplimiento-de-licencia-medica/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
@@ -1269,13 +1278,13 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Programa de inglés continúa fortaleciendo el aprendizaje en los primeros años de niñas y niños del Valle de Elqui",
-    "enlace": "https://www.elpaihuanino.cl/2026/05/07/programa-de-ingles-continua-fortaleciendo-el-aprendizaje-en-los-primeros-anos-de-ninas-y-ninos-del-valle-de-elqui/",
+    "titulo": "Bajo estricta reserva: amplían detención de ocho carabineros investigados en Copiapó",
+    "enlace": "https://www.atacamanoticias.cl/2026/06/05/bajo-estricta-reserva-amplian-detencion-de-ocho-carabineros-investigados-en-copiapo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "Proyectos educativos de Atacama reciben asesoría para obtener el Reconocimiento Oficial del Estado",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Destacan trabajo por la reinserción social en Atacama",
     "enlace": "https://www.atacamanoticias.cl/2026/06/04/destacan-trabajo-por-la-reinsercion-social-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Incendio estructural en Copiapó consumió tres vivienda en Villa El Cerro: no se reportan lesionados",
-    "enlace": "https://www.atacamanoticias.cl/2026/06/03/incendio-estructural-afecta-a-vivienda-en-copiapo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Pilotos chilenos que corrieron en el «Desafío Ruta 40» contarán el otro lado de la competencia",
-    "enlace": "https://g5noticias.cl/2026/06/05/pilotos-chilenos-que-corrieron-en-el-desafio-ruta-40-contaran-el-otro-lado-de-la-competencia/",
+    "titulo": "Chile concreta primer envío de lana ovina a India, uno de los mayores mercados textiles del mundo",
+    "enlace": "https://g5noticias.cl/2026/06/05/chile-concreta-primer-envio-de-lana-ovina-a-india-uno-de-los-mayores-mercados-textiles-del-mundo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Impulsan nueva versión del programa «Energía para emprendedores Candelaria-Colbún»",
-    "enlace": "https://g5noticias.cl/2026/06/05/impulsan-nueva-version-del-programa-energia-para-emprendedores-candelaria-colbun/",
+    "titulo": "Diputados Republicanos y nuevo dictamen de la Superintendencia de Educación: “Los detectores de metal son un paso hacia adelante para brindar mayor seguridad”",
+    "enlace": "https://g5noticias.cl/2026/06/05/diputados-republicanos-y-nuevo-dictamen-de-la-superintendencia-de-educacion-los-detectores-de-metal-son-un-paso-hacia-adelante-para-brindar-mayor-seguridad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tres escaladores de montaña llegaron hasta la cumbre más alta del Parque Nacional Torres del Paine",
-    "enlace": "https://g5noticias.cl/2026/06/05/tres-escaladores-de-montana-llegaron-hasta-la-cumbre-mas-alta-del-parque-nacional-torres-del-paine/",
+    "titulo": "PDI Valparaíso detiene a mujer que transportaba droga en horarios nocturnos para evadir controles policiales",
+    "enlace": "https://g5noticias.cl/2026/06/05/pdi-valparaiso-detiene-a-mujer-que-transportaba-droga-en-horarios-nocturnos-para-evadir-controles-policiales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Día Mundial del Medio Ambiente 2026: «Una Salud, el llamado de la Tierra para construir un futuro más sano y esperanzador». Por Daniela Araya Cortez, Miembro del Comité Salud Planetaria de la Sociedad Chilena de Medicina del Estilo de Vida (SOCHIMEV)",
-    "enlace": "https://g5noticias.cl/2026/06/05/dia-mundial-del-medio-ambiente-2026-una-salud-el-llamado-de-la-tierra-para-construir-un-futuro-mas-sano-y-esperanzador-por-daniela-araya-cortez-miembro-del-comite-salud-planetaria-de-la-socied/",
+    "titulo": "ODC alerta por agresiones a personas comunicadoras durante manifestación en Santiago: «La violencia estatal contra la prensa no puede normalizarse»",
+    "enlace": "https://g5noticias.cl/2026/06/05/odc-alerta-por-agresiones-a-personas-comunicadoras-durante-manifestacion-en-santiago-la-violencia-estatal-contra-la-prensa-no-puede-normalizarse/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Por precaución: Lionel Messi no jugaría el amistoso de Argentina ante Honduras previo al Mundial 2026",
-    "enlace": "https://g5noticias.cl/2026/06/05/por-precaucion-lionel-messi-no-jugaria-el-amistoso-de-argentina-ante-honduras-previo-al-mundial-2026/",
+    "titulo": "Este fin de semana cierra el proceso de postulación al programa “Capital Emprendedor” de Sopraval",
+    "enlace": "https://g5noticias.cl/2026/06/05/este-fin-de-semana-cierra-el-proceso-de-postulacion-al-programa-capital-emprendedor-de-sopraval/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Concejales Alejandro Gazmuri y Daniel Erraz plantean al ministro de Seguridad urgencia de recuperar sitios eriazos y aumentar dotación de Carabineros en Villa Alemana",
-    "enlace": "https://g5noticias.cl/2026/06/05/concejales-alejandro-gazmuri-y-daniel-erraz-plantean-al-ministro-de-seguridad-urgencia-de-recuperar-sitios-eriazos-y-aumentar-dotacion-de-carabineros-en-villa-alemana/",
+    "titulo": "Arena Cavancha recibirá este sábado un nuevo encuentro de boxeo internacional con Marcial «Chay» Carrión",
+    "enlace": "https://g5noticias.cl/2026/06/05/arena-cavancha-recibira-este-sabado-un-nuevo-encuentro-de-boxeo-internacional-con-marcial-chay-carrion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Santiago ordena a Junaeb entregar información solicitada por ley de transparencia",
-    "enlace": "https://g5noticias.cl/2026/06/05/corte-de-santiago-ordena-a-junaeb-entregar-informacion-solicitada-por-ley-de-transparencia/",
+    "titulo": "La música está de luto: falleció a los 77 años el Indio Solari, exlíder del grupo Patricio Rey y sus Redonditos de Ricota",
+    "enlace": "https://g5noticias.cl/2026/06/05/la-musica-esta-de-luto-fallecio-a-los-77-anos-el-indio-solari-exlider-del-grupo-patricio-rey-y-sus-redonditos-de-ricota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Experto en liderazgo educativo destacó innovador programa Impulsa Líderes de la RedQ",
-    "enlace": "https://g5noticias.cl/2026/06/05/experto-en-liderazgo-educativo-destaco-innovador-programa-impulsa-lideres-de-la-redq/",
+    "titulo": "Ministro Secretario General de la Presidencia José García Ruminot refuerza mensaje de Gobierno al Gabinete Regional",
+    "enlace": "https://g5noticias.cl/2026/06/05/ministro-secretario-general-de-la-presidencia-jose-garcia-ruminot-refuerza-mensaje-de-gobierno-al-gabinete-regional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Armada entrega aviso de marejadas desde Golfo de Penas hasta Arica y archipiélago Juan Fernández",
-    "enlace": "https://g5noticias.cl/2026/06/05/armada-entrega-aviso-de-marejadas-desde-golfo-de-penas-hasta-arica-y-archipielago-juan-fernandez/",
+    "titulo": "Con reforestación de árboles nativos y charla ambiental el Consejo Consultivo Regional de Medio Ambiente celebra la semana del medio ambiente en Jardín Botánico de Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/06/05/con-reforestacion-de-arboles-nativos-y-charla-ambiental-el-consejo-consultivo-regional-de-medio-ambiente-celebra-la-semana-del-medio-ambiente-en-jardin-botanico-de-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "OS9 de Carabineros detuvo a autor de homicidio ocurrido en la comuna de Santiago",
-    "enlace": "https://g5noticias.cl/2026/06/05/os9-de-carabineros-detuvo-a-autor-de-homicidio-ocurrido-en-la-comuna-de-santiago/",
+    "titulo": "Diputado Jaime Araya recurre a Contraloría y emplaza a Hacienda por resolución del SII que habilita tributación de apuestas online: «Es absurdo cobrar impuestos por una actividad ilícita»",
+    "enlace": "https://g5noticias.cl/2026/06/05/diputado-jaime-araya-recurre-a-contraloria-y-emplaza-a-hacienda-por-resolucion-del-sii-que-habilita-tributacion-de-apuestas-online-es-absurdo-cobrar-impuestos-por-una-actividad-ilicita/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
