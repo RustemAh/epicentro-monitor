@@ -1458,6 +1458,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Estudiantes del Liceo Bicentenario de Zapallar desarrollan innovador sistema con drones e IA para detectar incendios forestales",
+    "enlace": "https://laliguanoticias.cl/2026/06/05/estudiantes-del-liceo-bicentenario-de-zapallar-desarrollan-innovador-sistema-con-drones-e-ia-para-detectar-incendios-forestales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Este fin de semana cierra el proceso de postulación al programa “Capital Emprendedor” de Sopraval",
+    "enlace": "https://laliguanoticias.cl/2026/06/05/este-fin-de-semana-cierra-el-proceso-de-postulacion-al-programa-capital-emprendedor-de-sopraval/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "Transitadas calles de Llay Llay cuentan con tres kilómetros de nuevas luminarias peatonales",
     "enlace": "https://laliguanoticias.cl/2026/06/04/transitadas-calles-de-llay-llay-cuentan-con-tres-kilometros-de-nuevas-luminarias-peatonales/",
     "descripcion": "",
@@ -1523,24 +1541,6 @@
   {
     "titulo": "Impulsaran elaboración de bioinsumos para reducir costos y contaminación en predios agrícolas de la comuna de Zapallar",
     "enlace": "https://laliguanoticias.cl/2026/06/01/impulsaran-elaboracion-de-bioinsumos-para-reducir-costos-y-contaminacion-en-predios-agricolas-de-la-comuna-de-zapallar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Club Deportivo y Social Alianza Central ya cuenta con nueva sede tras años de espera: proyecto demando cerca de 100 millones de pesos",
-    "enlace": "https://laliguanoticias.cl/2026/06/01/club-deportivo-y-social-alianza-central-ya-cuenta-con-nueva-sede-tras-anos-de-espera-proyecto-demando-cerca-de-100-millones-de-pesos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Dictan condena de 5 años de presidio para hombre que abuso de una menor en Cabildo",
-    "enlace": "https://laliguanoticias.cl/2026/05/28/dictan-condena-de-5-anos-de-presidio-para-hombre-que-abuso-de-una-menor-en-cabildo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,89 +1638,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "La Cruz se suma a la fiebre mundialera con gran cambiatón de láminas",
+    "enlace": "https://g5noticias.cl/2026/06/05/la-cruz-se-suma-a-la-fiebre-mundialera-con-gran-cambiaton-de-laminas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Prisión para imputado por homicidio de ecuatoriano en Santiago Centro",
+    "enlace": "https://g5noticias.cl/2026/06/05/prision-para-imputado-por-homicidio-de-ecuatoriano-en-santiago-centro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fallo de la Corte de Apelaciones de Valparaíso respalda actuación de la Municipalidad de San Felipe frente a la extracción de áridos",
+    "enlace": "https://g5noticias.cl/2026/06/05/fallo-de-la-corte-de-apelaciones-de-valparaiso-respalda-actuacion-de-la-municipalidad-de-san-felipe-frente-a-la-extraccion-de-aridos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "SLEP del Aconcagua inicia proceso de postulación para conformar el Consejo Local de Educación Pública 2026-2028",
+    "enlace": "https://g5noticias.cl/2026/06/05/slep-del-aconcagua-inicia-proceso-de-postulacion-para-conformar-el-consejo-local-de-educacion-publica-2026-2028/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con el traslado de los primeros equipos de funcionarios, avanza la etapa de Habilitación del Hospital Provincial Marga Marga de la red SSVQP",
+    "enlace": "https://g5noticias.cl/2026/06/05/con-el-traslado-de-los-primeros-equipos-de-funcionarios-avanza-la-etapa-de-habilitacion-del-hospital-provincial-marga-marga-de-la-red-ssvqp/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Referente nacional en turismo sostenible: Concón expuso su Ordenanza de Protección de Humedal ante municipios de todo Chile",
+    "enlace": "https://g5noticias.cl/2026/06/05/referente-nacional-en-turismo-sostenible-concon-expuso-su-ordenanza-de-proteccion-de-humedal-ante-municipios-de-todo-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Vecinos de todas las edades disfrutaron de la “Feria de la familia y el cuidado mutuo” en el sector sur de Villa Alemana",
+    "enlace": "https://g5noticias.cl/2026/06/05/vecinos-de-todas-las-edades-disfrutaron-de-la-feria-de-la-familia-y-el-cuidado-mutuo-en-el-sector-sur-de-villa-alemana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Operativo del SEBV permite la incautación de 11 motores robados y la detención de cuatro sujetos",
+    "enlace": "https://g5noticias.cl/2026/06/05/operativo-del-sebv-permite-la-incautacion-de-11-motores-robados-y-la-detencion-de-cuatro-sujetos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Increíble caso de autodefensa ciudadana en Chorrillos: grupo de vecinas detuvo a ladrón que pillaron infraganti al interior de un inmueble. El sujeto portaba además una treintena de papelillos de droga",
+    "enlace": "https://g5noticias.cl/2026/06/05/increible-caso-de-autodefensa-ciudadana-en-chorrillos-grupo-de-vecinas-detuvo-a-ladron-que-pillaron-infraganti-y-quien-portaba-una-treintena-de-papelillos-de-droga/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Chile concreta primer envío de lana ovina a India, uno de los mayores mercados textiles del mundo",
     "enlace": "https://g5noticias.cl/2026/06/05/chile-concreta-primer-envio-de-lana-ovina-a-india-uno-de-los-mayores-mercados-textiles-del-mundo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputados Republicanos y nuevo dictamen de la Superintendencia de Educación: “Los detectores de metal son un paso hacia adelante para brindar mayor seguridad”",
-    "enlace": "https://g5noticias.cl/2026/06/05/diputados-republicanos-y-nuevo-dictamen-de-la-superintendencia-de-educacion-los-detectores-de-metal-son-un-paso-hacia-adelante-para-brindar-mayor-seguridad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "PDI Valparaíso detiene a mujer que transportaba droga en horarios nocturnos para evadir controles policiales",
-    "enlace": "https://g5noticias.cl/2026/06/05/pdi-valparaiso-detiene-a-mujer-que-transportaba-droga-en-horarios-nocturnos-para-evadir-controles-policiales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "ODC alerta por agresiones a personas comunicadoras durante manifestación en Santiago: «La violencia estatal contra la prensa no puede normalizarse»",
-    "enlace": "https://g5noticias.cl/2026/06/05/odc-alerta-por-agresiones-a-personas-comunicadoras-durante-manifestacion-en-santiago-la-violencia-estatal-contra-la-prensa-no-puede-normalizarse/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Este fin de semana cierra el proceso de postulación al programa “Capital Emprendedor” de Sopraval",
-    "enlace": "https://g5noticias.cl/2026/06/05/este-fin-de-semana-cierra-el-proceso-de-postulacion-al-programa-capital-emprendedor-de-sopraval/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Arena Cavancha recibirá este sábado un nuevo encuentro de boxeo internacional con Marcial «Chay» Carrión",
-    "enlace": "https://g5noticias.cl/2026/06/05/arena-cavancha-recibira-este-sabado-un-nuevo-encuentro-de-boxeo-internacional-con-marcial-chay-carrion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "La música está de luto: falleció a los 77 años el Indio Solari, exlíder del grupo Patricio Rey y sus Redonditos de Ricota",
-    "enlace": "https://g5noticias.cl/2026/06/05/la-musica-esta-de-luto-fallecio-a-los-77-anos-el-indio-solari-exlider-del-grupo-patricio-rey-y-sus-redonditos-de-ricota/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ministro Secretario General de la Presidencia José García Ruminot refuerza mensaje de Gobierno al Gabinete Regional",
-    "enlace": "https://g5noticias.cl/2026/06/05/ministro-secretario-general-de-la-presidencia-jose-garcia-ruminot-refuerza-mensaje-de-gobierno-al-gabinete-regional/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Con reforestación de árboles nativos y charla ambiental el Consejo Consultivo Regional de Medio Ambiente celebra la semana del medio ambiente en Jardín Botánico de Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/06/05/con-reforestacion-de-arboles-nativos-y-charla-ambiental-el-consejo-consultivo-regional-de-medio-ambiente-celebra-la-semana-del-medio-ambiente-en-jardin-botanico-de-vina-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado Jaime Araya recurre a Contraloría y emplaza a Hacienda por resolución del SII que habilita tributación de apuestas online: «Es absurdo cobrar impuestos por una actividad ilícita»",
-    "enlace": "https://g5noticias.cl/2026/06/05/diputado-jaime-araya-recurre-a-contraloria-y-emplaza-a-hacienda-por-resolucion-del-sii-que-habilita-tributacion-de-apuestas-online-es-absurdo-cobrar-impuestos-por-una-actividad-ilicita/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
