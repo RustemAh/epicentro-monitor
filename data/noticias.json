@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Más de 100 directores de la Región de Coquimbo se reúnen para fortalecer el liderazgo educativo en jornada “Directores por Chile”",
+    "enlace": "https://laserenaonline.cl/2026/06/06/mas-de-100-directores-de-la-region-de-coquimbo-se-reunen-para-fortalecer-el-liderazgo-educativo-en-jornada-directores-por-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Hospital de Illapel incorpora neuróloga de adultos para fortalecer atención especializada en el Choapa",
+    "enlace": "https://laserenaonline.cl/2026/06/06/hospital-de-illapel-incorpora-neurologa-de-adultos-para-fortalecer-atencion-especializada-en-el-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Cámara de Diputados aprueba Escuelas Protegidas y proyecto es despachado a ley",
     "enlace": "https://laserenaonline.cl/2026/06/06/camara-de-diputados-aprueba-escuelas-protegidas-y-proyecto-es-despachado-a-ley/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "La Serena contará con tres nuevas ambulancias para el traslado de pacientes ante emergencias",
     "enlace": "https://laserenaonline.cl/2026/06/05/la-serena-contara-con-tres-nuevas-ambulancias-para-el-traslado-de-pacientes-ante-emergencias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Minvu priorizará a población Eugenio Marzal en nuevo llamado a subsidios de casas polillas",
-    "enlace": "https://laserenaonline.cl/2026/06/05/minvu-priorizara-a-poblacion-eugenio-marzal-en-nuevo-llamado-a-subsidios-de-casas-polillas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Colegio Islón de La Serena organizó VII versión de la Corrida Familiar y Feria saludable de Escuelas Rurales",
-    "enlace": "https://laserenaonline.cl/2026/06/05/colegio-islon-de-la-serena-organizo-vii-version-de-la-corrida-familiar-y-feria-saludable-de-escuelas-rurales/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Daniel Manouchehri se consolida como principal figura de oposición y supera a Kast en ranking nacional",
+    "enlace": "https://www.davidnoticias.cl/daniel-manouchehri-se-consolida-como-principal-figura-de-oposicion-y-supera-a-kast-en-ranking-nacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Minera Los Pelambres alcanza récord de 7.000 trabajadores en proyecto de inversión de US$2.000 millones",
     "enlace": "https://www.davidnoticias.cl/minera-los-pelambres-alcanza-record-de-7-000-trabajadores-en-proyecto-de-inversion-de-us2-000-millones/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Manouchehri cuestiona registro de incivilidades y propone incluir delitos económicos",
     "enlace": "https://www.davidnoticias.cl/manouchehri-cuestiona-registro-de-incivilidades-y-propone-incluir-delitos-economicos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "La Banda del Jano debutará en Los Vilos con una gran noche tropical en el Restaurant Peruvian",
-    "enlace": "https://www.davidnoticias.cl/la-banda-del-jano-debutara-en-los-vilos-con-una-gran-noche-tropical-en-el-restaurant-peruvian/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1638,6 +1638,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "ASIMET valora inversión de Aceros AZA en Huachipato y destaca su aporte al desarrollo industrial del Biobío",
+    "enlace": "https://g5noticias.cl/2026/06/06/asimet-valora-inversion-de-aceros-aza-en-huachipato-y-destaca-su-aporte-al-desarrollo-industrial-del-biobio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Preocupación por aumento de enfermedades respiratorias: expertos llaman a reforzar vacunación y prevención",
+    "enlace": "https://g5noticias.cl/2026/06/06/preocupacion-por-aumento-de-enfermedades-respiratorias-expertos-llaman-a-reforzar-vacunacion-y-prevencion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Viggo obtiene el Primer Lugar en los Premios Flota Más Segura de Chile 2026",
+    "enlace": "https://g5noticias.cl/2026/06/06/viggo-obtiene-el-primer-lugar-en-los-premios-flota-mas-segura-de-chile-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Consejo Minero y autoridades regionales destacan potencial de la industria como motor de crecimiento para Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/06/06/consejo-minero-y-autoridades-regionales-destacan-potencial-de-la-industria-como-motor-de-crecimiento-para-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "UV lanza Conocimientos 2030 un proyecto que articula innovación, investigación e interdisciplina al servicio del territorio",
+    "enlace": "https://g5noticias.cl/2026/06/06/uv-lanza-conocimientos-2030-un-proyecto-que-articula-innovacion-investigacion-e-interdisciplina-al-servicio-del-territorio-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cerca de 200 millones de pesos invierte INDAP para asegurar el riego y la agricultura en la región Metropolitana",
+    "enlace": "https://g5noticias.cl/2026/06/06/cerca-de-200-millones-de-pesos-invierte-indap-para-asegurar-el-riego-y-la-agricultura-en-la-region-metropolitana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "El robot que corrió 21K: ¿Puede una máquina correr mejor que nosotros? Por Frano Giakoni Ramírez, director de la carrera de Entrenador Deportivo de la UNAB",
     "enlace": "https://g5noticias.cl/2026/06/06/el-robot-que-corrio-21k-puede-una-maquina-correr-mejor-que-nosotros-por-frano-giakoni-ramirez-director-de-la-carrera-de-entrenador-deportivo-de-la-unab/",
     "descripcion": "",
@@ -1672,150 +1726,6 @@
     "medio": "G5",
     "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ventori: La nueva startup que quiere convertirse en el “Sistema Operativo” para restaurantes y cafeterías",
-    "enlace": "https://g5noticias.cl/2026/06/06/ventori-la-nueva-startup-que-quiere-convertirse-en-el-sistema-operativo-para-restaurantes-y-cafeterias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Nemesio Orellana expone el crecimiento vivo de la ciudad en “Reconstrucción”",
-    "enlace": "https://g5noticias.cl/2026/06/06/nemesio-orellana-expone-el-crecimiento-vivo-de-la-ciudad-en-reconstruccion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El lado menos dulce de los edulcorantes. Por Ariel Vivero Silva, Académico Carrera de Nutrición y Dietética Universidad San Sebastián sede De la Patagonia",
-    "enlace": "https://g5noticias.cl/2026/06/06/el-lado-menos-dulce-de-los-edulcorantes-por-ariel-vivero-silva-academico-carrera-de-nutricion-y-dietetica-universidad-san-sebastian-sede-de-la-patagonia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Mercado Campesino de Indap amplía su funcionamiento en Mall Marina y fortalece oportunidades para la agricultura familiar campesina",
-    "enlace": "https://g5noticias.cl/2026/06/06/mercado-campesino-de-indap-amplia-su-funcionamiento-en-mall-marina-y-fortalece-oportunidades-para-la-agricultura-familiar-campesina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Región de Valparaíso fortalece su capacidad de análisis genético y vigilancia molecular",
-    "enlace": "https://g5noticias.cl/2026/06/06/region-de-valparaiso-fortalece-su-capacidad-de-analisis-genetico-y-vigilancia-molecular/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El mercado inmobiliario cambia las reglas: ahora el valor está en los datos y no en la oficina. Por Pablo Quappe, director de crecimiento de EXP Realty Chile",
-    "enlace": "https://g5noticias.cl/2026/06/06/el-mercado-inmobiliario-cambia-las-reglas-ahora-el-valor-esta-en-los-datos-y-no-en-la-oficina-por-pablo-quappe-director-de-crecimiento-de-exp-realty-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Duoc UC Campus Arauco fortalece la experiencia estudiantil con innovadora tecnología Docente Holograma",
-    "enlace": "https://araucovision.cl/duoc-uc-campus-arauco-fortalece-la-experiencia-estudiantil-con-innovadora-tecnologia-docente-holograma/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Satélite chileno que monitorea biodiversidad estuvo presente en el festival Ciencia Sin Ficción",
-    "enlace": "https://araucovision.cl/satelite-chileno-que-monitorea-biodiversidad-estuvo-presente-en-el-festival-ciencia-sin-ficcion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Frontel realizó webinar con autoridades regionales sobre el impacto del cambio climático en las redes eléctricas",
-    "enlace": "https://araucovision.cl/frontel-realizo-webinar-con-autoridades-regionales-sobre-el-impacto-del-cambio-climatico-en-las-redes-electricas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Libro/concierto homenaje a Roberto Parra organizado por Duoc UC Campus Arauco destacó el patrimonio cultural de la comuna",
-    "enlace": "https://araucovision.cl/libro-concierto-homenaje-a-roberto-parra-organizado-por-duoc-uc-campus-arauco-destaco-el-patrimonio-cultural-de-la-comuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Arauco adventures dominó el podio en Lebu",
-    "enlace": "https://araucovision.cl/arauco-adventures-domino-el-podio-en-lebu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "284 mil hogares en el Biobío ya han activado el cupón de gas licuado",
-    "enlace": "https://araucovision.cl/284-mil-hogares-en-el-biobio-ya-han-activado-el-cupon-de-gas-licuado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Duoc UC Campus Arauco invita a revivir el legado de Roberto Parra en concierto patrimonial gratuito",
-    "enlace": "https://araucovision.cl/duoc-uc-campus-arauco-invita-a-revivir-el-legado-de-roberto-parra-en-concierto-patrimonial-gratuito/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "SAG, CONAF y BIDEMA refuerzan vigilancia preventiva y educación ambiental en Isla Mocha",
-    "enlace": "https://araucovision.cl/sag-conaf-y-bidema-refuerzan-vigilancia-preventiva-y-educacion-ambiental-en-isla-mocha/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "UdeC se coronó campeón a estadio lleno en la final de la Copa Chile CHERY by Cecinas Llanquihue 2026",
-    "enlace": "https://araucovision.cl/udec-se-corono-campeon-a-estadio-lleno-en-la-final-de-la-copa-chile-chery-by-cecinas-llanquihue-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Naval sumó un valioso empate en Santiago y sigue firme en la parte alta de la Tercera División A.",
-    "enlace": "https://araucovision.cl/naval-sumo-un-valioso-empate-en-santiago-y-sigue-firme-en-la-parte-alta-de-la-tercera-division-a/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
     "titulo": "Coquimbo, primer desafío de Punta Arenas en la liguilla del futsal nacional de primera división",
@@ -1906,95 +1816,5 @@
     "medio": "La Prensa Austral",
     "zona": "Punta Arenas",
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Organización propone alianza para fortalecer la gestión de áreas protegidas en Magallanes",
-    "enlace": "https://elmagallanico.com/2026/06/03/organizacion-propone-alianza-para-fortalecer-la-gestion-de-areas-protegidas-en-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Gobierno pone en marcha Plan de Abandono Voluntario para extranjeros en situación irregular",
-    "enlace": "https://elmagallanico.com/2026/06/03/gobierno-pone-en-marcha-plan-de-abandono-voluntario-para-extranjeros-en-situacion-irregular/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Fondo Concursable de Aguas Magallanes alcanza récord histórico con más de 260 proyectos postulados",
-    "enlace": "https://elmagallanico.com/2026/06/03/fondo-concursable-de-aguas-magallanes-alcanza-record-historico-con-mas-de-260-proyectos-postulados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Docentes del programa Explora se capacitaron en Puerto Natales",
-    "enlace": "https://elmagallanico.com/2026/06/03/docentes-del-programa-explora-se-capacitaron-en-puerto-natales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Municipio entregó más de $8 millones a organizaciones sociales",
-    "enlace": "https://elmagallanico.com/2026/06/03/municipio-entrego-mas-de-8-millones-a-organizaciones-sociales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Más de 400 personas participaron en la Corrida Familiar del Mes del Mar más austral del mundo",
-    "enlace": "https://elmagallanico.com/2026/06/03/mas-de-400-personas-participaron-en-la-corrida-familiar-del-mes-del-mar-mas-austral-del-mundo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Seremi de Gobierno destacó medidas para fortalecer la seguridad, apoyar a las familias y reactivar la economía",
-    "enlace": "https://elmagallanico.com/2026/06/01/seremi-de-gobierno-destaco-medidas-para-fortalecer-la-seguridad-apoyar-a-las-familias-y-reactivar-la-economia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Edelmag y Municipalidad de Cabo de Hornos inauguran el electrocargador más austral del continente",
-    "enlace": "https://elmagallanico.com/2026/06/01/edelmag-y-municipalidad-de-cabo-de-hornos-inauguran-el-electrocargador-mas-austral-del-continente/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Exitosa jornada patrimonial acercó la Empresa Portuaria Austral a la comunidad magallánica",
-    "enlace": "https://elmagallanico.com/2026/06/01/exitosa-jornada-patrimonial-acerco-la-empresa-portuaria-austral-a-la-comunidad-magallanica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Con récord de visitas en su edificio central, Enap Magallanes vivió una entretenida jornada del Día del Patrimonio",
-    "enlace": "https://elmagallanico.com/2026/06/01/con-record-de-visitas-en-su-edificio-central-enap-magallanes-vivio-una-entretenida-jornada-del-dia-del-patrimonio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
   }
 ]
