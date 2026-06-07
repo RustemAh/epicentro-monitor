@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Remate. Inmueble denominado Sitio, ubicado en La Colonia, comuna de Illapel",
+    "enlace": "https://www.elillapelino.cl/2026/06/07/remate-inmueble-denominado-sitio-ubicado-en-la-colonia-comuna-de-illapel-4/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Comunidad de Peralillo destaca atención de servicios públicos y Municipalidad de Illapel en Plaza Ciudadana",
     "enlace": "https://www.elillapelino.cl/2026/06/06/comunidad-de-peralillo-destaca-atencion-de-servicios-publicos-y-municipalidad-de-illapel-en-plaza-ciudadana/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "Hospital de Illapel incorpora neuróloga de adultos para fortalecer atención especializada en el Choapa",
     "enlace": "https://www.elillapelino.cl/2026/06/02/hospital-de-illapel-incorpora-neurologa-de-adultos-para-fortalecer-atencion-especializada-en-el-choapa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Refuerzan trabajo de Servicio Sanitario Rural con importante inversión para garantizar acceso al agua potable en Carén",
-    "enlace": "https://www.elillapelino.cl/2026/06/02/refuerzan-trabajo-de-servicio-sanitario-rural-con-importante-inversion-para-garantizar-acceso-al-agua-potable-en-caren/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "EXTRACTO REMATE: 12° JUZGADO CIVIL SANTIAGO",
+    "enlace": "https://www.atacamanoticias.cl/2026/06/07/extracto-remate-12-juzgado-civil-santiago/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Bajo estricta reserva: amplían detención de ocho carabineros investigados en Copiapó",
     "enlace": "https://www.atacamanoticias.cl/2026/06/05/bajo-estricta-reserva-amplian-detencion-de-ocho-carabineros-investigados-en-copiapo/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Se aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto Pascua Lama",
     "enlace": "https://www.atacamanoticias.cl/2026/06/04/se-aprueba-modificacion-de-acuerdo-conciliatorio-por-dano-ambiental-en-proyecto-pascua-lama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Destacan trabajo por la reinserción social en Atacama",
-    "enlace": "https://www.atacamanoticias.cl/2026/06/04/destacan-trabajo-por-la-reinsercion-social-en-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1548,6 +1548,24 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Casablanca: Citación a Audiencia preparatoria RIT C-52-2026 «Ojeda / Berríos»",
+    "enlace": "https://diariolaquinta.cl/2026/06/07/notificacion-juzgado-de-familia-de-casablanca-citacion-a-audiencia-preparatoria-rit-c-52-2026-ojeda-berrios-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-casablanca-citacion-a-audiencia-preparatoria-rit-c-52-2026-ojeda-berrios-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Casablanca: Citación a Audiencia preparatoria RIT C-806-2025 «Vera / Ubilla»",
+    "enlace": "https://diariolaquinta.cl/2026/06/07/notificacion-juzgado-de-familia-de-casablanca-citacion-a-audiencia-preparatoria-rit-c-806-2025-vera-ubilla-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-casablanca-citacion-a-audiencia-preparatoria-rit-c-806-2025-vera-ubilla-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Quilpué: Aumento de Alimentos RIT C-965-2025 «Zuliani / Polanco»",
     "enlace": "https://diariolaquinta.cl/2026/06/07/notificacion-juzgado-de-familia-de-quilpue-aumento-de-alimentos-rit-c-965-2025-zuliani-polanco-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-quilpue-aumento-de-alimentos-rit-c-965-2025-zuliani-polanco-3",
     "descripcion": "",
@@ -1620,21 +1638,66 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Quilpué: Aumento de Alimentos RIT C-965-2025 «Zuliani / Polanco»",
-    "enlace": "https://diariolaquinta.cl/2026/06/05/notificacion-juzgado-de-familia-de-quilpue-aumento-de-alimentos-rit-c-965-2025-zuliani-polanco/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-quilpue-aumento-de-alimentos-rit-c-965-2025-zuliani-polanco",
+    "titulo": "¿Vale la pena entrenar si duermes mal? Estudio analizó cómo el sueño impacta los resultados del ejercicio",
+    "enlace": "https://g5noticias.cl/2026/06/07/vale-la-pena-entrenar-si-duermes-mal-estudio-analizo-como-el-sueno-impacta-los-resultados-del-ejercicio/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Segundo Juzgado de Letras de San Antonio: Interdicción por demencia ROL V-138-2025 «Vidal»",
-    "enlace": "https://diariolaquinta.cl/2026/06/05/notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-138-2025-vidal-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-138-2025-vidal-3",
+    "titulo": "Investigadores identifican la molécula que dispara la fibrosis muscular y abren una vía hacia nuevos tratamientos: El estudio convocó a 15 científicos chilenos y estadounidenses",
+    "enlace": "https://g5noticias.cl/2026/06/07/investigadores-identifican-la-molecula-que-dispara-la-fibrosis-muscular-y-abren-una-via-hacia-nuevos-tratamientos-el-estudio-convoco-a-15-cientificos-chilenos-y-estadounidenses/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "La Copa del respeto. Por Ignacio Pérez Director Escuela de Periodismo y Comunicaciones Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/06/07/la-copa-del-respeto-por-ignacio-perez-director-escuela-de-periodismo-y-comunicaciones-universidad-de-las-americas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cardiólogo explica lo que las personas deben saber sobre el peso y la presión arterial",
+    "enlace": "https://g5noticias.cl/2026/06/07/cardiologo-explica-lo-que-las-personas-deben-saber-sobre-el-peso-y-la-presion-arterial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cinco usos prácticos de la IA agéntica en empresas chilenas: desde la atención al cliente hasta la optimización de inventario",
+    "enlace": "https://g5noticias.cl/2026/06/07/cinco-usos-practicos-de-la-ia-agentica-en-empresas-chilenas-desde-la-atencion-al-cliente-hasta-la-optimizacion-de-inventario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "33% de los perros en Chile con sobrepeso: expertos explican los riesgos y cómo reforzar hábitos caninos",
+    "enlace": "https://g5noticias.cl/2026/06/07/33-de-los-perros-en-chile-con-sobrepeso-expertos-explican-los-riesgos-y-como-reforzar-habitos-caninos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Exponor 2026: Entel Digital llevará capacidades digitales directamente a la faena en una de las ferias mineras más importantes del mundo",
+    "enlace": "https://g5noticias.cl/2026/06/07/exponor-2026-entel-digital-llevara-capacidades-digitales-directamente-a-la-faena-en-una-de-las-ferias-mineras-mas-importantes-del-mundo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
@@ -1658,69 +1721,6 @@
   {
     "titulo": "Galaxy S26 Ultra: rendimiento pensado para quienes llevan el gaming al máximo",
     "enlace": "https://g5noticias.cl/2026/06/07/galaxy-s26-ultra-rendimiento-pensado-para-quienes-llevan-el-gaming-al-maximo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Influenza A (H3N2): Variante K impulsa alza de influenza y adelanta una temporada más intensa",
-    "enlace": "https://g5noticias.cl/2026/06/06/influenza-a-h3n2-variante-k-impulsa-alza-de-influenza-y-adelanta-una-temporada-mas-intensa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "CNR abrió concurso por $1.400 millones para impulsar obras de acumulación y fortalecer la seguridad hídrica en Atacama y Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/06/06/cnr-abrio-concurso-por-1-400-millones-para-impulsar-obras-de-acumulacion-y-fortalecer-la-seguridad-hidrica-en-atacama-y-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Cineteca PUCV presenta ciclo gratuito de ciencia ficción",
-    "enlace": "https://g5noticias.cl/2026/06/06/cineteca-pucv-presenta-ciclo-gratuito-de-ciencia-ficcion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Padres normalizan el sobrepeso y la obesidad infantil de sus hijos, mientras esta sigue al alza",
-    "enlace": "https://g5noticias.cl/2026/06/06/padres-normalizan-el-sobrepeso-y-la-obesidad-infantil-de-sus-hijos-mientras-esta-sigue-al-alza/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Análisis forense al Cyber Day. Por Felipe Miranda Rendic, country manager de Logisfashion Chile",
-    "enlace": "https://g5noticias.cl/2026/06/06/analisis-forense-al-cyber-day-por-felipe-miranda-rendic-country-manager-de-logisfashion-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Se lanza «ProYecta Cooperativa 2026» para potenciar el desarrollo de la asociatividad en el centro y sur del país",
-    "enlace": "https://g5noticias.cl/2026/06/06/se-lanza-proyecta-cooperativa-2026-para-potenciar-el-desarrollo-de-la-asociatividad-en-el-centro-y-sur-del-pais/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Santiago será sede del Primer Encuentro Chileno del Huevo",
-    "enlace": "https://g5noticias.cl/2026/06/06/santiago-sera-sede-del-primer-encuentro-chileno-del-huevo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,8 +1818,8 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Cerca de ochenta ocupaciones ilegales en el litoral: el catastro que la Armada no ha podido vaciar",
-    "enlace": "https://laprensaaustral.cl/2026/06/07/cerca-de-ochenta-ocupaciones-ilegales-en-el-litoral-el-catastro-que-la-armada-no-ha-podido-vaciar/",
+    "titulo": "A 35 años de la actuación de un Coro de Magallanes en Europa",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/a-35-anos-de-la-actuacion-de-un-coro-de-magallanes-en-europa/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1827,8 +1827,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Delegada y seremis respaldan nueva ley para enfrentar  la violencia en establecimientos educacionales",
-    "enlace": "https://laprensaaustral.cl/2026/06/07/delegada-y-seremis-respaldan-nueva-ley-para-enfrentar-la-violencia-en-establecimientos-educacionales/",
+    "titulo": "Tribunal impuso pena de 3 años a sujeto que abusó de menor",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/tribunal-impuso-pena-de-3-anos-a-sujeto-que-abuso-de-menor/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1836,8 +1836,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "“Mi nombre surgió espontáneamente, incluso antes de las elecciones”",
-    "enlace": "https://laprensaaustral.cl/2026/06/07/mi-nombre-surgio-espontaneamente-incluso-antes-de-las-elecciones/",
+    "titulo": "Más de 500 viviendas proyectan construir en exterrenos  del Regimiento Pudeto",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/mas-de-500-viviendas-proyectan-construir-en-exterrenos-del-regimiento-pudeto/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1845,8 +1845,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Trabajador de Enap sufre graves quemaduras tras fuga de gas en Cullen",
-    "enlace": "https://laprensaaustral.cl/2026/06/07/trabajador-de-enap-sufre-graves-quemaduras-tras-fuga-de-gas-en-cullen/",
+    "titulo": "Con masiva participación culminó el Festival de la Familia 2026 del Instituto Don Bosco",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/con-masiva-participacion-culmino-el-festival-de-la-familia-2026-del-instituto-don-bosco/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1854,8 +1854,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Avenida Libertad (España) en 1945",
-    "enlace": "https://laprensaaustral.cl/2026/06/07/avenida-libertad-espana-en-1945/",
+    "titulo": "Perú eligen hoy a su Presidente en medio de un clima de frustración y hartazgo",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/peru-eligen-hoy-a-su-presidente-en-medio-de-un-clima-de-frustracion-y-hartazgo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1863,8 +1863,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Papa León XIV inicia gira española con llamado a no olvidar a migrantes y personas sin techo",
-    "enlace": "https://laprensaaustral.cl/2026/06/06/papa-leon-xiv-inicia-gira-espanola-con-llamado-a-no-olvidar-a-migrantes-y-personas-sin-techo/",
+    "titulo": "Muere el destacado actor Julio Jung",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/muere-el-destacado-actor-julio-jung/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Theodor Ohlsen, profesor de arte en Punta Arenas",
-    "enlace": "https://laprensaaustral.cl/2026/06/06/theodor-ohlsen-profesor-de-arte-en-punta-arenas/",
+    "titulo": "Kast llama a rechazar la violencia y defender la paz institucional durante inicio de gira por Arica",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/kast-llama-a-rechazar-la-violencia-y-defender-la-paz-institucional-durante-inicio-de-gira-por-arica/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Coquimbo, primer desafío de Punta Arenas en la liguilla del futsal nacional de primera división",
-    "enlace": "https://laprensaaustral.cl/2026/06/06/coquimbo-primer-desafio-de-punta-arenas-en-la-liguilla-del-futsal-nacional-de-primera-division/",
+    "titulo": "“Los delincuentes siempre buscan nuevas rutas para el tráfico”, dijo jefe regional de la PDI",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/los-delincuentes-siempre-buscan-nuevas-rutas-para-el-trafico-dijo-jefe-regional-de-la-pdi/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Con una inversión de $100 millones, Edelmag impulsa  red de cinco cargadores eléctricos en Magallanes",
-    "enlace": "https://laprensaaustral.cl/2026/06/06/con-una-inversion-de-100-millones-edelmag-impulsa-red-de-cinco-cargadores-electricos-en-magallanes/",
+    "titulo": "El judo magallánico brilló en Valdivia",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/el-judo-magallanico-brillo-en-valdivia/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "“Aprendimos a poner en valor nuestro trabajo y esfuerzo”",
-    "enlace": "https://laprensaaustral.cl/2026/06/06/aprendimos-a-poner-en-valor-nuestro-trabajo-y-esfuerzo/",
+    "titulo": "Apertura del futbolito senior comienza a definir sus finalistas",
+    "enlace": "https://laprensaaustral.cl/2026/06/07/apertura-del-futbolito-senior-comienza-a-definir-sus-finalistas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
