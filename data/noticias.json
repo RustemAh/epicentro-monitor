@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "CEAZA y SENAPRED coordinan acciones de prevención ante escenario invernal marcado por “El Niño” en la Región de Coquimbo",
+    "enlace": "https://www.elserenense.cl/regionales/2026/06/09/ceaza-y-senapred-coordinan-acciones-de-prevencion-ante-escenario-invernal-marcado-por-el-nino-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Hombre resulta herido tras efectuar disparos frente a cuartel de la PDI en La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/06/09/hombre-resulta-herido-tras-efectuar-disparos-frente-a-cuartel-de-la-pdi-en-la-serena/",
     "descripcion": "",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Inolvidable viaje por el romanticismo europeo marcará el tercer concierto de cámara OSULS",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/06/05/inolvidable-viaje-por-el-romanticismo-europeo-marcara-el-tercer-concierto-de-camara-osuls/",
+    "titulo": "La región se mantiene sobre los 400 mil ocupados con el impulso de la construcción y el comercio",
+    "enlace": "https://laserenaonline.cl/2026/06/09/la-region-se-mantiene-sobre-los-400-mil-ocupados-con-el-impulso-de-la-construccion-y-el-comercio/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Comunidades Educativas de SLEP Elqui implementarán Política de Convivencia Educativa y Modelo de Escuela Total",
+    "enlace": "https://laserenaonline.cl/2026/06/09/comunidades-educativas-de-slep-elqui-implementaran-politica-de-convivencia-educativa-y-modelo-de-escuela-total/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "CEAZA y SENAPRED coordinan acciones de prevención ante escenario invernal marcado por “El Niño” en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/06/09/ceaza-y-senapred-coordinan-acciones-de-prevencion-ante-escenario-invernal-marcado-por-el-nino-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "La Serena: Sujeto imputado de robo con violencia quedó en internación provisoria",
     "enlace": "https://laserenaonline.cl/2026/06/09/la-serena-sujeto-imputado-de-robo-con-violencia-quedo-en-internacion-provisoria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Pronostican lluvias de hasta 5 mm en la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/09/pronostican-lluvias-de-hasta-5-mm-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 9 de junio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/09/el-tiempo-hoy-9-de-junio-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Tercer Encuentro de Bandas reunió a establecimientos educacionales y comunidad de Tulahuén",
-    "enlace": "https://laserenaonline.cl/2026/06/08/tercer-encuentro-de-bandas-reunio-a-establecimientos-educacionales-y-comunidad-de-tulahuen/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Tribunal condena a Municipalidad de Combarbalá por vulneración de derechos fundamentales y acoso laboral contra funcionaria",
+    "enlace": "https://www.elcombarbalino.cl/2026/06/09/tribunal-condena-a-municipalidad-de-combarbala-por-vulneracion-de-derechos-fundamentales-y-acoso-laboral-contra-funcionaria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Concurso de Fotografía “Mi Ciudad” rendirá homenaje al legado de Aliro Caupolicán Flores en Combarbalá",
     "enlace": "https://www.elcombarbalino.cl/2026/06/05/concurso-de-fotografia-mi-ciudad-rendira-homenaje-al-legado-de-aliro-caupolican-flores-en-combarbala/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "Quilitapia marca el inicio de “Última Milla” que llevará internet de alta velocidad a 43 localidades rurales",
     "enlace": "https://www.elcombarbalino.cl/2026/05/15/quilitapia-marca-el-inicio-de-ultima-milla-que-llevara-internet-de-alta-velocidad-a-43-localidades-rurales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "En Combarbalá usuarios y usuarias de INDAP reciben en sus predios a dirigencia: Muestran su labor y los apoyos obtenidos",
-    "enlace": "https://www.elcombarbalino.cl/2026/05/14/en-combarbala-usuarios-y-usuarias-de-indap-reciben-en-sus-predios-a-dirigencia-muestran-su-labor-y-los-apoyos-obtenidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -1188,6 +1188,51 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "León XIV congrega a 40 mil fieles en Barcelona y enfrenta críticas por abusos en la Iglesia",
+    "enlace": "https://laprensaaustral.cl/2026/06/09/leon-xiv-congrega-a-40-mil-fieles-en-barcelona-y-enfrenta-criticas-por-abusos-en-la-iglesia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Saltó de un puente para evadir una prueba de alcoholemia y terminó atacado por un caimán",
+    "enlace": "https://laprensaaustral.cl/2026/06/09/salto-de-un-puente-para-evadir-una-prueba-de-alcoholemia-y-termino-atacado-por-un-caiman/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Óptica Comunal incorpora moderna cámara de fondo de ojo con inversión cercana a $30 millones",
+    "enlace": "https://laprensaaustral.cl/2026/06/09/optica-comunal-incorpora-moderna-camara-de-fondo-de-ojo-con-inversion-cercana-a-30-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Colombiana fue detenida con 3 kilos de cocaína",
+    "enlace": "https://laprensaaustral.cl/2026/06/09/colombiana-fue-detenida-con-3-kilos-de-cocaina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Explora impulsa capacitación para fortalecer el trabajo pedagógico en la primera infancia",
+    "enlace": "https://laprensaaustral.cl/2026/06/09/explora-impulsa-capacitacion-para-fortalecer-el-trabajo-pedagogico-en-la-primera-infancia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "¿Llegarán al debut mundialista?",
     "enlace": "https://laprensaaustral.cl/2026/06/09/llegaran-al-debut-mundialista/",
     "descripcion": "",
@@ -1233,49 +1278,22 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Trump advierte a Netanyahu que tenga “cuidado” porque podría “terminar solo contra Irán “",
-    "enlace": "https://laprensaaustral.cl/2026/06/09/trump-advierte-a-netanyahu-que-tenga-cuidado-porque-podria-terminar-solo-contra-iran/",
+    "titulo": "Magallanes marca un hito histórico con el primer envío de lana ovina chilena al mercado de India",
+    "enlace": "https://elmagallanico.com/2026/06/09/magallanes-marca-un-hito-historico-con-el-primer-envio-de-lana-ovina-chilena-al-mercado-de-india/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
-    "titulo": "Balotaje en Perú: Sánchez mantiene una mínima ventaja ante Fujimori",
-    "enlace": "https://laprensaaustral.cl/2026/06/09/balotaje-en-peru-sanchez-mantiene-una-minima-ventaja-ante-fujimori/",
+    "titulo": "Inscripciones abiertas para el IV Campeonato Municipal de Levantamiento de Pesas",
+    "enlace": "https://elmagallanico.com/2026/06/09/inscripciones-abiertas-para-el-iv-campeonato-municipal-de-levantamiento-de-pesas/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Ministro francés descarta dimitir ante ola de protestas por crimen de niña de 11 años",
-    "enlace": "https://laprensaaustral.cl/2026/06/09/ministro-frances-descarta-dimitir-ante-ola-de-protestas-por-crimen-de-nina-de-11-anos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Core aprueba recursos para el mejoramiento de la Escuela  España, pero cuestiona fallas en infraestructura y calidad escolar",
-    "enlace": "https://laprensaaustral.cl/2026/06/09/core-aprueba-recursos-para-el-mejoramiento-de-la-escuela-espana-pero-cuestiona-fallas-en-infraestructura-y-calidad-escolar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "“Tú eres el postre”: los comprometedores chats del  sacerdote ortodoxo acusado de abusos en Providencia",
-    "enlace": "https://laprensaaustral.cl/2026/06/09/tu-eres-el-postre-los-comprometedores-chats-del-sacerdote-ortodoxo-acusado-de-abusos-en-providencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
     "titulo": "Autoridades y actores locales abordan desafíos para fortalecer el turismo en Tierra del Fuego",
@@ -1343,24 +1361,6 @@
   {
     "titulo": "Docentes del programa Explora se capacitaron en Puerto Natales",
     "enlace": "https://elmagallanico.com/2026/06/03/docentes-del-programa-explora-se-capacitaron-en-puerto-natales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Municipio entregó más de $8 millones a organizaciones sociales",
-    "enlace": "https://elmagallanico.com/2026/06/03/municipio-entrego-mas-de-8-millones-a-organizaciones-sociales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Más de 400 personas participaron en la Corrida Familiar del Mes del Mar más austral del mundo",
-    "enlace": "https://elmagallanico.com/2026/06/03/mas-de-400-personas-participaron-en-la-corrida-familiar-del-mes-del-mar-mas-austral-del-mundo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
