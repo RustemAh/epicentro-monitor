@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Kits para niños, niñas y adolescentes permitirán resguardar el derecho a la higiene en situaciones de emergencia o desastre",
+    "enlace": "https://laserenaonline.cl/2026/06/10/kits-para-ninos-ninas-y-adolescentes-permitiran-resguardar-el-derecho-a-la-higiene-en-situaciones-de-emergencia-o-desastre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Seremi del Medio Ambiente e INACAP La Serena realizan seminario sobre restauración ecológica de humedales de la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/06/10/seremi-del-medio-ambiente-e-inacap-la-serena-realizan-seminario-sobre-restauracion-ecologica-de-humedales-de-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "La Serena proyecta su desarrollo al 2030 con una cartera de inversiones que supera los $44 mil millones",
     "enlace": "https://laserenaonline.cl/2026/06/10/la-serena-proyecta-su-desarrollo-al-2030-con-una-cartera-de-inversiones-que-supera-los-44-mil-millones/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Delegación Presidencial Regional confirma el cierre del Paso Agua Negra tras histórica temporada",
     "enlace": "https://laserenaonline.cl/2026/06/10/delegacion-presidencial-regional-confirma-el-cierre-del-paso-agua-negra-tras-historica-temporada/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Atención de emergencias: Otro rol de inspectores municipales de La Serena",
-    "enlace": "https://laserenaonline.cl/2026/06/10/atencion-de-emergencias-otro-rol-de-inspectores-municipales-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 10 de junio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/10/el-tiempo-hoy-10-de-junio-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Cupón de Pesca beneficiará a más de 350 pescadores artesanales de la Región de Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/10/cupon-de-pesca-beneficiara-a-mas-de-350-pescadores-artesanales-de-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "68 Familias de Canela recibieron sus títulos de dominio y ya son dueñas legales de sus propiedades",
     "enlace": "https://regiondecoquimbo.cl/2026/06/10/68-familias-de-canela-recibieron-sus-titulos-de-dominio-y-ya-son-duenas-legales-de-sus-propiedades/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Canela se convierte en la primera comuna de la región en cumplir la meta de vacunación",
     "enlace": "https://regiondecoquimbo.cl/2026/06/09/canela-se-convierte-en-la-primera-comuna-de-la-region-en-cumplir-la-meta-de-vacunacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno Regional impulsa histórico plan para reducir listas de espera en salud",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/09/gobierno-regional-impulsa-historico-plan-para-reducir-listas-de-espera-en-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Monte Patria se suma a la fiebre mundialera con intercambio masivo de láminas",
+    "enlace": "https://www.elmontepatrino.cl/2026/06/10/monte-patria-se-suma-a-la-fiebre-mundialera-con-intercambio-masivo-de-laminas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Desarrollo País adjudica diseño para la reposición del Liceo de Excelencia Presidente Eduardo Frei Montalva de Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/06/10/desarrollo-pais-adjudica-diseno-para-la-reposicion-del-liceo-de-excelencia-presidente-eduardo-frei-montalva-de-monte-patria/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "Operativo Comunitario acerca servicios del municipio hasta la localidad de El Maitén",
     "enlace": "https://www.elmontepatrino.cl/2026/06/03/operativo-comunitario-acerca-servicios-del-municipio-hasta-la-localidad-de-el-maiten/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Tercer Encuentro de Bandas “Carlos González” reunió a establecimientos educacionales y a la comunidad de Tulahuén",
-    "enlace": "https://www.elmontepatrino.cl/2026/06/03/tercer-encuentro-de-bandas-carlos-gonzalez-reunio-a-establecimientos-educacionales-y-a-la-comunidad-de-tulahuen/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Lluvias dejan acumulados de hasta 3,5 milímetros en Choapa y nieve supera los 17 centímetros en la cordillera",
+    "enlace": "https://www.davidnoticias.cl/lluvias-dejan-acumulados-de-hasta-35-milimetros-en-choapa-y-nieve-supera-los-17-centimetros-en-la-cordillera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Hungría reduce en 40% el sueldo de sus diputados: un ejemplo de austeridad que contrasta con el Parlamento chileno",
     "enlace": "https://www.davidnoticias.cl/hungria-reduce-en-40-el-sueldo-de-sus-diputados-un-ejemplo-de-austeridad-que-contrasta-con-el-parlamento-chileno/",
     "descripcion": "",
@@ -1089,13 +1098,13 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Italia se prepara para recibir el II Encuentro Internacional de Poetas del Mundo.",
-    "enlace": "https://www.davidnoticias.cl/italia-se-prepara-para-recibir-el-ii-encuentro-internacional-de-poetas-del-mundo/",
+    "titulo": "En Andacollo afinan detalles de su Plan de Invierno y llama a la comunidad a prepararse para las lluvias",
+    "enlace": "https://www.elandacollino.cl/2026/06/10/en-andacollo-afinan-detalles-de-su-plan-de-invierno-y-llama-a-la-comunidad-a-prepararse-para-las-lluvias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Escuela Luis Cruz Martínez celebra 45 años formando generaciones de andacollinos",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Aguas del Valle trabajaba en reparación de matriz e informó corte de emergencia nocturno durante este martes en Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/06/03/aguas-del-valle-trabajaba-en-reparacion-de-matriz-e-informo-corte-de-emergencia-nocturno-durante-este-martes-en-andacollo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Informan traslado de equipos por Ruta D-51 desde Andacollo para este miércoles 3 de junio",
-    "enlace": "https://www.elandacollino.cl/2026/06/02/informan-traslado-de-equipos-por-ruta-d-51-desde-andacollo-para-este-miercoles-3-de-junio/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1548,6 +1548,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "Valparaíso inicia nuevo ciclo de esterilizaciones gratuitas para perros y gatos",
+    "enlace": "https://diariolaquinta.cl/2026/06/10/valparaiso-inicia-nuevo-ciclo-de-esterilizaciones-gratuitas-para-perros-y-gatos/?utm_source=rss&utm_medium=rss&utm_campaign=valparaiso-inicia-nuevo-ciclo-de-esterilizaciones-gratuitas-para-perros-y-gatos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Segundo Juzgado de Letras de San Antonio: Interdicción por demencia ROL V-14-2026 «Yáñez»",
     "enlace": "https://diariolaquinta.cl/2026/06/10/notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-14-2026-yanez-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-14-2026-yanez-2",
     "descripcion": "",
@@ -1629,17 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[OPINIÓN] Parque Pümpin: El Mercurio de Santiago se enojó con el exalcalde Jorge Sharp (Patricio Herman)",
-    "enlace": "https://diariolaquinta.cl/2026/06/08/opinion-parque-pumpin-el-mercurio-de-santiago-se-enojo-con-el-exalcalde-jorge-sharp-patricio-herman/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-parque-pumpin-el-mercurio-de-santiago-se-enojo-con-el-exalcalde-jorge-sharp-patricio-herman",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Seremi de Minería y rector de la UVM fortalecen vínculos para impulsar el desarrollo tecnológico del sector",
-    "enlace": "https://g5noticias.cl/2026/06/10/seremi-de-mineria-y-rector-de-la-uvm-fortalecen-vinculos-para-impulsar-el-desarrollo-tecnologico-del-sector/",
+    "titulo": "Diputado Bernardo Salinas logra respaldo unánime para solicitar extensión del subsidio eléctrico",
+    "enlace": "https://g5noticias.cl/2026/06/10/diputado-bernardo-salinas-logra-respaldo-unanime-para-solicitar-extension-del-subsidio-electrico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PUCV lidera investigación internacional para aprovechar el potencial biotecnológico de la Antártica",
-    "enlace": "https://g5noticias.cl/2026/06/10/pucv-lidera-investigacion-internacional-para-aprovechar-el-potencial-biotecnologico-de-la-antartica/",
+    "titulo": "Museo Marítimo Nacional reafirma su compromiso con el medioambiente y la solidaridad con nueva entrega de taítas a las «Damas de Café»",
+    "enlace": "https://g5noticias.cl/2026/06/10/museo-maritimo-nacional-reafirma-su-compromiso-con-el-medioambiente-y-la-solidaridad-con-nueva-entrega-de-taitas-a-las-damas-de-cafe/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "TGR descarta negligencia en cobranza a sociedad ligada a Cugat",
-    "enlace": "https://g5noticias.cl/2026/06/10/tgr-descarta-negligencia-en-cobranza-a-sociedad-ligada-a-cugat/",
+    "titulo": "Eliminación de contribuciones para mayores de 65 años. Por Camila Castro Directora de la Carrera de Contador Auditor Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/06/10/eliminacion-de-contribuciones-para-mayores-de-65-anos-por-camila-castro-directora-de-la-carrera-de-contador-auditor-universidad-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Boris Barrera recurre a Contraloría por resolución del SII sobre casinos online: “Fácilmente podría haber lavado de dinero”",
-    "enlace": "https://g5noticias.cl/2026/06/10/diputado-boris-barrera-recurre-a-contraloria-por-resolucion-del-sii-sobre-casinos-online-facilmente-podria-haber-lavado-de-dinero/",
+    "titulo": "Cada vez más vecinos preguntan a sus municipios: Informe del CPLT detecta que solicitudes de información suben de 2.440 a más de 113 mil en 12 años",
+    "enlace": "https://g5noticias.cl/2026/06/10/cada-vez-mas-vecinos-preguntan-a-sus-municipios-informe-del-cplt-detecta-que-solicitudes-de-informacion-suben-de-2-440-a-mas-de-113-mil-en-12-anos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Antofagasta se consolida como barrera contra el narcotráfico: carabineros incauta más de 2,3 toneladas de marihuana y desarticula organización criminal",
-    "enlace": "https://g5noticias.cl/2026/06/10/antofagasta-se-consolida-como-barrera-contra-el-narcotrafico-carabineros-incauta-mas-de-23-toneladas-de-marihuana-y-desarticula-organizacion-criminal/",
+    "titulo": "Museo Fonck a través de su canal de YouTube presentará resultados del proyecto Iberarchivos",
+    "enlace": "https://g5noticias.cl/2026/06/10/museo-fonck-a-traves-de-su-canal-de-youtube-presentara-resultados-del-proyecto-iberarchivos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La emoción del deporte se vive en Mega: Colo Colo defiende la cima y la U busca acortar distancia en La Liga Femenina",
-    "enlace": "https://g5noticias.cl/2026/06/10/la-emocion-del-deporte-se-vive-en-mega-colo-colo-defiende-la-cima-y-la-u-busca-acortar-distancia-en-la-liga-femenina/",
+    "titulo": "SONAMI se reúne con ministra de Bienes Nacionales y Seremis de todo el país para establecer trabajo colaborativo para el desarrollo de la minería regional",
+    "enlace": "https://g5noticias.cl/2026/06/10/sonami-se-reune-con-ministra-de-bienes-nacionales-y-seremis-de-todo-el-pais-para-establecer-trabajo-colaborativo-para-el-desarrollo-de-la-mineria-regional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Asociación de Municipalidades de la Región de Valparaíso y Déficit Cero impulsan agenda conjunta para enfrentar el déficit habitacional",
-    "enlace": "https://g5noticias.cl/2026/06/10/asociacion-de-municipalidades-de-la-region-de-valparaiso-y-deficit-cero-impulsan-agenda-conjunta-para-enfrentar-el-deficit-habitacional/",
+    "titulo": "Del álbum a las reuniones masivas: cómo el Mundial moviliza a los chilenos pese a la ausencia de la Roja",
+    "enlace": "https://g5noticias.cl/2026/06/10/del-album-a-las-reuniones-masivas-como-el-mundial-moviliza-a-los-chilenos-pese-a-la-ausencia-de-la-roja/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Liga Nacional de Básquetbol llega a TNT Sports con un partido semanal y cobertura multiplataforma",
-    "enlace": "https://g5noticias.cl/2026/06/10/la-liga-nacional-de-basquetbol-llega-a-tnt-sports-con-un-partido-semanal-y-cobertura-multiplataforma/",
+    "titulo": "Estudio en más de 700 mujeres chilenas encontró hasta un 48% más de satisfacción sexual entre usuarias de anticonceptivos hormonales",
+    "enlace": "https://g5noticias.cl/2026/06/10/estudio-en-mas-de-700-mujeres-chilenas-encontro-hasta-un-48-mas-de-satisfaccion-sexual-entre-usuarias-de-anticonceptivos-hormonales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Encuesta CEP: desaprobación al Presidente Kast llega al 52%, mientras un 34% aprueba su gestión",
-    "enlace": "https://g5noticias.cl/2026/06/10/encuesta-cep-desaprobacion-al-presidente-kast-llega-al-52-mientras-un-34-aprueba-su-gestion/",
+    "titulo": "Destacan Plan Operativo de Seguridad y vinculan endurecimiento en Huachalalume con la ofensiva contra el crimen organizado",
+    "enlace": "https://g5noticias.cl/2026/06/10/destacan-plan-operativo-de-seguridad-y-vinculan-endurecimiento-en-huachalalume-con-la-ofensiva-contra-el-crimen-organizado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Parlamentarios PC e Independientes junto a dirigentes del comercio rechazan derogación del feriado irrenunciable en días de elecciones y plebiscitos.",
-    "enlace": "https://g5noticias.cl/2026/06/10/parlamentarios-pc-e-independientes-junto-a-dirigentes-del-comercio-rechazan-derogacion-del-feriado-irrenunciable-en-dias-de-elecciones-y-plebiscitos/",
+    "titulo": "Reporte de Sostenibilidad 2025: Falabella Retail reduce 38% sus emisiones y amplía iniciativas de economía circular y desarrollo social",
+    "enlace": "https://g5noticias.cl/2026/06/10/reporte-de-sostenibilidad-2025-falabella-retail-reduce-38-sus-emisiones-y-amplia-iniciativas-de-economia-circular-y-desarrollo-social/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
