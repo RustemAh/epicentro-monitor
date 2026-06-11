@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Guanaqueros se prepara para vivir la tradicional fiesta de San Pedro y San Pablo",
+    "enlace": "https://www.elcoquimbano.cl/2026/06/11/guanaqueros-se-prepara-para-vivir-la-tradicional-fiesta-de-san-pedro-y-san-pablo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Parte Alta de Coquimbo recupera Plaza Paul Harris gracias al Gobierno Regional tras años de deterioro",
     "enlace": "https://www.elcoquimbano.cl/2026/06/11/parte-alta-de-coquimbo-recupera-plaza-paul-harris-gracias-al-gobierno-regional-tras-anos-de-deterioro/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Región de Coquimbo se mantiene sobre los 400 mil ocupados con el impulso de la construcción y el comercio",
-    "enlace": "https://www.elcoquimbano.cl/2026/06/09/region-de-coquimbo-se-mantiene-sobre-los-400-mil-ocupados-con-el-impulso-de-la-construccion-y-el-comercio/",
+    "titulo": "Se concreta embargo contra la Corporación Gabriel González Videla por parte de factoring BL Capital",
+    "enlace": "https://www.elserenense.cl/comunales/2026/06/11/se-concreta-embargo-contra-la-corporacion-gabriel-gonzalez-videla-por-parte-de-factoring-bl-capital/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Nueva planta fotovoltaica en la Scuola Italiana de La Serena contribuirá a las metas de descarbonización",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Hombre resulta herido tras efectuar disparos frente a cuartel de la PDI en La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/06/09/hombre-resulta-herido-tras-efectuar-disparos-frente-a-cuartel-de-la-pdi-en-la-serena/",
+    "titulo": "INACAP La Serena y SEREMI del Medio Ambiente impulsan seminario sobre restauración ecológica y conservación de humedales",
+    "enlace": "https://laserenaonline.cl/2026/06/11/inacap-la-serena-y-seremi-del-medio-ambiente-impulsan-seminario-sobre-restauracion-ecologica-y-conservacion-de-humedales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "¿Cómo se encuentran los embalses hoy en la Región de Coquimbo?",
     "enlace": "https://laserenaonline.cl/2026/06/11/como-se-encuentran-los-embalses-hoy-en-la-region-de-coquimbo-3/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 11 de junio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/11/el-tiempo-hoy-11-de-junio-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Consejo Regional de Capacitación avanza en definición del Plan Anual 2026 para fortalecer la empleabilidad en Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/11/consejo-regional-de-capacitacion-avanza-en-definicion-del-plan-anual-2026-para-fortalecer-la-empleabilidad-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Obras de conservación en Biblioteca Regional Gabriela Mistral alcanzan un 90% de avance",
     "enlace": "https://regiondecoquimbo.cl/2026/06/11/obras-de-conservacion-en-biblioteca-regional-gabriela-mistral-alcanzan-un-90-de-avance/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "En La Higuera se inaugura nuevo Centro de Atención Virtual ChileAtiende",
     "enlace": "https://regiondecoquimbo.cl/2026/06/10/en-la-higuera-se-inaugura-nuevo-centro-de-atencion-virtual-chileatiende/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "De la pantalla grande a la música en vivo: las industrias creativas siguen creciendo en la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/09/de-la-pantalla-grande-a-la-musica-en-vivo-las-industrias-creativas-siguen-creciendo-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Pisquera chilena relanza histórica marca elaborada en Salamanca",
+    "enlace": "https://www.elsalamanquino.cl/2026/06/11/pisquera-chilena-relanza-historica-marca-elaborada-en-salamanca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Raja de Manquehua: El tesoro natural y místico que posiciona a Salamanca como destino turístico de la Región de Coquimbo",
     "enlace": "https://www.elsalamanquino.cl/2026/06/09/raja-de-manquehua-el-tesoro-natural-y-mistico-que-posiciona-a-salamanca-como-destino-turistico-de-la-region-de-coquimbo/",
     "descripcion": "",
@@ -992,15 +1001,6 @@
   {
     "titulo": "147 familias de Salamanca celebraron sus anhelados títulos de dominio",
     "enlace": "https://www.elsalamanquino.cl/2026/05/27/147-familias-de-salamanca-celebraron-sus-anhelados-titulos-de-dominio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Tras largos años en Santiago, Miguel Muñoz retornó a Salamanca para trabajar en el campo: “Hacer agricultura es algo especial”",
-    "enlace": "https://www.elsalamanquino.cl/2026/05/27/tras-largos-anos-en-santiago-miguel-munoz-retorno-a-salamanca-para-trabajar-en-el-campo-hacer-agricultura-es-algo-especial/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1458,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "En Hospital San Agustín conmemoran 10 años de la creación del Equipo de Salud Mental Ambulatorio ESMA",
+    "enlace": "https://laliguanoticias.cl/2026/06/11/en-hospital-san-agustin-conmemoran-10-anos-de-la-creacion-del-equipo-de-salud-mental-ambulatorio-esma/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "MINVU entrega 56 subsidios de sectores medios DS01 a familias de la Provincia de Petorca",
+    "enlace": "https://laliguanoticias.cl/2026/06/11/minvu-entrega-56-subsidios-de-sectores-medios-ds01-a-familias-de-la-provincia-de-petorca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Gobierno invierte más de $310 millones para fortalecer las caletas Los Molles y Pichicuy",
+    "enlace": "https://laliguanoticias.cl/2026/06/11/gobierno-invierte-mas-de-310-millones-para-fortalecer-las-caletas-los-molles-y-pichicuy/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "Ciudad de La Ligua celebrará 272 años con diversas actividades en junio: realizarán el Día del Dulce y bailarán al ritmo de los Viking´s 5",
     "enlace": "https://laliguanoticias.cl/2026/06/08/ciudad-de-la-ligua-celebrara-272-anos-con-diversas-actividades-en-junio-realizaran-el-dia-del-dulce-y-bailaran-al-ritmo-de-los-vikings-5/",
     "descripcion": "",
@@ -1514,33 +1541,6 @@
   {
     "titulo": "Diecisiete emprendedoras de Papudo reciben certificación tras completar Academia de Mujeres Empresarias 2026",
     "enlace": "https://laliguanoticias.cl/2026/06/04/diecisiete-emprendedoras-de-papudo-reciben-certificacion-tras-completar-academia-de-mujeres-empresarias-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Ex concejal de Zapallar Sebastián Chacana es designado director regional del FOSIS en la Región de Valparaíso",
-    "enlace": "https://laliguanoticias.cl/2026/06/04/ex-concejal-de-zapallar-sebastian-chacana-es-designado-director-regional-del-fosis-en-la-region-de-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "14 organizaciones sociales podrán fortalecer la seguridad de sus comunidades gracias al programa “Fondo Vecino” de Sopraval",
-    "enlace": "https://laliguanoticias.cl/2026/06/02/14-organizaciones-sociales-podran-fortalecer-la-seguridad-de-sus-comunidades-gracias-al-programa-fondo-vecino-de-sopraval/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Más de 130 ganaderos de Petorca reciben apoyo de INDAP para enfrentar escasez hídrica",
-    "enlace": "https://laliguanoticias.cl/2026/06/02/mas-de-130-ganaderos-de-petorca-reciben-apoyo-de-indap-para-enfrentar-escasez-hidrica/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Organizaciones de salud y parlamentarios realizaron un funeral simbólico de la salud pública frente al Ministerio de Hacienda",
-    "enlace": "https://g5noticias.cl/2026/06/11/organizaciones-de-salud-y-parlamentarios-realizaron-un-funeral-simbolico-de-la-salud-publica-frente-al-ministerio-de-hacienda/",
+    "titulo": "Suiza es presentada como país invitado de Exponor 2028",
+    "enlace": "https://g5noticias.cl/2026/06/11/suiza-es-presentada-como-pais-invitado-de-exponor-2028/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Everton de Viña del Mar y Skechers presentan edición especial de aniversario: 117 años, 117 camisetas",
-    "enlace": "https://g5noticias.cl/2026/06/11/everton-de-vina-del-mar-y-skechers-presentan-edicion-especial-de-aniversario-117-anos-117-camisetas/",
+    "titulo": "Comenzó el Mundial: México rompió la historia y derrotó a Sudáfrica en el partido inaugural",
+    "enlace": "https://g5noticias.cl/2026/06/11/comenzo-el-mundial-mexico-rompio-la-historia-y-derroto-a-sudafrica-en-el-partido-inaugural/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hospital Biprovincial avanza en detección y tratamiento de cáncer mamario gracias a reincorporación de especialista en Imagenología",
-    "enlace": "https://g5noticias.cl/2026/06/11/hospital-biprovincial-avanza-en-deteccion-y-tratamiento-de-cancer-mamario-gracias-a-reincorporacion-de-especialista-en-imagenologia/",
+    "titulo": "Párvulos ganadores de concurso que los llevará a la NASA también disfrutarán de Disney y Legoland en Estados Unidos",
+    "enlace": "https://g5noticias.cl/2026/06/11/parvulos-ganadores-de-concurso-que-los-llevara-a-la-nasa-tambien-disfrutaran-de-disney-y-legoland-en-estados-unidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "OS-7 Iquique de Carabineros incauta más de 63 kilos de droga en la Ruta A-16",
-    "enlace": "https://g5noticias.cl/2026/06/11/os-7-iquique-de-carabineros-incauta-mas-de-63-kilos-de-droga-en-la-ruta-a-16/",
+    "titulo": "Más de 20 instituciones articulan en Biobío histórico modelo de reinserción para frenar la reincidencia",
+    "enlace": "https://g5noticias.cl/2026/06/11/mas-de-20-instituciones-articulan-en-biobio-historico-modelo-de-reinsercion-para-frenar-la-reincidencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad invita a vecinas de La Cruz a participar de taller de Karate y Autocuidado",
-    "enlace": "https://g5noticias.cl/2026/06/11/municipalidad-invita-a-vecinas-de-la-cruz-a-participar-de-taller-de-karate-y-autocuidado/",
+    "titulo": "Desde el reciclaje a la reutilización: ¿qué hacer con los residuos de las láminas de nuestro álbum?",
+    "enlace": "https://g5noticias.cl/2026/06/11/desde-el-reciclaje-a-la-reutilizacion-que-hacer-con-los-residuos-de-las-laminas-de-nuestro-album/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cáncer de próstata: el cáncer más frecuente en hombres en Chile y uno de los más tratables si el diagnóstico es precoz",
-    "enlace": "https://g5noticias.cl/2026/06/11/cancer-de-prostata-el-cancer-mas-frecuente-en-hombres-en-chile-y-uno-de-los-mas-tratables-si-el-diagnostico-es-precoz/",
+    "titulo": "Millonaria inversión permitirá completa renovación de Plaza Sotomayor y sus alrededores",
+    "enlace": "https://g5noticias.cl/2026/06/11/millonaria-inversion-permitira-completa-renovacion-de-plaza-sotomayor-y-sus-alrededores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Un tribunal de Tailandia condenó a muerte a dos hombres por el atentado de 2015 en Bangkok",
-    "enlace": "https://g5noticias.cl/2026/06/11/un-tribunal-de-tailandia-condeno-a-muerte-a-dos-hombres-por-el-atentado-de-2015-en-bangkok/",
+    "titulo": "En Petorca el Minvu concluye entregas regionales de subsidios de sectores medios DS01",
+    "enlace": "https://g5noticias.cl/2026/06/11/en-petorca-el-minvu-concluye-entregas-regionales-de-subsidios-de-sectores-medios-ds01/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministra de Desarrollo Social y Familia, María Jesús Wulf, lanzó nuevo catastro de personas en situación de calle",
-    "enlace": "https://g5noticias.cl/2026/06/11/ministra-de-desarrollo-social-y-famlia-maria-jesus-wulf-lanzo-nuevo-catastro-de-personas-en-situacion-de-calle/",
+    "titulo": "Quillota hará historia con un inédito fin de semana de voleibol nacional en tres gimnasios de la comuna",
+    "enlace": "https://g5noticias.cl/2026/06/11/quillota-hara-historia-con-un-inedito-fin-de-semana-de-voleibol-nacional-en-tres-gimnasios-de-la-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremi Rathgeb participa de las capacitación sobre de eficiencia energética para viviendas nuevas en Angol y Temuco",
-    "enlace": "https://g5noticias.cl/2026/06/11/seremi-rathgeb-participa-de-las-capacitacion-sobre-de-eficiencia-energetica-para-viviendas-nuevas-en-angol-y-temuco/",
+    "titulo": "Francisco Undurraga y Ximena Lincolao encabezan el “rechazo digital” del gabinete presidencial a tres meses de su instalación",
+    "enlace": "https://g5noticias.cl/2026/06/11/francisco-undurraga-y-ximena-lincolao-encabezan-el-rechazo-digital-del-gabinete-presidencial-a-tres-meses-de-su-instalacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Santiago ordena al fisco indemnizar a menor de edad detenido y torturado por la CNI",
-    "enlace": "https://g5noticias.cl/2026/06/11/corte-de-santiago-ordena-al-fisco-indemnizar-a-menor-de-edad-detenido-y-torturado-por-la-cni/",
+    "titulo": "El Mundial se vive más allá de la cancha: Exposición gratuita que une arte, fútbol y coleccionismo llega al Cerro San Cristóbal",
+    "enlace": "https://g5noticias.cl/2026/06/11/el-mundial-se-vive-mas-alla-de-la-cancha-exposicion-gratuita-que-une-arte-futbol-y-coleccionismo-llega-al-cerro-san-cristobal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1818,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Detectan bodega clandestina con bebidas alcohólicas",
+    "enlace": "https://laprensaaustral.cl/2026/06/11/detectan-bodega-clandestina-con-bebidas-alcoholicas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "El mundo del fútbol ya juega: así se vivió la ceremonia inaugural del Mundial 2026 en el Estadio Azteca",
     "enlace": "https://laprensaaustral.cl/2026/06/11/el-mundo-del-futbol-ya-juega-asi-se-vivio-la-ceremonia-inaugural-del-mundial-2026-en-el-estadio-azteca/",
     "descripcion": "",
@@ -1892,15 +1901,6 @@
   {
     "titulo": "Cuarta Feria de la Diversidad reunió  a estudiantes e instituciones",
     "enlace": "https://laprensaaustral.cl/2026/06/11/cuarta-feria-de-la-diversidad-reunio-a-estudiantes-e-instituciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Costura, telar y mosaico: estudiantes desarrollan competencias prácticas  en clases de Tecnología",
-    "enlace": "https://laprensaaustral.cl/2026/06/11/costura-telar-y-mosaico-estudiantes-desarrollan-competencias-practicas-en-clases-de-tecnologia/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
