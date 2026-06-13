@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Ovalle y Punitaqui contarán con 91 nuevas casas gracias al MINVU",
+    "enlace": "https://laserenaonline.cl/2026/06/13/ovalle-y-punitaqui-contaran-con-91-nuevas-casas-gracias-al-minvu/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Capacitación con foco en el empleo: Consejo Regional de Capacitación avanza en definición del Plan Anual 2026 para fortalecer la empleabilidad en Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/06/13/capacitacion-con-foco-en-el-empleo-consejo-regional-de-capacitacion-avanza-en-definicion-del-plan-anual-2026-para-fortalecer-la-empleabilidad-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Autoridades y dirigentes de transporte público menor coordinan acciones preventivas ante eventuales precipitaciones",
+    "enlace": "https://laserenaonline.cl/2026/06/13/autoridades-y-dirigentes-de-transporte-publico-menor-coordinan-acciones-preventivas-ante-eventuales-precipitaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Más de 290 estudiantes de la Región de Coquimbo reciben la Beca Presidente de la República 2026",
     "enlace": "https://laserenaonline.cl/2026/06/13/mas-de-290-estudiantes-de-la-region-de-coquimbo-reciben-la-beca-presidente-de-la-republica-2026/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Incautan más de 200 detonadores electrónicos y detienen a sujeto por infracción a la Ley de Armas y Explosivos en Ovalle",
     "enlace": "https://laserenaonline.cl/2026/06/13/incautan-mas-de-200-detonadores-electronicos-y-detienen-a-sujeto-por-infraccion-a-la-ley-de-armas-y-explosivos-en-ovalle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 13 de junio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/13/reporte-del-tiempo-hoy-13-de-junio-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Sismo sacude a la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/13/sismo-sacude-a-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena fortalece talento joven con talleres y asesorías laborales",
-    "enlace": "https://laserenaonline.cl/2026/06/12/la-serena-fortalece-talento-joven-con-talleres-y-asesorias-laborales/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Imputado civil queda en prisión preventiva y defensa cuestiona antecedentes",
-    "enlace": "https://veetv.cl/civil-prision-preventiva-cdp-illapel/",
+    "titulo": "Siete imputados quedan en prisión preventiva por caso de presunta red criminal en cárcel de Illapel",
+    "enlace": "https://veetv.cl/prision-preventiva-imputados-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Uno de cinco gendarmes formalizados queda en libertad con cautelares",
-    "enlace": "https://veetv.cl/gendarme-libertad-cautelares-operacion-dorado/",
+    "titulo": "Imputado civil queda en prisión preventiva y defensa cuestiona antecedentes",
+    "enlace": "https://veetv.cl/civil-prision-preventiva-cdp-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1638,6 +1638,24 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "UdeC y Jardín Botánico de la Universidad de Cambridge formalizan alianza para conservar flora chilena amenazada",
+    "enlace": "https://g5noticias.cl/2026/06/13/udec-y-jardin-botanico-de-la-universidad-de-cambridge-formalizan-alianza-para-conservar-flora-chilena-amenazada/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Nueva regulación de la CMF fija reglas estrictas para los seguros de edificios y condominios en Chile",
+    "enlace": "https://g5noticias.cl/2026/06/13/nueva-regulacion-de-la-cmf-fija-reglas-estrictas-para-los-seguros-de-edificios-y-condominios-en-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Alianza entre Sercotec y COPEC impulsa a cuatro emprendimientos locales en Pronto Express de COPEC",
     "enlace": "https://g5noticias.cl/2026/06/13/alianza-entre-sercotec-y-copec-impulsa-a-cuatro-emprendimientos-locales-en-pronto-express-de-copec/",
     "descripcion": "",
@@ -1703,24 +1721,6 @@
   {
     "titulo": "Instituto Confucio ST realizará Club Chino presencial sobre el Festival del Bote de Dragón en Viña del Mar",
     "enlace": "https://g5noticias.cl/2026/06/13/instituto-confucio-st-realizara-club-chino-presencial-sobre-el-festival-del-bote-de-dragon-en-vina-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Camiones Chevrolet consolida su liderazgo en ventas con su portafolio Euro VI",
-    "enlace": "https://g5noticias.cl/2026/06/13/camiones-chevrolet-consolida-su-liderazgo-en-ventas-con-su-portafolio-euro-vi/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "OMODA C5 SHS agota 90% de su primer embarque en todos los canales tras su debut",
-    "enlace": "https://g5noticias.cl/2026/06/13/omoda-c5-shs-agota-90-de-su-primer-embarque-en-todos-los-canales-tras-su-debut/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
