@@ -180,6 +180,42 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "HOY: La Herradura será escenario de una jornada cultural con teatro y folclore",
+    "enlace": "https://laserenaonline.cl/2026/06/13/hoy-la-herradura-sera-escenario-de-una-jornada-cultural-con-teatro-y-folclore/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Teatro regional llega con fuerza al Barrio Inglés este fin de semana",
+    "enlace": "https://laserenaonline.cl/2026/06/13/teatro-regional-llega-con-fuerza-al-barrio-ingles-este-fin-de-semana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Illapel: Fiscalía formaliza investigación a sujetos que integrarían asociacion criminal",
+    "enlace": "https://laserenaonline.cl/2026/06/13/illapel-fiscalia-formaliza-investigacion-a-sujetos-que-integrarian-asociacion-criminal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Operativo de seguridad en El Palqui deja cinco detenidos",
+    "enlace": "https://laserenaonline.cl/2026/06/13/operativo-de-seguridad-en-el-palqui-deja-cinco-detenidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Incautan más de 200 detonadores electrónicos y detienen a sujeto por infracción a la Ley de Armas y Explosivos en Ovalle",
     "enlace": "https://laserenaonline.cl/2026/06/13/incautan-mas-de-200-detonadores-electronicos-y-detienen-a-sujeto-por-infraccion-a-la-ley-de-armas-y-explosivos-en-ovalle/",
     "descripcion": "",
@@ -227,42 +263,6 @@
   {
     "titulo": "Emprendedores de Caleta San Pedro se capacitan en cómo obtener resolución sanitaria",
     "enlace": "https://laserenaonline.cl/2026/06/12/emprendedores-de-caleta-san-pedro-se-capacitan-en-como-obtener-resolucion-sanitaria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Aguas del Valle inicia la segunda etapa de la renovación de colectores en Avenida Balmaceda de La Serena",
-    "enlace": "https://laserenaonline.cl/2026/06/12/aguas-del-valle-inicia-la-segunda-etapa-de-la-renovacion-de-colectores-en-avenida-balmaceda-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Katherin y Mariana, las mujeres del Choapa que construyen su futuro y el de Los Pelambres",
-    "enlace": "https://laserenaonline.cl/2026/06/12/katherin-y-mariana-las-mujeres-del-choapa-que-construyen-su-futuro-y-el-de-los-pelambres/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Llamado al 1420 y patrullajes preventivos permiten frustrar delitos y la detención de dos sujetos en Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/12/llamado-al-1420-y-patrullajes-preventivos-permiten-frustrar-delitos-y-la-detencion-de-dos-sujetos-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Talleres gratuitos que han transformado la economía de mujeres serenenses",
-    "enlace": "https://laserenaonline.cl/2026/06/12/talleres-gratuitos-que-han-transformado-la-economia-de-mujeres-serenenses/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Fiscalía solicita prisión preventiva para cinco gendarmes y otros seis imputados en caso El Dorado",
-    "enlace": "https://veetv.cl/prision-preventiva-gendarmes-illapel/",
+    "titulo": "Imputado civil queda en prisión preventiva y defensa cuestiona antecedentes",
+    "enlace": "https://veetv.cl/civil-prision-preventiva-cdp-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Fiscalía investiga presunta red criminal vinculada al penal de Illapel: cinco gendarmes detenidos",
-    "enlace": "https://veetv.cl/gendarmes-detenidos-illapel-operativo-dorado/",
+    "titulo": "Uno de cinco gendarmes formalizados queda en libertad con cautelares",
+    "enlace": "https://veetv.cl/gendarme-libertad-cautelares-operacion-dorado/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Red criminal en cárcel de Illapel: siete imputados quedan en prisión preventiva",
+    "enlace": "https://www.davidnoticias.cl/red-criminal-en-carcel-de-illapel-siete-imputados-quedan-en-prision-preventiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Control vehicular en Canela termina con dos detenidos y decomiso de drogas",
     "enlace": "https://www.davidnoticias.cl/control-vehicular-en-canela-termina-con-dos-detenidos-y-decomiso-de-drogas/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Petroglifos refuerzan el valor patrimonial del Valle de Quilimarí en Los Vilos",
     "enlace": "https://www.davidnoticias.cl/petroglifos-refuerzan-el-valor-patrimonial-del-valle-de-quilimari-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Grave crisis en cárcel de Illapel: cinco gendarmes son detenidos por presunta red de tráfico de drogas al interior del penal",
-    "enlace": "https://www.davidnoticias.cl/grave-crisis-en-carcel-de-illapel-cinco-gendarmes-son-detenidos-por-presunta-red-de-trafico-de-drogas-al-interior-del-penal/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,96 +1458,6 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "En Hospital San Agustín conmemoran 10 años de la creación del Equipo de Salud Mental Ambulatorio ESMA",
-    "enlace": "https://laliguanoticias.cl/2026/06/11/en-hospital-san-agustin-conmemoran-10-anos-de-la-creacion-del-equipo-de-salud-mental-ambulatorio-esma/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "MINVU entrega 56 subsidios de sectores medios DS01 a familias de la Provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/06/11/minvu-entrega-56-subsidios-de-sectores-medios-ds01-a-familias-de-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Gobierno invierte más de $310 millones para fortalecer las caletas Los Molles y Pichicuy",
-    "enlace": "https://laliguanoticias.cl/2026/06/11/gobierno-invierte-mas-de-310-millones-para-fortalecer-las-caletas-los-molles-y-pichicuy/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Ciudad de La Ligua celebrará 272 años con diversas actividades en junio: realizarán el Día del Dulce y bailarán al ritmo de los Viking´s 5",
-    "enlace": "https://laliguanoticias.cl/2026/06/08/ciudad-de-la-ligua-celebrara-272-anos-con-diversas-actividades-en-junio-realizaran-el-dia-del-dulce-y-bailaran-al-ritmo-de-los-vikings-5/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Sopraval presenta su “Reporte de Gestión 2025” destacando principales avances en materia económica y social",
-    "enlace": "https://laliguanoticias.cl/2026/06/08/sopraval-presenta-su-reporte-de-gestion-2025-destacando-principales-avances-en-materia-economica-y-social/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Municipio de Zapallar destituirá a ocho funcionarios tras concluir sumarios por viajes al extranjero durante licencias médicas",
-    "enlace": "https://laliguanoticias.cl/2026/06/08/municipio-de-zapallar-destituira-a-ocho-funcionarios-tras-concluir-sumarios-por-viajes-al-extranjero-durante-licencias-medicas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Estudiantes del Liceo Bicentenario de Zapallar desarrollan innovador sistema con drones e IA para detectar incendios forestales",
-    "enlace": "https://laliguanoticias.cl/2026/06/05/estudiantes-del-liceo-bicentenario-de-zapallar-desarrollan-innovador-sistema-con-drones-e-ia-para-detectar-incendios-forestales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Este fin de semana cierra el proceso de postulación al programa “Capital Emprendedor” de Sopraval",
-    "enlace": "https://laliguanoticias.cl/2026/06/05/este-fin-de-semana-cierra-el-proceso-de-postulacion-al-programa-capital-emprendedor-de-sopraval/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Transitadas calles de Llay Llay cuentan con tres kilómetros de nuevas luminarias peatonales",
-    "enlace": "https://laliguanoticias.cl/2026/06/04/transitadas-calles-de-llay-llay-cuentan-con-tres-kilometros-de-nuevas-luminarias-peatonales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diecisiete emprendedoras de Papudo reciben certificación tras completar Academia de Mujeres Empresarias 2026",
-    "enlace": "https://laliguanoticias.cl/2026/06/04/diecisiete-emprendedoras-de-papudo-reciben-certificacion-tras-completar-academia-de-mujeres-empresarias-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
     "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Cuidado personal RIT C-1285-2025 «Ruz»",
     "enlace": "https://diariolaquinta.cl/2026/06/13/notificacion-tribunal-de-familia-de-san-antonio-cuidado-personal-rit-c-1285-2025-ruz-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-cuidado-personal-rit-c-1285-2025-ruz-3",
     "descripcion": "",
@@ -1638,6 +1548,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Ver a un vecino ingresar a la universidad impulsa a otros jóvenes a acceder a la educación superior, según estudio Uandes",
+    "enlace": "https://g5noticias.cl/2026/06/13/ver-a-un-vecino-ingresar-a-la-universidad-impulsa-a-otros-jovenes-a-acceder-a-la-educacion-superior-segun-estudio-uandes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Instituto Confucio ST realizará Club Chino presencial sobre el Festival del Bote de Dragón en Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/06/13/instituto-confucio-st-realizara-club-chino-presencial-sobre-el-festival-del-bote-de-dragon-en-vina-del-mar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Camiones Chevrolet consolida su liderazgo en ventas con su portafolio Euro VI",
+    "enlace": "https://g5noticias.cl/2026/06/13/camiones-chevrolet-consolida-su-liderazgo-en-ventas-con-su-portafolio-euro-vi/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "OMODA C5 SHS agota 90% de su primer embarque en todos los canales tras su debut",
+    "enlace": "https://g5noticias.cl/2026/06/13/omoda-c5-shs-agota-90-de-su-primer-embarque-en-todos-los-canales-tras-su-debut/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Se requieren más donantes voluntarios de sangre. Por Valeska Morales Quintana, Académica de Obstetricia Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/06/13/se-requieren-mas-donantes-voluntarios-de-sangre-por-valeska-morales-quintana-academica-de-obstetricia-universidad-andres-bello/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Tesla incorpora Grok a sus vehículos en Chile: el nuevo asistente de inteligencia artificial que transforma la experiencia al volante",
+    "enlace": "https://g5noticias.cl/2026/06/13/tesla-incorpora-grok-a-sus-vehiculos-en-chile-el-nuevo-asistente-de-inteligencia-artificial-que-transforma-la-experiencia-al-volante/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Experta detalla las claves para rendir mejor y sacarle el máximo provecho a la PAES de invierno",
     "enlace": "https://g5noticias.cl/2026/06/13/experta-detalla-las-claves-para-rendir-mejor-y-sacarle-el-maximo-provecho-a-la-paes-de-invierno/",
     "descripcion": "",
@@ -1667,60 +1631,6 @@
   {
     "titulo": "Municipalidad de Quintero presentó cartera de inversiones y proyectos estratégicos en Mesa de Articulación Territorial",
     "enlace": "https://g5noticias.cl/2026/06/13/municipalidad-de-quintero-presento-cartera-de-inversiones-y-proyectos-estrategicos-en-mesa-de-articulacion-territorial-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Carabineros detiene a tres sujetos tras ronda de copamiento policial en La Reina",
-    "enlace": "https://g5noticias.cl/2026/06/13/carabineros-detiene-a-tres-sujetos-tras-ronda-de-copamiento-policial-en-la-reina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Inmovilización con pistola Taser: explicación desde la kinesiología. Por PhD Maximiliano Torres, Académico investigador Carrera de Kinesiología UDLA Sede Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/06/13/inmovilizacion-con-pistola-taser-explicacion-desde-la-kinesiologia-por-phd-maximiliano-torres-academico-investigador-carrera-de-kinesiologia-udla-sede-vina-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Humanizar la atención en maternidad y neonatología: un desafío que Chile aún debe fortalecer. Por Cinthya Alfaro Directora Carrera de Obstetricia y Puericultura Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/06/13/humanizar-la-atencion-en-maternidad-y-neonatologia-un-desafio-que-chile-aun-debe-fortalecer-por-cinthya-alfaro-directora-carrera-de-obstetricia-y-puericultura-universidad-de-las-americas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Proyecto USM explora el papel del arte en la construcción de esperanza tras catástrofes",
-    "enlace": "https://g5noticias.cl/2026/06/13/proyecto-usm-explora-el-papel-del-arte-en-la-construccion-de-esperanza-tras-catastrofes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Los horizontes históricos del Ministerio de la Mujer, a 10 años de su creación. Por María Gabriela Huidobro, académica UNAB y Tecnológico de Monterrey",
-    "enlace": "https://g5noticias.cl/2026/06/13/los-horizontes-historicos-del-ministerio-de-la-mujer-a-10-anos-de-su-creacion-por-maria-gabriela-huidobro-academica-unab-y-tecnologico-de-monterrey/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Sobrecarga eléctrica en invierno: cómo evitar riesgos al usar enchufes y alargadores en el hogar",
-    "enlace": "https://g5noticias.cl/2026/06/13/sobrecarga-electrica-en-invierno-como-evitar-riesgos-al-usar-enchufes-y-alargadores-en-el-hogar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1906,95 +1816,5 @@
     "medio": "La Prensa Austral",
     "zona": "Punta Arenas",
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Enap alista su primer proyecto de perforación horizontal en Magallanes",
-    "enlace": "https://elmagallanico.com/2026/06/11/enap-alista-su-primer-proyecto-de-perforacion-horizontal-en-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Folclore, rock y tradición darán vida a la Peña de As de Oros en Punta Arenas",
-    "enlace": "https://elmagallanico.com/2026/06/11/folclore-rock-y-tradicion-daran-vida-a-la-pena-de-as-de-oros-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "El ajedrez se toma la Galería Palace en doble jornada en Punta Arenas",
-    "enlace": "https://elmagallanico.com/2026/06/11/el-ajedrez-se-toma-la-galeria-palace-en-doble-jornada-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Club de Innovación beca a 46 emprendedores de Magallanes vinculados a transición energética e H2V",
-    "enlace": "https://elmagallanico.com/2026/06/10/club-de-innovacion-beca-a-46-emprendedores-de-magallanes-vinculados-a-transicion-energetica-e-h2v/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "CChC Magallanes aborda desafíos energéticos regionales en reunión con seremi de Energía",
-    "enlace": "https://elmagallanico.com/2026/06/10/cchc-magallanes-aborda-desafios-energeticos-regionales-en-reunion-con-seremi-de-energia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Tres escaladores de montaña llegaron hasta la cumbre más alta del Parque Nacional Torres del Paine",
-    "enlace": "https://elmagallanico.com/2026/06/10/tres-escaladores-de-montana-llegaron-hasta-la-cumbre-mas-alta-del-parque-nacional-torres-del-paine/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Bárbara Hernández recibirà reconocimiento de Fundación Antártica21 y participará en el Chapuzón",
-    "enlace": "https://elmagallanico.com/2026/06/10/barbara-hernandez-recibira-reconocimiento-de-fundacion-antartica21-y-participara-en-el-chapuzon/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Impulsada por e-Combustibles de HIF Global:  regresa la Porsche Mobil Supercup",
-    "enlace": "https://elmagallanico.com/2026/06/10/impulsada-por-e-combustibles-de-hif-global-regresa-la-porsche-mobil-supercup/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Seis establecimientos educacionales de Punta Arenas recibieron la Certificación Ambiental Escolar",
-    "enlace": "https://elmagallanico.com/2026/06/10/seis-establecimientos-educacionales-de-punta-arenas-recibieron-la-certificacion-ambiental-escolar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Edelmag y Nema impulsan vinculación con futuros profesionales de la energía en Magallanes",
-    "enlace": "https://elmagallanico.com/2026/06/09/edelmag-y-nema-impulsan-vinculacion-con-futuros-profesionales-de-la-energia-en-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
   }
 ]
