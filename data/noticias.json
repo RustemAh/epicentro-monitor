@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Destacan sistema de almacenamiento con baterías del parque eólico Punta de Talca en Ovalle",
+    "enlace": "https://laserenaonline.cl/2026/06/14/destacan-sistema-de-almacenamiento-con-baterias-del-parque-eolico-punta-de-talca-en-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Romina Guinossi, voluntaria: Asumí un compromiso personal con la donación de sangre",
+    "enlace": "https://laserenaonline.cl/2026/06/14/romina-guinossi-voluntaria-asumi-un-compromiso-personal-con-la-donacion-de-sangre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Financian 2 mil esterilizaciones caninas y felinas en Illapel",
     "enlace": "https://laserenaonline.cl/2026/06/14/financian-2-mil-esterilizaciones-caninas-y-felinas-en-illapel/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Más herramientas, más autonomía y nuevos desafíos: Coquimbo celebra egreso de participantes del Programa Mujeres Jefas de Hogar",
     "enlace": "https://laserenaonline.cl/2026/06/13/mas-herramientas-mas-autonomia-y-nuevos-desafios-coquimbo-celebra-egreso-de-participantes-del-programa-mujeres-jefas-de-hogar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Ovalle y Punitaqui contarán con 91 nuevas casas gracias al MINVU",
-    "enlace": "https://laserenaonline.cl/2026/06/13/ovalle-y-punitaqui-contaran-con-91-nuevas-casas-gracias-al-minvu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Capacitación con foco en el empleo: Consejo Regional de Capacitación avanza en definición del Plan Anual 2026 para fortalecer la empleabilidad en Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/13/capacitacion-con-foco-en-el-empleo-consejo-regional-de-capacitacion-avanza-en-definicion-del-plan-anual-2026-para-fortalecer-la-empleabilidad-en-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Desaprobación de Kast llega a su nivel más alto",
+    "enlace": "https://www.davidnoticias.cl/desaprobacion-de-kast-llega-a-su-nivel-mas-alto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Chile frente a una amenaza silenciosa: la lección que dejó el salitre",
     "enlace": "https://www.davidnoticias.cl/chile-frente-a-una-amenaza-silenciosa-la-leccion-que-dejo-el-salitre/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Encuesta CEP revela complejo inicio de gobierno: desaprobación de Kast supera el 50%",
     "enlace": "https://www.davidnoticias.cl/encuesta-cep-revela-complejo-inicio-de-gobierno-desaprobacion-de-kast-supera-el-50/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Senador Gahona votó contra levantamiento del secreto bancario, Walker estuvo ausente",
-    "enlace": "https://www.davidnoticias.cl/senador-gahona-voto-contra-levantamiento-del-secreto-bancario-walker-estuvo-ausente/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1638,6 +1638,42 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Más de $9.600 millones para obras de riego: CNR abre concurso para organizaciones de usuarios de agua de Atacama y Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/06/14/mas-de-9-600-millones-para-obras-de-riego-cnr-abre-concurso-para-organizaciones-de-usuarios-de-agua-de-atacama-y-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "“Pasado a Groove”: el nuevo podcast chileno que apuesta por la curaduría musical en tiempos dominados por algoritmos",
+    "enlace": "https://g5noticias.cl/2026/06/14/pasado-a-groove-el-nuevo-podcast-chileno-que-apuesta-por-la-curaduria-musical-en-tiempos-dominados-por-algoritmos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Vacaciones de invierno en Santiago: panoramas imperdibles para redescubrir la capital",
+    "enlace": "https://g5noticias.cl/2026/06/14/vacaciones-de-invierno-en-santiago-panoramas-imperdibles-para-redescubrir-la-capital/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Las cuentas bancarias, fondos mutuos y criptomonedas también se heredan, pero el acceso no es inmediato",
+    "enlace": "https://g5noticias.cl/2026/06/14/las-cuentas-bancarias-fondos-mutuos-y-criptomonedas-tambien-se-heredan-pero-el-acceso-no-es-inmediato/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Nueva Ley de Envejecimiento: por qué la salud bucal debe ser parte del debate en Chile. Por Dra. Loredana Yutronic Montiglio, Vicedecana Facultad de Ciencias de la Salud Universidad del Alba; y Dra. Carolina Saldívar Apablaza, Directora de Odontología Facultad de Ciencias de la Salud Universidad del Alba",
     "enlace": "https://g5noticias.cl/2026/06/14/nueva-ley-de-envejecimiento-por-que-la-salud-bucal-debe-ser-parte-del-debate-en-chile-por-dra-loredana-yutronic-montiglio-vicedecana-facultad-de-ciencias-de-la-salud-universidad-del-alba-y-d/",
     "descripcion": "",
@@ -1685,42 +1721,6 @@
   {
     "titulo": "Exención de IVA en viviendas: claves para entender su impacto. Por Cristián Martínez, fundador de Crece Inmobiliario",
     "enlace": "https://g5noticias.cl/2026/06/14/exencion-de-iva-en-viviendas-claves-para-entender-su-impacto-por-cristian-martinez-fundador-de-crece-inmobiliario/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Para qué sirven realmente la ciencia y la tecnología? Por Ignacio Merino, Director  Ejecutivo de Hubtec",
-    "enlace": "https://g5noticias.cl/2026/06/14/para-que-sirven-realmente-la-ciencia-y-la-tecnologia-por-ignacio-merino-director-ejecutivo-de-hubtec/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tabaco «natural» o cigarrillo industrial: cual es menos malo",
-    "enlace": "https://g5noticias.cl/2026/06/14/tabaco-natural-o-cigarrillo-industrial-cual-es-menos-malo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Los New York Knicks conquistaron el título de la NBA tras 53 años",
-    "enlace": "https://g5noticias.cl/2026/06/13/los-new-york-knicks-conquistaron-el-titulo-de-la-nba-tras-53-anos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El thriller y la emoción de «Sofía en peligro», la nueva MegaShorts, llega a las plataformas el próximo lunes 22",
-    "enlace": "https://g5noticias.cl/2026/06/13/el-thriller-y-la-emocion-de-sofia-en-peligro-la-nueva-megashorts-llega-a-las-plataformas-el-proximo-lunes-22/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
