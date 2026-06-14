@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Municipalidad de Los Vilos presentó cartera de proyectos para Pichidangui en jornada participativa con la comunidad",
+    "enlace": "https://laserenaonline.cl/2026/06/14/municipalidad-de-los-vilos-presento-cartera-de-proyectos-para-pichidangui-en-jornada-participativa-con-la-comunidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "A 48 años de historia: el legado del Servicio de Neurología y Neurocirugía del Hospital de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/06/14/a-48-anos-de-historia-el-legado-del-servicio-de-neurologia-y-neurocirugia-del-hospital-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Con histórica inversión modernizan sistema de agua potable rural de Santa Virginia en Illapel",
     "enlace": "https://laserenaonline.cl/2026/06/14/con-historica-inversion-modernizan-sistema-de-agua-potable-rural-de-santa-virginia-en-illapel/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Reconocen a familias de acogida y adoptivas por su compromiso con la niñez",
     "enlace": "https://laserenaonline.cl/2026/06/13/reconocen-a-familias-de-acogida-y-adoptivas-por-su-compromiso-con-la-ninez/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Comisión de Régimen Interno analiza cartera de proyectos de seguridad junto a Carabineros y Fiscalía Regional",
-    "enlace": "https://laserenaonline.cl/2026/06/13/comision-de-regimen-interno-analiza-cartera-de-proyectos-de-seguridad-junto-a-carabineros-y-fiscalia-regional/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Niños, niñas y adolescentes dialogan sobre cultura y artes en nuevo encuentro regional de participación",
-    "enlace": "https://laserenaonline.cl/2026/06/13/ninos-ninas-y-adolescentes-dialogan-sobre-cultura-y-artes-en-nuevo-encuentro-regional-de-participacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -718,6 +718,24 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Siete imputados quedan en prisión preventiva por caso de presunta red criminal en cárcel de Illapel",
+    "enlace": "https://veetv.cl/prision-preventiva-imputados-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Imputado civil queda en prisión preventiva y defensa cuestiona antecedentes",
+    "enlace": "https://veetv.cl/civil-prision-preventiva-cdp-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Trabajadores de Pullman Bus en Salamanca inician paro indefinido por sueldos impagos: Agencia y terminal cerrados",
@@ -1258,5 +1276,95 @@
     "medio": "La Prensa Austral",
     "zona": "Punta Arenas",
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Enap alista su primer proyecto de perforación horizontal en Magallanes",
+    "enlace": "https://elmagallanico.com/2026/06/11/enap-alista-su-primer-proyecto-de-perforacion-horizontal-en-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Folclore, rock y tradición darán vida a la Peña de As de Oros en Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/06/11/folclore-rock-y-tradicion-daran-vida-a-la-pena-de-as-de-oros-en-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "El ajedrez se toma la Galería Palace en doble jornada en Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/06/11/el-ajedrez-se-toma-la-galeria-palace-en-doble-jornada-en-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Club de Innovación beca a 46 emprendedores de Magallanes vinculados a transición energética e H2V",
+    "enlace": "https://elmagallanico.com/2026/06/10/club-de-innovacion-beca-a-46-emprendedores-de-magallanes-vinculados-a-transicion-energetica-e-h2v/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "CChC Magallanes aborda desafíos energéticos regionales en reunión con seremi de Energía",
+    "enlace": "https://elmagallanico.com/2026/06/10/cchc-magallanes-aborda-desafios-energeticos-regionales-en-reunion-con-seremi-de-energia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Tres escaladores de montaña llegaron hasta la cumbre más alta del Parque Nacional Torres del Paine",
+    "enlace": "https://elmagallanico.com/2026/06/10/tres-escaladores-de-montana-llegaron-hasta-la-cumbre-mas-alta-del-parque-nacional-torres-del-paine/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Bárbara Hernández recibirà reconocimiento de Fundación Antártica21 y participará en el Chapuzón",
+    "enlace": "https://elmagallanico.com/2026/06/10/barbara-hernandez-recibira-reconocimiento-de-fundacion-antartica21-y-participara-en-el-chapuzon/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Impulsada por e-Combustibles de HIF Global:  regresa la Porsche Mobil Supercup",
+    "enlace": "https://elmagallanico.com/2026/06/10/impulsada-por-e-combustibles-de-hif-global-regresa-la-porsche-mobil-supercup/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Seis establecimientos educacionales de Punta Arenas recibieron la Certificación Ambiental Escolar",
+    "enlace": "https://elmagallanico.com/2026/06/10/seis-establecimientos-educacionales-de-punta-arenas-recibieron-la-certificacion-ambiental-escolar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Edelmag y Nema impulsan vinculación con futuros profesionales de la energía en Magallanes",
+    "enlace": "https://elmagallanico.com/2026/06/09/edelmag-y-nema-impulsan-vinculacion-con-futuros-profesionales-de-la-energia-en-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   }
 ]
