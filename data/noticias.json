@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Cámara de Comercio y Turismo de La Serena constituye nueva directiva multisectorial de cara a su centenario",
+    "enlace": "https://www.elserenense.cl/comunales/2026/06/16/camara-de-comercio-y-turismo-de-la-serena-constituye-nueva-directiva-multisectorial-de-cara-a-su-centenario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Compañía regional prepara obra de teatro inspirada en pueblos originarios",
     "enlace": "https://www.elserenense.cl/tendencias/2026/06/16/compania-regional-prepara-obra-de-teatro-inspirada-en-pueblos-originarios/",
     "descripcion": "",
@@ -171,11 +180,38 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Nueva planta fotovoltaica en la Scuola Italiana de La Serena contribuirá a las metas de descarbonización",
-    "enlace": "https://www.elserenense.cl/comunales/2026/06/11/nueva-planta-fotovoltaica-en-la-scuola-italiana-de-la-serena-contribuira-a-las-metas-de-descarbonizacion/",
+    "titulo": "Casi medio centenar de detenidos y más de 1.300 fiscalizaciones: las cifras que marcaron un nuevo operativo policial conjunto en la región",
+    "enlace": "https://laserenaonline.cl/2026/06/16/casi-medio-centenar-de-detenidos-y-mas-de-1-300-fiscalizaciones-las-cifras-que-marcaron-un-nuevo-operativo-policial-conjunto-en-la-region/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Adolescentes detenidos por poner en riesgo a pilotos de Carabineros: apuntaron con láser durante patrullaje aéreo nocturno",
+    "enlace": "https://laserenaonline.cl/2026/06/16/adolescentes-detenidos-por-poner-en-riesgo-a-pilotos-de-carabineros-apuntaron-con-laser-durante-patrullaje-aereo-nocturno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Vozinha frena a España y Cabo Verde firma un debut histórico en el Mundial 2026",
+    "enlace": "https://laserenaonline.cl/2026/06/16/vozinha-frena-a-espana-y-cabo-verde-firma-un-debut-historico-en-el-mundial-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Municipalidad de Andacollo fiscalizó instalaciones de Minera Teck por episodio preventivo de la calidad en el aire",
+    "enlace": "https://laserenaonline.cl/2026/06/16/municipalidad-de-andacollo-fiscalizo-instalaciones-de-minera-teck-por-episodio-preventivo-de-la-calidad-en-el-aire/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -227,42 +263,6 @@
   {
     "titulo": "¿Qué ocurre con la huelga legal de Clínica RedSalud Elqui?",
     "enlace": "https://laserenaonline.cl/2026/06/16/que-ocurre-con-la-huelga-legal-de-clinica-redsalud-elqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Prófugo con casi sesenta reiteraciones fue detenido por Carabineros en la Parte Alta de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/16/profugo-con-casi-sesenta-reiteraciones-fue-detenido-por-carabineros-en-la-parte-alta-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Procedimiento en Coquimbo termina con seis detenidos en distintos sectores",
-    "enlace": "https://laserenaonline.cl/2026/06/16/procedimiento-en-coquimbo-termina-con-seis-detenidos-en-distintos-sectores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Activan plan preventivo por calidad del aire en Andacollo: autoridades llaman a la tranquilidad",
-    "enlace": "https://laserenaonline.cl/2026/06/16/activan-plan-preventivo-por-calidad-del-aire-en-andacollo-autoridades-llaman-a-la-tranquilidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Carabineros decomisa casi medio centenar de ampollas de fentanilo en Ovalle: detenido mantiene amplio prontuario policial",
-    "enlace": "https://laserenaonline.cl/2026/06/16/carabineros-decomisa-casi-medio-centenar-de-ampollas-de-fentanilo-en-ovalle-detenido-mantiene-amplio-prontuario-policial/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Delegado Presidencial Víctor Pino: «estamos respaldando todo el trabajo de nuestra PDI»",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/16/delegado-presidencial-victor-pino-estamos-respaldando-todo-el-trabajo-de-nuestra-pdi/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Casi medio centenar de detenidos y más de 1.300 fiscalizaciones: las cifras que marcaron un nuevo operativo policial conjunto en la región",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/16/casi-medio-centenar-de-detenidos-y-mas-de-1-300-fiscalizaciones-las-cifras-que-marcaron-un-nuevo-operativo-policial-conjunto-en-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Seremi de Gobierno Darwin Cortés conversa con www.regiondecoquimbo.cl",
     "enlace": "https://regiondecoquimbo.cl/2026/06/16/15486/",
     "descripcion": "",
@@ -432,22 +450,31 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Autoridades refuerzan acciones para prevenir la explotación sexual infantil en la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/15/autoridades-refuerzan-acciones-para-prevenir-la-explotacion-sexual-infantil-en-la-region-de-coquimbo/",
+    "titulo": "Convocan a las personas mayores de Ovalle a sumarse al Campeonato Comunal de Cueca 2026",
+    "enlace": "https://ovallehoy.cl/convocan-a-las-personas-mayores-de-ovalle-a-sumarse-al-campeonato-comunal-de-cueca-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "MINAGRI y Banco Estado activan financiamiento FOGAPE especial para apoyar a agricultores frente a contingencias que afectan al sector agroalimentario",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/15/minagri-y-banco-estado-activan-financiamiento-fogape-especial-para-apoyar-a-agricultores-frente-a-contingencias-que-afectan-al-sector-agroalimentario/",
+    "titulo": "Ana Reeves, Pablo Cerda y Bárbara Ruiz-Tagle llegan al TMO con una obra interactiva",
+    "enlace": "https://ovallehoy.cl/ana-reeves-pablo-cerda-y-barbara-ruiz-taglellegan-al-tmo-con-una-obra-interactiva/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "UCN impulsa transferencia tecnológica en establecimiento técnico de Ovalle",
+    "enlace": "https://ovallehoy.cl/ucn-impulsa-transferencia-tecnologicaen-establecimiento-tecnico-de-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "Ovalle fue epicentro de la gimnasia rítmica con exitoso Primer Control Zona Norte del Torneo Las Américas",
@@ -506,33 +533,6 @@
   {
     "titulo": "PAES de Invierno comienza a rendirse este lunes con más de 1.500 personas inscritas en la Región de Coquimbo",
     "enlace": "https://ovallehoy.cl/paes-de-invierno-comienza-a-rendirse-este-lunes-con-mas-de-1-500-personas-inscritas-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del lunes 15 de junio",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-lunes-15-de-junio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Operativo de seguridad en El Palqui deja cinco detenidos",
-    "enlace": "https://ovallehoy.cl/operativo-de-seguridad-en-el-palqui-deja-cinco-detenidos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Más de 290 estudiantes de la región reciben la Beca Presidente de la República 2026",
-    "enlace": "https://ovallehoy.cl/mas-de-290-estudiantes-de-la-region-reciben-la-beca-presidente-de-la-republica-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1008,92 +1008,20 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "68 familias de Canela reciben sus títulos de dominio y regularizan la propiedad de sus terrenos",
-    "enlace": "https://losviloschile.cl/canela/68-familias-de-canela-reciben-sus-titulos-de-dominio-y-regularizan-la-propiedad-de-sus-terrenos/",
+    "titulo": "Pronostican precipitaciones de nieve en la cordillera de la Región de Coquimbo",
+    "enlace": "https://www.davidnoticias.cl/pronostican-precipitaciones-de-nieve-en-la-cordillera-de-la-region-de-coquimbo-2/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Canela alcanza el 85% de cobertura y se convierte en la primera comuna de la región en cumplir la meta de vacunación contra la influenza",
-    "enlace": "https://losviloschile.cl/sin-categoria/canela-alcanza-el-85-de-cobertura-y-se-convierte-en-la-primera-comuna-de-la-region-en-cumplir-la-meta-de-vacunacion-contra-la-influenza/",
+    "titulo": "Operativo regional deja 48 detenidos y más de mil controles en las tres provincias de Coquimbo",
+    "enlace": "https://www.davidnoticias.cl/operativo-regional-deja-48-detenidos-y-mas-de-mil-controles-en-las-tres-provincias-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Más de 7 mil personas ya están trabajando en el proyecto Adaptación Operacional de Minera Los Pelambres",
-    "enlace": "https://losviloschile.cl/lospelambres/mas-de-7-mil-personas-ya-estan-trabajando-en-el-proyecto-adaptacion-operacional-de-minera-los-pelambres/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos inaugura renovada Plaza Baker tras inversión municipal de $12 millones",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-inaugura-renovada-plaza-baker-tras-inversion-municipal-de-12-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Entregan terreno para iniciar obras de mejoramiento en caleta Las Conchas con inversión de $3.800 millones",
-    "enlace": "https://losviloschile.cl/actualidad/entregan-terreno-para-iniciar-obras-de-mejoramiento-en-caleta-las-conchas-con-inversion-de-3-800-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Vecinos de Las Trancas en Canela mejoran acceso al agua potable con apoyo de Minera Los Pelambres",
-    "enlace": "https://losviloschile.cl/lospelambres/vecinos-de-las-trancas-en-canela-mejoran-acceso-al-agua-potable-con-apoyo-de-minera-los-pelambres/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Recuperan especies robadas avaluadas en más de $1,3 millones y detienen a un hombre en Los Vilos",
-    "enlace": "https://losviloschile.cl/policial/recuperan-especies-robadas-avaluadas-en-mas-de-13-millones-y-detienen-a-un-hombre-en-los-vilos-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Recuperan especies robadas avaluadas en más de $1,3 millones y detienen a un hombre en Los Vilos",
-    "enlace": "https://losviloschile.cl/policial/recuperan-especies-robadas-avaluadas-en-mas-de-13-millones-y-detienen-a-un-hombre-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Canela recibirá operativo de Bienes Nacionales para realizar trámites de regularización",
-    "enlace": "https://losviloschile.cl/canela/canela-recibira-operativo-de-bienes-nacionales-para-realizar-tramites-de-regularizacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "569 agricultores de Canela reciben recursos para enfrentar alza de costos de producción",
-    "enlace": "https://losviloschile.cl/canela/569-agricultores-de-canela-reciben-recursos-para-enfrentar-alza-de-costos-de-produccion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
+    "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
@@ -1163,24 +1091,6 @@
   {
     "titulo": "Corte de Valparaíso frena cobro del CAE por vía tributaria y abre debate sobre facultades de Tesorería",
     "enlace": "https://www.davidnoticias.cl/corte-de-valparaiso-frena-cobro-del-cae-por-via-tributaria-y-abre-debate-sobre-facultades-de-tesoreria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Consejo de Monumentos Nacionales aprueba proyecto de expansión de Minera Los Pelambres por US$ 2.000 millones",
-    "enlace": "https://www.davidnoticias.cl/consejo-de-monumentos-nacionales-aprueba-proyecto-de-expansion-de-minera-los-pelambres-por-us-2-000-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Colisión entre automóvil y bus interprovincial en acceso norte de Los Vilos deja solo daños materiales",
-    "enlace": "https://www.davidnoticias.cl/colision-entre-automovil-y-bus-interprovincial-en-acceso-norte-de-los-vilos-deja-solo-danos-materiales/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1728,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ocupación en la Región de Valparaíso aumenta en vacaciones de invierno",
-    "enlace": "https://g5noticias.cl/2026/06/16/ocupacion-en-la-region-de-valparaiso-aumenta-en-vacaciones-de-invierno/",
+    "titulo": "Francia ratifica candidatura en su estreno tras derrotar por 3-1 a Senegal",
+    "enlace": "https://g5noticias.cl/2026/06/16/francia-ratifica-candidatura-en-su-estreno-tras-derrotar-por-3-1-a-senegal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Parisi (PDG) aclara que no tiene voto definido para la AC contra Grau y que se alineará con su bancada",
-    "enlace": "https://g5noticias.cl/2026/06/16/diputada-parisi-pdg-aclara-que-no-tiene-voto-definido-para-la-ac-contra-grau-y-que-se-alineara-con-su-bancada/",
+    "titulo": "DEDECON logra que contribuyente del ámbito agrícola obtenga anulación total de liquidación tributaria tras años de fiscalización y embargo millonario",
+    "enlace": "https://g5noticias.cl/2026/06/16/dedecon-logra-que-contribuyente-del-ambito-agricola-obtenga-anulacion-total-de-liquidacion-tributaria-tras-anos-de-fiscalizacion-y-embargo-millonario/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Plataforma Política de Oposición (PPO) es la nueva instancia de coordinación de los partidos políticos opositores en la provincia de San Antonio y evalúan negativamente los 3 meses del gobierno de Kast",
-    "enlace": "https://g5noticias.cl/2026/06/16/plataforma-politica-de-oposicion-ppo-es-la-nueva-instancia-de-coordinacion-de-los-partidos-politicos-opositores-en-la-provincia-de-san-antonio-y-evaluan-negativamente-los-3-meses-del-gobierno-de-kas/",
+    "titulo": "Seremi del Medio Ambientes hace entrega de certificación ambiental y reconocimiento a municipalidad de Casablanca",
+    "enlace": "https://g5noticias.cl/2026/06/16/seremi-del-medio-ambientes-hace-entrega-de-certificacion-ambiental-y-reconocimiento-a-municipalidad-de-casablanca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Por qué muchas personas llegan al médico cuando la enfermedad ya está avanzada? ECICEP, la estrategia del Servicio de Salud Maule que busca cambiar esa realidad",
-    "enlace": "https://g5noticias.cl/2026/06/16/por-que-muchas-personas-llegan-al-medico-cuando-la-enfermedad-ya-esta-avanzada-ecicep-la-estrategia-del-servicio-de-salud-maule-que-busca-cambiar-esa-realidad/",
+    "titulo": "Bancada UDI valora inicio de auditoría a pensiones de gracia del «estallido» y pide revocar beneficio a todas las personas con antecedentes penales",
+    "enlace": "https://g5noticias.cl/2026/06/16/bancada-udi-valora-inicio-de-auditoria-a-pensiones-de-gracia-del-estallido-y-pide-revocar-beneficio-a-todas-las-personas-con-antecedentes-penales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Podcast Conexión Creativa fortalece la vinculación entre la PUCV y el ecosistema cultural regional",
-    "enlace": "https://g5noticias.cl/2026/06/16/podcast-conexion-creativa-fortalece-la-vinculacion-entre-la-pucv-y-el-ecosistema-cultural-regional/",
+    "titulo": "Estudiantes de Escuela América presentan libro de cuentos «Voces y Colores»",
+    "enlace": "https://g5noticias.cl/2026/06/16/estudiantes-de-escuela-america-presentan-libro-de-cuentos-voces-y-colores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Inteligencia artificial impulsa la productividad y transforma la operación de las franquicias",
-    "enlace": "https://g5noticias.cl/2026/06/16/inteligencia-artificial-impulsa-la-productividad-y-transforma-la-operacion-de-las-franquicias/",
+    "titulo": "Autoridades llaman a reforzar las medidas preventivas y a vacunarse ad portas del inicio de vacaciones de invierno",
+    "enlace": "https://g5noticias.cl/2026/06/16/autoridades-llaman-a-reforzar-las-medidas-preventivas-y-a-vacunarse-ad-portas-del-inicio-de-vacaciones-de-invierno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alianza público-privada devuelve el agua potable a comunidad devastada por incendios en Concepción",
-    "enlace": "https://g5noticias.cl/2026/06/16/alianza-publico-privada-devuelve-el-agua-potable-a-comunidad-devastada-por-incendios-en-concepcion/",
+    "titulo": "Sudamericano de Tenis de Mesa: Chile derrota a Brasil y es campeón femenino por equipos",
+    "enlace": "https://g5noticias.cl/2026/06/16/sudamericano-de-tenis-de-mesa-chile-derrota-a-brasil-y-es-campeon-femenino-por-equipos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Por qué el ecosistema importa más que las especificaciones?",
-    "enlace": "https://g5noticias.cl/2026/06/16/por-que-el-ecosistema-importa-mas-que-las-especificaciones/",
+    "titulo": "Carabineros eleva a subcomisaría, la Tenencia Farellones",
+    "enlace": "https://g5noticias.cl/2026/06/16/carabineros-eleva-a-subcomisaria-la-tenencia-farellones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comisión presidida por el Senador Andrés Longton recibió a ENAP por irregularidades en reportes ambientales y exigen esclarecer responsabilidades",
-    "enlace": "https://g5noticias.cl/2026/06/16/comision-presidida-por-el-senador-andres-longton-recibio-a-enap-por-irregularidades-en-reportes-ambientales-y-exigen-esclarecer-responsabilidades/",
+    "titulo": "Diputada Schonhaut (FA) desestima fundamentos jurídicos de AC y advierte riesgo para la institucionalidad",
+    "enlace": "https://g5noticias.cl/2026/06/16/diputada-schonhaut-fa-desestima-fundamentos-juridicos-de-ac-y-advierte-riesgo-para-la-institucionalidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cochilco dio a conocer los principales hitos y desafíos de su gestión",
-    "enlace": "https://g5noticias.cl/2026/06/16/cochilco-dio-a-conocer-los-principales-hitos-y-desafios-de-su-gestion/",
+    "titulo": "De Jesucristo Superestrella al Capitán Memo: la variada cartelera que llega esta semana a La Serena",
+    "enlace": "https://g5noticias.cl/2026/06/16/de-jesucristo-superestrella-al-capitan-memo-la-variada-cartelera-que-llega-esta-semana-a-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
