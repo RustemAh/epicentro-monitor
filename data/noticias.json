@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Más de $195 millones ha invertido el Gobierno Regional en apoyo de deportistas que representan a la región en el mundo",
+    "enlace": "https://ovallehoy.cl/mas-de-195-millones-ha-invertido-el-gobierno-regional-en-apoyo-de-deportistas-que-representan-a-la-region-en-el-mundo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Ovalle se impone en el vóleibol escolar y brilla en la etapa provincial 2026",
     "enlace": "https://ovallehoy.cl/ovalle-se-impone-en-el-voleibol-escolar-y-brilla-en-la-etapa-provincial-2026/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Convocan a las personas mayores de Ovalle a sumarse al Campeonato Comunal de Cueca 2026",
     "enlace": "https://ovallehoy.cl/convocan-a-las-personas-mayores-de-ovalle-a-sumarse-al-campeonato-comunal-de-cueca-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Ana Reeves, Pablo Cerda y Bárbara Ruiz-Tagle llegan al TMO con una obra interactiva",
-    "enlace": "https://ovallehoy.cl/ana-reeves-pablo-cerda-y-barbara-ruiz-taglellegan-al-tmo-con-una-obra-interactiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Comunidades educativas de Andacollo celebraron a los pueblos originarios con ferias culturales y actividades de rescate patrimonial",
+    "enlace": "https://www.elandacollino.cl/2026/06/19/comunidades-educativas-de-andacollo-celebraron-a-los-pueblos-originarios-con-ferias-culturales-y-actividades-de-rescate-patrimonial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Andacollo invita a celebrar inicio de vacaciones de invierno con actividades familiares:Habrá cambiatón de láminas para álbum del mundial",
     "enlace": "https://www.elandacollino.cl/2026/06/19/andacollo-invita-a-celebrar-dia-del-padre-con-show-y-actividades-familiareshabra-cambiaton-de-laminas-para-album-del-mundial/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "12 familias del sector Subida Mina Hermosa de Andacollo reciben subsidios habitacionales tras décadas de espera: Serán reubicados",
     "enlace": "https://www.elandacollino.cl/2026/06/14/12-familias-del-sector-subida-mina-hermosa-de-andacollo-reciben-subsidios-habitacionales-tras-decadas-de-espera-seran-reubicados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Citación a Junta General de Socios obligatoria Cooperativa de Servicios Mineros ANTU Limitada",
-    "enlace": "https://www.elandacollino.cl/2026/06/13/citacion-a-junta-general-de-socios-obligatoria-cooperativa-de-servicios-mineros-antu-limitada/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Juzgado civil de Concepción ordena a concesionaria restituir bienes del club Arturo Fernández Vial",
-    "enlace": "https://g5noticias.cl/2026/06/19/juzgado-civil-de-concepcion-ordena-a-concesionaria-restituir-bienes-del-club-arturo-fernandez-vial/",
+    "titulo": "RedQ y educadores tradicionales conmemoraron el We Tripantu junto a las comunidades educativas",
+    "enlace": "https://g5noticias.cl/2026/06/19/redq-y-educadores-tradicionales-conmemoraron-el-we-tripantu-junto-a-las-comunidades-educativas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte Suprema rechaza recurso de amparo por incautación a ejecutivos de sociedad deportiva en el denominado «caso Sartor»",
-    "enlace": "https://g5noticias.cl/2026/06/19/corte-suprema-rechaza-recurso-de-amparo-por-incautacion-a-ejecutivos-de-sociedad-deportiva-en-el-denominado-caso-sartor/",
+    "titulo": "Minvu entrega Villa Los Guindales y concreta el acceso a la vivienda propia para 60 familias de Rancagua",
+    "enlace": "https://g5noticias.cl/2026/06/19/minvu-entrega-villa-los-guindales-y-concreta-el-acceso-a-la-vivienda-propia-para-60-familias-de-rancagua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bienes Nacionales impulsa un histórico proceso de ordenamiento territorial para más de 73 hectáreas de terreno fiscal en Pichicuy.",
-    "enlace": "https://g5noticias.cl/2026/06/19/bienes-nacionales-impulsa-un-historico-proceso-de-ordenamiento-territorial-para-mas-de-73-hectareas-de-terreno-fiscal-en-pichicuy/",
+    "titulo": "Capitanía de Puerto de Calbuco coordina procedimiento tras fatal accidente marítimo en Isla Puluqui",
+    "enlace": "https://g5noticias.cl/2026/06/19/capitania-de-puerto-de-calbuco-coordina-procedimiento-tras-fatal-accidente-maritimo-en-isla-puluqui/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Benja Hites competirá por el podio y el primer lugar en el ranking de la NLS en Nürburgring",
-    "enlace": "https://g5noticias.cl/2026/06/19/benja-hites-competira-por-el-podio-y-el-primer-lugar-en-el-ranking-de-la-nls-en-nurburgring/",
+    "titulo": "Municipalidad de Puchuncaví incorpora tres nuevos camiones recolectores para fortalecer el servicio de aseo comunal",
+    "enlace": "https://g5noticias.cl/2026/06/19/municipalidad-de-puchuncavi-incorpora-tres-nuevos-camiones-recolectores-para-fortalecer-el-servicio-de-aseo-comunal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Universidad Viña del Mar y ReSimple suscriben convenio para impulsar iniciativas de gestión de residuos y reciclaje",
-    "enlace": "https://g5noticias.cl/2026/06/19/universidad-vina-del-mar-y-resimple-suscriben-convenio-para-impulsar-iniciativas-de-gestion-de-residuos-y-reciclaje/",
+    "titulo": "Tomás de Gavardo corre con navegante nuevo en el Rally de Nacimiento y Negrete",
+    "enlace": "https://g5noticias.cl/2026/06/19/tomas-de-gavardo-corre-con-navegante-nuevo-en-el-rally-de-nacimiento-y-negrete/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Región de Valparaíso se proyecta como el principal destino turístico del país para estas vacaciones de invierno",
-    "enlace": "https://g5noticias.cl/2026/06/19/la-region-de-valparaiso-se-proyecta-como-el-principal-destino-turistico-del-pais-para-estas-vacaciones-de-invierno/",
+    "titulo": "Villa Alemana Básquet busca la clasificación a semifinales de conferencia en duelo decisivo ante Omega",
+    "enlace": "https://g5noticias.cl/2026/06/19/villa-alemana-basquet-busca-la-clasificacion-a-semifinales-de-conferencia-en-duelo-decisivo-ante-omega/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Con énfasis en inversión en infraestructura sanitaria y gestión asistencial, el Director (s) del Servicio de Salud Viña del Mar Quillota Petorca rindió Cuenta Pública Participativa de la gestión 2025",
-    "enlace": "https://g5noticias.cl/2026/06/19/con-enfasis-en-inversion-en-infraestructura-sanitaria-y-gestion-asistencial-el-director-s-del-servicio-de-salud-vina-del-mar-quillota-petorca-rindio-cuenta-publica-participativa-de-la-gestion-2025/",
+    "titulo": "Desde bioinsumos hasta nuevas tecnologías hídricas: las iniciativas que buscan transformar la agricultura del desierto",
+    "enlace": "https://g5noticias.cl/2026/06/19/desde-bioinsumos-hasta-nuevas-tecnologias-hidricas-las-iniciativas-que-buscan-transformar-la-agricultura-del-desierto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Trabajo conjunto entre Carabineros y Seguridad Pública permite siete detenciones en nueva Ronda Impacto en Villa Alemana",
-    "enlace": "https://g5noticias.cl/2026/06/19/trabajo-conjunto-entre-carabineros-y-seguridad-publica-permite-siete-detenciones-en-nueva-ronda-impacto-en-villa-alemana/",
+    "titulo": "Miguel Tapia se presentó junto a la Small Band de Carabineros en gran final de talentos musicales de Pirque",
+    "enlace": "https://g5noticias.cl/2026/06/19/miguel-tapia-se-presento-junto-a-la-small-band-de-carabineros-en-gran-final-de-talentos-musicales-de-pirque/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Un final feliz: mujer es encontrada con vida tras cuatro días de intensa búsqueda en Quellón",
-    "enlace": "https://g5noticias.cl/2026/06/19/un-final-feliz-mujer-es-encontrada-con-vida-tras-cuatro-dias-de-intensa-busqueda-en-quellon/",
+    "titulo": "Sudamericano de Tenis de Mesa: dos chilenos disputarán los octavos de final",
+    "enlace": "https://g5noticias.cl/2026/06/19/sademericano-de-tenis-de-mesa-dos-chilenos-disputaran-los-octavos-de-final/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Caso de madre asesinada: Juzgado de Garantía de Loncoche ordena la internación provisoria de imputados por parricidio y homicidio calificado",
-    "enlace": "https://g5noticias.cl/2026/06/19/caso-de-madre-asesinada-juzgado-de-garantia-de-loncoche-ordena-la-internacion-provisoria-de-imputados-por-parricidio-y-homicidio-calificado/",
+    "titulo": "Capitanía de Puerto de Lago General Carrera realiza oportuna evacuación médica",
+    "enlace": "https://g5noticias.cl/2026/06/19/capitania-de-puerto-de-lago-general-carrera-realiza-oportuna-evacuacion-medica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
