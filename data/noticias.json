@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Primer proyecto de ley minero del Gobierno avanza en Cámara de Diputados",
+    "enlace": "https://laserenaonline.cl/2026/06/25/primer-proyecto-de-ley-minero-del-gobierno-avanza-en-camara-de-diputados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Ovalle: Entregan coche neurológico para joven con discapacidad",
+    "enlace": "https://laserenaonline.cl/2026/06/25/ovalle-entregan-coche-neurologico-para-joven-con-discapacidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "El sueño de la casa propia toma forma para cientos de familias en Maestranza Ferronor",
     "enlace": "https://laserenaonline.cl/2026/06/25/el-sueno-de-la-casa-propia-toma-forma-para-cientos-de-familias-en-maestranza-ferronor/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "La Serena exporta su modelo de turismo de reuniones a Magallanes",
     "enlace": "https://laserenaonline.cl/2026/06/25/la-serena-exporta-su-modelo-de-turismo-de-reuniones-a-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Aguas del Valle refuerza seguridad y prevención de accidentes con empresas colaboradoras",
-    "enlace": "https://laserenaonline.cl/2026/06/25/aguas-del-valle-refuerza-seguridad-y-prevencion-de-accidentes-con-empresas-colaboradoras/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Chile Emprende: nueva plataforma busca acercar financiamiento, capacitación y apoyo a las mipymes de la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/25/chile-emprende-nueva-plataforma-busca-acercar-financiamiento-capacitacion-y-apoyo-a-las-mipymes-de-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,8 +360,26 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Emprendedora de Salamanca fortalece su negocio con apoyo de FOSIS",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/25/emprendedora-de-salamanca-fortalece-su-negocio-con-apoyo-de-fosis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Seremi de Ciencias invita a participar en competencia nacional de robótica y en la World Robot Olympiad que se realizará en Combarbalá",
     "enlace": "https://regiondecoquimbo.cl/2026/06/25/seremi-de-ciencias-invita-a-participar-en-competencia-nacional-de-robotica-y-en-la-world-robot-olympiad-que-se-realizara-en-combarbala/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "En Ovalle el programa Red Local de Apoyos y Cuidados promueve la inclusión con la entrega de coche neurológico para joven con discapacidad",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/24/en-ovalle-el-programa-red-local-de-apoyos-y-cuidados-promueve-la-inclusion-con-la-entrega-de-coche-neurologico-para-joven-con-discapacidad-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -425,24 +443,6 @@
   {
     "titulo": "Vacaciones de invierno: cultura, creatividad y entretención para toda la familia",
     "enlace": "https://regiondecoquimbo.cl/2026/06/24/vacaciones-de-invierno-cultura-creatividad-y-entretencion-para-toda-la-familia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Mujeres de Punitaqui fortalecen conocimientos sobre mediación familiar y acceso a la justicia",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/23/mujeres-de-punitaqui-fortalecen-conocimientos-sobre-mediacion-familiar-y-acceso-a-la-justicia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Autoridades realizaron lanzamiento del nuevo cuestionario para personas en situación de calle",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/23/autoridades-realizaron-lanzamiento-del-nuevo-cuestionario-para-personas-en-situacion-de-calle-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Corte de Valparaíso descarta desafuero contra diputado Daniel Manouchehri y respalda inviolabilidad parlamentaria",
+    "enlace": "https://www.davidnoticias.cl/corte-de-valparaiso-descarta-desafuero-contra-diputado-daniel-manouchehri-y-respalda-inviolabilidad-parlamentaria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Gobierno Regional financia 35 vehículos policiales para las tres provincias de la región",
     "enlace": "https://www.davidnoticias.cl/gobierno-regional-financia-35-vehiculos-policiales-para-las-tres-provincias-de-la-region/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Laboratorio CancerLab de la UCN investiga potencial de ácidos grasos provenientes de desechos marinos para elaborar nutracéutico contra el cáncer",
     "enlace": "https://www.davidnoticias.cl/laboratorio-cancerlab-de-la-ucn-investiga-potencial-de-acidos-grasos-provenientes-de-desechos-marinos-para-elaborar-nutraceutico-contra-el-cancer/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Adulta mayor resulta con lesiones graves tras accidente en la Ruta D-71 en Canela",
-    "enlace": "https://www.davidnoticias.cl/adulta-mayor-resulta-con-lesiones-graves-tras-accidente-en-la-ruta-d-71-en-canela/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,6 +1458,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Anuncian Peaje a Luca: Más de 400 mil vehículos saldrán de Santiago durante fin de semana largo",
+    "enlace": "https://www.maray.cl/pais/25/06/2026/anuncian-peaje-a-luca-mas-de-400-mil-vehiculos-saldran-de-santiago-durante-fin-de-semana-largo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "ENAMI reactiva compra de minerales de plata a pequeños productores en Atacama y Coquimbo",
+    "enlace": "https://www.maray.cl/atacama/25/06/2026/enami-reactiva-compra-de-minerales-de-plata-a-pequenos-productores-en-atacama-y-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Pilotos del Rally Desafío del Desierto hacen una pausa para regalar sonrisas a niños de Copiapó",
+    "enlace": "https://www.maray.cl/atacama/25/06/2026/pilotos-del-rally-desafio-del-desierto-hacen-una-pausa-para-regalar-sonrisas-a-ninos-de-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Seremi de Minería reitera llamado a pequeña minería para postulaciones PAMMA Equipa y Desarrolla 2026",
+    "enlace": "https://www.maray.cl/atacama/25/06/2026/seremi-de-mineria-reitera-llamado-a-pequena-mineria-para-postulaciones-pamma-equipa-y-desarrolla-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Avanza primera Política Regional de Discapacidad y es ejemplo para ser replicado a nivel nacional",
+    "enlace": "https://www.maray.cl/atacama/25/06/2026/avanza-primera-politica-regional-de-discapacidad-y-es-ejemplo-para-ser-replicado-a-nivel-nacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Minvu anuncia la próxima apertura del llamado al Subsidio de Arriendo de 2026",
     "enlace": "https://www.maray.cl/pais/25/06/2026/minvu-anuncia-la-proxima-apertura-del-llamado-al-subsidio-de-arriendo-de-2026/",
     "descripcion": "",
@@ -1496,51 +1541,6 @@
   {
     "titulo": "Estados Unidos envía equipos de rescate a Venezuela tras devastadores terremotos",
     "enlace": "https://www.maray.cl/internacional/25/06/2026/estados-unidos-envia-equipos-de-rescate-a-venezuela-tras-devastadores-terremotos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Libro sobre el patrimonio natural de Atacama concluye su recorrido regional en Tierra Amarilla y Freirina",
-    "enlace": "https://www.maray.cl/atacama/25/06/2026/libro-sobre-el-patrimonio-natural-de-atacama-concluye-su-recorrido-regional-en-tierra-amarilla-y-freirina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "México hace historia con campaña perfecta y avanza invicto a octavos del Mundial 2026",
-    "enlace": "https://www.maray.cl/deportes/25/06/2026/mexico-hace-historia-con-campana-perfecta-y-avanza-invicto-a-octavos-del-mundial-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sofía Cid destaca bono extraordinario para la niñez y llama a actualizar el Registro Social de Hogares",
-    "enlace": "https://www.maray.cl/atacama/25/06/2026/sofia-cid-destaca-bono-extraordinario-para-la-ninez-y-llama-a-actualizar-el-registro-social-de-hogares/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Proyecto que simplifica patente minera rebajada avanza en la Cámara con respaldo mayoritario",
-    "enlace": "https://www.maray.cl/atacama/25/06/2026/proyecto-que-simplifica-patente-minera-rebajada-avanza-en-la-camara-con-respaldo-mayoritario/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "ISL Atacama capacita a trabajadores a honorarios del SAG sobre el Seguro Laboral",
-    "enlace": "https://www.maray.cl/atacama/25/06/2026/isl-atacama-capacita-a-trabajadores-a-honorarios-del-sag-sobre-el-seguro-laboral/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobierno Regional de Valparaíso lidera mesa de trabajo junto a universidades de la región",
-    "enlace": "https://g5noticias.cl/2026/06/25/gobierno-regional-de-valparaiso-lidera-mesa-de-trabajo-junto-a-universidades-de-la-region/",
+    "titulo": "ISL devolverá más de $183 millones en cotizaciones pagadas en exceso a 1.792 empresas",
+    "enlace": "https://g5noticias.cl/2026/06/25/isl-devolvera-mas-de-183-millones-en-cotizaciones-pagadas-en-exceso-a-1-792-empresas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Guía proyecta que la costa de Valparaíso podría convertirse en un refugio climático para el turismo",
-    "enlace": "https://g5noticias.cl/2026/06/25/guia-proyecta-que-la-costa-de-valparaiso-podria-convertirse-en-un-refugio-climatico-para-el-turismo/",
+    "titulo": "Isidora Uribe, nueva miembro de Candelabro sobre su paso por FOJI: “Fue donde construí la base de lo que soy como músico”",
+    "enlace": "https://g5noticias.cl/2026/06/25/isidira-uribe-nueva-miembro-de-candelabro-sobre-su-paso-por-foji-fue-donde-construi-la-base-de-lo-que-soy-como-musico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDI Los Andes detiene a seis imputados por robo de joyas",
-    "enlace": "https://g5noticias.cl/2026/06/25/pdi-los-andes-detiene-a-seis-imputados-por-robo-de-joyas/",
+    "titulo": "Foro Regional en la CChC reunió a autoridades, empresas y organizaciones para impulsar la inserción laboral femenina",
+    "enlace": "https://g5noticias.cl/2026/06/25/foro-regional-en-la-cchc-reunio-a-autoridades-empresas-y-organizaciones-para-impulsar-la-insercion-laboral-femenina/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Serena: Caso de fraude al fisco y lavado de activos es acreditado por la Fiscalía",
-    "enlace": "https://g5noticias.cl/2026/06/25/la-serena-caso-de-fraude-al-fisco-y-lavado-de-activos-es-acreditado-por-la-fiscalia/",
+    "titulo": "Cuando el miedo al delito cambia nuestros hábitos y forma de vivir. Por Natalia Torres Carreño, académica de Psicología UNAB.",
+    "enlace": "https://g5noticias.cl/2026/06/25/cuando-el-miedo-al-delito-cambia-nuestros-habitos-y-forma-de-vivir-por-natalia-torres-carreno-academica-de-psicologia-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Vacaciones de invierno: advierten aumento del riesgo de caries y llaman a reforzar hábitos en niños",
-    "enlace": "https://g5noticias.cl/2026/06/25/vacaciones-de-invierno-advierten-aumento-del-riesgo-de-caries-y-llaman-a-reforzar-habitos-en-ninos/",
+    "titulo": "Corte de Santiago rechaza demanda de indemnización por defectos en ascensores",
+    "enlace": "https://g5noticias.cl/2026/06/25/corte-de-santiago-rechaza-demanda-de-indemnizacion-por-defectos-en-ascensores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cultura que abriga: el Centro de Extensión Duoc UC Valparaíso presenta su cartelera de vacaciones de invierno",
-    "enlace": "https://g5noticias.cl/2026/06/25/cultura-que-abriga-el-centro-de-extension-duoc-uc-valparaiso-presenta-su-cartelera-de-vacaciones-de-invierno/",
+    "titulo": "Vicepresidente del Banco Central proyecta mercado del petróleo: “Es probable que nos quedemos con precios algo mayores que los que teníamos previos a la guerra”",
+    "enlace": "https://g5noticias.cl/2026/06/25/vicepresidente-del-banco-central-proyecta-mercado-del-petroleo-es-probable-que-nos-quedemos-con-precios-algo-mayores-que-los-que-teniamos-previos-a-la-guerra/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDI entregó detalles sobre el asesinato de un adolescente de 16 años con arma cortante, ocurrido en una cancha de la Villa Roger en Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/06/25/pdi-investiga-asesinato-de-un-adolescente-de-16-anos-con-arma-cortante-ocurrida-en-una-cancha-de-la-villa-roger-en-vina-del-mar/",
+    "titulo": "CONAF y SERNAGEOMIN firman convenio que permitirá cruzar datos forestales y geológicos",
+    "enlace": "https://g5noticias.cl/2026/06/25/conaf-y-sernageomin-firman-convenio-que-permitira-cruzar-datos-forestales-y-geologicos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Iniciativa impulsada desde Taltal será parte del Programa de Artes Escénicas Itinerantes del Ministerio de las Culturas",
-    "enlace": "https://g5noticias.cl/2026/06/25/iniciativa-impulsada-desde-taltal-sera-parte-del-programa-de-artes-escenicas-itinerantes-del-ministerio-de-las-culturas/",
+    "titulo": "Parisi arremete contra el Presidente Kast tras negarse a desplegar militares por seguridad: “Tiene que prepararse para asumir los costos políticos y no solamente los viajes”",
+    "enlace": "https://g5noticias.cl/2026/06/25/parisi-arremete-contra-el-presidente-kast-tras-negarse-a-desplegar-militares-por-seguridad-tiene-que-prepararse-para-asumir-los-costos-politicos-y-no-solamente-los-viajes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía formalizó a tercer detenido por robo con violencia que afectó a almacén de Antofagasta",
-    "enlace": "https://g5noticias.cl/2026/06/25/fiscalia-formalizo-a-tercer-detenido-por-robo-con-violencia-que-afecto-a-almacen-de-antofagasta/",
+    "titulo": "Corte de Chillán confirma condena a 12 años de presidio por abuso sexual de menor de 14 años",
+    "enlace": "https://g5noticias.cl/2026/06/25/corte-de-chillan-confirma-condena-a-12-anos-de-presidio-por-abuso-sexual-de-menor-de-14-anos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Araucanía: Ministerio de Transportes y Telecomunicaciones inaugura conectividad 5G y talleres de habilidades digitales en escuela rural de Cholchol",
-    "enlace": "https://g5noticias.cl/2026/06/25/la-araucania-ministerio-de-transportes-y-telecomunicaciones-inaugura-conectividad-5g-y-talleres-de-habilidades-digitales-en-escuela-rural-de-cholchol/",
+    "titulo": "MTT y MOP Anuncian Plan de Contingencia y Fiscalización por Fin de Semana Largo",
+    "enlace": "https://g5noticias.cl/2026/06/25/mtt-y-mop-anuncian-plan-de-contingencia-y-fiscalizacion-por-fin-de-semana-largo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1906,96 +1906,6 @@
     "medio": "Araucovisión",
     "zona": "Arauco",
     "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Venezolanos buscan sobrevivientes entre los escombros tras dos potentes terremotos que dejan al menos 164 muertos",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/venezolanos-buscan-sobrevivientes-entre-los-escombros-tras-dos-potentes-terremotos-que-dejan-al-menos-164-muertos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Los “reyes” del torneo  Aniversario de la PDI",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/los-reyes-del-torneo-aniversario-de-la-pdi/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "La nutrida agenda que se viene en el maxibásquetbol",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/la-nutrida-agenda-que-se-viene-en-el-maxibasquetbol/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Brasil, Marruecos, Suiza y Canadá a la ronda de los 32",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/brasil-marruecos-suiza-y-canada-a-la-ronda-de-los-32/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Región aprueba plan de seguridad con foco  en narcotráfico, violencia intrafamiliar y escolar",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/region-aprueba-plan-de-seguridad-con-foco-en-narcotrafico-violencia-intrafamiliar-y-escolar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Formalizarán a periodista Gonzalo Feito por acusación de Vif contra su expareja",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/formalizaran-a-periodista-gonzalo-feito-por-acusacion-de-vif-contra-su-expareja/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Suma urgencia proyecto de ley que  entregará bono de $30 mil por hijo",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/suma-urgencia-proyecto-de-ley-que-entregara-bono-de-30-mil-por-hijo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Senado da luz verde a la idea de  legislar el Plan de Reconstrucción",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/senado-da-luz-verde-a-la-idea-de-legislar-el-plan-de-reconstruccion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Este sábado el Chapuzón del Estrecho  espera reunir a 7 mil participantes",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/este-sabado-el-chapuzon-del-estrecho-espera-reunir-a-7-mil-participantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Terremoto de magnitud 7,1 sacudió  varias regiones de Venezuela",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/terremoto-de-magnitud-71-sacudio-varias-regiones-de-venezuela/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
     "titulo": "Servicios de Justicia atenderán este jueves en el Hospital Clínico de Magallanes",
