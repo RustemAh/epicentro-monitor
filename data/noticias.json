@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Comunidad de Tierras Blancas accedió a asesoría técnica gratuita para mejorar sus computadores",
+    "enlace": "https://www.elcoquimbano.cl/2026/06/25/comunidad-de-tierras-blancas-accedio-a-asesoria-tecnica-gratuita-para-mejorar-sus-computadores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Desde Teatro a Mil a Coquimbo: obra familiar se presentará gratuitamente en el Centro Cultural Palace",
     "enlace": "https://www.elcoquimbano.cl/2026/06/25/desde-teatro-a-mil-a-coquimbo-obra-familiar-se-presentara-gratuitamente-en-el-centro-cultural-palace/",
     "descripcion": "",
@@ -81,13 +90,31 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "CEAZA presenta análisis de las condiciones del océano para el sector acuícola y pesquero de la Región de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/06/23/ceaza-presenta-analisis-de-las-condiciones-del-oceano-para-el-sector-acuicola-y-pesquero-de-la-region-de-coquimbo/",
+    "titulo": "Desmantelan cientos de metros de conexiones irregulares al tendido eléctrico en La Varilla en La Serena",
+    "enlace": "https://www.elserenense.cl/regionales/2026/06/25/desmantelan-cientos-de-metros-de-conexiones-irregulares-al-tendido-electrico-en-la-varilla-en-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Bomberos de La Serena integran misión internacional de rescate en Venezuela tras devastador terremoto",
+    "enlace": "https://www.elserenense.cl/comunales/2026/06/25/bomberos-de-la-serena-integran-mision-internacional-de-rescate-en-venezuela-tras-devastador-terremoto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Región de Coquimbo contactará por WhatsApp a personas de 60 a 64 años para reforzar vacunación contra la influenza",
+    "enlace": "https://www.elserenense.cl/regionales/2026/06/25/region-de-coquimbo-contactara-por-whatsapp-a-personas-de-60-a-64-anos-para-reforzar-vacunacion-contra-la-influenza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Proyecto rescata memorias y saberes culinarios de mujeres de la provincia del Elqui",
@@ -153,29 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Más de 500 procedimientos desarrolló Carabineros durante operativo en La Varilla",
-    "enlace": "https://www.elserenense.cl/comunales/2026/06/23/mas-de-500-procedimientos-desarrollo-carabineros-durante-operativo-en-la-varilla/",
+    "titulo": "El sueño de la casa propia toma forma para cientos de familias en Maestranza Ferronor",
+    "enlace": "https://laserenaonline.cl/2026/06/25/el-sueno-de-la-casa-propia-toma-forma-para-cientos-de-familias-en-maestranza-ferronor/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "La Serena invita a sumarse a corrida familiar inclusiva para visibilizar el autismo",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/06/22/la-serena-invita-a-sumarse-a-corrida-familiar-inclusiva-para-visibilizar-el-autismo/",
+    "titulo": "Región de Coquimbo contactará por WhatsApp a personas de 60 a 64 años para reforzar vacunación contra la influenza",
+    "enlace": "https://laserenaonline.cl/2026/06/25/region-de-coquimbo-contactara-por-whatsapp-a-personas-de-60-a-64-anos-para-reforzar-vacunacion-contra-la-influenza/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Del Desierto Florido al futuro: impulsan centro pionero para conservar especies nativas en La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/06/22/del-desierto-florido-al-futuro-impulsan-centro-pionero-para-conservar-especies-nativas-en-la-serena/",
+    "titulo": "Circo Minero prepara funciones para este fin de semana en Combarbalá y Los Choros",
+    "enlace": "https://laserenaonline.cl/2026/06/25/circo-minero-prepara-funciones-para-este-fin-de-semana-en-combarbala-y-los-choros/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Chile Emprende: nueva plataforma busca acercar financiamiento, capacitación y apoyo a las mipymes de la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/06/25/chile-emprende-nueva-plataforma-busca-acercar-financiamiento-capacitacion-y-apoyo-a-las-mipymes-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Andes Iron participa en conversatorio sobre los desafíos hídricos y energéticos para la minería en encuentro de SONAMI",
-    "enlace": "https://laserenaonline.cl/2026/06/24/andes-iron-participa-en-conversatorio-sobre-los-desafios-hidricos-y-energeticos-para-la-mineria-en-encuentro-de-sonami/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Mural revive la leyenda del Tesoro de Guayacán en el renovado Mirador de Los Navegantes",
-    "enlace": "https://laserenaonline.cl/2026/06/24/mural-revive-la-leyenda-del-tesoro-de-guayacan-en-el-renovado-mirador-de-los-navegantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Hospital de La Serena: Reconocimiento a Donantes y Llamado a Voluntariado",
-    "enlace": "https://laserenaonline.cl/2026/06/24/hospital-de-la-serena-reconocimiento-a-donantes-y-llamado-a-voluntariado/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Illapel inaugura modernas dependencias de Seguridad Pública y fortalece su estrategia comunal de prevención",
+    "enlace": "https://www.elillapelino.cl/2026/06/25/illapel-inaugura-modernas-dependencias-de-seguridad-publica-y-fortalece-su-estrategia-comunal-de-prevencion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Localidad de Santa Virginia en Illapel avanza hacia una solución definitiva para el acceso al agua potable",
     "enlace": "https://www.elillapelino.cl/2026/06/24/localidad-de-santa-virginia-en-illapel-avanza-hacia-una-solucion-definitiva-para-el-acceso-al-agua-potable/",
     "descripcion": "",
@@ -891,13 +900,13 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Desarticulan en Illapel red criminal liderada por cinco funcionarios de Gendarmería que operaba dentro de la cárcel",
-    "enlace": "https://www.elillapelino.cl/2026/06/09/desarticulan-en-illapel-red-criminal-liderada-por-cinco-funcionarios-de-gendarmeria-que-operaba-dentro-de-la-carcel/",
+    "titulo": "Choapa registrará máximas sobre lo normal entre jueves y viernes",
+    "enlace": "https://veetv.cl/choapa-registrara-maximas-sobre-lo-normal-entre-jueves-y-viernes/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Atropello en Los Pozos, comuna de Canela, dejó a una persona lesionada",
@@ -909,13 +918,13 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Detienen en Canela a hombre con orden vigente por homicidio",
-    "enlace": "https://veetv.cl/detenido-homicidio-canela/",
+    "titulo": "Emprendedora de Salamanca fortalece su negocio con apoyo de FOSIS",
+    "enlace": "https://www.elsalamanquino.cl/2026/06/25/emprendedora-de-salamanca-fortalece-su-negocio-con-apoyo-de-fosis/",
     "descripcion": "",
     "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
     "titulo": "Un nuevo capítulo para el fútbol rural: La Higuerilla inaugura cancha para la comunidad",
@@ -999,13 +1008,22 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Mundo Rural de Salamanca obtiene incentivo para fortalecer sus sistemas productivos y hacer frente a la escasez hídrica",
-    "enlace": "https://www.elsalamanquino.cl/2026/06/04/mundo-rural-de-salamanca-obtiene-incentivo-para-fortalecer-sus-sistemas-productivos-y-hacer-frente-a-la-escasez-hidrica/",
+    "titulo": "Gobierno Regional financia 35 vehículos policiales para las tres provincias de la región",
+    "enlace": "https://www.davidnoticias.cl/gobierno-regional-financia-35-vehiculos-policiales-para-las-tres-provincias-de-la-region/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "CEAZA advierte altas temperaturas para el Choapa: Illapel alcanzaría los 25°C en pleno invierno",
+    "enlace": "https://www.davidnoticias.cl/ceaza-advierte-altas-temperaturas-para-el-choapa-illapel-alcanzaria-los-25c-en-pleno-invierno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Devastadores terremotos golpean Venezuela: más de 160 fallecidos y cientos de heridos tras fuerte actividad sísmica",
@@ -1073,24 +1091,6 @@
   {
     "titulo": "Adulta mayor resulta con lesiones graves tras accidente en la Ruta D-71 en Canela",
     "enlace": "https://www.davidnoticias.cl/adulta-mayor-resulta-con-lesiones-graves-tras-accidente-en-la-ruta-d-71-en-canela/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Detienen en Canela a prófugo de la justicia que era buscado por homicidio",
-    "enlace": "https://www.davidnoticias.cl/detienen-en-canela-a-profugo-de-la-justicia-que-era-buscado-por-homicidio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Fiesta de San Pedro recorrerá las caletas de Los Vilos con una extensa programación religiosa y cultural",
-    "enlace": "https://www.davidnoticias.cl/fiesta-de-san-pedro-recorrera-las-caletas-de-los-vilos-con-una-extensa-programacion-religiosa-y-cultural/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,6 +1458,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Minvu anuncia la próxima apertura del llamado al Subsidio de Arriendo de 2026",
+    "enlace": "https://www.maray.cl/pais/25/06/2026/minvu-anuncia-la-proxima-apertura-del-llamado-al-subsidio-de-arriendo-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Cómo evitar el “efecto rebote” tras una cirugía bariátrica",
     "enlace": "https://www.maray.cl/vida-salud/25/06/2026/como-evitar-el-efecto-rebote-tras-una-cirugia-bariatrica/",
     "descripcion": "",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "ISL Atacama capacita a trabajadores a honorarios del SAG sobre el Seguro Laboral",
     "enlace": "https://www.maray.cl/atacama/25/06/2026/isl-atacama-capacita-a-trabajadores-a-honorarios-del-sag-sobre-el-seguro-laboral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sexto implicado se entrega a Carabineros por encerrona que terminó con la muerte de niño de 12 años en San Bernardo",
-    "enlace": "https://www.maray.cl/pais/25/06/2026/sexto-implicado-se-entrega-a-carabineros-por-encerrona-que-termino-con-la-muerte-de-nino-de-12-anos-en-san-bernardo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bienal de Danza de la Región de Valparaíso ya tiene seleccionadas las obras para su segunda versión",
-    "enlace": "https://g5noticias.cl/2026/06/25/bienal-de-danza-de-la-region-de-valparaiso-ya-tiene-seleccionadas-las-obras-para-su-segunda-version/",
+    "titulo": "Gobierno Regional de Valparaíso lidera mesa de trabajo junto a universidades de la región",
+    "enlace": "https://g5noticias.cl/2026/06/25/gobierno-regional-de-valparaiso-lidera-mesa-de-trabajo-junto-a-universidades-de-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Illapel inaugura modernas dependencias de Seguridad Pública y fortalece su estrategia comunal de prevención",
-    "enlace": "https://g5noticias.cl/2026/06/25/illapel-inaugura-modernas-dependencias-de-seguridad-publica-y-fortalece-su-estrategia-comunal-de-prevencion/",
+    "titulo": "Guía proyecta que la costa de Valparaíso podría convertirse en un refugio climático para el turismo",
+    "enlace": "https://g5noticias.cl/2026/06/25/guia-proyecta-que-la-costa-de-valparaiso-podria-convertirse-en-un-refugio-climatico-para-el-turismo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Teao llama a evitar el “fuego amigo” tras dichos de Matthei: “La unidad es el camino obligado”",
-    "enlace": "https://g5noticias.cl/2026/06/25/diputado-teao-llama-a-evitar-el-fuego-amigo-tras-dichos-de-matthei-la-unidad-es-el-camino-obligado/",
+    "titulo": "PDI Los Andes detiene a seis imputados por robo de joyas",
+    "enlace": "https://g5noticias.cl/2026/06/25/pdi-los-andes-detiene-a-seis-imputados-por-robo-de-joyas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hospital Carlos van Buren fortalece el abordaje de la Esclerosis Lateral Amiotrófica con jornada interdisciplinaria",
-    "enlace": "https://g5noticias.cl/2026/06/25/hospital-carlos-van-buren-fortalece-el-abordaje-de-la-esclerosis-lateral-amiotrofica-con-jornada-interdisciplinaria/",
+    "titulo": "La Serena: Caso de fraude al fisco y lavado de activos es acreditado por la Fiscalía",
+    "enlace": "https://g5noticias.cl/2026/06/25/la-serena-caso-de-fraude-al-fisco-y-lavado-de-activos-es-acreditado-por-la-fiscalia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Héctor Ulloa (PPD) levanta alerta laboral ante propuestas del Gobierno de regular el contrato por horas y eventual término de indemnización por años de servicio",
-    "enlace": "https://g5noticias.cl/2026/06/25/diputado-hector-ulloa-ppd-levanta-alerta-laboral-ante-propuestas-del-gobierno-de-regular-el-contrato-por-horas-y-eventual-termino-de-indemnizacion-por-anos-de-servicio/",
+    "titulo": "Vacaciones de invierno: advierten aumento del riesgo de caries y llaman a reforzar hábitos en niños",
+    "enlace": "https://g5noticias.cl/2026/06/25/vacaciones-de-invierno-advierten-aumento-del-riesgo-de-caries-y-llaman-a-reforzar-habitos-en-ninos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corfo y Red Eureka abren convocatoria internacional en biotecnología para impulsar innovación chilena con impacto global",
-    "enlace": "https://g5noticias.cl/2026/06/25/corfo-y-red-eureka-abren-convocatoria-internacional-en-biotecnologia-para-impulsar-innovacion-chilena-con-impacto-global/",
+    "titulo": "Cultura que abriga: el Centro de Extensión Duoc UC Valparaíso presenta su cartelera de vacaciones de invierno",
+    "enlace": "https://g5noticias.cl/2026/06/25/cultura-que-abriga-el-centro-de-extension-duoc-uc-valparaiso-presenta-su-cartelera-de-vacaciones-de-invierno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Minvu anuncia la próxima apertura del llamado al Subsidio de Arriendo de 2026",
-    "enlace": "https://g5noticias.cl/2026/06/25/minvu-anuncia-la-proxima-apertura-del-llamado-al-subsidio-de-arriendo-de-2026/",
+    "titulo": "PDI entregó detalles sobre el asesinato de un adolescente de 16 años con arma cortante, ocurrido en una cancha de la Villa Roger en Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/06/25/pdi-investiga-asesinato-de-un-adolescente-de-16-anos-con-arma-cortante-ocurrida-en-una-cancha-de-la-villa-roger-en-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Empleo femenino: La oportunidad que está sobre la mesa. Por Pablo Rossel Estay, CEO de CGS Nexus LATAM, especialista en gestión, expansión y operaciones de contact center y BPO en América Latina",
-    "enlace": "https://g5noticias.cl/2026/06/25/empleo-femenino-la-oportunidad-que-esta-sobre-la-mesa-por-pablo-rossel-estay-ceo-de-cgs-nexus-latam-especialista-en-gestion-expansion-y-operaciones-de-contact-center-y-bpo-en-america-latina/",
+    "titulo": "Iniciativa impulsada desde Taltal será parte del Programa de Artes Escénicas Itinerantes del Ministerio de las Culturas",
+    "enlace": "https://g5noticias.cl/2026/06/25/iniciativa-impulsada-desde-taltal-sera-parte-del-programa-de-artes-escenicas-itinerantes-del-ministerio-de-las-culturas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros confirmó la detención de un sexto sujeto involucrado en el asalto y muerte de niño en San Bernardo",
-    "enlace": "https://g5noticias.cl/2026/06/25/carabineros-confirmo-la-detencion-de-un-sexto-sujeto-involucrado-en-el-asalto-y-muerte-de-nino-en-san-bernardo/",
+    "titulo": "Fiscalía formalizó a tercer detenido por robo con violencia que afectó a almacén de Antofagasta",
+    "enlace": "https://g5noticias.cl/2026/06/25/fiscalia-formalizo-a-tercer-detenido-por-robo-con-violencia-que-afecto-a-almacen-de-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿La oficina está llena de resfríos? Cinco claves para mantener espacios de trabajo saludables en invierno",
-    "enlace": "https://g5noticias.cl/2026/06/25/la-oficina-esta-llena-de-resfrios-cinco-claves-para-mantener-espacios-de-trabajo-saludables-en-invierno/",
+    "titulo": "La Araucanía: Ministerio de Transportes y Telecomunicaciones inaugura conectividad 5G y talleres de habilidades digitales en escuela rural de Cholchol",
+    "enlace": "https://g5noticias.cl/2026/06/25/la-araucania-ministerio-de-transportes-y-telecomunicaciones-inaugura-conectividad-5g-y-talleres-de-habilidades-digitales-en-escuela-rural-de-cholchol/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Venezolanos buscan sobrevivientes entre los escombros tras dos potentes terremotos que dejan al menos 164 muertos",
+    "enlace": "https://laprensaaustral.cl/2026/06/25/venezolanos-buscan-sobrevivientes-entre-los-escombros-tras-dos-potentes-terremotos-que-dejan-al-menos-164-muertos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Los “reyes” del torneo  Aniversario de la PDI",
     "enlace": "https://laprensaaustral.cl/2026/06/25/los-reyes-del-torneo-aniversario-de-la-pdi/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Terremoto de magnitud 7,1 sacudió  varias regiones de Venezuela",
     "enlace": "https://laprensaaustral.cl/2026/06/25/terremoto-de-magnitud-71-sacudio-varias-regiones-de-venezuela/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "España prohíbe a los menores de  15 años manejar scooters eléctricos",
-    "enlace": "https://laprensaaustral.cl/2026/06/25/espana-prohibe-a-los-menores-de-15-anos-manejar-scooters-electricos/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
