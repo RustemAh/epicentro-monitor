@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Ministerio de Educación impulsa el aprendizaje del inglés en la Región de Coquimbo con exitosos English Winter Camps 2026",
+    "enlace": "https://laserenaonline.cl/2026/06/26/ministerio-de-educacion-impulsa-el-aprendizaje-del-ingles-en-la-region-de-coquimbo-con-exitosos-english-winter-camps-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Impulsan proyecto para construir centro artístico para la Fundación Filarmónica de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/06/26/impulsan-proyecto-para-construir-centro-artistico-para-la-fundacion-filarmonica-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Jóvenes de Caleta Los Hornos y Dominga preparan a los vecinos de La Higuera para el invierno",
+    "enlace": "https://laserenaonline.cl/2026/06/26/jovenes-de-caleta-los-hornos-y-dominga-preparan-a-los-vecinos-de-la-higuera-para-el-invierno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Chungungo se prepara para celebrar su 1ra Versión de la Procesión de San Pedro",
     "enlace": "https://laserenaonline.cl/2026/06/26/chungungo-se-prepara-para-celebrar-su-1ra-version-de-la-procesion-de-san-pedro/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Paihuano celebrará en tres jornadas el Día Nacional del Astroturismo",
     "enlace": "https://laserenaonline.cl/2026/06/26/paihuano-celebrara-en-tres-jornadas-el-dia-nacional-del-astroturismo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Caso de fraude al fisco y lavado de activos es acreditado por la Fiscalía",
-    "enlace": "https://laserenaonline.cl/2026/06/26/la-serena-caso-de-fraude-al-fisco-y-lavado-de-activos-es-acreditado-por-la-fiscalia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 26 de junio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/06/26/el-tiempo-hoy-26-de-junio-para-la-region-de-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Invitan a participar en competencia nacional de robótica y en la World Robot Olympiad que se realizará en Combarbalá",
-    "enlace": "https://laserenaonline.cl/2026/06/26/invitan-a-participar-en-competencia-nacional-de-robotica-y-en-la-world-robot-olympiad-que-se-realizara-en-combarbala/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1458,6 +1458,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Atacama: MOP proyecta más de 62 mil vehículos en la Ruta 5 Norte y coordina plan de contingencia para el fin de semana largo",
+    "enlace": "https://www.maray.cl/atacama/26/06/2026/mop-proyecta-mas-de-62-mil-vehiculos-en-la-ruta-5-norte-y-coordina-plan-de-contingencia-para-el-fin-de-semana-largo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Próximo fin de semana largo en Chile: ¿Cuándo es el feriado y qué pasará con el comercio?",
     "enlace": "https://www.maray.cl/pais/26/06/2026/proximo-fin-de-semana-largo-en-chile-cuando-es-el-feriado-y-que-pasara-con-el-comercio/",
     "descripcion": "",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "Lundin Mining abre nuevas oportunidades laborales para mujeres de Tierra Amarilla",
     "enlace": "https://www.maray.cl/atacama/26/06/2026/lundin-mining-abre-nuevas-oportunidades-laborales-para-mujeres-de-tierra-amarilla/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "La mejor energía es la que no se consume (Uwe Rohwedder Gremler, Decano Ingeniería y Arquitectura, U. Central)",
-    "enlace": "https://www.maray.cl/opinion/26/06/2026/la-mejor-energia-es-la-que-no-se-consume-uwe-rohwedder-gremler-decano-ingenieria-y-arquitectura-u-central/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,6 +1728,78 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "La Cruz prepara una nueva semana de actividades en vacaciones de invierno",
+    "enlace": "https://g5noticias.cl/2026/06/26/la-cruz-prepara-una-nueva-semana-de-actividades-en-vacaciones-de-invierno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con triplete de Dembélé, Francia goleó a Noruega a consolidó sus credenciales como candidata",
+    "enlace": "https://g5noticias.cl/2026/06/26/con-triplete-de-dembele-francia-goleo-a-noruega-a-consolido-sus-credenciales-como-candidata/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Prisión preventiva para padre e hijo que secuestraron y asesinaron a menor de 17 años en Santa María",
+    "enlace": "https://g5noticias.cl/2026/06/26/prision-preventiva-para-padre-e-hijo-que-secuestraron-y-asesinaron-a-menor-de-17-anos-en-santa-maria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Senadora Vodanovic por Megarreforma: “El Gobierno debe realizar cambios que no sean solo de la derecha”",
+    "enlace": "https://g5noticias.cl/2026/06/26/senadora-vodanovic-por-megarreforma-el-gobierno-debe-realizar-cambios-que-no-sean-solo-de-la-derecha/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Los humedales como territorio e identidad: diversas miradas convergen en conversatorio regional",
+    "enlace": "https://g5noticias.cl/2026/06/26/los-humedales-como-territorio-e-identidad-diversas-miradas-convergen-en-conversatorio-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Quilpué fortalece infraestructura de Escuela Especial de Desarrollo con una inversión de más de $450 millones",
+    "enlace": "https://g5noticias.cl/2026/06/26/quilpue-fortalece-infraestructura-de-escuela-especial-de-desarrollo-con-una-inversion-de-mas-de-450-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Segundo Tribunal Ambiental confirmó aprobación de autopista AVO II, tramo Príncipe de Gales – Los Presidentes",
+    "enlace": "https://g5noticias.cl/2026/06/26/segundo-tribunal-ambiental-confirmo-aprobacion-de-autopista-avo-ii-tramo-principe-de-gales-los-presidentes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Abogados del senador Calisto acusan grave vulneración al derecho a defensa tras cierre de la investigación en Aysén",
+    "enlace": "https://g5noticias.cl/2026/06/26/abogados-del-senador-calisto-acusan-grave-vulneracion-al-derecho-a-defensa-tras-cierre-de-la-investigacion-en-aysen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Hospital Fricke y Fundación Amuillang publican libro sobre el acompañamiento en el cáncer infantil",
     "enlace": "https://g5noticias.cl/2026/06/26/hospital-fricke-y-fundacion-amuillang-publican-libro-sobre-el-acompanamiento-en-el-cancer-infantil/",
     "descripcion": "",
@@ -1739,78 +1811,6 @@
   {
     "titulo": "17 familias de Nogales recibieron sus títulos de dominio gracias a gestión del Ministerio de Bienes Nacionales",
     "enlace": "https://g5noticias.cl/2026/06/26/17-familias-de-nogales-recibieron-sus-titulos-de-dominio-gracias-a-gestion-del-ministerio-de-bienes-nacionales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "PUCV reafirma su compromiso con el desarrollo sostenible y destaca en ranking mundial THE Sustainability Impact Ratings 2026",
-    "enlace": "https://g5noticias.cl/2026/06/26/pucv-reafirma-su-compromiso-con-el-desarrollo-sostenible-y-destaca-en-ranking-mundial-the-sustainability-impact-ratings-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "PDI San Felipe recupera iPad avaluado en un millón de pesos",
-    "enlace": "https://g5noticias.cl/2026/06/26/pdi-san-felipe-recupera-ipad-avaluado-en-un-millon-de-pesos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Accidente que involucra a ocho vehículos en la comuna de Coronel incluye a una ambulancia del SAMU",
-    "enlace": "https://g5noticias.cl/2026/06/26/accidente-que-involucra-a-ocho-vehiculos-en-la-comuna-de-coronel-incluye-a-una-ambulancia-del-samu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Sercotec abre fondo nacional para impulsar el crecimiento sostenible de las pymes",
-    "enlace": "https://g5noticias.cl/2026/06/26/sercotec-abre-fondo-nacional-para-impulsar-el-crecimiento-sostenible-de-las-pymes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputada Marisela Santibáñez participa en reunión de trabajo con el MINDEP para avanzar en el reglamento de la reforma a la Ley de SADP",
-    "enlace": "https://g5noticias.cl/2026/06/26/diputada-marisela-santibanez-participa-en-reunion-de-trabajo-con-el-mindep-para-avanzar-en-el-reglamento-de-la-reforma-a-la-ley-de-sadp/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Carabineros refuerza llamado a la prevención durante el fin de semana largo",
-    "enlace": "https://g5noticias.cl/2026/06/26/carabineros-refuerza-llamado-a-la-prevencion-durante-el-fin-de-semana-largo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado René Manuel García (RN) valora gesto del Mandatario al comprometer indemnizaciones: “Esperamos que a la brevedad posible ellos tengan los recursos para poder comprar lo que perdieron”",
-    "enlace": "https://g5noticias.cl/2026/06/26/diputado-rene-manuel-garcia-rn-valora-gesto-del-mandatario-al-comprometer-indemnizaciones-esperamos-que-a-la-brevedad-posible-ellos-tengan-los-recursos-para-poder-comprar-lo-que-perdieron/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Frente Amplio inicia la Plenaria Nacional de su Primer Congreso Ideológico",
-    "enlace": "https://g5noticias.cl/2026/06/26/frente-amplio-inicia-la-plenaria-nacional-de-su-primer-congreso-ideologico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
