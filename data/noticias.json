@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Plaza de identidad y Carnaval de la Diversidad La Serena conmemora el Día del Orgullo LGBTQA+",
+    "enlace": "https://laserenaonline.cl/2026/06/27/plaza-de-identidad-y-carnaval-de-la-diversidad-la-serena-conmemora-el-dia-del-orgullo-lgbtqa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Hospital de Coquimbo: La red humana que sostiene a los pacientes con ELA",
+    "enlace": "https://laserenaonline.cl/2026/06/27/hospital-de-coquimbo-la-red-humana-que-sostiene-a-los-pacientes-con-ela/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Tongoy: Sujeto fue condenado por homicidio frustrado, lesiones y maltrato animal y un segundo por amenazas por hechos ocurridos en la caleta",
     "enlace": "https://laserenaonline.cl/2026/06/27/tongoy-sujeto-fue-condenado-por-homicidio-frustrado-lesiones-y-maltrato-animal-y-un-segundo-por-amenazas-por-hechos-ocurridos-en-la-caleta/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Jóvenes de Caleta Los Hornos y Dominga preparan a los vecinos de La Higuera para el invierno",
     "enlace": "https://laserenaonline.cl/2026/06/26/jovenes-de-caleta-los-hornos-y-dominga-preparan-a-los-vecinos-de-la-higuera-para-el-invierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Chungungo se prepara para celebrar su 1ra Versión de la Procesión de San Pedro",
-    "enlace": "https://laserenaonline.cl/2026/06/26/chungungo-se-prepara-para-celebrar-su-1ra-version-de-la-procesion-de-san-pedro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Con inversión municipal de $600 millones Coquimbo avanza en la recuperación de calles y veredas",
-    "enlace": "https://laserenaonline.cl/2026/06/26/con-inversion-municipal-de-600-millones-coquimbo-avanza-en-la-recuperacion-de-calles-y-veredas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Profesor de Monte Patria recibe importante reconocimiento internacional: Global Education Prize",
+    "enlace": "https://www.elmontepatrino.cl/2026/06/27/profesor-de-monte-patria-recibe-importante-reconocimiento-internacional-global-education-prize/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Más de 30 adultos mayores egresan del Centro Diurno del Adulto Mayor en El Palqui",
     "enlace": "https://www.elmontepatrino.cl/2026/06/24/mas-de-30-adultos-mayores-egresan-del-centro-diurno-del-adulto-mayor-en-el-palqui/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "Productores de Monte Patria y Río Hurtado lanzan nuevas variedades de cerveza artesanal y pisco premium",
     "enlace": "https://www.elmontepatrino.cl/2026/06/17/productores-de-monte-patria-y-rio-hurtado-lanzan-nuevas-variedades-de-cerveza-artesanal-y-pisco-premium/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "SernamEG y Municipio de Monte Patria impulsan la autonomía económica de las mujeres",
-    "enlace": "https://www.elmontepatrino.cl/2026/06/16/sernameg-y-municipio-de-monte-patria-impulsan-la-autonomia-economica-de-las-mujeres/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1458,6 +1458,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Más de 142 mil vehículos dejaron la capital en el inicio del fin de semana largo",
+    "enlace": "https://www.maray.cl/pais/27/06/2026/mas-de-142-mil-vehiculos-dejaron-la-capital-en-el-inicio-del-fin-de-semana-largo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fiscalía obtuvo prisión preventiva de conductor por graves delitos cometidos en Diego de Almagro",
+    "enlace": "https://www.maray.cl/atacama/27/06/2026/fiscalia-obtuvo-prision-preventiva-de-conductor-por-graves-delitos-cometidos-en-diego-de-almagro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Delegada Sofía Cid destaca proyecto del Presidente José Antonio Kast que crea Registro Nacional de Actos Vandálicos e Incivilidades",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/27/06/2026/delegada-sofia-cid-destaca-proyecto-del-presidente-jose-antonio-kast-que-crea-registro-nacional-de-actos-vandalicos-e-incivilidades-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Austria enfrenta altas temperaturas y calor extremo deforma vías de trenes",
+    "enlace": "https://www.maray.cl/internacional/27/06/2026/austria-enfrenta-altas-temperaturas-y-calor-extremo-deforma-vias-de-trenes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Jóvenes surfistas de Caldera brillan en torneo nacional y proyectan nuevos desafíos",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/27/06/2026/jovenes-surfistas-de-caldera-brillan-en-torneo-nacional-y-proyectan-nuevos-desafios-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Más de 1.600 rescatistas internacionales llegan a Venezuela tras devastadores terremotos",
     "enlace": "https://www.maray.cl/internacional/27/06/2026/mas-de-1-600-rescatistas-internacionales-llegan-a-venezuela-tras-devastadores-terremotos/",
     "descripcion": "",
@@ -1496,51 +1541,6 @@
   {
     "titulo": "Investigan robo de más de 37 mil dólares desde Subcomisaría de Carabineros en Colchane",
     "enlace": "https://www.maray.cl/pais/27/06/2026/investigan-robo-de-mas-de-37-mil-dolares-desde-subcomisaria-de-carabineros-en-colchane/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Muere a los 73 años Paul Landon, histórico conductor de «Tierra Adentro»",
-    "enlace": "https://www.maray.cl/pais/27/06/2026/muere-a-los-73-anos-paul-landon-historico-conductor-de-tierra-adentro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Egipto empata con Irán, clasifica a dieciseisavos y deja a los asiáticos pendientes de un milagro",
-    "enlace": "https://www.maray.cl/deportes/27/06/2026/egipto-empata-con-iran-clasifica-a-dieciseisavos-y-deja-a-los-asiaticos-pendientes-de-un-milagro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Marcelo Bielsa asume el fracaso de Uruguay en el Mundial: «Mi paso no dejó nada»",
-    "enlace": "https://www.maray.cl/deportes/27/06/2026/marcelo-bielsa-asume-el-fracaso-de-uruguay-en-el-mundial-mi-paso-no-dejo-nada/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Uruguay cae ante España y se despide del Mundial 2026 como la primera selección sudamericana eliminada",
-    "enlace": "https://www.maray.cl/deportes/27/06/2026/uruguay-cae-ante-espana-y-se-despide-del-mundial-2026-como-la-primera-seleccion-sudamericana-eliminada/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Bélgica golea a Nueva Zelanda, avanza a octavos y se queda con el liderato del Grupo G",
-    "enlace": "https://www.maray.cl/deportes/27/06/2026/belgica-golea-a-nueva-zelanda-avanza-a-octavos-y-se-queda-con-el-liderato-del-grupo-g/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Inauguran en Chile el Instituto Internacional de Estudios para la Democracia enfocado en gobernabilidad",
-    "enlace": "https://g5noticias.cl/2026/06/27/inauguran-en-chile-el-instituto-internacional-de-estudios-para-la-democracia-enfocado-en-gobernabilidad/",
+    "titulo": "Gobierno Regional de Valparaíso hizo entrega de implementos a jóvenes deportistas regionales de la disciplina paralímpica Quad Rugby",
+    "enlace": "https://g5noticias.cl/2026/06/27/gobierno-regional-de-valparaiso-hizo-entrega-de-implementos-a-jovenes-deportistas-regionales-de-la-disciplina-paralimpica-quad-rugby/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CAF crea Fondo para la Recuperación y Reconstrucción de Venezuela",
-    "enlace": "https://g5noticias.cl/2026/06/27/caf-crea-fondo-para-la-recuperacion-y-reconstruccion-de-venezuela/",
+    "titulo": "Reality shows y aprendizaje social. Por Ivonne Maldonado, Directora Carrera de Derecho Universidad de Las Américas, Sede Concepción",
+    "enlace": "https://g5noticias.cl/2026/06/27/reality-shows-y-aprendizaje-social-por-ivonne-maldonado-directora-carrera-de-derecho-universidad-de-las-americas-sede-concepcion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputados Republicanos respaldarán proyecto de indulto general para uniformados condenados tras el 18-O cuando llegue a la Cámara: «Es un acto de justicia»",
-    "enlace": "https://g5noticias.cl/2026/06/27/diputados-republicanos-respaldaran-proyecto-de-indulto-general-para-uniformados-condenados-tras-el-18-o-cuando-llegue-a-la-camara-es-un-acto-de-justicia/",
+    "titulo": "TT Green Foods destaca desafíos para llevar soluciones sostenibles desde la investigación al mercado",
+    "enlace": "https://g5noticias.cl/2026/06/27/tt-green-foods-destaca-desafios-para-llevar-soluciones-sostenibles-desde-la-investigacion-al-mercado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El Mundial también se juega fuera de la cancha: las marcas que ganaron y las que quedaron abajo",
-    "enlace": "https://g5noticias.cl/2026/06/27/el-mundial-tambien-se-juega-fuera-de-la-cancha-las-marcas-que-ganaron-y-las-que-quedaron-abajo/",
+    "titulo": "El vishing concentra cerca del 30% de los fraudes digitales en Chile: estafas promedian los CLP 1.3 millones en pérdidas para los afectados",
+    "enlace": "https://g5noticias.cl/2026/06/27/el-vishing-concentra-cerca-del-30-de-los-fraudes-digitales-en-chile-estafas-promedian-los-clp-1-3-millones-en-perdidas-para-los-afectados/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Estudio revela que las barreras para usar condón y hacerse el test de VIH son emocionales y sociales",
-    "enlace": "https://g5noticias.cl/2026/06/27/estudio-revela-que-las-barreras-para-usar-condon-y-hacerse-el-test-de-vih-son-emocionales-y-sociales/",
+    "titulo": "CONAF impulsa en Llay Llay el programa “Comunidad Preparada frente a los Incendios Forestales”",
+    "enlace": "https://g5noticias.cl/2026/06/27/conaf-impulsa-en-llay-llay-el-programa-comunidad-preparada-frente-a-los-incendios-forestales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "De la obsesión de Bilardo a las respuestas de la tecnología: ¿cómo se está transformando el fútbol? Por Marcos Gonzalez Bertolin, Responsable de Soluciones Deportivas en Sportian",
-    "enlace": "https://g5noticias.cl/2026/06/27/de-la-obsesion-de-bilardo-a-las-respuestas-de-la-tecnologia-como-se-esta-transformando-el-futbol-por-marcos-gonzalez-bertolin-responsable-de-soluciones-deportivas-en-sportian/",
+    "titulo": "Análisis revela las principales preocupaciones en los trayectos laborales: riesgo vial e inseguridad en transporte público",
+    "enlace": "https://g5noticias.cl/2026/06/27/analisis-revela-las-principales-preocupaciones-en-los-trayectos-laborales-riesgo-vial-e-inseguridad-en-transporte-publico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Por qué la luz sigue bajo presión: Experto explica el peso de deudas y contratos antiguos",
-    "enlace": "https://g5noticias.cl/2026/06/27/por-que-la-luz-sigue-bajo-presion-experto-explica-el-peso-de-deudas-y-contratos-antiguos/",
+    "titulo": "UDI entrega “Agenda Social para Chile” al Presidente José Antonio Kast",
+    "enlace": "https://g5noticias.cl/2026/06/27/udi-entrega-agenda-social-para-chile-al-presidente-jose-antonio-kast/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Académica de la USerena participa en investigación que revela el límite del disco estelar de la Vía Láctea",
-    "enlace": "https://g5noticias.cl/2026/06/27/academica-de-la-userena-participa-en-investigacion-que-revela-el-limite-del-disco-estelar-de-la-via-lactea/",
+    "titulo": "Diputado Menchaca (PRep) apoya idea de servicio militar para jóvenes que delinquen y anuncia que presentará un proyecto para hacerlo realidad",
+    "enlace": "https://g5noticias.cl/2026/06/27/diputado-menchaca-prep-apoya-idea-de-servicio-militar-para-jovenes-que-delinquen-y-anuncia-que-presentara-un-proyecto-para-hacerlo-realidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Radiografía automotriz: 3 de cada 4 autos usados en Chile presentan fallas ocultas o irregularidades legales al momento de ser vendidos",
-    "enlace": "https://g5noticias.cl/2026/06/27/radiografia-automotriz-3-de-cada-4-autos-usados-en-chile-presentan-fallas-ocultas-o-irregularidades-legales-al-momento-de-ser-vendidos/",
+    "titulo": "La conexión que nadie puede ignorar. Por Bianca Puntareli, académica de Terapia Ocupacional, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/06/27/la-conexion-que-nadie-puede-ignorar-por-bianca-puntareli-academica-de-terapia-ocupacional-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Yodo y salud: la combinación clave para cuidar al norte de Chile y al mundo. Por Aníbal Abogabir, gerente de Comunidades y Asuntos Públicos de SQM",
-    "enlace": "https://g5noticias.cl/2026/06/27/yodo-y-salud-la-combinacion-clave-para-cuidar-al-norte-de-chile-y-al-mundo-por-anibal-abogabir-gerente-de-comunidades-y-asuntos-publicos-de-sqm/",
+    "titulo": "Estudiante de Santo Tomás Viña del Mar representa a Chile en Campeonato Sudamericano de Lucha de Brazos en Argentina",
+    "enlace": "https://g5noticias.cl/2026/06/27/estudiante-de-santo-tomas-vina-del-mar-representa-a-chile-en-campeonato-sudamericano-de-lucha-de-brazos-en-argentina/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
