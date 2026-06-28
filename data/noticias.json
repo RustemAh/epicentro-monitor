@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Gabinete Regional sesionó en Illapel para trabajar en las principales necesidades de la comuna",
+    "enlace": "https://laserenaonline.cl/2026/06/28/gabinete-regional-sesiono-en-illapel-para-trabajar-en-las-principales-necesidades-de-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Atención Primaria de La Serena inicia entrega de 2.000 lentes y avanza en la resolución de lista de espera oftalmológica",
     "enlace": "https://laserenaonline.cl/2026/06/28/ptencion-primaria-de-la-serena-inicia-entrega-de-2-000-lentes-y-avanza-en-la-resolucion-de-lista-de-espera-oftalmologica/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Presentan diseño de reposición de la Subcomisaría de Carabineros de Los Vilos",
     "enlace": "https://laserenaonline.cl/2026/06/27/presentan-diseno-de-reposicion-de-la-subcomisaria-de-carabineros-de-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Coquimbo sigue pintando su identidad y apuesta por convertirse en la ciudad de los murales",
-    "enlace": "https://laserenaonline.cl/2026/06/27/coquimbo-sigue-pintando-su-identidad-y-apuesta-por-convertirse-en-la-ciudad-de-los-murales/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -898,6 +898,24 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Tradición pesquera: 50 caletas del país se preparan para celebrar Fiestas de San Pedro con apoyo del INDESPA",
+    "enlace": "https://veetv.cl/tradicion-pesquera-50-caletas-del-pais-se-preparan-para-celebrar-fiestas-de-san-pedro-con-apoyo-del-indespa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Choapa registrará máximas sobre lo normal entre jueves y viernes",
+    "enlace": "https://veetv.cl/choapa-registrara-maximas-sobre-lo-normal-entre-jueves-y-viernes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Ganaderos y crianceros de Salamanca reciben apoyo para potenciar su actividad: 60 millones de inversión",
@@ -1710,6 +1728,51 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Senador DC Iván Flores: “Entramos a una etapa distinta con la mega reforma, el gobierno está obligado a conversar”",
+    "enlace": "https://g5noticias.cl/2026/06/28/senador-dc-ivan-flores-entramos-a-una-etapa-distinta-con-la-mega-reforma-el-gobierno-esta-obligado-a-conversar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Coro Sinfónico de Antofagasta participará en histórico concierto «Cerati Sinfónico» este 3 de julio en el Teatro Municipal",
+    "enlace": "https://g5noticias.cl/2026/06/28/coro-sinfonico-de-antofagasta-participara-en-historico-concierto-cerati-sinfonico-este-3-de-julio-en-el-teatro-municipal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputada Paulina Muñoz pide que senador Mirosevic se inhabilite de votar AC contra exministro Grau",
+    "enlace": "https://g5noticias.cl/2026/06/28/diputada-paulina-munoz-pide-que-senador-mirosevic-se-inhabilite-de-votar-ac-contra-exministro-grau/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Estudio Deloitte y CESCO: Minería avanza en digitalización, pero la cultura organizacional sigue frenando su transformación",
+    "enlace": "https://g5noticias.cl/2026/06/28/estudio-deloitte-y-cesco-mineria-avanza-en-digitalizacion-pero-la-cultura-organizacional-sigue-frenando-su-transformacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "¿Cómo destacar en una entrevista laboral y aumentar tus posibilidades de ser contratado?",
+    "enlace": "https://g5noticias.cl/2026/06/28/como-destacar-en-una-entrevista-laboral-y-aumentar-tus-posibilidades-de-ser-contratado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Russell se impuso con Mercedes en el GP de Austria",
     "enlace": "https://g5noticias.cl/2026/06/28/russell-se-impuso-con-mercedes-en-el-gp-de-austria/",
     "descripcion": "",
@@ -1748,51 +1811,6 @@
   {
     "titulo": "El déficit silencioso que podría estar afectando a miles de trabajadores en invierno. Por Dra. Astrid Stotz Rudolff, médico miembro de la Sociedad Chilena de Medicina del Trabajo (SOCHMET)",
     "enlace": "https://g5noticias.cl/2026/06/28/el-deficit-silencioso-que-podria-estar-afectando-a-miles-de-trabajadores-en-invierno-por-dra-astrid-stotz-rudolff-medico-miembro-de-la-sociedad-chilena-de-medicina-del-trabajo-sochmet/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tras cuatro meses de debate: Frente Amplio culmina su primer Congreso Ideológico y define principios y desafíos",
-    "enlace": "https://g5noticias.cl/2026/06/28/tras-cuatro-meses-de-debate-frente-amplio-culmina-su-primer-congreso-ideologico-y-define-principios-y-desafios/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Electromovilidad en minería: cómo optimizar flotas sin reemplazar activos",
-    "enlace": "https://g5noticias.cl/2026/06/28/electromovilidad-en-mineria-como-optimizar-flotas-sin-reemplazar-activos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Benjamín Adriazola y Francisca Garrido se coronan campeones de la primera edición del 5150 Iquique Triathlon 2026",
-    "enlace": "https://g5noticias.cl/2026/06/28/benjamin-adriazola-y-francisca-garrido-se-coronan-campeones-de-la-primera-edicion-del-5150-iquique-triathlon-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "FIA reconoce a mujeres por su aporte a la innovación en la agricultura del Biobío",
-    "enlace": "https://g5noticias.cl/2026/06/28/fia-reconoce-a-mujeres-por-su-aporte-a-la-innovacion-en-la-agricultura-del-biobio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Paralímpico: Team ParaChile se reúne en Colombia",
-    "enlace": "https://g5noticias.cl/2026/06/28/paralimpico-team-parachile-se-reune-en-colombia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
