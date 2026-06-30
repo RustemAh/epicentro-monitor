@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Boulevard La Cantera impulsará millonaria inversión y generará más de mil empleos en Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/06/30/boulevard-la-cantera-impulsara-millonaria-inversion-y-generara-mas-de-mil-empleos-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Aguas del Valle informa corte programado para renovar infraestructura en el sector San Juan de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/06/30/aguas-del-valle-informa-corte-programado-para-renovar-infraestructura-en-el-sector-san-juan-de-coquimbo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Comunidad de Tierras Blancas accedió a asesoría técnica gratuita para mejorar sus computadores",
     "enlace": "https://www.elcoquimbano.cl/2026/06/25/comunidad-de-tierras-blancas-accedio-a-asesoria-tecnica-gratuita-para-mejorar-sus-computadores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Desde Teatro a Mil a Coquimbo: obra familiar se presentará gratuitamente en el Centro Cultural Palace",
-    "enlace": "https://www.elcoquimbano.cl/2026/06/25/desde-teatro-a-mil-a-coquimbo-obra-familiar-se-presentara-gratuitamente-en-el-centro-cultural-palace/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Aguas del Valle informa corte programado para renovar infraestructura en el sector San Juan de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/06/30/aguas-del-valle-informa-corte-programado-para-renovar-infraestructura-en-el-sector-san-juan-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Declaran Alerta Amarilla para la comuna de Los Vilos por incendio forestal",
+    "enlace": "https://laserenaonline.cl/2026/06/30/declaran-alerta-amarilla-para-la-comuna-de-los-vilos-por-incendio-forestal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "40 infracciones cursó seguridad ciudadana durante el fin de semana largo en La Serena",
     "enlace": "https://laserenaonline.cl/2026/06/30/40-infracciones-curso-seguridad-ciudadana-durante-el-fin-de-semana-largo-en-la-serena/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Autoridades de salud llaman a padres a vacunar a sus hijos durante vacaciones de invierno",
     "enlace": "https://laserenaonline.cl/2026/06/29/autoridades-de-salud-llaman-a-padres-a-vacunar-a-sus-hijos-durante-vacaciones-de-invierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Capacitación con sentido territorial beneficia a más de 40 personas de la Provincia de Choapa",
-    "enlace": "https://laserenaonline.cl/2026/06/29/capacitacion-con-sentido-territorial-beneficia-a-mas-de-40-personas-de-la-provincia-de-choapa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Plaza de Justicia y Derechos Humanos acercó la oferta pública del sector a la comunidad de Los Vilos",
-    "enlace": "https://laserenaonline.cl/2026/06/29/plaza-de-justicia-y-derechos-humanos-acerco-la-oferta-publica-del-sector-a-la-comunidad-de-los-vilos/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -720,8 +720,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Tradición pesquera: 50 caletas del país se preparan para celebrar Fiestas de San Pedro con apoyo del INDESPA",
-    "enlace": "https://veetv.cl/tradicion-pesquera-50-caletas-del-pais-se-preparan-para-celebrar-fiestas-de-san-pedro-con-apoyo-del-indespa/",
+    "titulo": "Incendio forestal en Los Vilos continúa en combate y mantiene amplio despliegue de recursos",
+    "enlace": "https://veetv.cl/incendio-forestal-los-vilos-combate/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -729,8 +729,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Choapa registrará máximas sobre lo normal entre jueves y viernes",
-    "enlace": "https://veetv.cl/choapa-registrara-maximas-sobre-lo-normal-entre-jueves-y-viernes/",
+    "titulo": "Tradición pesquera: 50 caletas del país se preparan para celebrar Fiestas de San Pedro con apoyo del INDESPA",
+    "enlace": "https://veetv.cl/tradicion-pesquera-50-caletas-del-pais-se-preparan-para-celebrar-fiestas-de-san-pedro-con-apoyo-del-indespa/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1098,6 +1098,33 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Incendio de gran magnitud afectó al Regimiento Arauco de Osorno",
+    "enlace": "https://www.maray.cl/pais/30/06/2026/incendio-de-gran-magnitud-afecto-al-regimiento-arauco-de-osorno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Marcelo Bielsa asume el fracaso de Uruguay y cierra su ciclo con una dura autocrítica tras el Mundial 2026",
+    "enlace": "https://www.maray.cl/deportes/30/06/2026/marcelo-bielsa-asume-el-fracaso-de-uruguay-y-cierra-su-ciclo-con-una-dura-autocritica-tras-el-mundial-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Desbaratan red de narcotráfico entre Tarapacá y Santiago: incautan más de 600 kilos de marihuana y hay tres detenidos",
+    "enlace": "https://www.maray.cl/pais/30/06/2026/desbaratan-red-de-narcotrafico-entre-tarapaca-y-santiago-incautan-mas-de-600-kilos-de-marihuana-y-hay-tres-detenidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Usuarios de INDAP no deberán iniciar actividades en SII para acceder a programas de fomento y créditos institucionales",
     "enlace": "https://www.maray.cl/atacama/30/06/2026/usuarios-de-indap-no-deberan-iniciar-actividades-en-sii-para-acceder-a-programas-de-fomento-y-creditos-institucionales/",
     "descripcion": "",
@@ -1154,33 +1181,6 @@
   {
     "titulo": "Vallenar: Fiscalía solicitó ampliar detención  de imputados por homicidio con arma blanca",
     "enlace": "https://www.maray.cl/atacama/30/06/2026/vallenar-fiscalia-solicito-ampliar-detencion-de-imputados-por-homicidio-con-arma-blanca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "WhatsApp habilita reserva anticipada de nombres de usuario para reforzar la privacidad",
-    "enlace": "https://www.maray.cl/internacional/30/06/2026/whatsapp-habilita-reserva-anticipada-de-nombres-de-usuario-para-reforzar-la-privacidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "“Señales positivas para Atacama”: Destacan baja en el desempleo regional y llaman a fortalecer el empleo formal",
-    "enlace": "https://www.maray.cl/atacama/30/06/2026/senales-positivas-para-atacama-destacan-baja-en-el-desempleo-regional-y-llaman-a-fortalecer-el-empleo-formal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Caserones renueva apoyo a destacados deportistas atacameños para impulsar el talento regional",
-    "enlace": "https://www.maray.cl/atacama/30/06/2026/caserones-renueva-apoyo-a-destacados-deportistas-atacamenos-para-impulsar-el-talento-regional/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
