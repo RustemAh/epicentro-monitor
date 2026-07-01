@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Emprendedores de Tongoy fortalecen sus conocimientos para avanzar en la formalización de sus negocios",
+    "enlace": "https://laserenaonline.cl/2026/07/01/emprendedores-de-tongoy-fortalecen-sus-conocimientos-para-avanzar-en-la-formalizacion-de-sus-negocios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Aplican millonarias multas y suspenden a conductores en fiscalización de buses interurbanos durante fin de semana largo",
+    "enlace": "https://laserenaonline.cl/2026/07/01/aplican-millonarias-multas-y-suspenden-a-conductores-en-fiscalizacion-de-buses-interurbanos-durante-fin-de-semana-largo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Ovalle vuelve a ser víctima del robo de cables: más de 3 mil metros fueron sustraídos por delincuentes en el sector de Los Acacios",
     "enlace": "https://laserenaonline.cl/2026/07/01/ovalle-vuelve-a-ser-victima-del-robo-de-cables-mas-de-3-mil-metros-fueron-sustraidos-por-delincuentes-en-el-sector-de-los-acacios/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "40 infracciones cursó seguridad ciudadana durante el fin de semana largo en La Serena",
     "enlace": "https://laserenaonline.cl/2026/06/30/40-infracciones-curso-seguridad-ciudadana-durante-el-fin-de-semana-largo-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Detectan combustible que impulsó el crecimiento de una galaxia en el amanecer cósmico",
-    "enlace": "https://laserenaonline.cl/2026/06/30/detectan-combustible-que-impulso-el-crecimiento-de-una-galaxia-en-el-amanecer-cosmico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Comienzan las obras de modernización de Caleta Las Conchas en Los Vilos",
-    "enlace": "https://laserenaonline.cl/2026/06/30/comienzan-las-obras-de-modernizacion-de-caleta-las-conchas-en-los-vilos/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -342,6 +342,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Región de Coquimbo fortalece la detección y denuncia de la explotación sexual de niños, niñas y adolescentes",
+    "enlace": "https://regiondecoquimbo.cl/2026/06/30/region-de-coquimbo-fortalece-la-deteccion-y-denuncia-de-la-explotacion-sexual-de-ninos-ninas-y-adolescentes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "40 infracciones cursó seguridad ciudadana durante el fin de semana largo en La Serena.",
     "enlace": "https://regiondecoquimbo.cl/2026/06/30/40-infracciones-curso-seguridad-ciudadana-durante-el-fin-de-semana-largo-en-la-serena/",
     "descripcion": "",
@@ -351,13 +360,31 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Comienzan las obras de modernización de Caleta Las Conchas en Los Vilos",
-    "enlace": "https://regiondecoquimbo.cl/2026/06/30/comienzan-las-obras-de-modernizacion-de-caleta-las-conchas-en-los-vilos/",
+    "titulo": "«El Castillo Ambulante»: La magia del cine de animación japonesa llega a Ovalle",
+    "enlace": "https://ovallehoy.cl/el-castillo-ambulante-la-magia-del-cine-de-animacion-japonesa-llega-a-ovalle/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Unión Wanders logra meritorio segundo lugar en el Nacional FENFUR Senior 40",
+    "enlace": "https://ovallehoy.cl/union-wanders-logra-meritorio-segundo-lugar-en-el-nacional-fenfur-senior-40/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "ObituarioHOY del miércoles 01 de julio",
+    "enlace": "https://ovallehoy.cl/obituariohoy-del-miercoles-01-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "Firman convenio que fortalecerá el plan municipal de Cultura DE Río Hurtado",
@@ -416,33 +443,6 @@
   {
     "titulo": "Se pronostican altas temperaturas para zonas del interior de la Región de Coquimbo",
     "enlace": "https://ovallehoy.cl/se-pronostican-altas-temperaturas-para-zonas-del-interior-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "En Ovalle promueven la inclusión con la entrega de coche neurológico para joven con discapacidad",
-    "enlace": "https://ovallehoy.cl/en-ovalle-promueven-la-inclusion-con-la-entrega-de-coche-neurologico-para-joven-con-discapacidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del miércoles 24 de junio",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-miercoles-24-de-junio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Este domingo se realizará la Fiesta de San Pedro en Caleta Talquilla",
-    "enlace": "https://ovallehoy.cl/este-domingo-se-realizara-la-fiesta-de-san-pedro-en-caleta-talquilla/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -718,6 +718,24 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Incendio forestal en Los Vilos continúa en combate y mantiene amplio despliegue de recursos",
+    "enlace": "https://veetv.cl/incendio-forestal-los-vilos-combate/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Tradición pesquera: 50 caletas del país se preparan para celebrar Fiestas de San Pedro con apoyo del INDESPA",
+    "enlace": "https://veetv.cl/tradicion-pesquera-50-caletas-del-pais-se-preparan-para-celebrar-fiestas-de-san-pedro-con-apoyo-del-indespa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Salamanca se mantiene bajo Alerta Temprana Preventiva por pronóstico de fuertes vientos en la cordillera",
@@ -1080,6 +1098,51 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Pronostican viento normal a moderado en cordillera entre Tarapacá y Coquimbo",
+    "enlace": "https://www.maray.cl/pais/01/07/2026/pronostican-viento-normal-a-moderado-en-cordillera-entre-tarapaca-y-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Muere a los 58 años Manolo Arjona, integrante histórico del grupo Locomía",
+    "enlace": "https://www.maray.cl/internacional/01/07/2026/muere-a-los-58-anos-manolo-arjona-integrante-historico-del-grupo-locomia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Sevilla FC confirma la salida de Alexis Sánchez y pone fin a su vínculo con el club",
+    "enlace": "https://www.maray.cl/deportes/01/07/2026/sevilla-fc-confirma-la-salida-de-alexis-sanchez-y-pone-fin-a-su-vinculo-con-el-club/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Cenabast refuerza plan de invierno con medicamentos hasta un 89% más baratos en farmacias del país",
+    "enlace": "https://www.maray.cl/pais/01/07/2026/cenabast-refuerza-plan-de-invierno-con-medicamentos-hasta-un-89-mas-baratos-en-farmacias-del-pais/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Chañaral: modernización de infraestructura sanitaria contempla corte programado de agua potable este jueves 2 de julio",
+    "enlace": "https://www.maray.cl/atacama/01/07/2026/chanaral-modernizacion-de-infraestructura-sanitaria-contempla-corte-programado-de-agua-potable-este-jueves-2-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Sebastián Beccacece deja la selección de Ecuador tras la eliminación en el Mundial 2026",
     "enlace": "https://www.maray.cl/deportes/01/07/2026/sebastian-beccacece-deja-la-seleccion-de-ecuador-tras-la-eliminacion-en-el-mundial-2026/",
     "descripcion": "",
@@ -1118,51 +1181,6 @@
   {
     "titulo": "Venezuela intensifica búsqueda de sobrevivientes mientras cifra de fallecidos por terremotos se acerca a los 2.000",
     "enlace": "https://www.maray.cl/internacional/01/07/2026/venezuela-intensifica-busqueda-de-sobrevivientes-mientras-cifra-de-fallecidos-por-terremotos-se-acerca-a-los-2-000/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Marcelo Bielsa se despide de Uruguay y ofrece disculpas por su reacción ante la prensa",
-    "enlace": "https://www.maray.cl/deportes/01/07/2026/marcelo-bielsa-se-despide-de-uruguay-y-ofrece-disculpas-por-su-reaccion-ante-la-prensa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Muere a los 74 años Victor Willis, voz original de Village People y coautor de «Y.M.C.A.»",
-    "enlace": "https://www.maray.cl/internacional/01/07/2026/muere-a-los-74-anos-victor-willis-voz-original-de-village-people-y-coautor-de-y-m-c-a/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Chile facilitará el retorno de venezolanos con pasaportes vencidos por razones humanitarias",
-    "enlace": "https://www.maray.cl/pais/01/07/2026/chile-facilitara-el-retorno-de-venezolanos-con-pasaportes-vencidos-por-razones-humanitarias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Economía chilena vuelve a retroceder: Imacec cae en mayo y aumenta preocupación por una recesión técnica",
-    "enlace": "https://www.maray.cl/pais/01/07/2026/economia-chilena-vuelve-a-retroceder-imacec-cae-en-mayo-y-aumenta-preocupacion-por-una-recesion-tecnica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "México avanza con autoridad a octavos del Mundial 2026 tras vencer a Ecuador en el Estadio Azteca",
-    "enlace": "https://www.maray.cl/deportes/01/07/2026/mexico-avanza-con-autoridad-a-octavos-del-mundial-2026-tras-vencer-a-ecuador-en-el-estadio-azteca/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1260,6 +1278,33 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "ISL Magallanes inicia devolución de cotizaciones pagadas en exceso por empresas adheridas",
+    "enlace": "https://laprensaaustral.cl/2026/07/01/isl-magallanes-inicia-devolucion-de-cotizaciones-pagadas-en-exceso-por-empresas-adheridas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Entregan nueva sede comunitaria a la Junta de Vecinos Manuel Chaparro tras un año de obras",
+    "enlace": "https://laprensaaustral.cl/2026/07/01/entregan-nueva-sede-comunitaria-a-la-junta-de-vecinos-manuel-chaparro-tras-un-ano-de-obras/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Conductor de Radio Taxi Alondra fallece en accidente de tránsito registrado en ruta 9 Norte",
+    "enlace": "https://laprensaaustral.cl/2026/07/01/conductor-de-radio-taxi-alondra-fallece-en-accidente-de-transito-registrado-en-ruta-9-norte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Mbappé y Haaland acechan a Messi",
     "enlace": "https://laprensaaustral.cl/2026/07/01/mbappe-y-haaland-acechan-a-messi/",
     "descripcion": "",
@@ -1316,33 +1361,6 @@
   {
     "titulo": "Más de 400 voluntarios integran el Cuerpo de Bomberos en Punta Arenas",
     "enlace": "https://laprensaaustral.cl/2026/07/01/mas-de-400-voluntarios-integran-el-cuerpo-de-bomberos-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Más de $68 millones reciben más de siete Puntos de Cultura Comunitaria",
-    "enlace": "https://laprensaaustral.cl/2026/07/01/mas-de-68-millones-reciben-mas-de-siete-puntos-de-cultura-comunitaria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Sol de América ganó la Copa Invierno de fútbol",
-    "enlace": "https://laprensaaustral.cl/2026/07/01/sol-de-america-gano-la-copa-invierno-de-futbol/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "“Es un desafío país”: gobierno confía en poder  revertir la preocupante cifra de desempleo",
-    "enlace": "https://laprensaaustral.cl/2026/07/01/es-un-desafio-pais-gobierno-confia-en-poder-revertir-la-preocupante-cifra-de-desempleo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
