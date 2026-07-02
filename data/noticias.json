@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Seremi de Energía conoció la operación del Coordinador Eléctrico Nacional y la CCHEN",
+    "enlace": "https://laserenaonline.cl/2026/07/02/seremi-de-energia-conocio-la-operacion-del-coordinador-electrico-nacional-y-la-cchen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Seremi de la Mujer fortalece coordinación con Río Hurtado para impulsar el desarrollo y la autonomía económica de las mujeres",
+    "enlace": "https://laserenaonline.cl/2026/07/02/seremi-de-la-mujer-fortalece-coordinacion-con-rio-hurtado-para-impulsar-el-desarrollo-y-la-autonomia-economica-de-las-mujeres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "CONAF fortalece la producción forrajera y recuperación vegetal en la comuna de Andacollo",
     "enlace": "https://laserenaonline.cl/2026/07/02/conaf-fortalece-la-produccion-forrajera-y-recuperacion-vegetal-en-la-comuna-de-andacollo/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Pronostican ola de frío en valles interiores de la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/02/pronostican-ola-de-frio-en-valles-interiores-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más de 390 personas de la comuna de Ovalle adquieren apoyo para enfrentar costos de producción y desafíos hídricos",
-    "enlace": "https://laserenaonline.cl/2026/07/02/mas-de-390-personas-de-la-comuna-de-ovalle-adquieren-apoyo-para-enfrentar-costos-de-produccion-y-desafios-hidricos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Las zapatillas más curiosas inspiradas en películas, videojuegos y cómics",
-    "enlace": "https://laserenaonline.cl/2026/07/02/las-zapatillas-mas-curiosas-inspiradas-en-peliculas-videojuegos-y-comics/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Valles interiores del Choapa enfrentarán una ola de frío con temperaturas bajo cero",
-    "enlace": "https://veetv.cl/ola-frio-valles-interiores-choapa/",
+    "titulo": "Incendio Cerro Blanco sigue activo en Los Vilos: CONAF entrega nuevo balance a Veetv.cl",
+    "enlace": "https://veetv.cl/incendio-cerro-blanco-los-vilos/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Incendio forestal en Los Vilos continúa en combate y mantiene amplio despliegue de recursos",
-    "enlace": "https://veetv.cl/incendio-forestal-los-vilos-combate/",
+    "titulo": "Valles interiores del Choapa enfrentarán una ola de frío con temperaturas bajo cero",
+    "enlace": "https://veetv.cl/ola-frio-valles-interiores-choapa/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Aviso Fúnebre: Se comunica el fallecimiento de vecino de la calle Alfonso de Andacollo",
+    "enlace": "https://www.elandacollino.cl/2026/07/02/aviso-funebre-se-comunica-el-fallecimiento-de-vecino-de-la-calle-alfonso-de-andacollo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "CONAF fortalece la producción forrajera y recuperación vegetal en la comuna de Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/07/02/conaf-fortalece-la-produccion-forrajera-y-recuperacion-vegetal-en-la-comuna-de-andacollo/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Observatorio Collowara celebró 22 años de historia e inauguró moderno Astro Laboratorio en Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/06/24/observatorio-collowara-celebro-22-anos-de-historia-e-inauguro-moderno-astro-laboratorio-en-andacollo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Galantas Gold concreta adquisición del proyecto minero Andacollo Oro y proyecta reiniciar operaciones en 2027",
-    "enlace": "https://www.elandacollino.cl/2026/06/23/galantas-gold-concreta-adquisicion-del-proyecto-minero-andacollo-oro-y-proyecta-reiniciar-operaciones-en-2027/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1458,6 +1458,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Lundin Mining se incorpora a la Asociación Chilena de Desalación y Reúso (ACADES)",
+    "enlace": "https://www.maray.cl/atacama/02/07/2026/lundin-mining-se-incorpora-a-la-asociacion-chilena-de-desalacion-y-reuso-acades/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Vallenar: Imputados por delito de homicidio calificado cumplirán cautelar de prisión preventiva",
+    "enlace": "https://www.maray.cl/atacama/02/07/2026/vallenar-imputados-por-delito-de-homicidio-calificado-cumpliran-cautelar-de-prision-preventiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Bomberos chilenos protagonizan exitoso rescate de hombre que sobrevivió ocho días bajo los escombros en Venezuela",
+    "enlace": "https://www.maray.cl/pais/02/07/2026/bomberos-chilenos-protagonizan-exitoso-rescate-de-hombre-que-sobrevivio-ocho-dias-bajo-los-escombros-en-venezuela/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno anuncia plan para reactivar la economía y frenar el desempleo tras nueva caída del Imacec",
+    "enlace": "https://www.maray.cl/atacama/02/07/2026/gobierno-anuncia-plan-para-reactivar-la-economia-y-frenar-el-desempleo-tras-nueva-caida-del-imacec/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "MOP fortalece el trabajo colaborativo para la planificación del agua en Atacama",
+    "enlace": "https://www.maray.cl/atacama/02/07/2026/mop-fortalece-el-trabajo-colaborativo-para-la-planificacion-del-agua-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Servicio de Salud Atacama llama al autocuidado y entrega recomendaciones para el buen uso de la Red de Urgencia en este invierno",
     "enlace": "https://www.maray.cl/podcast-de-noticias/02/07/2026/servicio-de-salud-atacama-llama-al-autocuidado-y-entrega-recomendaciones-para-el-buen-uso-de-la-red-de-urgencia-en-este-invierno-2/",
     "descripcion": "",
@@ -1496,51 +1541,6 @@
   {
     "titulo": "Minsal alerta por baja cobertura contra el sarampión y llama a vacunar a más de 143 mil niños",
     "enlace": "https://www.maray.cl/pais/02/07/2026/minsal-alerta-por-baja-cobertura-contra-el-sarampion-y-llama-a-vacunar-a-mas-de-143-mil-ninos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno impulsará proyecto para que menores puedan ser juzgados como adultos por delitos graves",
-    "enlace": "https://www.maray.cl/pais/02/07/2026/gobierno-impulsara-proyecto-para-que-menores-puedan-ser-juzgados-como-adultos-por-delitos-graves/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Medio Ambiente retoma y fortalece Programa para la Recuperación Ambiental y Social de Huasco",
-    "enlace": "https://www.maray.cl/atacama/02/07/2026/medio-ambiente-retoma-y-fortalece-programa-para-la-recuperacion-ambiental-y-social-de-huasco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Codelco pierde el liderazgo mundial del cobre y BHP se convierte en el mayor productor",
-    "enlace": "https://www.maray.cl/pais/02/07/2026/codelco-pierde-el-liderazgo-mundial-del-cobre-y-bhp-se-convierte-en-el-mayor-productor/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Ministerio de Desarrollo Social pone a disposición albergue público para personas en situación de calle en Copiapó",
-    "enlace": "https://www.maray.cl/atacama/02/07/2026/ministerio-de-desarrollo-social-pone-a-disposicion-albergue-publico-para-personas-en-situacion-de-calle-en-copiapo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Estados Unidos avanza a octavos del Mundial 2026 tras vencer a Bosnia",
-    "enlace": "https://www.maray.cl/deportes/01/07/2026/estados-unidos-avanza-a-octavos-del-mundial-2026-tras-vencer-a-bosnia/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Universidad Santo Tomás aumenta a cinco años su acreditación en Nivel Avanzado otorgada por la CNA",
-    "enlace": "https://g5noticias.cl/2026/07/02/universidad-santo-tomas-aumenta-a-cinco-anos-su-acreditacion-en-nivel-avanzado-otorgada-por-la-cna/",
+    "titulo": "Club Ovalle Balonmano hará historia en Europa: será el primer representante chileno en el EuroFest 2026 de Eslovenia",
+    "enlace": "https://g5noticias.cl/2026/07/02/club-ovalle-balonmano-hara-historia-en-europa-sera-el-primer-representante-chileno-en-el-eurofest-2026-de-eslovenia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senadora Camila Flores condena difusión de imágenes íntimas de mujeres en grupo de Telegram del Valle del Aconcagua",
-    "enlace": "https://g5noticias.cl/2026/07/02/senadora-camila-flores-condena-difusion-de-imagenes-intimas-de-mujeres-en-grupo-de-telegram-del-valle-del-aconcagua/",
+    "titulo": "Con financiamiento de la Subsecretaría de Prevención del Delito, Independencia instalará 99 cámaras de seguridad en sectores estratégicos de la comuna",
+    "enlace": "https://g5noticias.cl/2026/07/02/con-financiamiento-de-la-subsecretaria-de-prevencion-del-delito-independencia-instalara-99-camaras-de-seguridad-en-sectores-estrategicos-de-la-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministro Arrau confirma discusión inmediata a proyecto que endurece penas contra menores que cometen delitos graves",
-    "enlace": "https://g5noticias.cl/2026/07/02/ministro-arrau-confirma-discusion-inmediata-a-proyecto-que-endurece-penas-contra-menores-que-cometen-delitos-graves/",
+    "titulo": "Mercado laboral profundiza su deterioro en regiones: Maule, O’Higgins, Valparaíso y Biobío enfrentan señales de alerta",
+    "enlace": "https://g5noticias.cl/2026/07/02/mercado-laboral-profundiza-su-deterioro-en-regiones-maule-ohiggins-valparaiso-y-biobio-enfrentan-senales-de-alerta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Innovación con impacto: Curauma emerge como hub de economía circular de la mano de emprendimientos apoyados por Corfo",
-    "enlace": "https://g5noticias.cl/2026/07/02/innovacion-con-impacto-curauma-emerge-como-hub-de-economia-circular-de-la-mano-de-emprendimientos-apoyados-por-corfo/",
+    "titulo": "Cardenal Chomalí, rector de la PUCV Nelson Vásquez y neuropsiquiatra Amanda Céspedes encabezarán encuentro sobre la niñez",
+    "enlace": "https://g5noticias.cl/2026/07/02/cardenal-chomali-rector-de-la-pucv-nelson-vasquez-y-neuropsiquiatra-amanda-cespedes-encabezaran-encuentro-sobre-la-ninez/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Artesanas textiles de Aysén y otras seis regiones se reúnen en la Ruta de la Identidad en Tarapacá",
-    "enlace": "https://g5noticias.cl/2026/07/02/artesanas-textiles-de-aysen-y-otras-seis-regiones-se-reunen-en-la-ruta-de-la-identidad-en-tarapaca/",
+    "titulo": "LAJAR se consolida como referente latinoamericano en ciencias del mar y acuicultura",
+    "enlace": "https://g5noticias.cl/2026/07/02/lajar-se-consolida-como-referente-latinoamericano-en-ciencias-del-mar-y-acuicultura/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Se declara Alerta Amarilla para las comunas de Antuco, Alto Biobío, Quilaco, Quilleco y Santa Bárbara por evento meteorológico de heladas y fuertes vientos",
-    "enlace": "https://g5noticias.cl/2026/07/02/se-declara-alerta-amarilla-para-las-comunas-de-antuco-alto-biobio-quilaco-quilleco-y-santa-barbara-por-evento-meteorologico-de-heladas-y-fuertes-vientos/",
+    "titulo": "Geely Auto logra un crecimiento récord en el extranjero durante el primer semestre de 2026; las ventas internacionales de junio superaron las 100.000 unidades",
+    "enlace": "https://g5noticias.cl/2026/07/02/geely-auto-logra-un-crecimiento-record-en-el-extranjero-durante-el-primer-semestre-de-2026-las-ventas-internacionales-de-junio-superaron-las-100-000-unidades/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ocho monjes murieron atropellados por una camioneta conducida por un menor en Tailandia",
-    "enlace": "https://g5noticias.cl/2026/07/02/ocho-monjes-murieron-atropellados-por-una-camioneta-conducida-por-un-menor-en-tailandia/",
+    "titulo": "La Ligua celebrará este sábado el Día del Dulce y el Dulcero 2026",
+    "enlace": "https://g5noticias.cl/2026/07/02/la-ligua-celebrara-este-sabado-el-dia-del-dulce-y-el-dulcero-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El Vaticano excomulga a cuatro obispos lefebvrianos consagrados sin autorización de León XIV",
-    "enlace": "https://g5noticias.cl/2026/07/02/el-vaticano-excomulga-a-cuatro-obispos-lefebvrianos-consagrados-sin-autorizacion-de-leon-xiv/",
+    "titulo": "Seremi de Energía promovió espacio de participación ciudadana en torno a Cuenta Pública 2025-2026 de la cartera",
+    "enlace": "https://g5noticias.cl/2026/07/02/seremi-de-energia-promovio-espacio-de-participacion-ciudadana-en-torno-a-cuenta-publica-2025-2026-de-la-cartera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremi de Culturas y UOH abren convocatoria a becas para el 5° Diplomado en Educación Artística",
-    "enlace": "https://g5noticias.cl/2026/07/02/seremi-de-culturas-y-uoh-abren-convocatoria-a-becas-para-el-5-diplomado-en-educacion-artistica/",
+    "titulo": "Ministro Poduje presenta en Tomé innovador modelo de pequeños condominios para ampliar soluciones habitacionales en terrenos urbanos de menor tamaño",
+    "enlace": "https://g5noticias.cl/2026/07/02/ministro-poduje-presenta-en-tome-innovador-modelo-de-pequenos-condominios-para-ampliar-soluciones-habitacionales-en-terrenos-urbanos-de-menor-tamano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subsecretaría del Patrimonio Cultural impulsa espacios de diálogo sobre patrimonio junto a especialistas nacionales e internacionales",
-    "enlace": "https://g5noticias.cl/2026/07/02/subsecretaria-del-patrimonio-cultural-impulsa-espacios-de-dialogo-sobre-patrimonio-junto-a-especialistas-nacionales-e-internacionales/",
+    "titulo": "Carabineros detuvo en 24 horas a presunto autor del homicidio de adolescente de 17 años ocurrido en Lo Prado",
+    "enlace": "https://g5noticias.cl/2026/07/02/carabineros-detuvo-en-24-horas-a-presunto-autor-del-homicidio-de-adolescente-de-17-anos-ocurrido-en-lo-prado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
