@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "“Trekking” deportivo y patrimonial invita a redescubrir la historia de la Pampilla de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/03/trekking-deportivo-y-patrimonial-invita-a-redescubrir-la-historia-de-la-pampilla-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo recibirá a Los Jaivas y la histórica obra “Alturas de Macchu Picchu” en su gira de aniversario",
     "enlace": "https://www.elcoquimbano.cl/2026/07/03/coquimbo-recibira-a-los-jaivas-y-la-historica-obra-alturas-de-macchu-picchu-en-su-gira-de-aniversario/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "La tasa de desocupación en la Región de Coquimbo fue 9,1% en el trimestre marzo – mayo 2026",
-    "enlace": "https://www.elcoquimbano.cl/2026/06/30/la-tasa-de-desocupacion-en-la-region-de-coquimbo-fue-91-en-el-trimestre-marzo-mayo-2026/",
+    "titulo": "27 infracciones dejó megaoperativo de seguridad ciudadana en La Pampa, Serena Oriente y el borde costero",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/03/27-infracciones-dejo-megaoperativo-de-seguridad-ciudadana-en-la-pampa-serena-oriente-y-el-borde-costero/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Comité Regional para la Erradicación del Trabajo Infantil realizó su primera sesión y definió acciones para el 2026",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Municipalidad de La Serena adjudicó proyecto para renovar Avenida del Mar con inversión superior a $412 millones",
-    "enlace": "https://www.elserenense.cl/comunales/2026/06/30/municipalidad-de-la-serena-adjudico-proyecto-para-renovar-avenida-del-mar-con-inversion-superior-a-412-millones/",
+    "titulo": "Usuarios integrantes de la Agricultura Familiar Campesina no deberán iniciar actividades en SII",
+    "enlace": "https://laserenaonline.cl/2026/07/03/usuarios-integrantes-de-la-agricultura-familiar-campesina-no-deberan-iniciar-actividades-en-sii/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Carabineros y Municipio de Monte Patria coordinan acciones por convenio OS14",
+    "enlace": "https://laserenaonline.cl/2026/07/03/carabineros-y-municipio-de-monte-patria-coordinan-acciones-por-convenio-os14/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Municipio de La Serena reconoce trayectoria de funcionarios de Atención Primaria de Salud",
     "enlace": "https://laserenaonline.cl/2026/07/03/municipio-de-la-serena-reconoce-trayectoria-de-funcionarios-de-atencion-primaria-de-salud/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Mesa Interministerial por el Empleo dispone 5.000 subsidios a la contratación y acelera coordinación con regiones",
-    "enlace": "https://laserenaonline.cl/2026/07/03/mesa-interministerial-por-el-empleo-dispone-5-000-subsidios-a-la-contratacion-y-acelera-coordinacion-con-regiones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El dolor también aumenta en invierno: cinco claves para prevenir molestias musculares y articulares",
-    "enlace": "https://laserenaonline.cl/2026/07/02/el-dolor-tambien-aumenta-en-invierno-cinco-claves-para-prevenir-molestias-musculares-y-articulares/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Productor de Sotaquí reduce costos de electricidad en su campo gracias a innovador sistema de riego solar",
+    "enlace": "https://ovallehoy.cl/124403-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Región de Coquimbo duplica su racha de inversión: suma US$794 millones y supera todo lo aprobado en 2025",
+    "enlace": "https://ovallehoy.cl/region-de-coquimbo-duplica-su-racha-de-inversion-suma-us794-millones-y-supera-todo-lo-aprobado-en-2025/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Insisten en llamado a vacunarse ante bajo porcentaje de inmunización de Limarí",
     "enlace": "https://ovallehoy.cl/insisten-en-llamado-a-vacunarse-ante-bajo-porcentaje-de-inmunizacion-de-limari/",
     "descripcion": "",
@@ -515,24 +533,6 @@
   {
     "titulo": "Cooperativa de Recicladores fortalece su gestión con nueva inversión y participación internacional",
     "enlace": "https://ovallehoy.cl/cooperativa-de-recicladores-fortalece-su-gestion-con-nueva-inversion-y-participacion-internacional/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Pronostican ola de frío en valles interiores de la Región de Coquimbo",
-    "enlace": "https://ovallehoy.cl/pronostican-ola-de-frio-en-valles-interiores-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Despidos: Los resguardos que deben tomar los trabajadores ante el fin de un contrato",
-    "enlace": "https://ovallehoy.cl/despidos-los-resguardos-que-deben-tomar-los-trabajadores-ante-el-fin-de-un-contrato/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Provincia del Choapa registra 17 jóvenes en procesos de reinserción social y refuerza el trabajo territorial durante julio",
+    "enlace": "https://www.elillapelino.cl/2026/07/03/provincia-del-choapa-registra-17-jovenes-en-procesos-de-reinsercion-social-y-refuerza-el-trabajo-territorial-durante-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Illapel inaugura renovada Plaza Elige Vivir Sano, un espacio para el encuentro, el deporte y la vida en comunidad",
     "enlace": "https://www.elillapelino.cl/2026/07/02/illapel-inaugura-renovada-plaza-elige-vivir-sano-un-espacio-para-el-encuentro-el-deporte-y-la-vida-en-comunidad/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "Informan corte programado nocturno en Illapel para reforzar infraestructura sanitaria",
     "enlace": "https://www.elillapelino.cl/2026/06/22/informan-corte-programado-nocturno-en-illapel-para-reforzar-infraestructura-sanitaria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Inician las obras del nuevo estadio para Santa Virginia en Illapel",
-    "enlace": "https://www.elillapelino.cl/2026/06/22/inician-las-obras-del-nuevo-estadio-para-santa-virginia-en-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Buscas panoramas para el invierno? Caja La Araucana activa descuentos en entretención, viajes y actividades familiares",
-    "enlace": "https://g5noticias.cl/2026/07/03/buscas-panoramas-para-el-invierno-caja-la-araucana-activa-descuentos-en-entretencion-viajes-y-actividades-familiares/",
+    "titulo": "Seremi de Salud y COANIQUEM forman a cien monitores en prevención de quemaduras infanto-juveniles",
+    "enlace": "https://g5noticias.cl/2026/07/03/seremi-de-salud-y-coaniquem-forman-a-cien-monitores-en-prevencion-de-quemaduras-infanto-juveniles/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El éxito de prohibir las bolsas plásticas no basta. Por Daniel Paredes, gerente general de TriCiclos",
-    "enlace": "https://g5noticias.cl/2026/07/03/el-exito-de-prohibir-las-bolsas-plasticas-no-basta-por-daniel-paredes-gerente-general-de-triciclos/",
+    "titulo": "Municipalidad de Quillota rindió homenaje a los clubes de personas mayores con mayor trayectoria de la comuna",
+    "enlace": "https://g5noticias.cl/2026/07/03/municipalidad-de-quillota-rindio-homenaje-a-los-clubes-de-personas-mayores-con-mayor-trayectoria-de-la-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senador Fidel Espinoza oficia a la Inspección del Trabajo y Seremi de Salud por fatal accidente laboral de buzo",
-    "enlace": "https://g5noticias.cl/2026/07/03/senador-fidel-espinoza-oficia-a-la-inspeccion-del-trabajo-y-seremi-de-salud-por-fatal-accidente-laboral-de-buzo/",
+    "titulo": "Tras gestiones de diputado Venegas y alcalde Díaz: Catemu firma convenio con Conadecus para canalizar reclamos por abusos en servicios básicos",
+    "enlace": "https://g5noticias.cl/2026/07/03/tras-gestiones-de-diputado-venegas-y-alcalde-diaz-catemu-firma-convenio-con-conadecus-para-canalizar-reclamos-por-abusos-en-servicios-basicos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "IFOP visita Colegio King Edwards de Quilpué para dar a conocer el mundo de las tortugas marinas",
-    "enlace": "https://g5noticias.cl/2026/07/03/ifop-visita-colegio-king-edwards-de-quilpue-para-dar-a-conocer-el-mundo-de-las-tortugas-marinas/",
+    "titulo": "Diputado Sabat acompaña a beneficiarios del Ranco y refuerza su trabajo por el desarrollo de Los Ríos",
+    "enlace": "https://g5noticias.cl/2026/07/03/diputado-sabat-acompana-a-beneficiarios-del-ranco-y-refuerza-su-trabajo-por-el-desarrollo-de-los-rios/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tribunal de Santiago declaró culpables a 10 carabineros por red de corrupción en Meiggs: INDH obtuvo condena para uniformado acusado de apremios ilegítimos",
-    "enlace": "https://g5noticias.cl/2026/07/03/tribunal-de-santiago-declaro-culpables-a-10-carabineros-por-red-de-corrupcion-en-meiggs-indh-obtuvo-condena-para-uniformado-acusado-de-apremios-ilegitimos/",
+    "titulo": "Vecinos del Sector Norte de Talca tendrán servicio adicional de buses en horario matinal",
+    "enlace": "https://g5noticias.cl/2026/07/03/vecinos-del-sector-norte-de-talca-tendran-servicio-adicional-de-buses-en-horario-matinal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDI, Aduanas y SAG conmemoran a los mártires de la tragedia de Los Libertadores",
-    "enlace": "https://g5noticias.cl/2026/07/03/pdi-aduanas-y-sag-conmemoran-a-los-martires-de-la-tragedia-de-los-libertadores/",
+    "titulo": "Comunidad religiosa de Puqueldón conoció avances en las obras de restauración de la Virgen del Carmen de Aldachildo",
+    "enlace": "https://g5noticias.cl/2026/07/03/comunidad-religiosa-de-puqueldon-conocio-avances-en-las-obras-de-restauracion-de-la-virgen-del-carmen-de-aldachildo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 11 mil vecinos se verán beneficiados con la ejecución de proyectos de seguridad gracias al Fondo Vecino de Sopraval",
-    "enlace": "https://g5noticias.cl/2026/07/03/mas-de-11-mil-vecinos-se-veran-beneficiados-con-la-ejecucion-de-proyectos-de-seguridad-gracias-al-fondo-vecino-de-sopraval/",
+    "titulo": "Región de Coquimbo supera en un 42% la inversión aprobada durante todo 2025 y alcanza US$794,5 millones en lo que va de 2026.",
+    "enlace": "https://g5noticias.cl/2026/07/03/region-de-coquimbo-supera-en-un-42-la-inversion-aprobada-durante-todo-2025-y-alcanza-us7945-millones-en-lo-que-va-de-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Se acabó el boom del pádel? La moda pasa, la gestión queda. Por Frano Giakoni Ramírez, director de la carrera de Entrenador Deportivo UNAB",
-    "enlace": "https://g5noticias.cl/2026/07/03/se-acabo-el-boom-del-padel-la-moda-pasa-la-gestion-queda-por-frano-giakoni-ramirez-director-de-la-carrera-de-entrenador-deportivo-unab/",
+    "titulo": "Investigación USM fortalece cooperación Chile–España en prevención de incendios forestales",
+    "enlace": "https://g5noticias.cl/2026/07/03/investigacion-usm-fortalece-cooperacion-chile-espana-en-prevencion-de-incendios-forestales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cecrea Tarapacá y Acciona Invierno realizarán talleres pensando en las vacaciones",
-    "enlace": "https://g5noticias.cl/2026/07/03/cecrea-tarapaca-y-acciona-invierno-realizaran-talleres-pensando-en-las-vacaciones/",
+    "titulo": "Más control y menos acceso simple: El nuevo paso de Netflix para ordenar sus perfiles",
+    "enlace": "https://g5noticias.cl/2026/07/03/mas-control-y-menos-acceso-simple-el-nuevo-paso-de-netflix-para-ordenar-sus-perfiles/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Revisión de desafuero del senador Calisto se traslada a Puerto Montt tras inhabilitación de ministros",
-    "enlace": "https://g5noticias.cl/2026/07/03/revision-de-desafuero-del-senador-calisto-se-traslada-a-puerto-montt-tras-inhabilitacion-de-ministros/",
+    "titulo": "Seremi del Trabajo y Previsión Social participa en fiscalización a Malls Chinos en Romeral",
+    "enlace": "https://g5noticias.cl/2026/07/03/seremi-del-trabajo-y-prevision-social-participa-en-fiscalizacion-a-malls-chinos-en-romeral/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1998,6 +1998,33 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Minions & Monstruos lidera los estrenos de la semana en CineStar Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/07/03/minions-monstruos-lidera-los-estrenos-de-la-semana-en-cinestar-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Museo Maggiorino Borgatello se suma a la Tarjeta Punta Arenas con un 50% de descuento",
+    "enlace": "https://elmagallanico.com/2026/07/03/museo-maggiorino-borgatello-se-suma-a-la-tarjeta-punta-arenas-con-un-50-de-descuento/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "PDI concretó expulsión de colombiano que cumplió condena en la región por tráfico de drogas",
+    "enlace": "https://elmagallanico.com/2026/07/03/pdi-concreto-expulsion-de-colombiano-que-cumplio-condena-en-la-region-por-trafico-de-drogas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Avanza proyecto de parque urbano en el Humedal Laguna Pudeto – Cerro La Cruz de Punta Arenas",
     "enlace": "https://elmagallanico.com/2026/07/03/avanza-proyecto-de-parque-urbano-en-el-humedal-laguna-pudeto-cerro-la-cruz-de-punta-arenas/",
     "descripcion": "",
@@ -2054,33 +2081,6 @@
   {
     "titulo": "Magallanes elige a su nuevo Consejo Asesor Regional de Indap",
     "enlace": "https://elmagallanico.com/2026/07/03/magallanes-elige-a-su-nuevo-consejo-asesor-regional-de-indap/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Más de $14 millones fortalecerán el trabajo de 16 organizaciones sociales de Punta Arenas",
-    "enlace": "https://elmagallanico.com/2026/07/03/mas-de-14-millones-fortaleceran-el-trabajo-de-16-organizaciones-sociales-de-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Los Bunkers darán inicio a los 30 años del Carnaval de Invierno",
-    "enlace": "https://elmagallanico.com/2026/07/03/los-bunkers-daran-inicio-a-los-30-anos-del-carnaval-de-invierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "“Fue un calvario”: Ex fiscal de Natales fue sobreseído de causa penal por la cual pasó más de un mes preso",
-    "enlace": "https://elmagallanico.com/2026/07/03/fue-un-calvario-ex-fiscal-de-natales-fue-sobreseido-de-causa-penal-por-la-cual-paso-mas-de-un-mes-preso/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
