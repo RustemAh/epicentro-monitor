@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "CESFAM Monte Patria realizó taller de reiki para promover el bienestar laboral y manejo de estrés",
+    "enlace": "https://laserenaonline.cl/2026/07/07/cesfam-monte-patria-realizo-taller-de-reiki-para-promover-el-bienestar-laboral-y-manejo-de-estres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Especialista: “La Influenza es como si te pasara un tren encima. En la UCI la muerte es algo que puede ocurrir”",
+    "enlace": "https://laserenaonline.cl/2026/07/07/especialista-la-influenza-es-como-si-te-pasara-un-tren-encima-en-la-uci-la-muerte-es-algo-que-puede-ocurrir/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Peñuelas estrena mural que rescata la historia, el patrimonio y la identidad costera de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/07/penuelas-estrena-mural-que-rescata-la-historia-el-patrimonio-y-la-identidad-costera-de-coquimbo/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Pronostican altas temperaturas desde el martes 7 y hasta el viernes 10 de julio en la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/07/pronostican-altas-temperaturas-desde-el-martes-7-y-hasta-el-viernes-10-de-julio-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "En Vicuña las ideas niños y adolescentes se hicieron realidad con la inauguración de mejoras a multicancha tras consulta participativa",
-    "enlace": "https://laserenaonline.cl/2026/07/07/en-vicuna-las-ideas-ninos-y-adolescentes-se-hicieron-realidad-con-la-inauguracion-de-mejoras-a-multicancha-tras-consulta-participativa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Autoridades impulsan plan de arborización para mejorar la calidad del aire en Andacollo",
-    "enlace": "https://laserenaonline.cl/2026/07/07/autoridades-impulsan-plan-de-arborizacion-para-mejorar-la-calidad-del-aire-en-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Gendarmería reconoce la trayectoria de Suboficiales Mayores en La Serena",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/07/gendarmeria-reconoce-la-trayectoria-de-suboficiales-mayores-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "La Serena tendrá una atractiva cartelera artística en Julio",
     "enlace": "https://regiondecoquimbo.cl/2026/07/07/la-serena-tendra-una-atractiva-cartelera-artistica-en-julio/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "FOSIS y Grupo Patio abren nuevas oportunidades de comercialización para emprendedores de la región de Coquimbo",
     "enlace": "https://regiondecoquimbo.cl/2026/07/06/fosis-y-grupo-patio-abren-nuevas-oportunidades-de-comercializacion-para-emprendedores-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Patrimonio y territorio: Municipios del norte se articulan para fortalecer la gestión cultural local",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/06/patrimonio-y-territorio-municipios-del-norte-se-articulan-para-fortalecer-la-gestion-cultural-local/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "[VIDEO] Vecinos alertan y logran rescate de un guanay desorientado en Chañaral",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/07/vecinos-alertan-y-logran-rescate-de-un-guanay-desorientado-en-chanaral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Autoridades destacan impacto del Plan de Alerta Oncológica en la atención de pacientes de Atacama",
     "enlace": "https://www.atacamanoticias.cl/2026/07/07/autoridades-destacan-impacto-del-plan-de-alerta-oncologica-en-la-atencion-de-pacientes-de-atacama/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "¿Dogtores? Conoce a los perritos que están ayudando a los pacientes con dolor crónico en Chile",
     "enlace": "https://www.atacamanoticias.cl/2026/07/07/dogtores-conoce-a-los-perritos-que-estan-ayudando-a-los-pacientes-con-dolor-cronico-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Senadora Gatica (RN) acusa que oposición dinamitó diálogo tras anuncio de llevar la megarreforma al TC",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/07/senadora-gatica-rn-acusa-que-oposicion-dinamito-dialogo-tras-anuncio-de-llevar-la-megarreforma-al-tc/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1548,8 +1548,8 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "¿Por qué las mascotas Indoor viven más?",
-    "enlace": "https://www.maray.cl/pais/07/07/2026/por-que-las-mascotas-indoor-viven-mas/",
+    "titulo": "Figura de Egipto acusa que el Mundial está «arreglado» tras polémica eliminación ante Argentina",
+    "enlace": "https://www.maray.cl/deportes/07/07/2026/figura-de-egipto-acusa-que-el-mundial-esta-arreglado-tras-polemica-eliminacion-ante-argentina/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1559,6 +1559,15 @@
   {
     "titulo": "Consejos para continuar con el entrenamiento en los días fríos y lluviosos de invierno",
     "enlace": "https://www.maray.cl/vida-salud/07/07/2026/consejos-para-continuar-con-el-entrenamiento-en-los-dias-frios-y-lluviosos-de-invierno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Querella por violencia en el Instituto Nacional: SLEP denuncia uso de bombas molotov y amenazas a docentes",
+    "enlace": "https://www.maray.cl/pais/07/07/2026/querella-por-violencia-en-el-instituto-nacional-slep-denuncia-uso-de-bombas-molotov-y-amenazas-a-docentes/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1622,15 +1631,6 @@
   {
     "titulo": "Avanza proyecto que simplifica patentes mineras y fortalece el desarrollo de la pequeña y mediana minería en Atacama",
     "enlace": "https://www.maray.cl/podcast-de-noticias/07/07/2026/avanza-proyecto-que-simplifica-patentes-mineras-y-fortalece-el-desarrollo-de-la-pequena-y-mediana-mineria-en-atacama-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cuatro detenidos por brutal agresión entre cuidadores de vehículos en Copiapó",
-    "enlace": "https://www.maray.cl/atacama/07/07/2026/cuatro-detenidos-por-brutal-agresion-entre-cuidadores-de-vehiculos-en-copiapo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1818,8 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "EduInclusiva fortalece el bienestar de equipos de convivencia escolar en Alto Hospicio",
-    "enlace": "https://g5noticias.cl/2026/07/07/eduinclusiva-fortalece-el-bienestar-de-equipos-de-convivencia-escolar-en-alto-hospicio-2/",
+    "titulo": "Advierten que la innovación será clave para enfrentar los nuevos desafíos de la industria agroalimentaria chilena",
+    "enlace": "https://g5noticias.cl/2026/07/07/advierten-que-la-innovacion-sera-clave-para-enfrentar-los-nuevos-desafios-de-la-industria-agroalimentaria-chilena/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1827,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senador Fidel Espinoza propone mesa de trabajo para evitar más accidentes laborales en industria salmonera: «Hay que defender a los trabajadores por sobre las ganancias»",
-    "enlace": "https://g5noticias.cl/2026/07/07/senador-fidel-espinoza-propone-mesa-de-trabajo-para-evitar-mas-accidentes-laborales-en-industria-salmonera-hay-que-defender-a-los-trabajadores-por-sobre-las-ganancias/",
+    "titulo": "Fuertes lluvias provocan inundaciones, derrumbes y otras emergencias en la Región de Los Ríos",
+    "enlace": "https://g5noticias.cl/2026/07/07/fuertes-lluvias-provocan-inundaciones-derrumbes-y-otras-emergencias-en-la-region-de-los-rios/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1836,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Argentina logra una remontada épica ante Egipto en solo 13 minutos. Gana 3-2 y ya está en cuartos del Mundial 2026",
-    "enlace": "https://g5noticias.cl/2026/07/07/argentina-logra-una-remontada-epica-ante-egipto-en-solo-13-minutos-gana-3-2-y-ya-esta-en-cuartos-del-mundial-2026/",
+    "titulo": "¿Padres helicóptero? Expertos alertan sobre los efectos de controlar cada paso de los hijos",
+    "enlace": "https://g5noticias.cl/2026/07/07/padres-helicoptero-expertos-alertan-sobre-los-efectos-de-controlar-cada-paso-de-los-hijos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1845,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobierno llama a emprendedores del Biobío a trabajar mediante plataforma pública con más de 170 instrumentos disponibles",
-    "enlace": "https://g5noticias.cl/2026/07/07/gobierno-llama-a-emprendedores-del-biobio-a-trabajar-mediante-plataforma-publica-con-mas-de-170-instrumentos-disponibles/",
+    "titulo": "PUCV desarrolla biopolímero para reducir la contaminación por polvo en relaves mineros",
+    "enlace": "https://g5noticias.cl/2026/07/07/pucv-desarrolla-biopolimero-para-reducir-la-contaminacion-por-polvo-en-relaves-mineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1854,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hacerse pasar por carabinero: los delitos y penas que puede enfrentar quien suplanta a un policía",
-    "enlace": "https://g5noticias.cl/2026/07/07/hacerse-pasar-por-carabinero-los-delitos-y-penas-que-puede-enfrentar-quien-suplanta-a-un-policia/",
+    "titulo": "SalmonChile defenderá ante el USTR la competitividad del sector y su rol estratégico en la seguridad alimentaria de Estados Unidos",
+    "enlace": "https://g5noticias.cl/2026/07/07/salmonchile-defendera-ante-el-ustr-la-competitividad-del-sector-y-su-rol-estrategico-en-la-seguridad-alimentaria-de-estados-unidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1863,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tribunal de Coyhaique deja sin efecto acusación a  senador Calisto y ordena ampliación de plazo de investigación",
-    "enlace": "https://g5noticias.cl/2026/07/07/tribunal-de-coyhaique-deja-sin-efecto-acusacion-a-senador-calisto-y-ordena-ampliacion-de-plazo-de-investigacion/",
+    "titulo": "Salud y educación impulsan el empleo en La Araucanía y desempleo cae -11,7% en un año",
+    "enlace": "https://g5noticias.cl/2026/07/07/salud-y-educacion-impulsan-el-empleo-en-la-araucania-y-desempleo-cae-117-en-un-ano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Escuchar música a alto volumen al conducir puede ser igual de peligroso que revisar el celular",
-    "enlace": "https://g5noticias.cl/2026/07/07/escuchar-musica-a-alto-volumen-al-conducir-puede-ser-igual-de-peligroso-que-revisar-el-celular/",
+    "titulo": "Diputada Nathalie Castillo oficia al Ministerio de Seguridad por caso de ex seremi de Piñera que se hizo pasar por carabinero",
+    "enlace": "https://g5noticias.cl/2026/07/07/diputada-nathalie-castillo-oficia-al-ministerio-de-seguridad-por-caso-de-ex-seremi-de-pinera-que-se-hizo-pasar-por-carabinero/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Operativo acercó exámenes de mamografía a sectores afectados por los incendios forestales",
-    "enlace": "https://g5noticias.cl/2026/07/07/operativo-acerco-examenes-de-mamografia-a-sectores-afectados-por-los-incendios-forestales/",
+    "titulo": "¿Vale lo mismo un concierto si cambia el recinto? Experto analiza el caso BTS",
+    "enlace": "https://g5noticias.cl/2026/07/07/vale-lo-mismo-un-concierto-si-cambia-el-recinto-experto-analiza-el-caso-bts/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Unidad Oftalmológica de SaludQuillota celebra 12 años acercando atención oftalmológica de calidad a la comunidad",
-    "enlace": "https://g5noticias.cl/2026/07/07/unidad-oftalmologica-de-saludquillota-celebra-12-anos-acercando-atencion-oftalmologica-de-calidad-a-la-comunidad/",
+    "titulo": "¿Tomar agua de la llave? En Chile el desafío no es la calidad sino la disponibilidad",
+    "enlace": "https://g5noticias.cl/2026/07/07/tomar-agua-de-la-llave-en-chile-el-desafio-no-es-la-calidad-sino-la-disponibilidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ferias Libres (ASOF) se reúne con Asociación de Municipalidades de Chile (AMUCH)  por Ley Corta e implementación de nueva normativa de Normalización Tributaria",
-    "enlace": "https://g5noticias.cl/2026/07/07/ferias-libres-asof-se-reune-con-asociacion-de-municipalidades-de-chile-amuch-por-ley-corta-e-implementacion-de-nueva-normativa-de-normalizacion-tributaria/",
+    "titulo": "FICVIÑA 2026 abre convocatoria para su 38° edición rumbo a sus 60 años como primer festival latinoamericano",
+    "enlace": "https://g5noticias.cl/2026/07/07/ficvina-2026-abre-convocatoria-para-su-38-edicion-rumbo-a-sus-60-anos-como-primer-festival-latinoamericano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2088,6 +2088,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Lluvia Ácida festeja 25 años de su sello Eolo Producciones con mediometraje musical de Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/07/07/lluvia-acida-festeja-25-anos-de-su-sello-eolo-producciones-con-mediometraje-musical-de-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Músico impulsa desde Punta Arenas campaña de crowdfunding para grabar su próximo álbum “Olor a Bosque”",
     "enlace": "https://elmagallanico.com/2026/07/07/musico-impulsa-desde-punta-arenas-campana-de-crowdfunding-para-grabar-su-proximo-album-olor-a-bosque/",
     "descripcion": "",
@@ -2162,15 +2171,6 @@
   {
     "titulo": "Opinión: Aristóteles en Silicon Valley",
     "enlace": "https://elmagallanico.com/2026/07/07/opinion-aristoteles-en-silicon-valley/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Orquesta Latinoamericana cautivó con nueva gala en Teatro Municipal",
-    "enlace": "https://elmagallanico.com/2026/07/07/orquesta-latinoamericana-cautivo-con-nueva-gala-en-teatro-municipal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
