@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Seremi de Educación da la bienvenida a clases en colegio José Manuel Balmaceda",
+    "enlace": "https://laserenaonline.cl/2026/07/08/seremi-de-educacion-da-la-bienvenida-a-clases-en-colegio-jose-manuel-balmaceda/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Autoridades intensifican fiscalizaciones a chatarrerías para combatir el robo de cables en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/08/autoridades-intensifican-fiscalizaciones-a-chatarrerias-para-combatir-el-robo-de-cables-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Desde su instauración en 1978: Más de 400 personas han sido reconocidas con la Medalla Ciudad de La Serena",
     "enlace": "https://laserenaonline.cl/2026/07/08/desde-su-instauracion-en-1978-mas-de-400-personas-han-sido-reconocidas-con-la-medalla-ciudad-de-la-serena/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "La Serena: Fiscal solicita nuevas diligencias en caso de persona fallecida tras control policial",
     "enlace": "https://laserenaonline.cl/2026/07/08/la-serena-fiscal-solicita-nuevas-diligencias-en-caso-de-persona-fallecida-tras-control-policial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Fiscalía formalizó a sujeto detenido por usurpar presuntamente funciones policiales",
-    "enlace": "https://laserenaonline.cl/2026/07/08/la-serena-fiscalia-formalizo-a-sujeto-detenido-por-usurpar-presuntamente-funciones-policiales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 8 de julio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/08/el-tiempo-hoy-8-de-julio-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,105 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Comienzan las obras de modernización de Caleta Las Conchas en Los Vilos",
+    "enlace": "https://losviloschile.cl/actualidad/comienzan-las-obras-de-modernizacion-de-caleta-las-conchas-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos cierra con éxito la primera edición de Invierno Kids",
+    "enlace": "https://losviloschile.cl/social/municipalidad-de-los-vilos-cierra-con-exito-la-primera-edicion-de-invierno-kids/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Dirigentes de Los Vilos vuelven a ponerse “En Acción” con una nueva versión del programa comunitario",
+    "enlace": "https://losviloschile.cl/lospelambres/dirigentes-de-los-vilos-vuelven-a-ponerse-en-accion-con-una-nueva-version-del-programa-comunitario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "41 personas de Choapa finalizan capacitación en minería, soldadura y energías renovables",
+    "enlace": "https://losviloschile.cl/social/41-personas-de-choapa-finalizan-capacitacion-en-mineria-soldadura-y-energias-renovables/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tilama valoran atención de servicios públicos en Plaza Ciudadana",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tilama-valoran-atencion-de-servicios-publicos-en-plaza-ciudadana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Centro CALA lanza su primer “Cine de Invierno” con historias inspiradas en la naturaleza",
+    "enlace": "https://losviloschile.cl/lospelambres/centro-cala-lanza-su-primer-cine-de-invierno-con-historias-inspiradas-en-la-naturaleza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "68 familias de Canela reciben sus títulos de dominio y regularizan la propiedad de sus terrenos",
+    "enlace": "https://losviloschile.cl/canela/68-familias-de-canela-reciben-sus-titulos-de-dominio-y-regularizan-la-propiedad-de-sus-terrenos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Canela alcanza el 85% de cobertura y se convierte en la primera comuna de la región en cumplir la meta de vacunación contra la influenza",
+    "enlace": "https://losviloschile.cl/canela/canela-alcanza-el-85-de-cobertura-y-se-convierte-en-la-primera-comuna-de-la-region-en-cumplir-la-meta-de-vacunacion-contra-la-influenza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Más de 7 mil personas ya están trabajando en el proyecto Adaptación Operacional de Minera Los Pelambres",
+    "enlace": "https://losviloschile.cl/lospelambres/mas-de-7-mil-personas-ya-estan-trabajando-en-el-proyecto-adaptacion-operacional-de-minera-los-pelambres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos inaugura renovada Plaza Baker tras inversión municipal de $12 millones",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-inaugura-renovada-plaza-baker-tras-inversion-municipal-de-12-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Dos carabineros de la Tercera Comisaría de Ovalle fueron desvinculados tras investigación por presuntas irregularidades",
+    "enlace": "https://www.davidnoticias.cl/dos-carabineros-de-la-tercera-comisaria-de-ovalle-fueron-desvinculados-tras-investigacion-por-presuntas-irregularidades/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Motociclista fallece tras violento impacto contra un poste en la Ruta D-71 de Canela",
     "enlace": "https://www.davidnoticias.cl/motociclista-fallece-tras-violento-impacto-contra-un-poste-en-la-ruta-d-71-de-canela/",
     "descripcion": "",
@@ -1082,15 +1181,6 @@
   {
     "titulo": "Reducción de jornada laboral: ¿Se reabre el debate sobre el futuro del trabajo?",
     "enlace": "https://www.davidnoticias.cl/reduccion-de-jornada-laboral-se-reabre-el-debate-sobre-el-futuro-del-trabajo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Más de 7 mil personas ya están trabajando en el proyecto Adaptación Operacional de Minera Los Pelambres",
-    "enlace": "https://www.davidnoticias.cl/mas-de-7-mil-personas-ya-estan-trabajando-en-el-proyecto-adaptacion-operacional-de-minera-los-pelambres/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1368,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "[VIDEO] Museo Regional de Atacama supera las 23 mil visitas y fortalece su programación con nuevas actividades para la comunidad",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/08/video-museo-regional-de-atacama-supera-las-23-mil-visitas-y-fortalece-su-programacion-con-nuevas-actividades-para-la-comunidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "[VIDEO] Club Deportivo Olympia de Copiapó impulsa el ajedrez en Atacama y celebra destacado cuarto lugar nacional de joven copiapina",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/08/video-club-deportivo-olympia-de-copiapo-impulsa-el-ajedrez-en-atacama-y-celebra-destacado-cuarto-lugar-nacional-de-joven-copiapina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Copiapó: Fiscalía formalizó causa por fraude  al fisco en pagos de permiso de circulación",
     "enlace": "https://www.atacamanoticias.cl/2026/07/08/copiapo-fiscalia-formalizo-causa-por-fraude-al-fisco-en-pagos-de-permiso-de-circulacion/",
     "descripcion": "",
@@ -1343,24 +1451,6 @@
   {
     "titulo": "Registro Civil Atacama realizó más de 1.200 atenciones en terreno",
     "enlace": "https://www.atacamanoticias.cl/2026/07/08/registro-civil-atacama-realizo-mas-de-1-200-atenciones-en-terreno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Biministro Mas destaca pilares estratégicos del proyecto de reconstrucción que impactarán en competitividad e inversiones",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/08/biministro-mas-destaca-pilares-estrategicos-del-proyecto-de-reconstruccion-que-impactaran-en-competitividad-e-inversiones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Chile y Argentina reactivan Tratado de Integración y Complementación Minera",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/08/chile-y-argentina-reactivan-tratado-de-integracion-y-complementacion-minera/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1548,78 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Copiapó: Fiscalía formalizó causa por fraude  al fisco en pagos de permiso de circulación",
+    "enlace": "https://www.maray.cl/atacama/08/07/2026/copiapo-fiscalia-formalizo-causa-por-fraude-al-fisco-en-pagos-de-permiso-de-circulacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Edson Puch anunció su retiro del fútbol profesional tras 21 años de carrera",
+    "enlace": "https://www.maray.cl/deportes/08/07/2026/edson-puch-anuncio-su-retiro-del-futbol-profesional-tras-21-anos-de-carrera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Deschamps evita la polémica por árbitro argentino, aunque designación de la FIFA genera críticas antes del Francia-Marruecos",
+    "enlace": "https://www.maray.cl/deportes/08/07/2026/deschamps-evita-la-polemica-por-arbitro-argentino-aunque-designacion-de-la-fifa-genera-criticas-antes-del-francia-marruecos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno descarta estado de excepción pese a emergencia por sistema frontal en el sur",
+    "enlace": "https://www.maray.cl/pais/08/07/2026/gobierno-descarta-estado-de-excepcion-pese-a-emergencia-por-sistema-frontal-en-el-sur/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Sueños que se hacen realidad: Nueva Atacama anuncia a los ganadores de su Fondo Concursable 2026",
+    "enlace": "https://www.maray.cl/atacama/08/07/2026/suenos-que-se-hacen-realidad-nueva-atacama-anuncia-a-los-ganadores-de-su-fondo-concursable-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Seremi de Energía Atacama destaca avance de Proyecto de Ley que busca proteger las cuentas de la luz de las familias",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/08/07/2026/seremi-de-energia-atacama-destaca-avance-de-proyecto-de-ley-que-busca-proteger-las-cuentas-de-la-luz-de-las-familias-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Alergias | Síntomas y principales factores que las causan",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/08/07/2026/alergias-sintomas-y-principales-factores-que-las-causan/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Proyecto de Bono por Hijo avanza en el Congreso: Gobierno llama a acelerar su tramitación",
+    "enlace": "https://www.maray.cl/atacama/08/07/2026/proyecto-de-bono-por-hijo-avanza-en-el-congreso-gobierno-llama-a-acelerar-su-tramitacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Sistema frontal deja viviendas dañadas y más de 8 mil clientes sin luz en el sur del país",
     "enlace": "https://www.maray.cl/pais/08/07/2026/sistema-frontal-deja-viviendas-danadas-y-mas-de-8-mil-clientes-sin-luz-en-el-sur-del-pais/",
     "descripcion": "",
@@ -1469,78 +1631,6 @@
   {
     "titulo": "Santiago Wanderers enfrentará al Real Madrid en el Santiago Bernabéu por la Copa Intercontinental Sub 20",
     "enlace": "https://www.maray.cl/deportes/08/07/2026/santiago-wanderers-enfrentara-al-real-madrid-en-el-santiago-bernabeu-por-la-copa-intercontinental-sub-20/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Registro Civil Atacama realizó más de 1.200 atenciones en terreno",
-    "enlace": "https://www.maray.cl/atacama/08/07/2026/registro-civil-atacama-realizo-mas-de-1-200-atenciones-en-terreno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Conectividad aérea | MOP impulsa seminario sobre el futuro del Aeropuerto Desierto de Atacama y el desarrollo regional",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/08/07/2026/conectividad-aerea-mop-impulsa-seminario-sobre-el-futuro-del-aeropuerto-desierto-de-atacama-y-el-desarrollo-regional-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El Copiapino Matías Soto conquista el título de dobles en el Challenger de Quito",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/08/07/2026/el-copiapino-matias-soto-conquista-el-titulo-de-dobles-en-el-challenger-de-quito-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Deportes Limache es sancionado y queda impedido de fichar por incumplir el Fair Play Financiero",
-    "enlace": "https://www.maray.cl/deportes/08/07/2026/deportes-limache-es-sancionado-y-queda-impedido-de-fichar-por-incumplir-el-fair-play-financiero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "IPC de junio no registra variación: alzas del pan y vinos compensan bajas en combustibles",
-    "enlace": "https://www.maray.cl/pais/08/07/2026/ipc-de-junio-no-registra-variacion-alzas-del-pan-y-vinos-compensan-bajas-en-combustibles/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El Bosque: mujer queda en riesgo vital tras ataque a balazos contra su vivienda",
-    "enlace": "https://www.maray.cl/pais/08/07/2026/el-bosque-mujer-queda-en-riesgo-vital-tras-ataque-a-balazos-contra-su-vivienda/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "SCM Carola incorporó segundo camión barredor para reforzar control de polvo en sus Operaciones y en Tierra Amarilla",
-    "enlace": "https://www.maray.cl/atacama/08/07/2026/scm-carola-incorporo-segundo-camion-barredor-para-reforzar-control-de-polvo-en-sus-operaciones-y-en-tierra-amarilla/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sistema frontal deja viviendas dañadas y miles de clientes sin luz en el sur del país: lluvias avanzan hacia la zona central",
-    "enlace": "https://www.maray.cl/pais/08/07/2026/sistema-frontal-deja-viviendas-danadas-y-miles-de-clientes-sin-luz-en-el-sur-del-pais-lluvias-avanzan-hacia-la-zona-central/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "152 nuevas viviendas para Valparaíso: Minvu inicia obras de proyecto habitacional en el sector de Rodelillo",
-    "enlace": "https://g5noticias.cl/2026/07/08/152-nuevas-viviendas-para-valparaiso-minvu-inicia-obras-de-proyecto-habitacional-en-el-sector-de-rodelillo/",
+    "titulo": "Irán ataca bases de EE. UU. en el Golfo Pérsico en respuesta a la ofensiva de Washington",
+    "enlace": "https://g5noticias.cl/2026/07/08/iran-ataca-bases-de-ee-uu-en-el-golfo-persico-en-respuesta-a-la-ofensiva-de-washington/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PUCV fortalece su liderazgo internacional en investigación educativa con histórico logro editorial",
-    "enlace": "https://g5noticias.cl/2026/07/08/pucv-fortalece-su-liderazgo-internacional-en-investigacion-educativa-con-historico-logro-editorial/",
+    "titulo": "Nuevo libro sistematiza décadas de experiencia en estudios de impacto ambiental en Chile y convoca a referentes del sector",
+    "enlace": "https://g5noticias.cl/2026/07/08/nuevo-libro-sistematiza-decadas-de-experiencia-en-estudios-de-impacto-ambiental-en-chile-y-convoca-a-referentes-del-sector/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subsecretario de Justicia conoció en detalle programa de Oportunidades para la Vida de Fundación Banamor",
-    "enlace": "https://g5noticias.cl/2026/07/08/subsecretario-de-justicia-conocio-en-detalle-programa-de-oportunidades-para-la-vida-de-fundacion-banamor/",
+    "titulo": "ASODIBIOBIO y autoridades piden a Fonasa acelerar acceso a terapia avanzada para pacientes renales prioritarios",
+    "enlace": "https://g5noticias.cl/2026/07/08/asodibiobio-y-autoridades-piden-a-fonasa-acelerar-acceso-a-terapia-avanzada-para-pacientes-renales-prioritarios/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Paulina Núñez reafirma que seguirá promoviendo el diálogo para alcanzar acuerdos antes de la votación del 15 de julio",
-    "enlace": "https://g5noticias.cl/2026/07/08/paulina-nunez-reafirma-que-seguira-promoviendo-el-dialogo-para-alcanzar-acuerdos-antes-de-la-votacion-del-15-de-julio/",
+    "titulo": "Esval trabaja en reparación de rotura de matriz de agua potable en sector nororiente de Los Andes",
+    "enlace": "https://g5noticias.cl/2026/07/08/esval-trabaja-en-reparacion-de-rotura-de-matriz-de-agua-potable-en-sector-nororiente-de-los-andes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Megarreforma: Diputados UDI acusan «ingenuidad» de presidenta del Senado por acercamientos con la oposición y exigen poner término a negociaciones",
-    "enlace": "https://g5noticias.cl/2026/07/08/megarreforma-diputados-udi-acusan-ingenuidad-de-presidenta-del-senado-por-acercamientos-con-la-oposicion-y-exigen-poner-termino-a-negociaciones/",
+    "titulo": "Diputada Gael Yeomans presentó proyecto de ley para prevenir conflictos de interés de autoridades de Gobierno.",
+    "enlace": "https://g5noticias.cl/2026/07/08/diputada-gael-yeomans-presento-proyecto-de-ley-para-prevenir-conflictos-de-interes-de-autoridades-de-gobierno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El regreso a jardín infantil fortalece el desarrollo del cerebro, el lenguaje y las habilidades sociales",
-    "enlace": "https://g5noticias.cl/2026/07/08/el-regreso-a-jardin-infantil-fortalece-el-desarrollo-del-cerebro-el-lenguaje-y-las-habilidades-sociales/",
+    "titulo": "Trump da por acabado el alto el fuego con Irán y dice que no quiere negociar más",
+    "enlace": "https://g5noticias.cl/2026/07/08/trump-da-por-acabado-el-alto-el-fuego-con-iran-y-dice-que-no-quiere-negociar-mas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bancada PPD-Independientes defiende su reforma constitucional de invariabilidad normativa que protege derechos sociales y laborales",
-    "enlace": "https://g5noticias.cl/2026/07/08/bancada-ppd-independientes-defiende-su-reforma-constitucional-de-invariabilidad-normativa-que-protege-derechos-sociales-y-laborales/",
+    "titulo": "Registro Civil realizó más de 6 mil atenciones en terreno en Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/07/08/registro-civil-realizo-mas-de-6-mil-atenciones-en-terreno-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Histórico: Municipio de Valparaíso obtiene Certificación Ambiental Nivel Básico",
-    "enlace": "https://g5noticias.cl/2026/07/08/historico-municipio-de-valparaiso-obtiene-certificacion-ambiental-nivel-basico/",
+    "titulo": "Senador Núñez lleva a Comisión de Minería el conflicto de los pirquineros de Andacollo",
+    "enlace": "https://g5noticias.cl/2026/07/08/senador-nunez-lleva-a-comision-de-mineria-el-conflicto-de-los-pirquineros-de-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad de Quilpué implementa nuevo servicio social móvil que ha beneficiado a cerca de 2 mil vecinos",
-    "enlace": "https://g5noticias.cl/2026/07/08/municipalidad-de-quilpue-implementa-nuevo-servicio-social-movil-que-ha-beneficiado-a-cerca-de-2-mil-vecinos/",
+    "titulo": "Copiapó: Fiscalía formalizó a ex funcionaria municipal en causa por fraude al fisco en pagos de permiso de circulación",
+    "enlace": "https://g5noticias.cl/2026/07/08/copiapo-fiscalia-formalizo-a-ex-funcionaria-municipal-en-causa-por-fraude-al-fisco-en-pagos-de-permiso-de-circulacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,13 +1899,22 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Atención Nocturna Municipal de Villa Alemana consolida su servicio a la comunidad en su octava edición",
-    "enlace": "https://g5noticias.cl/2026/07/08/atencion-nocturna-municipal-de-villa-alemana-consolida-su-servicio-a-la-comunidad-en-su-octava-edicion/",
+    "titulo": "Villa Alemana refuerza la seguridad con exitosos procedimientos que permitieron frustrar delitos en distintos puntos de la comuna",
+    "enlace": "https://g5noticias.cl/2026/07/08/villa-alemana-refuerza-la-seguridad-con-exitosos-procedimientos-que-permitieron-frustrar-delitos-en-distintos-puntos-de-la-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
     "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Gobierno llama a emprendedores del Biobío a trabajar mediante plataforma pública con más de 170 instrumentos disponibles",
+    "enlace": "https://araucovision.cl/gobierno-llama-a-emprendedores-del-biobio-a-trabajar-mediante-plataforma-publica-con-mas-de-170-instrumentos-disponibles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
     "titulo": "Seremi de Salud invita a la comunidad de Arauco a promover la lactancia materna a través del primer concurso de reels",
@@ -1899,13 +1998,40 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Libro/concierto homenaje a Roberto Parra organizado por Duoc UC Campus Arauco destacó el patrimonio cultural de la comuna",
-    "enlace": "https://araucovision.cl/libro-concierto-homenaje-a-roberto-parra-organizado-por-duoc-uc-campus-arauco-destaco-el-patrimonio-cultural-de-la-comuna/",
+    "titulo": "Ataques contra petroleros elevan la tensión entre Estados Unidos e Irán tras quiebre del alto el fuego",
+    "enlace": "https://laprensaaustral.cl/2026/07/08/ataques-contra-petroleros-elevan-la-tension-entre-estados-unidos-e-iran-tras-quiebre-del-alto-el-fuego/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "IPC de junio sorprende al mercado y la inflación anual se acelera hasta 4,3%",
+    "enlace": "https://laprensaaustral.cl/2026/07/08/ipc-de-junio-sorprende-al-mercado-y-la-inflacion-anual-se-acelera-hasta-43/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Estudiantes de Magallanes ponen urgencias en la mesa",
+    "enlace": "https://laprensaaustral.cl/2026/07/08/estudiantes-de-magallanes-ponen-urgencias-en-la-mesa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Magallanes refuerza la inmunización con el lanzamiento de la campaña “Chile contra el Sarampión”",
+    "enlace": "https://laprensaaustral.cl/2026/07/08/magallanes-refuerza-la-inmunizacion-con-el-lanzamiento-de-la-campana-chile-contra-el-sarampion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
     "titulo": "Español acaparó los títulos en Torneo de Invierno",
@@ -1962,40 +2088,22 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Impulsan el turismo con red de códigos QR en más de 50 locales",
-    "enlace": "https://laprensaaustral.cl/2026/07/08/impulsan-el-turismo-con-red-de-codigos-qr-en-mas-de-50-locales/",
+    "titulo": "Circo del Sur invita al conversatorio “Modelos de Gestión Sostenibles de Nuevo Circo”",
+    "enlace": "https://elmagallanico.com/2026/07/08/circo-del-sur-invita-al-conversatorio-modelos-de-gestion-sostenibles-de-nuevo-circo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
-    "titulo": "Escuela de dirigentes en Salud busca  fortalecer liderazgo comunitario",
-    "enlace": "https://laprensaaustral.cl/2026/07/08/escuela-de-dirigentes-en-salud-busca-fortalecer-liderazgo-comunitario/",
+    "titulo": "PDI detuvo a hombre y mujer investigados por seguidilla de hurtos con “bolsa biónica” en Natales",
+    "enlace": "https://elmagallanico.com/2026/07/08/pdi-detuvo-a-hombre-y-mujer-investigados-por-seguidilla-de-hurtos-con-bolsa-bionica-en-natales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Difunden la postulación a la Escuela de Carabineros junto a unidades especializadas",
-    "enlace": "https://laprensaaustral.cl/2026/07/08/difunden-la-postulacion-a-la-escuela-de-carabineros-junto-a-unidades-especializadas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Corte Suprema rechaza recurso de nulidad y confirma  condenas de 7 y 5 años por tráfico de drogas",
-    "enlace": "https://laprensaaustral.cl/2026/07/08/corte-suprema-rechaza-recurso-de-nulidad-y-confirma-condenas-de-7-y-5-anos-por-trafico-de-drogas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
     "titulo": "Municipio gestionó continuidad en entrega de licencias médicas para traslados desde Puerto Williams",
@@ -2063,24 +2171,6 @@
   {
     "titulo": "Minvu inició obra detonante del Programa para Pequeñas Localidades en Villa Dorotea",
     "enlace": "https://elmagallanico.com/2026/07/07/minvu-inicio-obra-detonante-del-programa-para-pequenas-localidades-en-villa-dorotea/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Minvu abre postulación al Llamado Regular del Subsidio de Arriendo",
-    "enlace": "https://elmagallanico.com/2026/07/07/minvu-abre-postulacion-al-llamado-regular-del-subsidio-de-arriendo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Gendarmería homenajea a suboficiales mayores por su trayectoria y vocación de servicio",
-    "enlace": "https://elmagallanico.com/2026/07/07/69701/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
