@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Rodrigo Larraguibel: “Los sismos son parte de nuestra realidad, pero también una oportunidad para educar y valorar nuestro territorio”",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/10/rodrigo-larraguibel-los-sismos-son-parte-de-nuestra-realidad-pero-tambien-una-oportunidad-para-educar-y-valorar-nuestro-territorio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Festival Pulso Naranja tendrá su primera fecha en la Región de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/10/festival-pulso-naranja-tendra-su-primera-fecha-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "PDI desarticula presunta casa de juegos clandestina e incauta 90 máquinas de azar en Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/07/pdi-desarticula-presunta-casa-de-juegos-clandestina-e-incauta-90-maquinas-de-azar-en-coquimbo/",
+    "titulo": "MOP y CMP impulsan mejoras de seguridad en camino que une El Romeral y El Chacay",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/10/mop-y-cmp-impulsan-mejoras-de-seguridad-en-camino-que-une-el-romeral-y-el-chacay/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Astrónomos de la USerena contribuyen a crear un catálogo de galaxias sin precedentes",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Moda reciclada de La Pampa cautivó con novedosos diseños",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/07/07/moda-reciclada-de-la-pampa-cautivo-con-novedosos-disenos/",
+    "titulo": "Concejo Municipal aprueba inversión superior a $58 millones para ejecutar proyectos de pavimentación en Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/10/concejo-municipal-aprueba-inversion-superior-a-58-millones-para-ejecutar-proyectos-de-pavimentacion-en-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Colegio La Herradura inaugura innovadora “Aula Viva” que fortalecerá el aprendizaje a través de la educación ambiental",
+    "enlace": "https://laserenaonline.cl/2026/07/10/colegio-la-herradura-inaugura-innovadora-aula-viva-que-fortalecera-el-aprendizaje-a-traves-de-la-educacion-ambiental/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Nuevamente erradican asentamientos irregulares a un costado de la Ruta 5 en La Serena",
     "enlace": "https://laserenaonline.cl/2026/07/10/nuevamente-erradican-asentamientos-irregulares-a-un-costado-de-la-ruta-5-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Punitaqui: Accidente en Mina Mateo deja un fallecido",
-    "enlace": "https://laserenaonline.cl/2026/07/10/punitaqui-accidente-en-mina-mateo-deja-un-fallecido/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Accidente de tránsito deja un fallecido en la comuna de  Ovalle",
-    "enlace": "https://laserenaonline.cl/2026/07/10/accidente-de-transito-deja-un-fallecido-en-la-comuna-de-ovalle/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1161,6 +1161,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Asamblea Extraordinaria de la Cámara de Turismo de Andacollo Asociación Gremial",
+    "enlace": "https://www.elandacollino.cl/2026/07/04/asamblea-extraordinaria-de-la-camara-de-turismo-de-andacollo-asociacion-gremial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Pirquineros se manifestaron en calle de Andacollo para exigir diálogo con minera Galantas Gold",
     "enlace": "https://www.elandacollino.cl/2026/07/04/pirquineros-se-manifestaron-en-calle-de-andacollo-para-exigir-dialogo-con-minera-galantas-gold/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Deportistas de Andacollo reciben lentes especializados para potenciar su rendimiento y salud visual",
     "enlace": "https://www.elandacollino.cl/2026/07/03/deportistas-de-andacollo-reciben-lentes-especializados-para-potenciar-su-rendimiento-y-salud-visual/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Aviso Fúnebre: Se comunica el fallecimiento de vecino de la calle Alfonso de Andacollo",
-    "enlace": "https://www.elandacollino.cl/2026/07/02/aviso-funebre-se-comunica-el-fallecimiento-de-vecino-de-la-calle-alfonso-de-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1458,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "A los 94 años falleció el exministro Enrique Krauss",
+    "enlace": "https://www.maray.cl/pais/10/07/2026/a-los-94-anos-fallecio-el-exministro-enrique-krauss/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Cubos sensoriales | Expertos advierten sobre «graves consecuencias» de peligroso reto viral",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/10/07/2026/cubos-sensoriales-expertos-advierten-sobre-graves-consecuencias-de-peligroso-reto-viral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fiscalía formalizó causa por fraude al fisco en pagos de permiso de circulación",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/10/07/2026/fiscalia-formalizo-causa-por-fraude-al-fisco-en-pagos-de-permiso-de-circulacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "¡¡ Alerta !!. Fuertes lluvias se anuncian para la próxima semana en la Región de Atacama .",
     "enlace": "https://www.maray.cl/atacama/10/07/2026/alerta-fuertes-lluvias-se-anuncian-para-la-proxima-semana-en-la-region-de-atacama/",
     "descripcion": "",
@@ -1521,31 +1548,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Frei respalda megarreforma y llama a parlamentarios a dejar de «destruirse entre ellos»",
-    "enlace": "https://www.maray.cl/pais/10/07/2026/frei-respalda-megarreforma-y-llama-a-parlamentarios-a-dejar-de-destruirse-entre-ellos/",
+    "titulo": "Destituyen a directivo en caso de venta irregular de permisos de circulación en Papudo: otro funcionario fue desvinculado por uso de licencias médicas",
+    "enlace": "https://laliguanoticias.cl/2026/07/10/destituyen-a-directivo-en-caso-de-venta-irregular-de-permisos-de-circulacion-en-papudo-otro-funcionario-fue-desvinculado-por-uso-de-licencias-medicas/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Presidente Kast anuncia el «Modo Empleo»: el trabajo «dejará de ser tarea de un solo ministerio»",
-    "enlace": "https://www.maray.cl/pais/10/07/2026/presidente-kast-anuncia-el-modo-empleo-el-trabajo-dejara-de-ser-tarea-de-un-solo-ministerio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Región de Coquimbo mantiene crítica situación hídrica con embalses al 10% de su capacidad",
-    "enlace": "https://www.maray.cl/pais/10/07/2026/region-de-coquimbo-mantiene-critica-situacion-hidrica-con-embalses-al-10-de-su-capacidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "Escultura “La Dulcera Liguana” será instalada en la Plaza de Armas para cerrar aniversario de La Ligua",
@@ -1622,15 +1631,6 @@
   {
     "titulo": "Diputado Cristian Mella valora gestión 2025 del Hospital de Cabildo: “A paso firme en la humanización de la salud pública”",
     "enlace": "https://laliguanoticias.cl/2026/06/30/diputado-cristian-mella-valora-gestion-2025-del-hospital-de-cabildo-a-paso-firme-en-la-humanizacion-de-la-salud-publica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Eficiente labor financiera y nueva sala de esterilización fueron parte de los hitos de la cuenta pública del Hospital de Cabildo",
-    "enlace": "https://laliguanoticias.cl/2026/06/29/eficiente-labor-financiera-y-nueva-sala-de-esterilizacion-fueron-parte-de-los-hitos-de-la-cuenta-publica-del-hospital-de-cabildo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La peligrosa confusión entre los mecanismos de control. Por Josefina Tapia C., Coordinadora Instituto Internacional de Estudios para la Democracia (IED) – Universidad del Alba",
-    "enlace": "https://g5noticias.cl/2026/07/10/la-peligrosa-confusion-entre-los-mecanismos-de-control-por-josefina-tapia-c-coordinadora-instituto-internacional-de-estudios-para-la-democracia-ied-universidad-del-alba/",
+    "titulo": "TOP de Villarrica condena a presidio perpetuo a autor de femicidio íntimo",
+    "enlace": "https://g5noticias.cl/2026/07/10/top-de-villarrica-condena-a-presidio-perpetuo-a-autor-de-femicidio-intimo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Dirigentes de la Mesa Pelágica del Biobío se desmarcan de críticas al Gobierno y llaman a recomponer el diálogo con la autoridad pesquera",
-    "enlace": "https://g5noticias.cl/2026/07/10/dirigentes-de-la-mesa-pelagica-del-biobio-se-desmarcan-de-criticas-al-gobierno-y-llaman-a-recomponer-el-dialogo-con-la-autoridad-pesquera/",
+    "titulo": "BAFONA concluye con gran éxito su gira por la Región de Antofagasta",
+    "enlace": "https://g5noticias.cl/2026/07/10/bafona-concluye-con-gran-exito-su-gira-por-la-region-de-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "ClaroVTR incorpora Netflix a sus planes y se convierte en el único operador con esta oferta en Chile",
-    "enlace": "https://g5noticias.cl/2026/07/10/clarovtr-incorpora-netflix-a-sus-planes-y-se-convierte-en-el-unico-operador-con-esta-oferta-en-chile/",
+    "titulo": "Fiscalía obtiene veredicto condenatorio contra dos internos de penal de Chillán acusados de microtráfico de drogas",
+    "enlace": "https://g5noticias.cl/2026/07/10/fiscalia-obtiene-veredicto-condenatorio-contra-dos-internos-de-penal-de-chillan-acusados-de-microtrafico-de-drogas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Concejal Alejandro Gazmuri solicita priorizar el retiro de cables en desuso en condominios sociales de Villa Alemana",
-    "enlace": "https://g5noticias.cl/2026/07/10/concejal-alejandro-gazmuri-solicita-priorizar-el-retiro-de-cables-en-desuso-en-condominios-sociales-de-villa-alemana/",
+    "titulo": "Ministro (s) de Agricultura encabeza mesa de trabajo que busca fortalecer la industria frutícola de la Región de O’Higgins",
+    "enlace": "https://g5noticias.cl/2026/07/10/ministro-s-de-agricultura-encabeza-mesa-de-trabajo-que-busca-fortalecer-la-industria-fruticola-de-la-region-de-ohiggins/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "TPS y Ultraport iniciaron certificación de competencias con ChileValora",
-    "enlace": "https://g5noticias.cl/2026/07/10/tps-y-ultraport-iniciaron-certificacion-de-competencias-con-chilevalora/",
+    "titulo": "Museo Histórico Nacional cerrará temporalmente para iniciar emblemática ampliación y restauración de su edificio",
+    "enlace": "https://g5noticias.cl/2026/07/10/museo-historico-nacional-cerrara-temporalmente-para-iniciar-emblematica-ampliacion-y-restauracion-de-su-edificio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tras oficio de Diputados Republicanos: Dirección de Educación Pública confirma irregularidades en procesos de contratación en nueve SLEP del país",
-    "enlace": "https://g5noticias.cl/2026/07/10/tras-oficio-de-diputados-republicanos-direccion-de-educacion-publica-confirma-irregularidades-en-procesos-de-contratacion-en-nueve-slep-del-pais/",
+    "titulo": "Punta de Parra: Junaeb refuerza apoyo a estudiantes afectados por incendios forestales y activa Programa de Escuelas Saludables",
+    "enlace": "https://g5noticias.cl/2026/07/10/punta-de-parra-junaeb-refuerza-apoyo-a-estudiantes-afectados-por-incendios-forestales-y-activa-programa-de-escuelas-saludables/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Encuesta de Bienestar 2026: Giro en las preocupaciones, Inestabilidad económica se consolida como el principal temor de los chilenos y la satisfacción a su mínimo histórico",
-    "enlace": "https://g5noticias.cl/2026/07/10/encuesta-de-bienestar-2026-giro-en-las-preocupaciones-inestabilidad-economica-se-consolida-como-el-principal-temor-de-los-chilenos-y-la-satisfaccion-a-su-minimo-historico/",
+    "titulo": "Ministerio de Hacienda informa lineamientos para su plan actualizado de financiamiento 2026",
+    "enlace": "https://g5noticias.cl/2026/07/10/ministerio-de-hacienda-informa-lineamientos-para-su-plan-actualizado-de-financiamiento-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desaladora para 2030 y una circunvalación que se ejecute en etapas son prioridades para la Región de Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/07/10/desaladora-para-2030-y-una-circunvalacion-que-se-ejecute-en-etapas-son-prioridades-para-la-region-de-coquimbo/",
+    "titulo": "Fiscalía obtiene más de 16 años de presidio contra hombre que incendió casa de expareja y otras tres de vecinos en San Carlos",
+    "enlace": "https://g5noticias.cl/2026/07/10/fiscalia-obtiene-mas-de-16-anos-de-presidio-contra-hombre-que-incendio-casa-de-expareja-y-otras-tres-de-vecinos-en-san-carlos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Biotecnología de vanguardia: Investigación PUCV transforma residuos de salmón en ingredientes de alto valor industrial",
-    "enlace": "https://g5noticias.cl/2026/07/10/biotecnologia-de-vanguardia-investigacion-pucv-transforma-residuos-de-salmon-en-ingredientes-de-alto-valor-industrial/",
+    "titulo": "Estudiantes de Valparaíso participan en una nueva versión de la Encuesta Juventud y Bienestar de SENDA",
+    "enlace": "https://g5noticias.cl/2026/07/10/estudiantes-de-valparaiso-participan-en-una-nueva-version-de-la-encuesta-juventud-y-bienestar-de-senda/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros refuerza servicios policiales en La Tirana",
-    "enlace": "https://g5noticias.cl/2026/07/10/carabineros-refuerza-servicios-policiales-en-la-tirana/",
+    "titulo": "Minsal entrega nuevo reporte: doctor Alexis Kalergis enfatiza que la vacunación es segura y protege contra virus respiratorios",
+    "enlace": "https://g5noticias.cl/2026/07/10/minsal-entrega-nuevo-reporte-doctor-alexis-kalergis-enfatiza-que-la-vacunacion-es-segura-y-protege-contra-virus-respiratorios/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1998,6 +1998,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Lomas del Bosque 7: Tras años de espera, familias constatan avances de sus futuras viviendas",
+    "enlace": "https://elmagallanico.com/2026/07/10/lomas-del-bosque-7-tras-anos-de-espera-familias-constatan-avances-de-sus-futuras-viviendas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Sernapesca y WCS Chile fortalecen alianza para la conservación marina en Magallanes",
     "enlace": "https://elmagallanico.com/2026/07/10/sernapesca-y-wcs-chile-fortalecen-alianza-para-la-conservacion-marina-en-magallanes/",
     "descripcion": "",
@@ -2072,15 +2081,6 @@
   {
     "titulo": "Denuncian otro envenenamiento masivo de perros en sector Laguna de los Cisnes de Porvenir",
     "enlace": "https://elmagallanico.com/2026/07/10/denuncian-otro-envenenamiento-masivo-de-perros-en-sector-laguna-de-los-cisnes-de-porvenir/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Niños y jóvenes puntarenenses se reúnen en vacaciones para estudiar a través del debate",
-    "enlace": "https://elmagallanico.com/2026/07/10/ninos-y-jovenes-puntarenenses-se-reunen-en-vacaciones-para-estudiar-a-traves-del-debate/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
