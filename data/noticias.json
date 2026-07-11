@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Fortalecen el trabajo para promover el buen trato hacia las personas mayores",
+    "enlace": "https://laserenaonline.cl/2026/07/11/fortalecen-el-trabajo-para-promover-el-buen-trato-hacia-las-personas-mayores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "En Limarí coordinan plan para acelerar resoluciones sanitarias y avanzar en soluciones permanentes al abastecimiento de agua",
     "enlace": "https://laserenaonline.cl/2026/07/11/en-limari-coordinan-plan-para-acelerar-resoluciones-sanitarias-y-avanzar-en-soluciones-permanentes-al-abastecimiento-de-agua/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Noruega rema unida: Cómo su ritual vikingo ayuda a enfrentar la presión del Mundial",
     "enlace": "https://laserenaonline.cl/2026/07/10/noruega-rema-unida-como-su-ritual-vikingo-ayuda-a-enfrentar-la-presion-del-mundial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Desaladora para 2030 y una circunvalación que se ejecute en etapas son prioridades para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/10/desaladora-para-2030-y-una-circunvalacion-que-se-ejecute-en-etapas-son-prioridades-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Los Vilos busca alternativas para 87 familias ante desalojo de terreno destinado a nuevo cementerio",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-busca-alternativas-para-87-familias-ante-desalojo-de-terreno-destinado-a-nuevo-cementerio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Agricultora de Canela destaca el valor terapéutico de trabajar la tierra",
+    "enlace": "https://losviloschile.cl/canela/agricultora-de-canela-destaca-el-valor-terapeutico-de-trabajar-la-tierra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Comienzan las obras de modernización de Caleta Las Conchas en Los Vilos",
+    "enlace": "https://losviloschile.cl/actualidad/comienzan-las-obras-de-modernizacion-de-caleta-las-conchas-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos cierra con éxito la primera edición de Invierno Kids",
+    "enlace": "https://losviloschile.cl/social/municipalidad-de-los-vilos-cierra-con-exito-la-primera-edicion-de-invierno-kids/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Dirigentes de Los Vilos vuelven a ponerse “En Acción” con una nueva versión del programa comunitario",
+    "enlace": "https://losviloschile.cl/lospelambres/dirigentes-de-los-vilos-vuelven-a-ponerse-en-accion-con-una-nueva-version-del-programa-comunitario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "41 personas de Choapa finalizan capacitación en minería, soldadura y energías renovables",
+    "enlace": "https://losviloschile.cl/social/41-personas-de-choapa-finalizan-capacitacion-en-mineria-soldadura-y-energias-renovables/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tilama valoran atención de servicios públicos en Plaza Ciudadana",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tilama-valoran-atencion-de-servicios-publicos-en-plaza-ciudadana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Centro CALA lanza su primer “Cine de Invierno” con historias inspiradas en la naturaleza",
+    "enlace": "https://losviloschile.cl/lospelambres/centro-cala-lanza-su-primer-cine-de-invierno-con-historias-inspiradas-en-la-naturaleza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "68 familias de Canela reciben sus títulos de dominio y regularizan la propiedad de sus terrenos",
+    "enlace": "https://losviloschile.cl/canela/68-familias-de-canela-reciben-sus-titulos-de-dominio-y-regularizan-la-propiedad-de-sus-terrenos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Canela alcanza el 85% de cobertura y se convierte en la primera comuna de la región en cumplir la meta de vacunación contra la influenza",
+    "enlace": "https://losviloschile.cl/canela/canela-alcanza-el-85-de-cobertura-y-se-convierte-en-la-primera-comuna-de-la-region-en-cumplir-la-meta-de-vacunacion-contra-la-influenza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Día del Periodista: la verdad sigue siendo nuestro mejor titular",
     "enlace": "https://www.davidnoticias.cl/dia-del-periodista-la-verdad-sigue-siendo-nuestro-mejor-titular/",
     "descripcion": "",
@@ -1728,8 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PUCV impulsa la vinculación entre academia e industria para fortalecer la investigación colaborativa",
-    "enlace": "https://g5noticias.cl/2026/07/11/pucv-impulsa-la-vinculacion-entre-academia-e-industria-para-fortalecer-la-investigacion-colaborativa/",
+    "titulo": "Estudio U. de Chile revela cómo viviendas y pensiones inciden en la desigualdad patrimonial",
+    "enlace": "https://g5noticias.cl/2026/07/11/estudio-u-de-chile-revela-como-viviendas-y-pensiones-inciden-en-la-desigualdad-patrimonial/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Datos y metas de sostenibilidad. Por María Soledad Matos, Gerenta General de Kyndryl Chile",
-    "enlace": "https://g5noticias.cl/2026/07/11/datos-y-metas-de-sostenibilidad-por-maria-soledad-matos-gerenta-general-de-kyndryl-chile/",
+    "titulo": "Ransomware en la era de la inteligencia artificial. Por Patricio Campos, CEO de Resility.io",
+    "enlace": "https://g5noticias.cl/2026/07/11/ransomware-en-la-era-de-la-inteligencia-artificial-por-patricio-campos-ceo-de-resility-io/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hospital de Quilpué presentó su Cuenta Pública Participativa 2025 destacando avances de gestión y los desafíos de la transición al Hospital Provincial Marga Marga",
-    "enlace": "https://g5noticias.cl/2026/07/11/hospital-de-quilpue-presento-su-cuenta-publica-participativa-2025-destacando-avances-de-gestion-y-los-desafios-de-la-transicion-al-hospital-provincial-marga-marga/",
+    "titulo": "Gobierno fortalece coordinación para enfrentar déficit hídrico y asegurar el riego en Biobío",
+    "enlace": "https://g5noticias.cl/2026/07/11/gobierno-fortalece-coordinacion-para-enfrentar-deficit-hidrico-y-asegurar-el-riego-en-biobio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gendarmería busca triplicar plazas laborales para privados de libertad de la cárcel de Quillota",
-    "enlace": "https://g5noticias.cl/2026/07/11/gendarmeria-busca-triplicar-plazas-laborales-para-privados-de-libertad-de-la-carcel-de-quillota/",
+    "titulo": "Más allá del «apego seguro»: el vínculo que puede cambiar la convivencia escolar",
+    "enlace": "https://g5noticias.cl/2026/07/11/mas-alla-del-apego-seguro-el-vinculo-que-puede-cambiar-la-convivencia-escolar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Paralímpico: sólido triunfo de Wollermann en World Cup de Canadá",
-    "enlace": "https://g5noticias.cl/2026/07/11/paralimpico-solido-triunfo-de-wollermann-en-world-cup-de-canada/",
+    "titulo": "Gobierno de Santiago capacita a 200 personas en compostaje comunitario con «Nos Compostamos Bien II»",
+    "enlace": "https://g5noticias.cl/2026/07/11/gobierno-de-santiago-capacita-a-200-personas-en-compostaje-comunitario-con-nos-compostamos-bien-ii/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Papudo evalúa experiencias tecnológicas para reforzar seguridad en borde costero y sectores rurales",
-    "enlace": "https://g5noticias.cl/2026/07/11/papudo-evalua-experiencias-tecnologicas-para-reforzar-seguridad-en-borde-costero-y-sectores-rurales/",
+    "titulo": "El comercio electrónico se descentraliza: regiones lideran la creación de nuevas tiendas online en Chile",
+    "enlace": "https://g5noticias.cl/2026/07/11/el-comercio-electronico-se-descentraliza-regiones-lideran-la-creacion-de-nuevas-tiendas-online-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Correr juntos para llegar a una misma meta",
-    "enlace": "https://g5noticias.cl/2026/07/11/correr-juntos-para-llegar-a-una-misma-meta/",
+    "titulo": "Senadora Astudillo critica inadmisibilidad de indicación para incluir socavones de Alto Hospicio en proyecto de Reconstrucción",
+    "enlace": "https://g5noticias.cl/2026/07/11/senadora-astudillo-critica-inadmisibilidad-de-indicacion-para-incluir-socavones-de-alto-hospicio-en-proyecto-de-reconstruccion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los 8 cuidados que pueden evitar hospitalizaciones de personas mayores durante el invierno",
-    "enlace": "https://g5noticias.cl/2026/07/11/los-8-cuidados-que-pueden-evitar-hospitalizaciones-de-personas-mayores-durante-el-invierno/",
+    "titulo": "Rector de la PUCV llama a construir una visión de país que priorice a la infancia y el desarrollo humano",
+    "enlace": "https://g5noticias.cl/2026/07/11/rector-de-la-pucv-llama-a-construir-una-vision-de-pais-que-priorice-a-la-infancia-y-el-desarrollo-humano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Teao respalda baja de carabineros por hurto de cigarrillos durante procedimiento en Cartagena",
-    "enlace": "https://g5noticias.cl/2026/07/11/diputado-teao-respalda-baja-de-carabineros-por-hurto-de-cigarrillos-durante-procedimiento-en-cartagena/",
+    "titulo": "«Cuidarse primero para enseñar mejor»: referentes internacionales en mindfulness entregaron herramientas contra el desgaste docente",
+    "enlace": "https://g5noticias.cl/2026/07/11/cuidarse-primero-para-ensenar-mejor-referentes-internacionales-en-mindfulness-entregaron-herramientas-contra-el-desgaste-docente/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Captan tiburón de 2,5 metros de longitud en la costa de Matanzas",
-    "enlace": "https://g5noticias.cl/2026/07/11/captan-tiburon-de-25-metros-de-longitud-en-la-costa-de-matanzas/",
+    "titulo": "Proyecto internacional estudiará fósiles chilenos para comprender la evolución del tiburón blanco",
+    "enlace": "https://g5noticias.cl/2026/07/11/proyecto-internacional-estudiara-fosiles-chilenos-para-comprender-la-evolucion-del-tiburon-blanco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
