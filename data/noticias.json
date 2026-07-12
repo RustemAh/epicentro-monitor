@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Coquimbo vuelve a ser epicentro de las artes visuales con la sexta versión del Salón de Julio",
+    "enlace": "https://laserenaonline.cl/2026/07/12/coquimbo-vuelve-a-ser-epicentro-de-las-artes-visuales-con-la-sexta-version-del-salon-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Vecinos de Villa Maestranza de Coquimbo reciben renovada multicancha",
     "enlace": "https://laserenaonline.cl/2026/07/12/vecinos-de-villa-maestranza-de-coquimbo-reciben-renovada-multicancha/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Empleo formal y capacitación: Subsecretario del Trabajo despliega agenda laboral en la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/12/empleo-formal-y-capacitacion-subsecretario-del-trabajo-despliega-agenda-laboral-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más de 40 mil personas mayores de la región reciben apoyo alimentario para un envejecimiento saludable",
-    "enlace": "https://laserenaonline.cl/2026/07/12/mas-de-40-mil-personas-mayores-de-la-region-reciben-apoyo-alimentario-para-un-envejecimiento-saludable/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1458,6 +1458,60 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Alerta: Sistema frontal impactará a Atacama con lluvias, nieve y probables ventiscas desde este jueves",
+    "enlace": "https://www.maray.cl/atacama/12/07/2026/sistema-frontal-dejara-lluvias-y-nevadas-en-atacama-emiten-aviso-que-anticipan-fuerte-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Copiapino Matías Soto roza el título en Bogotá, pero dará un nuevo salto en el ranking ATP",
+    "enlace": "https://www.maray.cl/atacama/12/07/2026/copiapino-matias-soto-roza-el-titulo-en-bogota-pero-dara-un-nuevo-salto-en-el-ranking-atp/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Coquimbo Unido elimina a Unión La Calera en penales y avanza a la final de la Copa de la Liga",
+    "enlace": "https://www.maray.cl/deportes/12/07/2026/coquimbo-unido-elimina-a-union-la-calera-en-penales-y-avanza-a-la-final-de-la-copa-de-la-liga/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Viña del Mar decreta tres días de duelo comunal tras fatal atropello en la feria Caupolicán",
+    "enlace": "https://www.maray.cl/pais/12/07/2026/vina-del-mar-decreta-tres-dias-de-duelo-comunal-tras-fatal-atropello-en-la-feria-caupolican/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Santo Tomás Copiapó:  «la marraqueta es uno de los principales símbolos de la gastronomía chilena»",
+    "enlace": "https://www.maray.cl/atacama/12/07/2026/santo-tomas-copiapo-la-marraqueta-es-uno-de-los-principales-simbolos-de-la-gastronomia-chilena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno concreta séptimo vuelo de expulsión del año y cifra supera las 1.100 personas en 2026",
+    "enlace": "https://www.maray.cl/pais/12/07/2026/gobierno-concreta-septimo-vuelo-de-expulsion-del-ano-y-cifra-supera-las-1-100-personas-en-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Obras de rehabilitación de pavimentos generarán restricciones de tránsito en la Ruta 5 entre Vallenar y Caldera",
     "enlace": "https://www.maray.cl/atacama/12/07/2026/obras-de-rehabilitacion-de-pavimentos-generaran-restricciones-de-transito-en-la-ruta-5-entre-vallenar-y-caldera/",
     "descripcion": "",
@@ -1487,60 +1541,6 @@
   {
     "titulo": "Encuesta Criteria: aprobación de José Antonio Kast cae al nivel más bajo desde el inicio de su gobierno",
     "enlace": "https://www.maray.cl/pais/12/07/2026/encuesta-criteria-aprobacion-de-jose-antonio-kast-cae-al-nivel-mas-bajo-desde-el-inicio-de-su-gobierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "EE.UU. lanza nuevos ataques contra Irán tras bombardeo a buque en el estrecho de Ormuz",
-    "enlace": "https://www.maray.cl/internacional/12/07/2026/ee-uu-lanza-nuevos-ataques-contra-iran-tras-bombardeo-a-buque-en-el-estrecho-de-ormuz/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "DT de Suiza criticó el arbitraje frente a Argentina: «Hoy el fútbol no fue el que salió ganando»",
-    "enlace": "https://www.maray.cl/deportes/12/07/2026/dt-de-suiza-critico-el-arbitraje-frente-a-argentina-hoy-el-futbol-no-fue-el-que-salio-ganando/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Confirman identidad del segundo pescador hallado tras naufragio de la embarcación «Neptuno» en Chañaral",
-    "enlace": "https://www.maray.cl/atacama/12/07/2026/confirman-identidad-del-segundo-pescador-hallado-tras-naufragio-de-la-embarcacion-neptuno-en-chanaral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sernatur abre postulaciones para una nueva versión del concurso Más Valor Turístico",
-    "enlace": "https://www.maray.cl/atacama/12/07/2026/sernatur-abre-postulaciones-para-una-nueva-version-del-concurso-mas-valor-turistico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Seis fallecidos y siete heridos deja atropello múltiple en feria libre en Viña del Mar",
-    "enlace": "https://www.maray.cl/pais/12/07/2026/seis-fallecidos-y-siete-heridos-deja-atropello-multiple-en-feria-libre-en-vina-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Scm Carola conquista el Apertura 2026 de la Liga Interempresas de Atacama",
-    "enlace": "https://www.maray.cl/atacama/12/07/2026/scm-carola-conquista-el-apertura-2026-de-la-liga-interempresas-de-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1998,6 +1998,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Bomberos fueron atacados a pedradas cuando acudieron a extinguir incendio en el sector de la “toma”",
+    "enlace": "https://elmagallanico.com/2026/07/12/bomberos-fueron-atacados-a-pedradas-cuando-acudieron-a-extinguir-incendio-en-el-sector-de-la-toma/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "PDI y Armada realizan fiscalización en terminales marítimos de Punta Arenas y Puerto Williams",
     "enlace": "https://elmagallanico.com/2026/07/12/pdi-y-armada-realizan-fiscalizacion-en-terminales-maritimos-de-punta-arenas-y-puerto-williams/",
     "descripcion": "",
@@ -2072,15 +2081,6 @@
   {
     "titulo": "Familias de Magallanes ponen nota 6,6 a jardines infantiles de Fundación Integra y valoran su participación",
     "enlace": "https://elmagallanico.com/2026/07/11/familias-de-magallanes-ponen-nota-66-a-jardines-infantiles-de-fundacion-integra-y-valoran-su-participacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Camino Vicuña–Yendegaia concreta importante hito con instalación de puente modular",
-    "enlace": "https://elmagallanico.com/2026/07/11/camino-vicuna-yendegaia-concreta-importante-hito-con-instalacion-de-puente-modular/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
