@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Empleo formal y capacitación: Subsecretario del Trabajo despliega agenda laboral en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/12/empleo-formal-y-capacitacion-subsecretario-del-trabajo-despliega-agenda-laboral-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Más de 40 mil personas mayores de la región reciben apoyo alimentario para un envejecimiento saludable",
     "enlace": "https://laserenaonline.cl/2026/07/12/mas-de-40-mil-personas-mayores-de-la-region-reciben-apoyo-alimentario-para-un-envejecimiento-saludable/",
     "descripcion": "",
@@ -261,13 +270,22 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Personal de Seguridad Pública colaboró en procedimiento por presunto homicidio frustrado en Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/11/personal-de-seguridad-publica-colaboro-en-procedimiento-por-presunto-homicidio-frustrado-en-coquimbo/",
+    "titulo": "Coquimbo. AHORA, incendio estructural en pueblito de La Herradura",
+    "enlace": "https://serenaycoquimbo.cl/coquimbo-ahora-incendio-estructural-en-pueblito-de-la-herradura/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-ahora-incendio-estructural-en-pueblito-de-la-herradura",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Nacional. AHORA, 6 fallecidos y 2 menores de edad quedan graves tras atropello de alta energía",
+    "enlace": "https://serenaycoquimbo.cl/nacional-ahora-6-fallecidos-y-2-menores-de-edad-quedan-graves-tras-atropello-de-alta-energia/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-ahora-6-fallecidos-y-2-menores-de-edad-quedan-graves-tras-atropello-de-alta-energia",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
   },
   {
     "titulo": "Vicuña: mil esterilizaciones gratuitas de mascotas gracias a proyecto financiado por Subdere",
@@ -335,24 +353,6 @@
   {
     "titulo": "Nacional. Decretan prisión preventiva para imputado por homicidio",
     "enlace": "https://serenaycoquimbo.cl/nacional-decretan-prision-preventiva-para-imputado-por-homicidio/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-decretan-prision-preventiva-para-imputado-por-homicidio",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. Detiene a cuatro presuntos integrantes del Tren de Aragua por secuestro y homicidio",
-    "enlace": "https://serenaycoquimbo.cl/nacional-detiene-a-cuatro-presuntos-integrantes-del-tren-de-aragua-por-secuestro-y-homicidio/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-detiene-a-cuatro-presuntos-integrantes-del-tren-de-aragua-por-secuestro-y-homicidio",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "La Serena. Hombre es detenido con arma de fuego y chaleco antibalas",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-hombre-es-detenido-con-arma-de-fuego-y-chaleco-antibalas/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-hombre-es-detenido-con-arma-de-fuego-y-chaleco-antibalas",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Tragedia en Viña del Mar: al menos seis fallecidos tras atropello masivo en la Feria Caupolicán",
+    "enlace": "https://www.davidnoticias.cl/tragedia-en-vina-del-mar-al-menos-seis-fallecidos-tras-atropello-masivo-en-la-feria-caupolican/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Sistema frontal de gran intensidad podría dejar más de 100 mm de lluvia en la Región de Coquimbo",
     "enlace": "https://www.davidnoticias.cl/sistema-frontal-de-gran-intensidad-podria-dejar-mas-de-100-mm-de-lluvia-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Kast logra respaldo para endeudar al Estado por US$6.200 millones en medio de críticas por recortes sociales y rebaja de impuestos a grandes patrimonios",
     "enlace": "https://www.davidnoticias.cl/kast-logra-respaldo-para-endeudar-al-estado-por-us6-200-millones-en-medio-de-criticas-por-recortes-sociales-y-rebaja-de-impuestos-a-grandes-patrimonios/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Aunque aumenta el empleo en Coquimbo, crece la informalidad y preocupa la calidad del trabajo",
-    "enlace": "https://www.davidnoticias.cl/aunque-aumenta-el-empleo-en-coquimbo-crece-la-informalidad-y-preocupa-la-calidad-del-trabajo/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,6 +1458,42 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Confirman identidad del segundo pescador hallado tras naufragio de la embarcación «Neptuno» en Chañaral",
+    "enlace": "https://www.maray.cl/atacama/12/07/2026/confirman-identidad-del-segundo-pescador-hallado-tras-naufragio-de-la-embarcacion-neptuno-en-chanaral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Sernatur abre postulaciones para una nueva versión del concurso Más Valor Turístico",
+    "enlace": "https://www.maray.cl/atacama/12/07/2026/sernatur-abre-postulaciones-para-una-nueva-version-del-concurso-mas-valor-turistico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Seis fallecidos y siete heridos deja atropello múltiple en feria libre en Viña del Mar",
+    "enlace": "https://www.maray.cl/pais/12/07/2026/seis-fallecidos-y-siete-heridos-deja-atropello-multiple-en-feria-libre-en-vina-del-mar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Argentina supera a Suiza en el alargue y enfrentará a Inglaterra en las semifinales del Mundial 2026",
+    "enlace": "https://www.maray.cl/deportes/12/07/2026/argentina-supera-a-suiza-en-el-alargue-y-enfrentara-a-inglaterra-en-las-semifinales-del-mundial-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Hallan cuerpo en roqueríos de Chañaral: correspondería al segundo pescador desaparecido",
     "enlace": "https://www.maray.cl/atacama/11/07/2026/hallan-cuerpo-en-roquerios-de-chanaral-corresponderia-al-segundo-pescador-desaparecido-en-chanaral/",
     "descripcion": "",
@@ -1505,42 +1541,6 @@
   {
     "titulo": "Codelco y Cobresal homenajean a serie Sub-16 campeona del Torneo Regional Apertura 2026 durante el entretiempo del Clásico del Cobre",
     "enlace": "https://www.maray.cl/podcast-de-noticias/11/07/2026/codelco-y-cobresal-homenajean-a-serie-sub-16-campeona-del-torneo-regional-apertura-2026-durante-el-entretiempo-del-clasico-del-cobre-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Impacto: Muere Jayden Adams, seleccionado sudafricano que disputó el Mundial 2026",
-    "enlace": "https://www.maray.cl/deportes/11/07/2026/impacto-muere-jayden-adams-seleccionado-sudafricano-que-disputo-el-mundial-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Desarticulan punto de venta de drogas en Copiapó: seis detenidos quedan en prisión preventiva",
-    "enlace": "https://www.maray.cl/atacama/11/07/2026/desarticulan-punto-de-venta-de-drogas-en-copiapo-seis-detenidos-quedan-en-prision-preventiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Defensa de Karen Rojo afirma que no corresponde control de detención y asegura que ya ha cumplido el 80% de su condena",
-    "enlace": "https://www.maray.cl/pais/11/07/2026/defensa-de-karen-rojo-afirma-que-no-corresponde-control-de-detencion-y-asegura-que-ya-ha-cumplido-el-80-de-su-condena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Estados Unidos desclasifica nuevos archivos sobre ovnis y revela registros de astronautas",
-    "enlace": "https://www.maray.cl/internacional/11/07/2026/estados-unidos-desclasifica-nuevos-archivos-sobre-ovnis-y-revela-registros-de-astronautas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,6 +1728,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Teatro Biobío anuncia nuevas funciones de Gloria del Canto, la ópera farandulera de Sebastián Errázuriz",
+    "enlace": "https://g5noticias.cl/2026/07/12/teatro-biobio-anuncia-nuevas-funciones-de-gloria-del-canto-la-opera-farandulera-de-sebastian-errazuriz/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Alianza entre Salfa Rent y Easy permitirá arrendar vehículos de carga directamente en tienda",
+    "enlace": "https://g5noticias.cl/2026/07/12/alianza-entre-salfa-rent-y-easy-permitira-arrendar-vehiculos-de-carga-directamente-en-tienda/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Tragedia en Viña del Mar: seis víctimas fatales tras atropello ocurrido a metros de la Feria Caupolicán",
+    "enlace": "https://g5noticias.cl/2026/07/12/tragedia-en-vina-del-mar-seis-victimas-fatales-tras-atropello-ocurrido-a-metros-de-la-feria-caupolican/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "El fin de DICOM no es el fin de la deuda: expertos advierten sobre el verdadero alcance de «Chao Dicom»",
+    "enlace": "https://g5noticias.cl/2026/07/12/el-fin-de-dicom-no-es-el-fin-de-la-deuda-expertos-advierten-sobre-el-verdadero-alcance-de-chao-dicom/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "La IA creará empleos. Por Jorge Serrano Académico investigador Facultad de Ingeniería y Negocios Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/07/12/la-ia-creara-empleos-por-jorge-serrano-academico-investigador-facultad-de-ingenieria-y-negocios-universidad-de-las-americas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "EXEED refuerza su propuesta para el invierno con tecnología AWD disponible en toda su gama",
+    "enlace": "https://g5noticias.cl/2026/07/12/exeed-refuerza-su-propuesta-para-el-invierno-con-tecnologia-awd-disponible-en-toda-su-gama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Ministerio de Agricultura amplía el plazo para participar en el concurso Historias de Nuestra Tierra 2026",
     "enlace": "https://g5noticias.cl/2026/07/12/ministerio-de-agricultura-amplia-el-plazo-para-participar-en-el-concurso-historias-de-nuestra-tierra-2026-2/",
     "descripcion": "",
@@ -1757,60 +1811,6 @@
   {
     "titulo": "¿Cuál es el mejor sistema para calefaccionar tu hogar? Experto comparte los pros y contras de cada alternativa",
     "enlace": "https://g5noticias.cl/2026/07/12/cual-es-el-mejor-sistema-para-calefaccionar-tu-hogar-experto-comparte-los-pros-y-contras-de-cada-alternativa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Envase aséptico: Un aliado silencioso contra el desperdicio alimentario. Por Fernanda Salas, Gerente de Marketing PACCE de SIG",
-    "enlace": "https://g5noticias.cl/2026/07/12/envase-aseptico-un-aliado-silencioso-contra-el-desperdicio-alimentario-por-fernanda-salas-gerente-de-marketing-pacce-de-sig/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Antes de correr o volver a entrenar: las señales físicas que pueden evitar una lesión",
-    "enlace": "https://g5noticias.cl/2026/07/12/antes-de-correr-o-volver-a-entrenar-las-senales-fisicas-que-pueden-evitar-una-lesion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Automatización, datos y ciberseguridad marcan nueva fase de la industria chilena",
-    "enlace": "https://g5noticias.cl/2026/07/12/automatizacion-datos-y-ciberseguridad-marcan-nueva-fase-de-la-industria-chilena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Un 60 y 70 por ciento de las mujeres desarrollará uno o más miomas antes de los 50 años ¿Qué hacer?",
-    "enlace": "https://g5noticias.cl/2026/07/12/un-60-y-70-por-ciento-de-las-mujeres-desarrollara-uno-o-mas-miomas-antes-de-los-50-anos-que-hacer/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Leche, café o jugo? Las bebidas que pueden hacer que tus medicamentos funcionen peor",
-    "enlace": "https://g5noticias.cl/2026/07/12/leche-cafe-o-jugo-las-bebidas-que-pueden-hacer-que-tus-medicamentos-funcionen-peor/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Arriendan más y compran menos: el nuevo negocio que revoluciona la construcción en Chile",
-    "enlace": "https://g5noticias.cl/2026/07/12/arriendan-mas-y-compran-menos-el-nuevo-negocio-que-revoluciona-la-construccion-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "El secreto de los pastizales patagónicos: la ciencia busca el equilibrio entre la producción y la naturaleza",
+    "enlace": "https://laprensaaustral.cl/2026/07/12/el-secreto-de-los-pastizales-patagonicos-la-ciencia-busca-el-equilibrio-entre-la-produccion-y-la-naturaleza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Magallánica obtiene histórico reconocimiento de la Unesco por investigación en la Reserva de la Biósfera Cabo de Hornos",
     "enlace": "https://laprensaaustral.cl/2026/07/12/magallanica-obtiene-historico-reconocimiento-de-la-unesco-por-investigacion-en-la-reserva-de-la-biosfera-cabo-de-hornos/",
     "descripcion": "",
@@ -1989,13 +1998,13 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Incendio en España causan12 fallecidos   y  mantiene 1.400 personas evacuadas",
-    "enlace": "https://laprensaaustral.cl/2026/07/12/incendio-en-espana-causan12-fallecidos-y-mantiene-1-400-personas-evacuadas/",
+    "titulo": "Armada entre el viento y el hielo: La labor de la dotación de la Base Naval Antártica Capitán Arturo Prat",
+    "enlace": "https://elmagallanico.com/2026/07/12/armada-entre-el-viento-y-el-hielo-la-labor-de-la-dotacion-de-la-base-naval-antartica-capitan-arturo-prat/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
     "titulo": "Obra teatral Mago de Oz volvió a conquistar al público de Punta Arenas",
@@ -2072,15 +2081,6 @@
   {
     "titulo": "Conductor quedó atrapado tras colisión en el Barrio Prat",
     "enlace": "https://elmagallanico.com/2026/07/11/conductor-quedo-atrapado-tras-colision-en-el-barrio-prat/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Minvu informa 7% de avance en construcción del Centro Comunitario de Cuidados “Nuevos Horizontes”",
-    "enlace": "https://elmagallanico.com/2026/07/11/minvu-informa-7-de-avance-en-construccion-del-centro-comunitario-de-cuidados-nuevos-horizontes/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
