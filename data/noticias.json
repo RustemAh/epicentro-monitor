@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Maratón 42K de La Serena entra en tierra derecha con circuitos aprobados y destacados fondistas nacionales",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/12/maraton-42k-de-la-serena-entra-en-tierra-derecha-con-circuitos-aprobados-y-destacados-fondistas-nacionales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "MOP y CMP impulsan mejoras de seguridad en camino que une El Romeral y El Chacay",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/10/mop-y-cmp-impulsan-mejoras-de-seguridad-en-camino-que-une-el-romeral-y-el-chacay/",
     "descripcion": "",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Gendarmería reconoce la trayectoria de Suboficiales Mayores en La Serena",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/07/08/gendarmeria-reconoce-la-trayectoria-de-suboficiales-mayores-en-la-serena/",
+    "titulo": "Municipio de La Serena define apoyos sociales y albergues ante pronóstico de lluvias",
+    "enlace": "https://laserenaonline.cl/2026/07/12/municipio-de-la-serena-define-apoyos-sociales-y-albergues-ante-pronostico-de-lluvias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Más de 14 mil cirugías durante el 2025: los desafíos de sostener la actividad quirúrgica en el Hospital de La Serena",
     "enlace": "https://laserenaonline.cl/2026/07/12/mas-de-14-mil-cirugias-durante-el-2025-los-desafios-de-sostener-la-actividad-quirurgica-en-el-hospital-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Empleo formal y capacitación: Subsecretario del Trabajo despliega agenda laboral en la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/12/empleo-formal-y-capacitacion-subsecretario-del-trabajo-despliega-agenda-laboral-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -356,96 +356,6 @@
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Buscan fortalecer a través de la cultura la salud mental de estudiantes de Punitaqui",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/10/buscan-fortalecer-a-traves-de-la-cultura-la-salud-mental-de-estudiantes-de-punitaqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "MOP fortalece seguridad vial y conectividad de Ruta D-165 mediante alianza público-privada con CMP",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/10/mop-fortalece-seguridad-vial-y-conectividad-de-ruta-d-165-mediante-alianza-publico-privada-con-cmp/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Empleo formal y capacitación: Subsecretario del Trabajo despliega agenda laboral en la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/10/empleo-formal-y-capacitacion-subsecretario-del-trabajo-despliega-agenda-laboral-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Desaladora para 2030 y una circunvalación que se ejecute en etapas son prioridades para la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/10/desaladora-para-2030-y-una-circunvalacion-que-se-ejecute-en-etapas-son-prioridades-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Fortalecen la Seguridad Alimentaria de Ovalle con innovador huerto comunitario y módulos de hidroponía para familias",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/10/fortalecen-la-seguridad-alimentaria-de-ovalle-con-innovador-huerto-comunitario-y-modulos-de-hidroponia-para-familias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "17° Comité Operativo Regional conoce avances del Piloto de Empleabilidad para jóvenes en reinserción social",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/09/17-comite-operativo-regional-conoce-avances-del-piloto-de-empleabilidad-para-jovenes-en-reinsercion-social/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Combarbalá reunirá a estudiantes de todo Chile en una nueva fecha nacional de la Liga Robótica Escolar",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/09/combarbala-reunira-a-estudiantes-de-todo-chile-en-una-nueva-fecha-nacional-de-la-liga-robotica-escolar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Ministerio de las Culturas destina $70 millones para fortalecer la programación del Teatro Municipal de Ovalle",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/09/ministerio-de-las-culturas-destina-70-millones-para-fortalecer-la-programacion-del-teatro-municipal-de-ovalle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "SENDA lanza Encuesta “Juventud y Bienestar” para fortalecer la prevención en jóvenes estudiantes de la región",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/09/senda-lanza-encuesta-juventud-y-bienestar-para-fortalecer-la-prevencion-en-jovenes-estudiantes-de-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Familias de Paihuano mejoran sus viviendas gracias a alianza entre el FOSIS y la Municipalidad",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/09/familias-de-paihuano-mejoran-sus-viviendas-gracias-a-alianza-entre-el-fosis-y-la-municipalidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
     "zona": "IV Región",
     "cobertura_radio": "Toda la red Coquimbo"
   },
@@ -810,6 +720,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Illapel activa plan preventivo ante llegada de temporal: Viernes 17 de julio clases suspendidas",
+    "enlace": "https://www.elillapelino.cl/2026/07/12/illapel-activa-plan-preventivo-ante-llegada-de-temporal-viernes-15-de-julio-clases-suspendidas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Valiente encuentra un hogar definitivo tras cuatro meses de recuperación por grave caso de maltrato animal en Illapel",
     "enlace": "https://www.elillapelino.cl/2026/07/10/valiente-encuentra-un-hogar-definitivo-tras-cuatro-meses-de-recuperacion-por-grave-caso-de-maltrato-animal-en-illapel/",
     "descripcion": "",
@@ -884,15 +803,6 @@
   {
     "titulo": "Bus de pasajeros fue consumido por un incendio en la ruta Illapel–Salamanca: Ocupantes resultaron ilesos",
     "enlace": "https://www.elillapelino.cl/2026/06/30/bus-de-pasajeros-fue-consumido-por-un-incendio-en-la-ruta-illapel-salamanca-ocupantes-resultaron-ilesos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Illapel conmemoró el Mes del Orgullo con actividades de reflexión y una multitudinaria marcha por la diversidad",
-    "enlace": "https://www.elillapelino.cl/2026/06/27/illapel-conmemoro-el-mes-del-orgullo-con-actividades-de-reflexion-y-una-multitudinaria-marcha-por-la-diversidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1188,6 +1098,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Paihuano será laboratorio natural para innovador proyecto científico que busca enfrentar la escasez hídrica",
+    "enlace": "https://www.elpaihuanino.cl/2026/07/12/paihuano-sera-laboratorio-natural-para-innovador-proyecto-cientifico-que-busca-enfrentar-la-escasez-hidrica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Alcalde de Paihuano fue el único representante del Norte Chico invitado al Encuentro Nacional 3xi sobre pobreza",
     "enlace": "https://www.elpaihuanino.cl/2026/07/10/alcalde-de-paihuano-fue-el-unico-representante-del-norte-chico-invitado-al-encuentro-nacional-3xi-sobre-pobreza/",
     "descripcion": "",
@@ -1262,15 +1181,6 @@
   {
     "titulo": "Paihuano recibe dos nuevas ambulancias que fortalecerán la atención de salud en el Valle de Elqui",
     "enlace": "https://www.elpaihuanino.cl/2026/06/23/paihuano-recibe-dos-nuevas-ambulancias-que-fortaleceran-la-atencion-de-salud-en-el-valle-de-elqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "¿Se cumplió el último deseo de Gabriela Mistral? La controversia que divide a Montegrande a casi 70 años de su muerte",
-    "enlace": "https://www.elpaihuanino.cl/2026/06/23/se-cumplio-el-ultimo-deseo-de-gabriela-mistral-la-controversia-que-divide-a-montegrande-a-casi-70-anos-de-su-muerte/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Paihuanino",
@@ -1728,6 +1638,42 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "El líder en la era de los agentes. Por John Piragauta, gerente de transformación digital cloud en In Motion",
+    "enlace": "https://g5noticias.cl/2026/07/12/el-lider-en-la-era-de-los-agentes-por-john-piragauta-gerente-de-transformacion-digital-cloud-en-in-motion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Innovadora herramienta detecta las fugas de calor en las casas para disminuir frío y moho",
+    "enlace": "https://g5noticias.cl/2026/07/12/innovadora-herramienta-detecta-las-fugas-de-calor-en-las-casas-para-disminuir-frio-y-moho/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "La resiliencia ya no es suficiente para potenciar la ciberseguridad. Por Juan Pablo Beltrán, Socio de Ciberseguridad y Resiliencia de Cybertrust",
+    "enlace": "https://g5noticias.cl/2026/07/12/la-resiliencia-ya-no-es-suficiente-para-potenciar-la-ciberseguridad-por-juan-pablo-beltran-socio-de-ciberseguridad-y-resiliencia-de-cybertrust/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Por penales, Unión La Calera cayó en las semifinales de la Copa de La Liga ante Coquimbo Unido: portero Sánchez contuvo tres penales y anotó el propio para los «piratas»",
+    "enlace": "https://g5noticias.cl/2026/07/12/por-penales-union-la-calera-cayo-en-las-semifinales-de-la-copa-de-la-liga-ante-coquimbo-unido-portero-sanchez-contuvo-tres-penales-y-anoto-el-propio-para-los-piratas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Saiko anuncia gira nacional en agosto con shows en Santiago, Temuco, Valdivia y Puerto Montt",
     "enlace": "https://g5noticias.cl/2026/07/12/saiko-anuncia-gira-nacional-en-agosto-con-shows-en-santiago-temuco-valdivia-y-puerto-montt/",
     "descripcion": "",
@@ -1764,53 +1710,17 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Gobierno informa salida de un séptimo vuelo con expulsados, llegando a 1.174 en lo que va de 2026",
+    "enlace": "https://g5noticias.cl/2026/07/12/gobierno-informa-salida-de-un-septimo-vuelo-con-expulsados-llegando-a-1-174-en-lo-que-va-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Salud emocional: cuando el malestar tiene causas sociales. Por Yasna Anabalón, Académica Carrera de Trabajo Social Universidad de Las Américas, Sede Concepción",
     "enlace": "https://g5noticias.cl/2026/07/12/salud-emocional-cuando-el-malestar-tiene-causas-sociales-por-yasna-anabalon-academica-carrera-de-trabajo-social-universidad-de-las-americas-sede-concepcion-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El auge del cobre pone a prueba a Chile: infraestructura para la IA será clave para no perder competitividad",
-    "enlace": "https://g5noticias.cl/2026/07/12/el-auge-del-cobre-pone-a-prueba-a-chile-infraestructura-para-la-ia-sera-clave-para-no-perder-competitividad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Profesores entre formularios y sueños. Por Juan Pablo Catalán, académico e investigador de Educación UNAB",
-    "enlace": "https://g5noticias.cl/2026/07/12/profesores-entre-formularios-y-suenos-por-juan-pablo-catalan-academico-e-investigador-de-educacion-unab/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Mercado inmobiliario se recupera en 2026: Remax Chile proyecta un escenario favorable para compradores e inversionistas",
-    "enlace": "https://g5noticias.cl/2026/07/12/mercado-inmobiliario-se-recupera-en-2026-remax-chile-proyecta-un-escenario-favorable-para-compradores-e-inversionistas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Megasequía en Chile se extiende por más de una década y obliga a replantear la estrategia hídrica",
-    "enlace": "https://g5noticias.cl/2026/07/12/megasequia-en-chile-se-extiende-por-mas-de-una-decada-y-obliga-a-replantear-la-estrategia-hidrica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Cuando emprender es la única salida. Por Dr. Nassib Segovia, Director de la Escuela de Negocios Universidad UNIACC",
-    "enlace": "https://g5noticias.cl/2026/07/12/cuando-emprender-es-la-unica-salida-por-dr-nassib-segovia-director-de-la-escuela-de-negocios-universidad-uniacc/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
