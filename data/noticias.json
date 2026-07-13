@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "La hospitalización pediátrica llega al hogar en Coquimbo: 18 niños ya reciben atención en casa",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/12/la-hospitalizacion-pediatrica-llega-al-hogar-en-coquimbo-18-ninos-ya-reciben-atencion-en-casa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Rodrigo Larraguibel: “Los sismos son parte de nuestra realidad, pero también una oportunidad para educar y valorar nuestro territorio”",
     "enlace": "https://www.elcoquimbano.cl/2026/07/10/rodrigo-larraguibel-los-sismos-son-parte-de-nuestra-realidad-pero-tambien-una-oportunidad-para-educar-y-valorar-nuestro-territorio/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Adultas mayores de la Parte Alta de Coquimbo descubren nuevas habilidades y fortalecen sus vínculos a través del arte del vellón",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/08/adultas-mayores-de-la-parte-alta-de-coquimbo-descubren-nuevas-habilidades-y-fortalecen-sus-vinculos-a-traves-del-arte-del-vellon/",
+    "titulo": "Filarmónica Antena brilla en Australia y se queda con el oro en el Festival Internacional de la Música",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/12/filarmonica-antena-brilla-en-australia-y-se-queda-con-el-oro-en-el-festival-internacional-de-la-musica/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Maratón 42K de La Serena entra en tierra derecha con circuitos aprobados y destacados fondistas nacionales",
@@ -164,15 +173,6 @@
   {
     "titulo": "Municipio de La Serena entrega las primeras 2.200 entradas gratuitas para el histórico Chile vs Georgia en La Portada",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/08/municipio-de-la-serena-entrega-las-primeras-2-200-entradas-gratuitas-para-el-historico-chile-vs-georgia-en-la-portada/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Día Nacional del Cuequero y la Cuequera se celebrará en la plaza de armas de la serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/08/dia-nacional-del-cuequero-y-la-cuequera-se-celebrara-en-la-plaza-de-armas-de-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -270,6 +270,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Región Coquimbo. Esta noche, adulto mayor muere tras caer a pozo profundo",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-esta-noche-adulto-mayor-muere-tras-caer-a-pozo-profundo/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-esta-noche-adulto-mayor-muere-tras-caer-a-pozo-profundo",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Región Coquimbo. Actualización de modelo meteorológico pronostica montos acumulados de hasta 300 mm de agua lluvia en algunos sectores. Conozca el detalle proyectado",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-actualizacion-de-modelo-meteorologico-pronostica-montos-acumulados-de-hasta-300-mm-de-agua-lluvia-en-algunos-sectores-conozca-el-detalle-proyectado/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-actualizacion-de-modelo-meteorologico-pronostica-montos-acumulados-de-hasta-300-mm-de-agua-lluvia-en-algunos-sectores-conozca-el-detalle-proyectado",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Meteorólogo pronostica varios días de lluvia en las regiones de Atacama y Coquimbo",
     "enlace": "https://serenaycoquimbo.cl/meteorologo-pronostica-varios-dias-de-lluvia-en-las-regiones-de-atacama-y-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=meteorologo-pronostica-varios-dias-de-lluvia-en-las-regiones-de-atacama-y-coquimbo",
     "descripcion": "",
@@ -342,20 +360,92 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Nacional. Programa “Creciendo Juntas” abre cupos para fortalecer el talento femenino en minería",
-    "enlace": "https://serenaycoquimbo.cl/nacional-programa-creciendo-juntas-abre-cupos-para-fortalecer-el-talento-femenino-en-mineria/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-programa-creciendo-juntas-abre-cupos-para-fortalecer-el-talento-femenino-en-mineria",
+    "titulo": "Buscan fortalecer a través de la cultura la salud mental de estudiantes de Punitaqui",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/10/buscan-fortalecer-a-traves-de-la-cultura-la-salud-mental-de-estudiantes-de-punitaqui/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Serena y Coquimbo",
+    "medio": "Región de Coquimbo",
     "zona": "IV Región",
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Nacional. Investigan hallazgo de cuerpo en el mar",
-    "enlace": "https://serenaycoquimbo.cl/nacional-investigan-hallazgo-de-cuerpo-en-el-mar/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-investigan-hallazgo-de-cuerpo-en-el-mar",
+    "titulo": "MOP fortalece seguridad vial y conectividad de Ruta D-165 mediante alianza público-privada con CMP",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/10/mop-fortalece-seguridad-vial-y-conectividad-de-ruta-d-165-mediante-alianza-publico-privada-con-cmp/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Serena y Coquimbo",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Empleo formal y capacitación: Subsecretario del Trabajo despliega agenda laboral en la Región de Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/10/empleo-formal-y-capacitacion-subsecretario-del-trabajo-despliega-agenda-laboral-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Desaladora para 2030 y una circunvalación que se ejecute en etapas son prioridades para la Región de Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/10/desaladora-para-2030-y-una-circunvalacion-que-se-ejecute-en-etapas-son-prioridades-para-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Fortalecen la Seguridad Alimentaria de Ovalle con innovador huerto comunitario y módulos de hidroponía para familias",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/10/fortalecen-la-seguridad-alimentaria-de-ovalle-con-innovador-huerto-comunitario-y-modulos-de-hidroponia-para-familias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "17° Comité Operativo Regional conoce avances del Piloto de Empleabilidad para jóvenes en reinserción social",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/09/17-comite-operativo-regional-conoce-avances-del-piloto-de-empleabilidad-para-jovenes-en-reinsercion-social/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Combarbalá reunirá a estudiantes de todo Chile en una nueva fecha nacional de la Liga Robótica Escolar",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/09/combarbala-reunira-a-estudiantes-de-todo-chile-en-una-nueva-fecha-nacional-de-la-liga-robotica-escolar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Ministerio de las Culturas destina $70 millones para fortalecer la programación del Teatro Municipal de Ovalle",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/09/ministerio-de-las-culturas-destina-70-millones-para-fortalecer-la-programacion-del-teatro-municipal-de-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "SENDA lanza Encuesta “Juventud y Bienestar” para fortalecer la prevención en jóvenes estudiantes de la región",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/09/senda-lanza-encuesta-juventud-y-bienestar-para-fortalecer-la-prevencion-en-jovenes-estudiantes-de-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Familias de Paihuano mejoran sus viviendas gracias a alianza entre el FOSIS y la Municipalidad",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/09/familias-de-paihuano-mejoran-sus-viviendas-gracias-a-alianza-entre-el-fosis-y-la-municipalidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
     "zona": "IV Región",
     "cobertura_radio": "Toda la red Coquimbo"
   },
@@ -450,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Ronda extraordinaria de Carabineros en Monte Patria culmina con tres detenidos por distintos delitos",
+    "enlace": "https://www.elmontepatrino.cl/2026/07/12/ronda-extraordinaria-de-carabineros-en-monte-patria-culmina-con-tres-detenidos-por-distintos-delitos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Del aula a la mesa: El “Comedor Didáctico” que transforma a estudiantes del liceo de Monte Patria en profesionales de la gastronomía",
     "enlace": "https://www.elmontepatrino.cl/2026/07/10/del-aula-a-la-mesa-el-comedor-didactico-que-transforma-a-estudiantes-del-liceo-de-monte-patria-en-profesionales-de-la-gastronomia/",
     "descripcion": "",
@@ -531,12 +630,12 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "Inician obras para instalar pasto sintético en cancha del sector Higueras de Rapel en Monte Patria",
-    "enlace": "https://www.elmontepatrino.cl/2026/06/30/inician-obras-para-instalar-pasto-sintetico-en-cancha-del-sector-higueras-de-rapel-en-monte-patria/",
+    "titulo": "Tradición corralera reunió a la familia del rodeo en el cierre de temporada de la Asociación Limarí",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/12/tradicion-corralera-reunio-a-la-familia-del-rodeo-en-el-cierre-de-temporada-de-la-asociacion-limari/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
@@ -614,15 +713,6 @@
   {
     "titulo": "Avanzan obras de pavimentación en acceso a El Huacho y vecinos esperan nuevas mejoras viales en Combarbalá",
     "enlace": "https://www.elcombarbalino.cl/2026/06/15/avanzan-obras-de-pavimentacion-en-acceso-a-el-huacho-y-vecinos-esperan-nuevas-mejoras-viales-en-combarbala/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Preocupación en Combarbalá por eventual cierre del Centro de Detención Preventiva",
-    "enlace": "https://www.elcombarbalino.cl/2026/06/12/preocupacion-en-combarbala-por-eventual-cierre-del-centro-de-detencion-preventiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -828,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Carabineros detiene a adolescente por robo y porte de arma blanca en Salamanca",
+    "enlace": "https://www.elsalamanquino.cl/2026/07/12/carabineros-detiene-a-adolescente-por-robo-y-porte-de-arma-blanca-en-salamanca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "CEAZA pronostica sistema frontal que podría dejar más de 100 mm de lluvia y 2 metros de nieve en Salamanca y la región",
     "enlace": "https://www.elsalamanquino.cl/2026/07/10/ceaza-pronostica-sistema-frontal-que-podria-dejar-mas-de-100-mm-de-lluvia-y-2-metros-de-nieve-en-salamanca-y-la-region/",
     "descripcion": "",
@@ -909,13 +1008,103 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Un nuevo capítulo para el fútbol rural: La Higuerilla inaugura cancha para la comunidad",
-    "enlace": "https://www.elsalamanquino.cl/2026/06/24/un-nuevo-capitulo-para-el-futbol-rural-la-higuerilla-inaugura-cancha-para-la-comunidad/",
+    "titulo": "Los Vilos busca alternativas para 87 familias ante desalojo de terreno destinado a nuevo cementerio",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-busca-alternativas-para-87-familias-ante-desalojo-de-terreno-destinado-a-nuevo-cementerio/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Agricultora de Canela destaca el valor terapéutico de trabajar la tierra",
+    "enlace": "https://losviloschile.cl/canela/agricultora-de-canela-destaca-el-valor-terapeutico-de-trabajar-la-tierra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Comienzan las obras de modernización de Caleta Las Conchas en Los Vilos",
+    "enlace": "https://losviloschile.cl/actualidad/comienzan-las-obras-de-modernizacion-de-caleta-las-conchas-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos cierra con éxito la primera edición de Invierno Kids",
+    "enlace": "https://losviloschile.cl/social/municipalidad-de-los-vilos-cierra-con-exito-la-primera-edicion-de-invierno-kids/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Dirigentes de Los Vilos vuelven a ponerse “En Acción” con una nueva versión del programa comunitario",
+    "enlace": "https://losviloschile.cl/lospelambres/dirigentes-de-los-vilos-vuelven-a-ponerse-en-accion-con-una-nueva-version-del-programa-comunitario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "41 personas de Choapa finalizan capacitación en minería, soldadura y energías renovables",
+    "enlace": "https://losviloschile.cl/social/41-personas-de-choapa-finalizan-capacitacion-en-mineria-soldadura-y-energias-renovables/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tilama valoran atención de servicios públicos en Plaza Ciudadana",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tilama-valoran-atencion-de-servicios-publicos-en-plaza-ciudadana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Centro CALA lanza su primer “Cine de Invierno” con historias inspiradas en la naturaleza",
+    "enlace": "https://losviloschile.cl/lospelambres/centro-cala-lanza-su-primer-cine-de-invierno-con-historias-inspiradas-en-la-naturaleza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "68 familias de Canela reciben sus títulos de dominio y regularizan la propiedad de sus terrenos",
+    "enlace": "https://losviloschile.cl/canela/68-familias-de-canela-reciben-sus-titulos-de-dominio-y-regularizan-la-propiedad-de-sus-terrenos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Canela alcanza el 85% de cobertura y se convierte en la primera comuna de la región en cumplir la meta de vacunación contra la influenza",
+    "enlace": "https://losviloschile.cl/canela/canela-alcanza-el-85-de-cobertura-y-se-convierte-en-la-primera-comuna-de-la-region-en-cumplir-la-meta-de-vacunacion-contra-la-influenza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Diputado Carlos Bianchi propone reforma para proteger por 10 años beneficios sociales y laborales",
+    "enlace": "https://www.davidnoticias.cl/diputado-carlos-bianchi-propone-reforma-para-proteger-por-10-anos-beneficios-sociales-y-laborales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Confirman que conductor involucrado en fatal atropello en Viña del Mar es funcionario activo de la Armada",
@@ -999,13 +1188,22 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "50% de los jubilados y jubiladas en 2025 obtuvieron una pensión autofinanciada de vejez menor a $170 mil",
-    "enlace": "https://www.davidnoticias.cl/50-de-los-jubilados-y-jubiladas-en-2025-obtuvieron-una-pension-autofinanciada-de-vejez-menor-a-170-mil/",
+    "titulo": "AVISO: Escuela San Lorenzo de Andacollo requiere docente de Educación General Básica para reemplazo de licencia médica",
+    "enlace": "https://www.elandacollino.cl/2026/07/12/aviso-escuela-san-lorenzo-de-andacollo-requiere-docente-de-educacion-general-basica-para-reemplazo-de-licencia-medica/",
     "descripcion": "",
     "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Mejoran acceso peatonal del Puente El Curque en Andacollo mientras comunidad espera una solución definitiva para el tránsito vehicular",
+    "enlace": "https://www.elandacollino.cl/2026/07/12/mejoran-acceso-peatonal-del-puente-el-curque-en-andacollo-mientras-comunidad-espera-una-solucion-definitiva-para-el-transito-vehicular/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Proyecto Andacollo Oro avanza con 98 trabajadores y anuncia más de 400 nuevas oportunidades laborales",
@@ -1073,24 +1271,6 @@
   {
     "titulo": "Asamblea Extraordinaria de la Cámara de Turismo de Andacollo Asociación Gremial",
     "enlace": "https://www.elandacollino.cl/2026/07/04/asamblea-extraordinaria-de-la-camara-de-turismo-de-andacollo-asociacion-gremial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Pirquineros se manifestaron en calle de Andacollo para exigir diálogo con minera Galantas Gold",
-    "enlace": "https://www.elandacollino.cl/2026/07/04/pirquineros-se-manifestaron-en-calle-de-andacollo-para-exigir-dialogo-con-minera-galantas-gold/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Deportistas de Andacollo reciben lentes especializados para potenciar su rendimiento y salud visual",
-    "enlace": "https://www.elandacollino.cl/2026/07/03/deportistas-de-andacollo-reciben-lentes-especializados-para-potenciar-su-rendimiento-y-salud-visual/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1458,6 +1638,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Incendio destruyó tres viviendas en Bellavista y deja a diez personas damnificadas en Cabildo",
+    "enlace": "https://laliguanoticias.cl/2026/07/12/incendio-destruyo-tres-viviendas-en-bellavista-y-deja-a-diez-personas-damnificadas-en-cabildo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "Cámara de Diputados aprueba admisibilidad de proyecto que crea el “Registro de Vándalos para delincuentes de Cuello y Corbata” impulsado por el diputado Cristian Mella",
     "enlace": "https://laliguanoticias.cl/2026/07/10/camara-de-diputados-aprueba-admisibilidad-de-proyecto-que-crea-el-registro-de-vandalos-para-delincuentes-de-cuello-y-corbata-impulsado-por-el-diputado-cristian-mella/",
     "descripcion": "",
@@ -1532,15 +1721,6 @@
   {
     "titulo": "Todo listo para una nueva celebración del Día del Dulce y el Dulcero 2026",
     "enlace": "https://laliguanoticias.cl/2026/07/02/todo-listo-para-una-nueva-celebracion-del-dia-del-dulce-y-el-dulcero-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "59 emprendedores de La Ligua, Nogales y La Calera participarán en el programa Capital Emprendedor de Sopraval",
-    "enlace": "https://laliguanoticias.cl/2026/07/02/59-emprendedores-de-la-ligua-nogales-y-la-calera-participaran-en-el-programa-capital-emprendedor-de-sopraval/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,8 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El líder en la era de los agentes. Por John Piragauta, gerente de transformación digital cloud en In Motion",
-    "enlace": "https://g5noticias.cl/2026/07/12/el-lider-en-la-era-de-los-agentes-por-john-piragauta-gerente-de-transformacion-digital-cloud-en-in-motion/",
+    "titulo": "ULagos fortalece alianzas para impulsar la reinserción social juvenil junto al sector público y privado",
+    "enlace": "https://g5noticias.cl/2026/07/12/ulagos-fortalece-alianzas-para-impulsar-la-reinsercion-social-juvenil-junto-al-sector-publico-y-privado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Innovadora herramienta detecta las fugas de calor en las casas para disminuir frío y moho",
-    "enlace": "https://g5noticias.cl/2026/07/12/innovadora-herramienta-detecta-las-fugas-de-calor-en-las-casas-para-disminuir-frio-y-moho/",
+    "titulo": "Ministro Poduje anuncia proyecto que pondrá fin a la crisis sanitaria de sector El Rosal",
+    "enlace": "https://g5noticias.cl/2026/07/12/ministro-poduje-anuncia-proyecto-que-pondra-fin-a-la-crisis-sanitaria-de-sector-el-rosal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La resiliencia ya no es suficiente para potenciar la ciberseguridad. Por Juan Pablo Beltrán, Socio de Ciberseguridad y Resiliencia de Cybertrust",
-    "enlace": "https://g5noticias.cl/2026/07/12/la-resiliencia-ya-no-es-suficiente-para-potenciar-la-ciberseguridad-por-juan-pablo-beltran-socio-de-ciberseguridad-y-resiliencia-de-cybertrust/",
+    "titulo": "La tendencia gorpcore suma un nuevo imprescindible: el G-SHOCK que reinventa el camuflaje",
+    "enlace": "https://g5noticias.cl/2026/07/12/la-tendencia-gorpcore-suma-un-nuevo-imprescindible-el-g-shock-que-reinventa-el-camuflaje/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Por penales, Unión La Calera cayó en las semifinales de la Copa de La Liga ante Coquimbo Unido: portero Sánchez contuvo tres penales y anotó el propio para los «piratas»",
-    "enlace": "https://g5noticias.cl/2026/07/12/por-penales-union-la-calera-cayo-en-las-semifinales-de-la-copa-de-la-liga-ante-coquimbo-unido-portero-sanchez-contuvo-tres-penales-y-anoto-el-propio-para-los-piratas/",
+    "titulo": "Estudio liderado por investigadoras de la Escuela de Medicina UMAG revela por primera vez la dinámica de las bacterias estomacales en el avance del cáncer gástrico en población chilena",
+    "enlace": "https://g5noticias.cl/2026/07/12/estudio-liderado-por-investigadoras-de-la-escuela-de-medicina-umag-revela-por-primera-vez-la-dinamica-de-las-bacterias-estomacales-en-el-avance-del-cancer-gastrico-en-poblacion-chilena/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Saiko anuncia gira nacional en agosto con shows en Santiago, Temuco, Valdivia y Puerto Montt",
-    "enlace": "https://g5noticias.cl/2026/07/12/saiko-anuncia-gira-nacional-en-agosto-con-shows-en-santiago-temuco-valdivia-y-puerto-montt/",
+    "titulo": "¿Estamos desincentivando a nuestros mejores directivos públicos? Por Patricio Muñoz Montenegro, Docente Facultad de Economía y Negocios Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/07/12/estamos-desincentivando-a-nuestros-mejores-directivos-publicos-por-patricio-munoz-montenegro-docente-facultad-de-economia-y-negocios-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Novotel y Ecerlab impulsan plan piloto de certificación laboral para enfrentar brechas de productividad en la hotelería chilena",
-    "enlace": "https://g5noticias.cl/2026/07/12/novotel-y-ecerlab-impulsan-plan-piloto-de-certificacion-laboral-para-enfrentar-brechas-de-productividad-en-la-hoteleria-chilena/",
+    "titulo": "Cinco usos prácticos de la IA agéntica en empresas chilenas: desde la atención al cliente hasta la optimización de inventario",
+    "enlace": "https://g5noticias.cl/2026/07/12/cinco-usos-practicos-de-la-ia-agentica-en-empresas-chilenas-desde-la-atencion-al-cliente-hasta-la-optimizacion-de-inventario-3/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Abiertas las inscripciones para participar en el Campeonato Comunal de Cueca Personas Mayores 2026",
-    "enlace": "https://g5noticias.cl/2026/07/12/abiertas-las-inscripciones-para-participar-en-el-campeonato-comunal-de-cueca-personas-mayores-2026-2/",
+    "titulo": "Concón National cerró la primera fase con un gran triunfo y aseguró su lugar en la liguilla de ascenso",
+    "enlace": "https://g5noticias.cl/2026/07/12/concon-national-cerro-la-primera-fase-con-un-gran-triunfo-y-aseguro-su-lugar-en-la-liguilla-de-ascenso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Buscando trabajo? Estas son las habilidades en IA que hoy pueden marcar la diferencia en un proceso de selección",
-    "enlace": "https://g5noticias.cl/2026/07/12/buscando-trabajo-estas-son-las-habilidades-en-ia-que-hoy-pueden-marcar-la-diferencia-en-un-proceso-de-seleccion/",
+    "titulo": "Esval y Delegación de Petorca refuerzan trabajo preventivo y coordinación ante próximo sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/12/esval-y-delegacion-de-petorca-refuerzan-trabajo-preventivo-y-coordinacion-ante-proximo-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobierno informa salida de un séptimo vuelo con expulsados, llegando a 1.174 en lo que va de 2026",
-    "enlace": "https://g5noticias.cl/2026/07/12/gobierno-informa-salida-de-un-septimo-vuelo-con-expulsados-llegando-a-1-174-en-lo-que-va-de-2026/",
+    "titulo": "¿Está fuerte el invierno? Revisa las 6 claves para evitar el dolor de garganta",
+    "enlace": "https://g5noticias.cl/2026/07/12/esta-fuerte-el-invierno-revisa-las-6-claves-para-evitar-el-dolor-de-garganta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Salud emocional: cuando el malestar tiene causas sociales. Por Yasna Anabalón, Académica Carrera de Trabajo Social Universidad de Las Américas, Sede Concepción",
-    "enlace": "https://g5noticias.cl/2026/07/12/salud-emocional-cuando-el-malestar-tiene-causas-sociales-por-yasna-anabalon-academica-carrera-de-trabajo-social-universidad-de-las-americas-sede-concepcion-2/",
+    "titulo": "Encuentran mortero con carga activa en la ribera del Río Putaendo: fue detonado por Carabineros",
+    "enlace": "https://g5noticias.cl/2026/07/12/encuentran-mortero-con-carga-activa-en-la-ribera-del-rio-putaendo-fue-detonado-por-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
