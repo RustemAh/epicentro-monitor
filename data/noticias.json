@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Generación eléctrica de la Región de Coquimbo fue un 99% con energías renovables en primer semestre",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/14/generacion-electrica-de-la-region-de-coquimbo-fue-un-99-con-energias-renovables-en-primer-semestre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Recuperan bicicletas robadas por $12 millones que eran comercializadas en Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/14/recuperan-bicicletas-robadas-por-12-millones-que-eran-comercializadas-en-coquimbo/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Cirugías sin hospitalización ganan espacio en la Región de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/09/cirugias-sin-hospitalizacion-ganan-espacio-en-la-region-de-coquimbo/",
+    "titulo": "Empresas y gremios de Coquimbo trabajan en potenciar las exportaciones regionales",
+    "enlace": "https://www.elserenense.cl/regionales/2026/07/14/empresas-y-gremios-de-coquimbo-trabajan-en-potenciar-las-exportaciones-regionales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Tres personas detenidas por la PDI por violento robo a hombre contactado mediante página web en La Serena",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Operativo conjunto detectó extracción ilegal de machas al sur de La Serena",
-    "enlace": "https://www.elserenense.cl/educacion/2026/07/09/operativo-conjunto-detecto-extraccion-ilegal-de-machas-al-sur-de-la-serena/",
+    "titulo": "Aguas del Valle activa plan preventivo ante anuncio del Sistema Frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/14/aguas-del-valle-activa-plan-preventivo-ante-anuncio-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Vanguardia: Médicas especialistas lideran innovadora jornada de procedimientos endoscópicos de alta complejidad en La Serena",
     "enlace": "https://laserenaonline.cl/2026/07/13/vanguardia-medicas-especialistas-lideran-innovadora-jornada-de-procedimientos-endoscopicos-de-alta-complejidad-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Consejos para aprovechar tu celular al máximo",
-    "enlace": "https://laserenaonline.cl/2026/07/13/consejos-para-aprovechar-tu-celular-al-maximo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "ObituarioHOY del martes 14 de julio",
+    "enlace": "https://ovallehoy.cl/obituariohoy-del-martes-14-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Operativo de seguridad en el centro de Ovalle deja 3 detenidos y más de 170 fiscalizaciones",
     "enlace": "https://ovallehoy.cl/operativo-de-seguridad-en-el-centro-de-ovalle-deja-3-detenidos-y-mas-de-170-fiscalizaciones/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Corte de luz afecta a más de 4.000 clientes en Ovalle",
     "enlace": "https://ovallehoy.cl/corte-de-luz-afecta-a-mas-de-4-000-clientes-en-ovalle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Transforma plástico en filamento 3D: Estudiantes de Ovalle logran segundo lugar nacional con innovador proyecto",
-    "enlace": "https://ovallehoy.cl/transforma-plastico-en-filamento-3d-estudiantes-de-ovalle-logran-segundo-lugar-nacional-con-innovador-proyecto/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -720,6 +720,24 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "CEAZA pronostica hasta 230 mm de lluvia en el Choapa: autoridades suspenden las clases del viernes",
+    "enlace": "https://veetv.cl/lluvias-choapa-pronostico-ceaza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Brujas de Salamanca derrota a Trasandino, clasifica a la liguilla y termina invicto la primera rueda",
+    "enlace": "https://veetv.cl/brujas-salamanca-clasifica-liguilla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
     "titulo": "Punta Nueva deja atrás la tierra y estrena una cancha con estándar FIFA",
     "enlace": "https://www.elsalamanquino.cl/2026/07/13/punta-nueva-deja-atras-la-tierra-y-estrena-una-cancha-con-estandar-fifa/",
     "descripcion": "",
@@ -990,6 +1008,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Cómo la expulsión de un alto funcionario del Partido Comunista de China acentúa la purga de Xi Jinping",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/14/como-la-expulsion-de-un-alto-funcionario-del-partido-comunista-de-china-acentua-la-purga-de-xi-jinping/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "¿Recesión técnica o una pausa? Las cifras que tensionan el optimismo del Gobierno sobre la economía",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/14/recesion-tecnica-o-una-pausa-las-cifras-que-tensionan-el-optimismo-del-gobierno-sobre-la-economia-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Caso Tanya Aciares: Por recurso aún sin resolver, tribunal reprograma juicio por obstrucción a la investigación para el 24 de agosto",
     "enlace": "https://www.atacamanoticias.cl/2026/07/14/caso-tanya-aciares-por-recurso-aun-sin-resolver-tribunal-reprograma-juicio-por-obstruccion-a-la-investigacion-para-el-24-de-agosto/",
     "descripcion": "",
@@ -1055,24 +1091,6 @@
   {
     "titulo": "Gobierno llama a prepararse ante sistema frontal e informarse por canales oficiales",
     "enlace": "https://www.atacamanoticias.cl/2026/07/14/gobierno-llama-a-prepararse-ante-sistema-frontal-e-informarse-por-canales-oficiales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cesfam Manuel Rodríguez logra acreditación en Calidad y Seguridad del Paciente",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/14/cesfam-manuel-rodriguez-logra-acreditacion-en-calidad-y-seguridad-del-paciente/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Senadora Cicardini logra aprobar su indicación sobre “olvido financiero” en megarreforma",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/13/senadora-cicardini-logra-aprobar-su-indicacion-sobre-olvido-financiero-en-megarreforma/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1348,5 +1366,95 @@
     "medio": "La Prensa Austral",
     "zona": "Punta Arenas",
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "San Gregorio impulsa vida saludable con taller de transformación de berries regionales",
+    "enlace": "https://elmagallanico.com/2026/07/14/san-gregorio-impulsa-vida-saludable-con-taller-de-transformacion-de-berries-regionales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Comité de Salud de Peces abordó la tenacibaculosis y una estrategia coordinada para controlar el cáligus",
+    "enlace": "https://elmagallanico.com/2026/07/14/comite-de-salud-de-peces-abordo-la-tenacibaculosis-y-una-estrategia-coordinada-para-controlar-el-caligus/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Tres jóvenes magallánicos representarán a Chile en torneo de hockey sobre hielo en Estados Unidos",
+    "enlace": "https://elmagallanico.com/2026/07/14/tres-jovenes-magallanicos-representaran-a-chile-en-torneo-de-hockey-sobre-hielo-en-estados-unidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Con gran participación vecinal finalizó Desafío Escenario 2026: Concurso de talentos en Puerto Williams",
+    "enlace": "https://elmagallanico.com/2026/07/14/con-gran-participacion-vecinal-finalizo-desafio-escenario-2026-concurso-de-talentos-en-puerto-williams/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "SUB/LUZ estrena “Seguir”, adelanto de su segundo disco",
+    "enlace": "https://elmagallanico.com/2026/07/14/sub-luz-estrena-seguir-adelanto-de-su-segundo-disco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Senda desarrolla programa Juventud y Bienestar en la Provincia Antártica",
+    "enlace": "https://elmagallanico.com/2026/07/14/senda-desarrolla-programa-juventud-y-bienestar-en-la-provincia-antartica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "PDI mantiene abiertas las postulaciones para el proceso de Admisión 2027 de Agentes Policiales",
+    "enlace": "https://elmagallanico.com/2026/07/14/pdi-mantiene-abiertas-las-postulaciones-para-el-proceso-de-admision-2027-de-agentes-policiales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Segundo caso regional en menos de 48 horas: Detienen a hombre circulando con pistola y municiones",
+    "enlace": "https://elmagallanico.com/2026/07/14/segundo-caso-regional-en-menos-de-48-horas-detienen-a-hombre-circulando-con-pistola-y-municiones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Comenzó la Feria Invernadas: Vitrina para destacar el talento de emprendedores de Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/07/14/comenzo-la-feria-invernadas-vitrina-para-destacar-el-talento-de-emprendedores-de-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Tripulación de ferry prestó apoyo a yatista en emergencia médica en el Canal Magdalena",
+    "enlace": "https://elmagallanico.com/2026/07/14/tripulacion-de-ferry-presto-apoyo-a-yatista-en-emergencia-medica-en-el-canal-magdalena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   }
 ]
