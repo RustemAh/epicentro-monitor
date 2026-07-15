@@ -90,6 +90,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Orquesta Filarmónica Juvenil Antena será parte del XX Campamento Musical Fresia 2026",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/07/15/orquesta-filarmonica-juvenil-antena-sera-parte-del-xx-campamento-musical-fresia-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "El patrimonio vuelve a cobrar vida: Adjudican restauración de las emblemáticas esculturas de La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/15/el-patrimonio-vuelve-a-cobrar-vida-adjudican-restauracion-de-las-emblematicas-esculturas-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Fiscalización en el centro de La Serena termina con más de 150 cajetillas de cigarro incautadas: hay una detenida por contrabando",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/15/fiscalizacion-en-el-centro-de-la-serena-termina-con-mas-de-150-cajetillas-de-cigarro-incautadas-hay-una-detenida-por-contrabando/",
     "descripcion": "",
@@ -162,20 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Solo durante el fin de semana: más de cien detenidos registró Carabineros en la provincia del Elqui",
-    "enlace": "https://www.elserenense.cl/regionales/2026/07/13/solo-durante-el-fin-de-semana-mas-de-cien-detenidos-registro-carabineros-en-la-provincia-del-elqui/",
+    "titulo": "Monte Patria se alista para precipitaciones que dejarán cerca de 200 milímetros de agua",
+    "enlace": "https://laserenaonline.cl/2026/07/15/monte-patria-se-alista-para-precipitaciones-que-dejaran-cerca-de-200-milimetros-de-agua/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Filarmónica Antena brilla en Australia y se queda con el oro en el Festival Internacional de la Música",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/12/filarmonica-antena-brilla-en-australia-y-se-queda-con-el-oro-en-el-festival-internacional-de-la-musica/",
+    "titulo": "CGE refuerza equipos y coordinación ante evento climático en la región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/15/cge-refuerza-equipos-y-coordinacion-ante-evento-climatico-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Despliegues nocturnos de Carabineros permiten detener a dos conocidos delincuentes en Illapel",
     "enlace": "https://laserenaonline.cl/2026/07/15/despliegues-nocturnos-de-carabineros-permiten-detener-a-dos-conocidos-delincuentes-en-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 15 de julio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/15/reporte-del-tiempo-hoy-15-de-julio-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Gobierno entrega recomendaciones preventivas al sector silvoagropecuario ante pronóstico de sistema frontal en la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/14/gobierno-entrega-recomendaciones-preventivas-al-sector-silvoagropecuario-ante-pronostico-de-sistema-frontal-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Estudio revela que una mejor condición física puede reducir hasta en un 95% el riesgo de mortalidad",
+    "enlace": "https://ovallehoy.cl/estudio-revela-que-una-mejor-condicion-fisica-puede-reducir-hasta-en-un-95-el-riesgo-de-mortalidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Con despliegue de maquinaria y planes de emergencia: Municipios se movilizan ante inminente sistema frontal",
     "enlace": "https://ovallehoy.cl/con-despliegue-de-maquinaria-y-planes-de-emergencia-municipios-se-movilizan-ante-inminente-sistema-frontal/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "ObituarioHOY del lunes 13 de julio",
     "enlace": "https://ovallehoy.cl/obituariohoy-del-lunes-13-de-julio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Empleo: Inyectarán $472 millones en 22 cursos enfocados en los oficios más buscados por las empresas en la región",
-    "enlace": "https://ovallehoy.cl/empleo-inyectaran-472-millones-en-22-cursos-enfocados-en-los-oficios-mas-buscados-por-las-empresas-en-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Minera Los Pelambres y Vialidad firman convenio que mejora las vías de la Provincia de Choapa",
+    "enlace": "https://www.elsalamanquino.cl/2026/07/15/minera-los-pelambres-y-vialidad-firman-convenio-que-mejora-las-vias-de-la-provincia-de-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Junta de Vigilancia del Río Choapa reitera llamado a tomar medidas preventivas ante intensas lluvias pronosticadas para la provincia",
     "enlace": "https://www.elsalamanquino.cl/2026/07/15/junta-de-vigilancia-del-rio-choapa-reitera-llamado-a-tomar-medidas-preventivas-ante-intensas-lluvias-pronosticadas-para-la-provincia/",
     "descripcion": "",
@@ -999,13 +1008,13 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Salamanca se mantiene bajo Alerta Temprana Preventiva por pronóstico de fuertes vientos en la cordillera",
-    "enlace": "https://www.elsalamanquino.cl/2026/06/28/salamanca-se-mantiene-bajo-alerta-temprana-preventiva-por-pronostico-de-fuertes-vientos-en-la-cordillera/",
+    "titulo": "Experto de Ceaza califica evento climático como histórico",
+    "enlace": "https://www.davidnoticias.cl/experto-de-ceaza-califica-evento-climatico-como-historico/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Región de Coquimbo suspende clases para este viernes por intenso sistema frontal",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Diputado Carlos Bianchi propone reforma para proteger por 10 años beneficios sociales y laborales",
     "enlace": "https://www.davidnoticias.cl/diputado-carlos-bianchi-propone-reforma-para-proteger-por-10-anos-beneficios-sociales-y-laborales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Confirman que conductor involucrado en fatal atropello en Viña del Mar es funcionario activo de la Armada",
-    "enlace": "https://www.davidnoticias.cl/confirman-que-conductor-involucrado-en-fatal-atropello-en-vina-del-mar-es-funcionario-activo-de-la-armada/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Delegada Presidencial coordina prevención ante la llegada de sistema frontal frío: despliegue de seremis en las nueve comunas y articulación con los municipios",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/15/delegada-presidencial-coordina-prevencion-ante-la-llegada-de-sistema-frontal-frio-despliegue-de-seremis-en-las-nueve-comunas-y-articulacion-con-los-municipios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "MOP avanza en mejoramiento del sistema de agua potable rural de Llanos del Lagarto en Huasco",
     "enlace": "https://www.atacamanoticias.cl/2026/07/14/mop-avanza-en-mejoramiento-del-sistema-de-agua-potable-rural-de-llanos-del-lagarto-en-huasco/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Retiro de torre de histórica capilla del Instituto Politécnico Belén se realiza por seguridad tras daños estructurales",
     "enlace": "https://www.atacamanoticias.cl/2026/07/14/retiro-de-torre-de-historica-capilla-del-instituto-politecnico-belen-se-realiza-por-seguridad-tras-danos-estructurales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Viernes 17: Región de Atacama suspende clases ante inusual sistema frontal con lluvias intensas durante tres días",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/14/viernes-17-region-de-atacama-suspende-clases-ante-inusual-sistema-frontal-con-lluvias-intensas-durante-tres-dias/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Sistema frontal: los elementos que no pueden faltar en un botiquín familiar",
+    "enlace": "https://www.maray.cl/pais/15/07/2026/sistema-frontal-los-elementos-que-no-pueden-faltar-en-un-botiquin-familiar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "EE.UU. bombardea nuevos objetivos en Irán y aumenta la tensión en el estrecho de Ormuz",
+    "enlace": "https://www.maray.cl/internacional/15/07/2026/ee-uu-bombardea-nuevos-objetivos-en-iran-y-aumenta-la-tension-en-el-estrecho-de-ormuz/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Vallenar: Carabineros detiene a tres sujetos por agresión, violación de morada y porte de drogas",
+    "enlace": "https://www.maray.cl/atacama/15/07/2026/vallenar-carabineros-detiene-a-tres-sujetos-por-agresion-violacion-de-morada-y-porte-de-drogas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Temporal deja los primeros daños en el sur y autoridades advierten lluvias históricas entre Atacama y la zona central",
+    "enlace": "https://www.maray.cl/atacama/15/07/2026/temporal-deja-los-primeros-danos-en-el-sur-y-autoridades-advierten-lluvias-historicas-entre-atacama-y-la-zona-central/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Estudiantes de Técnico en Diseño Gráfico de Santo Tomás fortalecen la estrategia digital de emprendedores de Atacama",
+    "enlace": "https://www.maray.cl/atacama/15/07/2026/estudiantes-de-tecnico-en-diseno-grafico-de-santo-tomas-fortalecen-la-estrategia-digital-de-emprendedores-de-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "VíasChile activa plan de contingencia en 494 kilómetros de autopistas por sistema frontal",
     "enlace": "https://www.maray.cl/pais/15/07/2026/viaschile-activa-plan-de-contingencia-en-494-kilometros-de-autopistas-por-sistema-frontal/",
     "descripcion": "",
@@ -1496,51 +1541,6 @@
   {
     "titulo": "Firman plan de revitalización cultural de pueblos indígenas y afrodescendientes en Atacama",
     "enlace": "https://www.maray.cl/atacama/15/07/2026/firman-plan-de-revitalizacion-cultural-de-pueblos-indigenas-y-afrodescendientes-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "EE.UU. reimpone el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
-    "enlace": "https://www.maray.cl/internacional/14/07/2026/ee-uu-reimpone-el-bloqueo-naval-a-iran-y-lanza-una-nueva-ola-de-bombardeos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sismo de magnitud 5,4 se percibe en las regiones de Valparaíso y Metropolitana",
-    "enlace": "https://www.maray.cl/pais/14/07/2026/sismo-de-magnitud-54-se-percibe-en-las-regiones-de-valparaiso-y-metropolitana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Mbappé tras la eliminación de Francia: «No estuvimos a la altura de una semifinal de un Mundial»",
-    "enlace": "https://www.maray.cl/deportes/14/07/2026/mbappe-tras-la-eliminacion-de-francia-no-estuvimos-a-la-altura-de-una-semifinal-de-un-mundial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Árbitro chileno Juan Lara integrará el VAR en la semifinal entre Argentina e Inglaterra",
-    "enlace": "https://www.maray.cl/deportes/14/07/2026/arbitro-chileno-juan-lara-integrara-el-var-en-la-semifinal-entre-argentina-e-inglaterra/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Comisión del Senado aprueba “derecho al olvido” bancario: deudas antiguas dejarían de afectar acceso a créditos",
-    "enlace": "https://www.maray.cl/pais/14/07/2026/comision-del-senado-aprueba-derecho-al-olvido-bancario-deudas-antiguas-dejarian-de-afectar-acceso-a-creditos/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,6 +1728,69 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Juzgado de Garantía de Arica decreta la prisión preventiva de imputado por sustracción de menores",
+    "enlace": "https://g5noticias.cl/2026/07/15/juzgado-de-garantia-de-arica-decreta-la-prision-preventiva-de-imputado-por-sustraccion-de-menores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Municipio de Viña inicia cierre total de todos los ingresos del estero Marga Marga y retiran barreras New Jersey del caudal",
+    "enlace": "https://g5noticias.cl/2026/07/15/municipio-de-vina-inicia-cierre-total-de-todos-los-ingresos-del-estero-marga-marga-y-retiran-barreras-new-jersey-del-caudal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Corte de Apelaciones de Santiago anula multa a Chilevisión por emitir contenido “escabroso” sobre caso de ex subsecretario Manuel Monsalve",
+    "enlace": "https://g5noticias.cl/2026/07/15/corte-de-apelaciones-de-santiago-anula-multa-a-chilevision-por-emitir-contenido-escabroso-sobre-caso-de-ex-subsecretario-manuel-monsalve/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputado Gatica respalda bono por hijo pero emplaza al Gobierno a enfrentar el alza del costo de la vida con medidas de fondo",
+    "enlace": "https://g5noticias.cl/2026/07/15/diputado-gatica-respalda-bono-por-hijo-pero-emplaza-al-gobierno-a-enfrentar-el-alza-del-costo-de-la-vida-con-medidas-de-fondo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hospital Dr. Gustavo Fricke dictó taller de alfabetización digital para usuarios en rehabilitación psicosocial",
+    "enlace": "https://g5noticias.cl/2026/07/15/hospital-dr-gustavo-fricke-dicto-taller-de-alfabetizacion-digital-para-usuarios-en-rehabilitacion-psicosocial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Nacho Sarmiento presenta “Intenté Olvidarte”, una canción sobre cerrar etapas y volver a empezar",
+    "enlace": "https://g5noticias.cl/2026/07/15/nacho-sarmiento-presenta-intente-olvidarte-una-cancion-sobre-cerrar-etapas-y-volver-a-empezar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Nacimientos aumentaron 3,5% interanualmente en marzo de 2026",
+    "enlace": "https://g5noticias.cl/2026/07/15/nacimientos-aumentaron-35-interanualmente-en-marzo-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Balance MOP: Dos ríos se mantienen bajo alerta azul por aumento de caudal en Ñuble",
     "enlace": "https://g5noticias.cl/2026/07/15/balance-mop-dos-rios-se-mantienen-bajo-alerta-azul-por-aumento-de-caudal-en-nuble/",
     "descripcion": "",
@@ -1748,69 +1811,6 @@
   {
     "titulo": "Ante intenso sistema frontal, Chilquinta refuerza su plan preventivo y llama a la comunidad a prepararse",
     "enlace": "https://g5noticias.cl/2026/07/15/ante-intenso-sistema-frontal-chilquinta-refuerza-su-plan-preventivo-y-llama-a-la-comunidad-a-prepararse/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Juzgado Civil ordena indemnizar a familiares de conscripto ejecutado en Regimiento Buin en 1973",
-    "enlace": "https://g5noticias.cl/2026/07/15/juzgado-civil-ordena-indemnizar-a-familiares-de-conscripto-ejecutado-en-regimiento-buin-en-1973/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tecnología satelital fortalece la protección del bosque nativo en La Araucanía",
-    "enlace": "https://g5noticias.cl/2026/07/15/tecnologia-satelital-fortalece-la-proteccion-del-bosque-nativo-en-la-araucania/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Aumentan a 4 734 los muertos por los terremotos de hace casi tres semanas en Venezuela",
-    "enlace": "https://g5noticias.cl/2026/07/15/aumentan-a-4-734-los-muertos-por-los-terremotos-de-hace-casi-tres-semanas-en-venezuela/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscal Salcedo logra condena de 17 años de presidio para mujer por el homicidio de su hermano",
-    "enlace": "https://g5noticias.cl/2026/07/15/fiscal-salcedo-logra-condena-de-17-anos-de-presidio-para-mujer-por-el-homicidio-de-su-hermano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Puerto Aysén: Condenan a una sumatoria de 11 años de presidio a imputado por violación y lesiones",
-    "enlace": "https://g5noticias.cl/2026/07/15/puerto-aysen-condenan-a-una-sumatoria-de-11-anos-de-presidio-a-imputado-por-violacion-y-lesiones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Encargados municipales de cultura participan en encuentro de fortalecimiento en Limache",
-    "enlace": "https://g5noticias.cl/2026/07/15/encargados-municipales-de-cultura-participan-en-encuentro-de-fortalecimiento-en-limache/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Música para el futuro: jóvenes de Antofagasta potencian su reinserción social con el programa Liberando Talento",
-    "enlace": "https://g5noticias.cl/2026/07/15/musica-para-el-futuro-jovenes-de-antofagasta-potencian-su-reinsercion-social-con-el-programa-liberando-talento/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1998,6 +1998,42 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Comisión del Consejo Regional abre trabajo interinstitucional para fortalecer la salud mental en Magallanes",
+    "enlace": "https://elmagallanico.com/2026/07/15/comision-del-consejo-regional-abre-trabajo-interinstitucional-para-fortalecer-la-salud-mental-en-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Tribunal de Punta Arenas absuelve a todos los acusados por tragedia del C-130 Hércules",
+    "enlace": "https://elmagallanico.com/2026/07/15/tribunal-de-punta-arenas-absuelve-a-todos-los-acusados-por-tragedia-del-c-130-hercules/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Opinión: Formación y Formalización, una dupla para el desarrollo",
+    "enlace": "https://elmagallanico.com/2026/07/15/opinion-formacion-y-formalizacion-una-dupla-para-el-desarrollo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Magallanes conforma Mesa Regional de Maternidad para fortalecer el apoyo a madres y a familias",
+    "enlace": "https://elmagallanico.com/2026/07/15/magallanes-conforma-mesa-regional-de-maternidad-para-fortalecer-el-apoyo-a-madres-y-a-familias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Cabo de Hornos refuerza difusión y fiscalización ante el inicio de la temporada de centolla",
     "enlace": "https://elmagallanico.com/2026/07/15/cabo-de-hornos-refuerza-difusion-y-fiscalizacion-ante-el-inicio-de-la-temporada-de-centolla/",
     "descripcion": "",
@@ -2045,42 +2081,6 @@
   {
     "titulo": "Creatividad y alegría marcaron jornada de muñecos de nieve en Villa Tehuelches",
     "enlace": "https://elmagallanico.com/2026/07/15/creatividad-y-alegria-marcaron-jornada-de-munecos-de-nieve-en-villa-tehuelches/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Fallo judicial contra los Salesianos vuelve a aludir los antecedentes ligados a Rimsky Rojas y al caso Harex",
-    "enlace": "https://elmagallanico.com/2026/07/15/fallo-judicial-contra-los-salesianos-vuelve-a-aludir-los-antecedentes-ligados-a-rimsky-rojas-y-al-caso-harex/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Más de 1800 personas asistieron a la XII versión de la Convención de Circo del Fin del Mundo",
-    "enlace": "https://elmagallanico.com/2026/07/15/mas-de-1800-personas-asistieron-a-la-xii-version-de-la-convencion-de-circo-del-fin-del-mundo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Flies defiende el aporte estratégico de Zona Franca y proyecta su expansión",
-    "enlace": "https://elmagallanico.com/2026/07/15/flies-defiende-el-aporte-estrategico-de-zona-franca-y-proyecta-su-expansion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Se inició entrega de invitaciones para galas de los elencos municipales: Hoy a partir de las 15 horas",
-    "enlace": "https://elmagallanico.com/2026/07/15/se-inicio-entrega-de-invitaciones-para-galas-de-los-elencos-municipales-hoy-a-partir-de-las-15-horas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
