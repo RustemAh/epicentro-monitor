@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Identifican 171 puntos críticos y 13 personas albergadas en COGRID de La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/16/identifican-171-puntos-criticos-y-13-personas-albergadas-en-cogrid-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Faro Monumental de La Serena cierra sus puertas por sistema frontal",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/16/faro-monumental-de-la-serena-cierra-sus-puertas-por-sistema-frontal/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "El lado B del temporal en La Serena y Coquimbo : Se agotan nylon, sacos y masas para sopaipillas",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/14/el-lado-b-del-temporal-en-la-serena-y-coquimbo-se-agotan-nylon-sacos-y-masas-para-sopaipillas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Alerta Amarilla por lluvias obliga a suspender partido de rugby entre Los Cóndores y Georgia en La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/14/alerta-amarilla-por-lluvias-obliga-a-suspender-partido-de-rugby-entre-los-condores-y-georgia-en-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Vehículo se desbarranca en calle Los Álamos de Illapel y moviliza a equipos de emergencia",
+    "enlace": "https://www.elillapelino.cl/2026/07/16/vehiculo-se-desbarranca-en-calle-los-alamos-de-illapel-y-moviliza-a-equipos-de-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Minera Los Pelambres activa plan preventivo ante contingencia climática",
     "enlace": "https://www.elillapelino.cl/2026/07/16/minera-los-pelambres-activa-plan-preventivo-ante-contingencia-climatica/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "Programa Aproxima lleva agua potable a hogares de El Maitén Norte",
     "enlace": "https://www.elillapelino.cl/2026/07/08/programa-aproxima-lleva-agua-potable-a-hogares-de-el-maiten-norte/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Comité Comunal de Seguridad Educativa refuerza coordinación para enfrentar la violencia escolar en Illapel",
-    "enlace": "https://www.elillapelino.cl/2026/07/07/comite-comunal-de-seguridad-educativa-refuerza-coordinacion-para-enfrentar-la-violencia-escolar-en-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1008,6 +1008,33 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Trabajador fallece aplastado por un árbol durante labores de emergencia en Negrete",
+    "enlace": "https://www.davidnoticias.cl/trabajador-fallece-aplastado-por-un-arbol-durante-labores-de-emergencia-en-negrete/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Camión cae a un barranco en Las Majaditas por terreno resbaladizo tras las lluvias",
+    "enlace": "https://www.davidnoticias.cl/camion-cae-a-un-barranco-en-las-majaditas-por-terreno-resbaladizo-tras-las-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Fuertes ráfagas de viento derriban letra volumétrica en la Costanera de Los Vilos mientras sistema frontal mantiene en alerta a la comuna",
+    "enlace": "https://www.davidnoticias.cl/fuertes-rafagas-de-viento-derriban-letra-volumetrica-en-la-costanera-de-los-vilos-mientras-sistema-frontal-mantiene-en-alerta-a-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Sistema frontal deja importantes precipitaciones y nevazones en la provincia de Choapa",
     "enlace": "https://www.davidnoticias.cl/sistema-frontal-deja-importantes-precipitaciones-y-nevazones-en-la-provincia-de-choapa/",
     "descripcion": "",
@@ -1064,33 +1091,6 @@
   {
     "titulo": "Incendio  forestal afecta al sector Los Cóndores en el valle de Quilimarí mientras comienzan las primeras lluvias",
     "enlace": "https://www.davidnoticias.cl/incendio-forestal-afecta-al-sector-los-condores-en-el-valle-de-quilimari-mientras-comienzan-las-primeras-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Experto de Ceaza califica evento climático como histórico",
-    "enlace": "https://www.davidnoticias.cl/experto-de-ceaza-califica-evento-climatico-como-historico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Región de Coquimbo suspende clases para este viernes por intenso sistema frontal",
-    "enlace": "https://www.davidnoticias.cl/region-de-coquimbo-suspende-clases-para-este-viernes-por-intenso-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Dirección de Obras Hidráulicas asegura que embalses del Choapa cuentan con capacidad para enfrentar intensas lluvias",
-    "enlace": "https://www.davidnoticias.cl/direccion-de-obras-hidraulicas-asegura-que-embalses-del-choapa-cuentan-con-capacidad-para-enfrentar-intensas-lluvias/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,6 +1458,42 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Grúa pluma cae sobre tres viviendas en Coquimbo por fuertes vientos y destruye dos vehículos",
+    "enlace": "https://www.maray.cl/pais/16/07/2026/grua-pluma-cae-sobre-tres-viviendas-en-coquimbo-por-fuertes-vientos-y-destruye-dos-vehiculos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Activan Código Azul en siete regiones por sistema frontal y refuerzan atención para personas en situación de calle",
+    "enlace": "https://www.maray.cl/pais/16/07/2026/activan-codigo-azul-en-siete-regiones-por-sistema-frontal-y-refuerzan-atencion-para-personas-en-situacion-de-calle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Atacama: emiten aviso por probables tormentas eléctricas con riesgo de granizo y fuertes vientos en la provincia de Huasco",
+    "enlace": "https://www.maray.cl/atacama/16/07/2026/atacama-emiten-aviso-por-probables-tormentas-electricas-con-riesgo-de-granizo-y-fuertes-vientos-en-la-provincia-de-huasco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "MOP intensifica despliegue preventivo en Atacama ante sistema frontal pronosticado",
+    "enlace": "https://www.maray.cl/atacama/16/07/2026/mop-intensifica-despliegue-preventivo-en-atacama-ante-sistema-frontal-pronosticado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Delegación Presidencial Regional de Atacama y CGE refuerzan despliegue preventivo ante sistema frontal",
     "enlace": "https://www.maray.cl/atacama/16/07/2026/delegacion-presidencial-regional-de-atacama-y-cge-refuerzan-despliegue-preventivo-ante-sistema-frontal/",
     "descripcion": "",
@@ -1505,42 +1541,6 @@
   {
     "titulo": "Ministerio de Minería alerta a pequeños mineros ante sistema frontal: suspendan las faenas y desciendan a lugares seguros mientras dure la emergencia",
     "enlace": "https://www.maray.cl/atacama/16/07/2026/ministerio-de-mineria-alerta-a-pequenos-mineros-ante-sistema-frontal-suspendan-las-faenas-y-desciendan-a-lugares-seguros-mientras-dure-la-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Lando Norris largará con 10 puestos de penalización en el GP de Bélgica por cambio de unidad de potencia",
-    "enlace": "https://www.maray.cl/deportes/16/07/2026/lando-norris-largara-con-10-puestos-de-penalizacion-en-el-gp-de-belgica-por-cambio-de-unidad-de-potencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sistema frontal  golpea la región de Valparaíso con ráfagas de hasta 91 km/h y olas de más de cinco metros",
-    "enlace": "https://www.maray.cl/pais/16/07/2026/sistema-frontal-golpea-la-region-de-valparaiso-con-rafagas-de-hasta-91-km-h-y-olas-de-mas-de-cinco-metros/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Atacama suspende las clases para este viernes por avance del sistema frontal",
-    "enlace": "https://www.maray.cl/atacama/16/07/2026/atacama-suspende-las-clases-para-este-viernes-por-avance-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "DMC emite aviso por precipitaciones intensas en la provincia de Huasco: podrían caer entre 80 y 120 mm",
-    "enlace": "https://www.maray.cl/atacama/16/07/2026/dmc-emite-aviso-por-precipitaciones-intensas-en-la-provincia-de-huasco-podrian-caer-entre-80-y-120-mm/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,24 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "Webcams: Siga el avance del sistema frontal que afecta la Región de Valparaíso en tiempo real",
+    "enlace": "https://diariolaquinta.cl/2026/07/16/webcams-siga-el-avance-del-sistema-frontal-que-afecta-la-region-de-valparaiso/?utm_source=rss&utm_medium=rss&utm_campaign=webcams-siga-el-avance-del-sistema-frontal-que-afecta-la-region-de-valparaiso",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Valparaíso habilita refugio temporal para animales comunitarios durante el sistema frontal",
+    "enlace": "https://diariolaquinta.cl/2026/07/16/municipalidad-de-valparaiso-habilita-refugio-temporal-para-animales-comunitarios-durante-el-sistema-frontal/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-valparaiso-habilita-refugio-temporal-para-animales-comunitarios-durante-el-sistema-frontal",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Notificación de partidas ROL V-143-2024 «Gatica»",
     "enlace": "https://diariolaquinta.cl/2026/07/16/notificacion-juzgado-de-letras-de-casablanca-notificacion-de-partidas-rol-v-143-2024-gatica-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-notificacion-de-partidas-rol-v-143-2024-gatica-2",
     "descripcion": "",
@@ -1710,21 +1728,57 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Viña del Mar: Cese de alimentos RIT C-3646-2025 «Tapia / Jiménez»",
-    "enlace": "https://diariolaquinta.cl/2026/07/15/notificacion-juzgado-de-familia-de-vina-del-mar-cese-de-alimentos-rit-c-3646-2025-tapia-jimenez/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-vina-del-mar-cese-de-alimentos-rit-c-3646-2025-tapia-jimenez",
+    "titulo": "Alcaldesa Macarena Ripamonti inspeccionó medidas de seguridad dispuestas en la comuna ante emergencia por lluvias",
+    "enlace": "https://g5noticias.cl/2026/07/16/alcaldesa-macarena-ripamonti-inspecciono-medidas-de-seguridad-dispuestas-en-la-comuna-ante-emergencia-por-lluvias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[OPINIÓN] Valparaíso, 14 de julio de 1999: Un diagnóstico que el tiempo no pudo desmentir (Jorge Bustos)",
-    "enlace": "https://diariolaquinta.cl/2026/07/14/opinion-valparaiso-14-de-julio-de-1999-un-diagnostico-que-el-tiempo-no-pudo-desmentir-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-valparaiso-14-de-julio-de-1999-un-diagnostico-que-el-tiempo-no-pudo-desmentir-jorge-bustos",
+    "titulo": "Capitanía de Puerto de Talcahuano rescata a una familia aislada en Caleta Tumbes",
+    "enlace": "https://g5noticias.cl/2026/07/16/capitania-de-puerto-de-talcahuano-rescata-a-una-familia-aislada-en-caleta-tumbes/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Megarreforma vuelve a la Cámara: Bancada PDG analizará los cambios del Senado y sigue a la espera del cumplimiento del compromiso por devolución del IVA a medicamentos y pañales",
+    "enlace": "https://g5noticias.cl/2026/07/16/megarreforma-vuelve-a-la-camara-bancada-pdg-analizara-los-cambios-del-senado-y-sigue-a-la-espera-del-cumplimiento-del-compromiso-por-devolucion-del-iva-a-medicamentos-y-panales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cuando la lluvia también trae recuerdos",
+    "enlace": "https://g5noticias.cl/2026/07/16/cuando-la-lluvia-tambien-trae-recuerdos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fuertes vientos provocan la caída de una grúa pluma en Coquimbo que afectó a cuatro viviendas y automóviles estacionados. No hubo lesionados",
+    "enlace": "https://g5noticias.cl/2026/07/16/fuertes-vientos-provocan-la-caida-de-una-grua-pluma-en-coquimbo-que-afecto-a-cuatro-viviendas-y-automoviles-estacionados-no-hubo-lesionados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Sistema Frontal: Alcalde White se reúne con Presidente Kast en la Escuela de Infantería",
+    "enlace": "https://g5noticias.cl/2026/07/16/sistema-frontal-alcalde-white-se-reune-con-presidente-kast-en-la-escuela-de-infanteria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
@@ -1757,60 +1811,6 @@
   {
     "titulo": "En San Felipe un guardia de seguridad resultó herido tras volar por los aires la caseta en que estaba producto de los fuertes vientos",
     "enlace": "https://g5noticias.cl/2026/07/16/en-san-felipe-un-guardia-de-seguridad-resulto-herido-tras-volar-por-los-aires-la-caseta-en-que-estaba-producto-de-los-fuertes-vientos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Llay Llay: comenzaron los trabajos con maquinaria pesada y equipos de altura tras caída de árbol en Liceo El Porvenir",
-    "enlace": "https://g5noticias.cl/2026/07/16/llay-llay-comenzaron-los-trabajos-con-maquinaria-pesada-y-equipos-de-altura-tras-caida-de-arbol-en-liceo-el-porvenir/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ante denuncia de vecinos, Ministro Poduje inspecciona vivienda de El Olivar que cedió ante las primeras lluvias en Viña del Mar. Secretario de Estado fue encarado en la calle por el abogado de la constructora San Sebastián",
-    "enlace": "https://g5noticias.cl/2026/07/16/ante-denuncia-de-vecinos-ministro-poduje-inspecciona-vivienda-de-el-olivar-que-cedio-ante-las-primeras-lluvias-en-vina-del-mar-secretario-fue-encarado-en-la-calle-por-el-abogado-de-la-constructora-s/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Inglaterra y su contundente respuesta a jugadores argentinos: “Puede que el Mundial no sea nuestro, pero las Malvinas sin duda lo son»",
-    "enlace": "https://g5noticias.cl/2026/07/16/inglaterra-y-su-contundente-respuesta-a-jugadores-argentinos-puede-que-el-mundial-no-sea-nuestro-pero-las-malvinas-sin-duda-lo-son/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Región de Coquimbo: Gobierno refuerza capacidad de respuesta ante intensificación del sistema frontal y eventuales cortes de caminos",
-    "enlace": "https://g5noticias.cl/2026/07/16/region-de-coquimbo-gobierno-refuerza-capacidad-de-respuesta-ante-intensificacion-del-sistema-frontal-y-eventuales-cortes-de-caminos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Descaro total en 1.59 minutos: delincuente estacionó, rompió vidrio de vehículo y robó pertenencias desde automóvil en Cerro Los Placeres",
-    "enlace": "https://g5noticias.cl/2026/07/16/descaro-total-en-1-59-minutos-delincuente-estaciono-rompio-vidrio-de-vehiculo-y-robo-pertenencias-desde-automovil-en-cerro-los-placeres/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscalía de Chillán solicita ampliar detención de carabineros hasta el sábado cuando serán formalizados",
-    "enlace": "https://g5noticias.cl/2026/07/16/fiscalia-de-chillan-solicita-ampliar-detencion-de-carabineros-hasta-el-sabado-cuando-seran-formalizados/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Prófugo por homicidio de brigadista de Conaf fue capturado en Última Esperanza",
+    "enlace": "https://laprensaaustral.cl/2026/07/16/profugo-por-homicidio-de-brigadista-de-conaf-fue-capturado-en-ultima-esperanza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Enap proyecta su primera perforación con fractura  hidráulica en Tierra del Fuego por US$648 millones",
     "enlace": "https://laprensaaustral.cl/2026/07/16/enap-proyecta-su-primera-perforacion-con-fractura-hidraulica-en-tierra-del-fuego-por-us648-millones/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Envenenamiento de animales en Porvenir",
     "enlace": "https://laprensaaustral.cl/2026/07/16/envenenamiento-de-animales-en-porvenir/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Talento artístico infantil: Emilia Pacheco suma  importante logro a su novel trayectoria artística",
-    "enlace": "https://laprensaaustral.cl/2026/07/16/talento-artistico-infantil-emilia-pacheco-suma-importante-logro-a-su-novel-trayectoria-artistica/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
