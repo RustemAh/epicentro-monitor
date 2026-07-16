@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Municipio de Coquimbo activa plan especial para proteger a perros y gatos durante el sistema frontal con patrulla operativa 24/7 y refugio temporal",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/16/municipio-de-coquimbo-activa-plan-especial-para-proteger-a-perros-y-gatos-durante-el-sistema-frontal-con-patrulla-operativa-24-7-y-refugio-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Coquimbo avanza hacia su primer museo: buscan convertirlo en el mejor del norte de Chile",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/16/coquimbo-avanza-hacia-su-primer-museo-alcalde-manouchehri-busca-convertirlo-en-el-mejor-del-norte-de-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo cerrará cementerios municipales por sistema frontal: También se suspende recolección de basura por dos días",
     "enlace": "https://www.elcoquimbano.cl/2026/07/15/coquimbo-cerrara-cementerios-municipales-por-sistema-frontal-tambien-se-suspende-recoleccion-de-basura-por-dos-dias/",
     "descripcion": "",
@@ -72,22 +90,22 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Carabineros desbarata local clandestino que funcionaba con especies robadas y recupera más de $10 millones",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/13/carabineros-desbarata-local-clandestino-que-funcionaba-con-especies-robadas-y-recupera-mas-de-10-millones/",
+    "titulo": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Coquimbo",
+    "enlace": "https://www.elserenense.cl/regionales/2026/07/16/sag-confirma-primer-caso-de-influenza-aviar-altamente-patogena-en-ave-silvestre-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "La hospitalización pediátrica llega al hogar en Coquimbo: 18 niños ya reciben atención en casa",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/12/la-hospitalizacion-pediatrica-llega-al-hogar-en-coquimbo-18-ninos-ya-reciben-atencion-en-casa/",
+    "titulo": "En Colegio Héroes de la Concepción de La Serena Embajadora de Taiwán entregó apoyo a selección de Tchoukball",
+    "enlace": "https://www.elserenense.cl/educacion/2026/07/16/en-colegio-heroes-de-la-concepcion-de-la-serena-embajadora-de-taiwan-entrego-apoyo-a-seleccion-de-tchoukball/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Crecida del Río Elqui mantiene en alerta: retiran ocupaciones ilegales en zona de riesgo",
@@ -162,20 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Empresas y gremios de Coquimbo trabajan en potenciar las exportaciones regionales",
-    "enlace": "https://www.elserenense.cl/regionales/2026/07/14/empresas-y-gremios-de-coquimbo-trabajan-en-potenciar-las-exportaciones-regionales/",
+    "titulo": "Erradican asentamiento ilegal que estaba al interior de acueducto en Las Compañías",
+    "enlace": "https://laserenaonline.cl/2026/07/16/erradican-asentamiento-ilegal-que-estaba-al-interior-de-acueducto-en-las-companias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Tres personas detenidas por la PDI por violento robo a hombre contactado mediante página web en La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/14/tres-personas-detenidas-por-la-pdi-por-violento-robo-a-hombre-contactado-mediante-pagina-web-en-la-serena/",
+    "titulo": "Histórica recuperación: La Serena iniciará restauración del Museo al Aire libre tras años de espera",
+    "enlace": "https://laserenaonline.cl/2026/07/16/historica-recuperacion-la-serena-iniciara-restauracion-del-museo-al-aire-libre-tras-anos-de-espera/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Fiscalización en el centro de La Serena termina con más de 150 cajetillas de cigarro incautadas: hay una detenida por contrabando",
+    "enlace": "https://laserenaonline.cl/2026/07/16/fiscalizacion-en-el-centro-de-la-serena-termina-con-mas-de-150-cajetillas-de-cigarro-incautadas-hay-una-detenida-por-contrabando/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Atención micreros y automovilistas: ¿A qué multas se exponen por mojar a un peatón?",
     "enlace": "https://laserenaonline.cl/2026/07/15/atencion-micreros-y-automovilistas-a-que-multas-se-exponen-por-mojar-a-un-peaton/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Créditos de INDAP: servicio del agro habilita Renegociación Especial por Catástrofe para todos sus usuarios y usuarias deudores",
-    "enlace": "https://laserenaonline.cl/2026/07/15/creditos-de-indap-servicio-del-agro-habilita-renegociacion-especial-por-catastrofe-para-todos-sus-usuarios-y-usuarias-deudores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más seguridad en Los Vilos: Municipio presenta licitación para adquirir nuevas cámaras de seguridad",
-    "enlace": "https://laserenaonline.cl/2026/07/15/mas-seguridad-en-los-vilos-municipio-presenta-licitacion-para-adquirir-nuevas-camaras-de-seguridad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Alarma por precipitaciones en la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/15/alarma-por-precipitaciones-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Cooperativa Limarí Nuts presentó su oferta en feria EXPHORE 2026",
+    "enlace": "https://www.elmontepatrino.cl/2026/07/16/cooperativa-limari-nuts-presento-su-oferta-en-feria-exphore-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Departamento de Salud de Monte Patria afina su plan de contingencia ante la llegada de mega sistema frontal",
     "enlace": "https://www.elmontepatrino.cl/2026/07/15/departamento-de-salud-de-monte-patria-afina-su-plan-de-contingencia-ante-la-llegada-de-mega-sistema-frontal/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "CESFAM Monte Patria realizó taller de reiki para promover el bienestar laboral y manejo de estrés",
     "enlace": "https://www.elmontepatrino.cl/2026/07/07/cesfam-monte-patria-realizo-taller-de-reiki-para-promover-el-bienestar-laboral-y-manejo-de-estres/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Pronostican altas temperaturas desde el martes 7 y hasta el viernes 10 de julio en la Región de Coquimbo. Punitaqui y Monte Patria llegarían a 29 °C",
-    "enlace": "https://www.elmontepatrino.cl/2026/07/06/pronostican-altas-temperaturas-desde-el-martes-7-y-hasta-el-viernes-10-de-julio-en-la-region-de-coquimbo-punitaqui-y-monte-patria-llegarian-a-29-c/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -900,24 +900,6 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Lluvias elevan preocupación frente a obras del Hospital de Illapel",
-    "enlace": "https://veetv.cl/lluvias-elevan-preocupacion-frente-a-obras-del-hospital-de-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "CEAZA pronostica hasta 230 mm de lluvia en el Choapa: autoridades suspenden las clases del viernes",
-    "enlace": "https://veetv.cl/lluvias-choapa-pronostico-ceaza/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
     "titulo": "En Salamanca se suspenderá por 4 días la recolección de basura por intensas lluvias",
     "enlace": "https://www.elsalamanquino.cl/2026/07/15/en-salamanca-se-suspendera-por-4-dias-la-recoleccion-de-basura-por-intensas-lluvias/",
     "descripcion": "",
@@ -1098,6 +1080,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Refuerzan plan de emergencia comunal en Andacollo ante sistema frontal que afectará a la región",
+    "enlace": "https://www.elandacollino.cl/2026/07/16/refuerzan-plan-de-emergencia-comunal-en-andacollo-ante-sistema-frontal-que-afectara-a-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Galantas Gold comprará en México planta de chancado de 20.000 toneladas por día para el proyecto aurífero en Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/07/15/galantas-gold-comprara-en-mexico-planta-de-chancado-de-20-000-toneladas-por-dia-para-el-proyecto-aurifero-en-andacollo/",
     "descripcion": "",
@@ -1179,12 +1170,12 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Autoridades impulsan plan de arborización para mejorar la calidad del aire en Andacollo",
-    "enlace": "https://www.elandacollino.cl/2026/07/07/autoridades-impulsan-plan-de-arborizacion-para-mejorar-la-calidad-del-aire-en-andacollo/",
+    "titulo": "Gobierno refuerza despliegue preventivo en Paihuano ante sistema frontal.",
+    "enlace": "https://www.elpaihuanino.cl/2026/07/16/gobierno-refuerza-despliegue-preventivo-en-paihuano-ante-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
@@ -1269,13 +1260,13 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Comunidad de Chañar Blanco logra aprobación de recursos para proyecto de agua potable",
-    "enlace": "https://www.elpaihuanino.cl/2026/07/02/comunidad-de-chanar-blanco-logra-aprobacion-de-recursos-para-proyecto-de-agua-potable/",
+    "titulo": "Senapred actualiza condiciones metereológicas para la provincia de Huasco “Alarma por precipitaciones intensas”",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/16/senapred-actualiza-condiciones-metereologicas-para-la-provincia-de-huasco-alarma-por-precipitaciones-intensas/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "Delegado Presidencial Provincial de Chañaral refuerza coordinación con municipios e instituciones por sistema frontal",
@@ -1352,15 +1343,6 @@
   {
     "titulo": "Dolor intenso y sangrado abundante: las señales de los miomas que no deberías ignorar",
     "enlace": "https://www.atacamanoticias.cl/2026/07/16/dolor-intenso-y-sangrado-abundante-las-senales-de-los-miomas-que-no-deberias-ignorar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Triunfo para el Gobierno: Senado despacha proyecto de megarreforma tras maratónica jornada",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/16/triunfo-para-el-gobierno-senado-despacha-proyecto-de-megarreforma-tras-maratonica-jornada/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1440,69 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "DMC emite aviso por precipitaciones intensas en la provincia de Huasco: podrían caer entre 80 y 120 mm",
+    "enlace": "https://www.maray.cl/atacama/16/07/2026/dmc-emite-aviso-por-precipitaciones-intensas-en-la-provincia-de-huasco-podrian-caer-entre-80-y-120-mm/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Ruta 5: inician obras de rehabilitación de pavimentos entre Vallenar y Caldera con desvíos y restricciones de tránsito",
+    "enlace": "https://www.maray.cl/atacama/16/07/2026/ruta-5-inician-obras-de-rehabilitacion-de-pavimentos-entre-vallenar-y-caldera-con-desvios-y-restricciones-de-transito/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Verifican en terreno abastecimiento de supermercados ante sistema frontal en Atacama",
+    "enlace": "https://www.maray.cl/atacama/16/07/2026/verifican-en-terreno-abastecimiento-de-supermercados-ante-sistema-frontal-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Frente anuncio de lluvias: Reiteran la importancia de no abrir tapas de alcantarillado",
+    "enlace": "https://www.maray.cl/atacama/16/07/2026/frente-anuncio-de-lluvias-reiteran-la-importancia-de-no-abrir-tapas-de-alcantarillado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Triunfo para el Gobierno: Senado despacha proyecto de megarreforma tras maratónica jornada",
+    "enlace": "https://www.maray.cl/pais/16/07/2026/triunfo-para-el-gobierno-senado-despacha-proyecto-de-megarreforma-tras-maratonica-jornada/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Minería activa plan preventivo por sistema frontal y refuerza coordinación para resguardar faenas y trabajadores",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/16/07/2026/mineria-activa-plan-preventivo-por-sistema-frontal-y-refuerza-coordinacion-para-resguardar-faenas-y-trabajadores-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "CGE activa plan de acción preventivo y desplegará más de 1.600 brigadas desde Atacama a La Araucanía",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/16/07/2026/cge-activa-plan-de-accion-preventivo-y-desplegara-mas-de-1-600-brigadas-desde-atacama-a-la-araucania-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Actualizan pronóstico del tiempo para la región de Atacama",
     "enlace": "https://www.maray.cl/atacama/16/07/2026/actualizan-pronostico-del-tiempo-para-la-region-de-atacama/",
     "descripcion": "",
@@ -1483,159 +1528,6 @@
     "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Karen Rojo ingresó a la cárcel de San Joaquín tras su extradición desde Países Bajos",
-    "enlace": "https://www.maray.cl/pais/15/07/2026/karen-rojo-ingreso-a-la-carcel-de-san-joaquin-tras-su-extradicion-desde-paises-bajos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Argentina remonta a Inglaterra y jugará la final del Mundial ante España",
-    "enlace": "https://www.maray.cl/deportes/15/07/2026/argentina-remonta-a-inglaterra-y-jugara-la-final-del-mundial-ante-espana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cámara aprueba bono de $30 mil por hijo para familias del 80% más vulnerable y proyecto pasa al Senado",
-    "enlace": "https://www.maray.cl/pais/15/07/2026/camara-aprueba-bono-de-30-mil-por-hijo-para-familias-del-80-mas-vulnerable-y-proyecto-pasa-al-senado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "MOP y Transportes refuerzan llamado a la prevención en rutas ante el sistema frontal que afectará a Atacama",
-    "enlace": "https://www.maray.cl/atacama/15/07/2026/mop-y-transportes-refuerzan-llamado-a-la-prevencion-en-rutas-ante-el-sistema-frontal-que-afectara-a-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Proyecciones de sistema frontal para las regiones de Atacama y Coquimbo",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/15/07/2026/proyecciones-de-sistema-frontal-para-las-regiones-de-atacama-y-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "En Alerta la Provincia del Huasco ante llegada de sistema frontal",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/15/07/2026/en-alerta-la-provincia-del-huasco-ante-llegada-de-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno Regional de Atacama destacó firma del decreto de emergencia",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/15/07/2026/gobierno-regional-de-atacama-destaco-firma-del-decreto-de-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Comunas de Papudo y Zapallar ponen foco en derrumbes, humedales y puntos críticos ante nuevo frente de mal tiempo",
-    "enlace": "https://laliguanoticias.cl/2026/07/13/comunas-de-papudo-y-zapallar-ponen-foco-en-derrumbes-humedales-y-puntos-criticos-ante-nuevo-frente-de-mal-tiempo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Municipalidad de Petorca refuerza medidas preventivas ante sistema frontal previsto para la comuna",
-    "enlace": "https://laliguanoticias.cl/2026/07/13/municipalidad-de-petorca-refuerza-medidas-preventivas-ante-sistema-frontal-previsto-para-la-comuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Incendio destruyó tres viviendas en Bellavista y deja a diez personas damnificadas en Cabildo",
-    "enlace": "https://laliguanoticias.cl/2026/07/12/incendio-destruyo-tres-viviendas-en-bellavista-y-deja-a-diez-personas-damnificadas-en-cabildo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Cámara de Diputados aprueba admisibilidad de proyecto que crea el “Registro de Vándalos para delincuentes de Cuello y Corbata” impulsado por el diputado Cristian Mella",
-    "enlace": "https://laliguanoticias.cl/2026/07/10/camara-de-diputados-aprueba-admisibilidad-de-proyecto-que-crea-el-registro-de-vandalos-para-delincuentes-de-cuello-y-corbata-impulsado-por-el-diputado-cristian-mella/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Sopraval inicia una nueva versión del programa Capital Emprendedor para fortalecer negocios locales",
-    "enlace": "https://laliguanoticias.cl/2026/07/10/sopraval-inicia-una-nueva-version-del-programa-capital-emprendedor-para-fortalecer-negocios-locales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Carabineros de La Ligua detiene a mujer con 122 dosis de pasta base: justicia decretó prisión preventiva",
-    "enlace": "https://laliguanoticias.cl/2026/07/10/carabineros-de-la-ligua-detiene-a-mujer-con-122-dosis-de-pasta-base-justicia-decreto-prision-preventiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Destituyen a directivo en caso de venta irregular de permisos de circulación en Papudo: otro funcionario fue desvinculado por uso de licencias médicas",
-    "enlace": "https://laliguanoticias.cl/2026/07/10/destituyen-a-directivo-en-caso-de-venta-irregular-de-permisos-de-circulacion-en-papudo-otro-funcionario-fue-desvinculado-por-uso-de-licencias-medicas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Escultura “La Dulcera Liguana” será instalada en la Plaza de Armas para cerrar aniversario de La Ligua",
-    "enlace": "https://laliguanoticias.cl/2026/07/09/escultura-la-dulcera-liguana-sera-instalada-en-la-plaza-de-armas-para-cerrar-aniversario-de-la-ligua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Fondo Vecino Sopraval abre convocatoria para proyectos que contribuyan a la sustentabilidad y seguridad de entornos educativos",
-    "enlace": "https://laliguanoticias.cl/2026/07/09/fondo-vecino-sopraval-abre-convocatoria-para-proyectos-que-contribuyan-a-la-sustentabilidad-y-seguridad-de-entornos-educativos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Más de 11 mil vecinos se verán beneficiados con la ejecución de proyectos de seguridad gracias al Fondo Vecino de Sopraval",
-    "enlace": "https://laliguanoticias.cl/2026/07/04/mas-de-11-mil-vecinos-se-veran-beneficiados-con-la-ejecucion-de-proyectos-de-seguridad-gracias-al-fondo-vecino-de-sopraval/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Notificación de partidas ROL V-143-2024 «Gatica»",
@@ -1728,6 +1620,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Diputado Gustavo Gatica oficia a las municipalidades del Distrito 8 para evaluar su preparación ante el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/16/diputado-gustavo-gatica-oficia-a-las-municipalidades-del-distrito-8-para-evaluar-su-preparacion-ante-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "CGE y ministra de Energía visitaron a paciente electrodependiente en Viña del Mar previo a las lluvias",
+    "enlace": "https://g5noticias.cl/2026/07/16/cge-y-ministra-de-energia-visitaron-a-paciente-electrodependiente-en-vina-del-mar-previo-a-las-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Carabineros detuvo a cuatro sujetos: Al fiscalizarlos uno de ellos tenía un arma de fuego en el cinturón",
+    "enlace": "https://g5noticias.cl/2026/07/16/carabineros-detuvo-a-cuatro-sujetos-al-fiscalizarlos-uno-de-ellos-tenia-un-arma-de-fuego-en-el-cinturon-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Autoridades y empresas eléctricas refuerzan coordinación ante sistema frontal para resguardar el suministro en la Región de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/07/16/autoridades-y-empresas-electricas-refuerzan-coordinacion-ante-sistema-frontal-para-resguardar-el-suministro-en-la-region-de-valparaiso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Chile se Cuida: Autoridades monitorean residencias de niños en Región de Valparaíso y entregan herramientas de contención emocional",
+    "enlace": "https://g5noticias.cl/2026/07/16/chile-se-cuida-autoridades-monitorean-residencias-de-ninos-en-region-de-valparaiso-y-entregan-herramientas-de-contencion-emocional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "¿Aumenta la jornada laboral a 52 horas semanales?. Por José Navarrete Oyarce, Director del Magíster en Tributación, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/07/16/aumenta-la-jornada-laboral-a-52-horas-semanales-por-jose-navarrete-oyarce-director-del-magister-en-tributacion-universidad-andres-bello/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "La nueva empleabilidad: qué habilidades digitales están marcando la diferencia para encontrar trabajo",
     "enlace": "https://g5noticias.cl/2026/07/16/la-nueva-empleabilidad-que-habilidades-digitales-estan-marcando-la-diferencia-para-encontrar-trabajo/",
     "descripcion": "",
@@ -1757,60 +1703,6 @@
   {
     "titulo": "Ventas a la baja: expertos entregan claves para que las pymes reduzcan sus riesgos financieros",
     "enlace": "https://g5noticias.cl/2026/07/16/ventas-a-la-baja-expertos-entregan-claves-para-que-las-pymes-reduzcan-sus-riesgos-financieros/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Renovación de alianza con UC CHRISTUS permitirá que más estudiantes de Duoc UC realicen pasantías en una de las principales redes de salud del país",
-    "enlace": "https://g5noticias.cl/2026/07/16/renovacion-de-alianza-con-uc-christus-permitira-que-mas-estudiantes-de-duoc-uc-realicen-pasantias-en-una-de-las-principales-redes-de-salud-del-pais/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Chile tendrá más adultos mayores que niños desde 2028: nueva ley obligará a las empresas a prepararse para este cambio",
-    "enlace": "https://g5noticias.cl/2026/07/16/chile-tendra-mas-adultos-mayores-que-ninos-desde-2028-nueva-ley-obligara-a-las-empresas-a-prepararse-para-este-cambio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El tiempo que perdemos ganando tiempo. Por José Alegría Morán, Académico Departamento de Ética Aplicada, Universidad Católica de Temuco",
-    "enlace": "https://g5noticias.cl/2026/07/16/el-tiempo-que-perdemos-ganando-tiempo-por-jose-alegria-moran-academico-departamento-de-etica-aplicada-universidad-catolica-de-temuco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Carabineros detuvo a cuatro sujetos: Al fiscalizarlos, uno de ellos tenía un arma de fuego en el cinturón",
-    "enlace": "https://g5noticias.cl/2026/07/16/carabineros-detuvo-a-cuatro-sujetos-al-fiscalizarlos-uno-de-ellos-tenia-un-arma-de-fuego-en-el-cinturon/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Autoridades, expertos y líderes de la industria estarán presentes en la Cumbre de la Minería SONAMI 2026",
-    "enlace": "https://g5noticias.cl/2026/07/16/autoridades-expertos-y-lideres-de-la-industria-estaran-presentes-en-la-cumbre-de-la-mineria-sonami-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ley de Protección de Datos en Chile: ¿cumplimiento por principio o por temor a ser sancionado?. Por David González, investigador de Seguridad Informática de ESET Latinoamérica",
-    "enlace": "https://g5noticias.cl/2026/07/16/ley-de-proteccion-de-datos-en-chile-cumplimiento-por-principio-o-por-temor-a-ser-sancionado-por-david-gonzalez-investigador-de-seguridad-informatica-de-eset-latinoamerica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1996,95 +1888,5 @@
     "medio": "La Prensa Austral",
     "zona": "Punta Arenas",
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Subdere transfiere tercera cuota del royalty minero a las comunas de Magallanes",
-    "enlace": "https://elmagallanico.com/2026/07/16/subdere-transfiere-tercera-cuota-del-royalty-minero-a-las-comunas-de-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Balance 2025: Registro Civil realizó más de mil cuatrocientas atenciones en terreno en Magallanes",
-    "enlace": "https://elmagallanico.com/2026/07/16/balance-2025-registro-civil-realizo-mas-de-mil-cuatrocientas-atenciones-en-terreno-en-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Organizaciones sociales de Magallanes recibirán más de $65 millones del FFOIP 2026",
-    "enlace": "https://elmagallanico.com/2026/07/16/organizaciones-sociales-de-magallanes-recibiran-mas-de-65-millones-del-ffoip-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "San Gregorio impulsa fondos comunitarios, vida saludable, reciclaje y cuidado del agua",
-    "enlace": "https://elmagallanico.com/2026/07/16/san-gregorio-impulsa-fondos-comunitarios-vida-saludable-reciclaje-y-cuidado-del-agua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Juzgado condena a ABCDin de Natales a pagar millonaria multa por infringir la Ley del Consumidor",
-    "enlace": "https://elmagallanico.com/2026/07/16/juzgado-condena-a-abcdin-de-natales-a-pagar-millonaria-multa-por-infringir-la-ley-del-consumidor/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Detienen a conductor con drogas, municiones y un arma blanca en Punta Arenas",
-    "enlace": "https://elmagallanico.com/2026/07/16/detienen-a-conductor-con-drogas-municiones-y-un-arma-blanca-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Ganaderos de Tierra del Fuego recurren a la justicia por ataques de perros asilvestrados",
-    "enlace": "https://elmagallanico.com/2026/07/16/ganaderos-de-tierra-del-fuego-recurren-a-la-justicia-por-ataques-de-perros-asilvestrados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Prisión preventiva para “La Bella Durmiente”: Investigan una decena de posibles víctimas que no denunciaron",
-    "enlace": "https://elmagallanico.com/2026/07/16/prision-preventiva-para-la-bella-durmiente-investigan-una-decena-de-posibles-victimas-que-no-denunciaron/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Aguas Magallanes coordina mesa técnica con organismos de emergencia ante el invierno",
-    "enlace": "https://elmagallanico.com/2026/07/16/aguas-magallanes-coordina-mesa-tecnica-con-organismos-de-emergencia-ante-el-invierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Conductor sufrió graves quemaduras tras explosión de vehículo GNC en Punta Arenas",
-    "enlace": "https://elmagallanico.com/2026/07/16/conductor-sufrio-graves-quemaduras-tras-explosion-de-vehiculo-gnc-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
   }
 ]
