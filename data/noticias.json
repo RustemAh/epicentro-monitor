@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Informan suspensión de faenas tras desplome de grúa en Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/17/informan-suspension-de-faenas-tras-desplome-de-grua-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Carabineros llama al uso responsable de los recursos de emergencia tras operativo en Pan de Azúcar",
     "enlace": "https://www.elcoquimbano.cl/2026/07/17/carabineros-llama-al-uso-responsable-de-los-recursos-de-emergencia-tras-operativo-en-pan-de-azucar/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Coquimbo cerrará cementerios municipales por sistema frontal: También se suspende recolección de basura por dos días",
     "enlace": "https://www.elcoquimbano.cl/2026/07/15/coquimbo-cerrara-cementerios-municipales-por-sistema-frontal-tambien-se-suspende-recoleccion-de-basura-por-dos-dias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Carabineros recupera en Coquimbo vehículo robado en la Región Metropolitana",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/15/carabineros-recupera-en-coquimbo-vehiculo-robado-en-la-region-metropolitana/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/17/sag-confirma-primer-caso-de-influenza-aviar-altamente-patogena-en-ave-silvestre-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Municipio de Paihuano atendió positivamente emergencias durante la madrugada y mantiene monitoreo de sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/17/municipio-de-paihuano-atendio-positivamente-emergencias-durante-la-madrugada-y-mantiene-monitoreo-de-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Carabineros reitera llamado a evitar desplazamientos y reforzar el autocuidado",
+    "enlace": "https://laserenaonline.cl/2026/07/17/carabineros-reitera-llamado-a-evitar-desplazamientos-y-reforzar-el-autocuidado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Minera Los Pelambres activa plan preventivo ante contingencia climática",
     "enlace": "https://laserenaonline.cl/2026/07/17/minera-los-pelambres-activa-plan-preventivo-ante-contingencia-climatica/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Gobierno anuncia investigación por desplome de grúa que dañó seis viviendas en Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/17/gobierno-anuncia-investigacion-por-desplome-de-grua-que-dano-seis-viviendas-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "¿Cuánto ha llovido hasta ahora en la Región de Coquimbo?",
-    "enlace": "https://laserenaonline.cl/2026/07/17/cuanto-ha-llovido-hasta-ahora-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Investigan homicidio al interior del Terminal de Buses de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/17/investigan-homicidio-al-interior-del-terminal-de-buses-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo: Tormentas eléctricas, lluvia y viento para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/17/reporte-del-tiempo-tormentas-electricas-lluvia-y-viento-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,42 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Gobierno Regional pone a disposición hasta $1.940 millones para emergencias por sistema frontal",
+    "enlace": "https://ovallehoy.cl/gobierno-regional-pone-a-disposicion-hasta-1-940-millones-para-emergencias-por-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Las vitaminas esenciales para fortalecer el organismo durante los meses más fríos",
+    "enlace": "https://ovallehoy.cl/las-vitaminas-esenciales-para-fortalecer-el-organismo-durante-los-meses-mas-frios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Autoridades dan cuenta de cortes de suministro eléctrico en la ruralidad y continuidad del servicio de agua potable",
+    "enlace": "https://ovallehoy.cl/autoridades-dan-cuenta-de-cortes-de-suministro-electrico-en-la-ruralidad-y-continuidad-del-servicio-de-agua-potable/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "ObituarioHOY del viernes 17 de julio",
+    "enlace": "https://ovallehoy.cl/obituariohoy-del-viernes-17-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Caída de árboles: vecinos en alerta ante vientos que traería el sistema frontal en la capital del Limarí",
     "enlace": "https://ovallehoy.cl/caida-de-arboles-vecinos-en-alerta-ante-vientos-que-traeria-el-sistema-frontal-en-la-capital-del-limari/",
     "descripcion": "",
@@ -504,39 +540,12 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "Este viernes se suspende la recolección de basura domiciliaria en Ovalle",
-    "enlace": "https://ovallehoy.cl/este-viernes-se-suspende-la-recoleccion-de-basura-domiciliaria-en-ovalle/",
+    "titulo": "Monte Patria enfrenta cortes de energía y derrumbes tras intensas lluvias: más de 2.500 hogares permanecen sin suministro eléctrico",
+    "enlace": "https://www.elmontepatrino.cl/2026/07/17/monte-patria-enfrenta-cortes-de-energia-y-derrumbes-tras-intensas-lluvias-mas-de-2-500-hogares-permanecen-sin-suministro-electrico/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del miércoles 15 de julio",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-miercoles-15-de-julio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Excepcional aumento de un 84,4 % registran las exportaciones en mayo en la región de Coquimbo",
-    "enlace": "https://ovallehoy.cl/excepcional-aumento-de-un-844-registran-las-exportaciones-en-mayo-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Estudio revela que una mejor condición física puede reducir hasta en un 95% el riesgo de mortalidad",
-    "enlace": "https://ovallehoy.cl/estudio-revela-que-una-mejor-condicion-fisica-puede-reducir-hasta-en-un-95-el-riesgo-de-mortalidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
@@ -614,15 +623,6 @@
   {
     "titulo": "Migraciones y Agricultura avanzan en medidas para facilitar la contratación de trabajadores de temporada",
     "enlace": "https://www.elmontepatrino.cl/2026/07/09/migraciones-y-agricultura-avanzan-en-medidas-para-facilitar-la-contratacion-de-trabajadores-de-temporada/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Unión Comunal de Juntas de Vecinos del Río Rapel recibe mesas y toldos para sus eventos",
-    "enlace": "https://www.elmontepatrino.cl/2026/07/09/union-comunal-de-juntas-de-vecinos-del-rio-rapel-recibe-mesas-y-toldos-para-sus-eventos/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -720,6 +720,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Illapel atiende 38 emergencias durante primera jornada del sistema frontal",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-atiende-38-emergencias-durante-primera-jornada-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "COGRID Provincial coordina medidas preventivas ante sistema frontal de alta intensidad en Choapa",
     "enlace": "https://illapelchile.cl/actualidad/cogrid-provincial-coordina-medidas-preventivas-ante-sistema-frontal-de-alta-intensidad-en-choapa/",
     "descripcion": "",
@@ -794,15 +803,6 @@
   {
     "titulo": "Comité de Seguridad Educativa coordina nuevas acciones contra la violencia escolar en Illapel",
     "enlace": "https://illapelchile.cl/policial/comite-de-seguridad-educativa-coordina-nuevas-acciones-contra-la-violencia-escolar-en-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Diario de Illapel",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Vacaciones de Invierno llevaron actividades recreativas y deportivas a distintos sectores de Illapel",
-    "enlace": "https://illapelchile.cl/social/vacaciones-de-invierno-llevaron-actividades-recreativas-y-deportivas-a-distintos-sectores-de-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Diario de Illapel",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Salamanca supera los 80 milímetros de lluvia: Problemas de anegamientos en el centro y cortes de energía marcan este viernes",
+    "enlace": "https://www.elsalamanquino.cl/2026/07/17/salamanca-supera-los-80-milimetros-de-lluvia-problemas-de-anegamientos-en-el-centro-y-cortes-de-energia-marcan-este-viernes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Sujeto que sustrajo más de $800 mil desde servicentro fue rápidamente detenido por Carabineros en Salamanca",
     "enlace": "https://www.elsalamanquino.cl/2026/07/17/sujeto-que-sustrajo-mas-de-800-mil-desde-servicentro-fue-rapidamente-detenido-por-carabineros-en-salamanca/",
     "descripcion": "",
@@ -999,13 +1008,40 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "CEAZA pronostica sistema frontal que podría dejar más de 100 mm de lluvia y 2 metros de nieve en Salamanca y la región",
-    "enlace": "https://www.elsalamanquino.cl/2026/07/10/ceaza-pronostica-sistema-frontal-que-podria-dejar-mas-de-100-mm-de-lluvia-y-2-metros-de-nieve-en-salamanca-y-la-region/",
+    "titulo": "Colapso de badén deja aislado el acceso vehicular a Tilama por intensas lluvias en Los Vilos",
+    "enlace": "https://www.davidnoticias.cl/colapso-de-baden-deja-aislado-el-acceso-vehicular-a-tilama-por-intensas-lluvias-en-los-vilos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Personas aisladas, cortes de rutas, viviendas afectadas y albergues habilitados como resultado de paso de sistema frontal en Choapa",
+    "enlace": "https://www.davidnoticias.cl/personas-aisladas-cortes-de-rutas-viviendas-afectadas-y-albergues-habilitados-como-resultado-de-paso-de-sistema-frontal-en-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Salamanca: Fiscalía formalizó a adolescente por dos robos contra personas y quedó e internación provisoria",
+    "enlace": "https://www.davidnoticias.cl/salamanca-fiscalia-formalizo-a-adolescente-por-dos-robos-contra-personas-y-quedo-e-internacion-provisoria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Illapel: Fiscalía imputó a mujer microtráfico de drogas y quedó en prisión preventiva",
+    "enlace": "https://www.davidnoticias.cl/illapel-fiscalia-imputo-a-mujer-microtrafico-de-drogas-y-quedo-en-prision-preventiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Aprovechó el temporal para cometer un robo: Carabineros recuperó más de $800 mil y detuvo al responsable en Salamanca",
@@ -1062,40 +1098,13 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "CEAZA entrega nuevo balance de precipitaciones: Quilimarí lidera acumulados en Choapa y Fray Jorge registra los mayores montos en Limarí",
-    "enlace": "https://www.davidnoticias.cl/ceaza-entrega-nuevo-balance-de-precipitaciones-quilimari-lidera-acumulados-en-choapa-y-fray-jorge-registra-los-mayores-montos-en-limari/",
+    "titulo": "Andacollo registra más de 38 milímetros de lluvia y mantiene monitoreo permanente ante intensificación del sistema frontal",
+    "enlace": "https://www.elandacollino.cl/2026/07/17/andacollo-registra-mas-de-38-milimetros-de-lluvia-y-mantiene-monitoreo-permanente-ante-intensificacion-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Gobierno amplía suspensión de clases en 10 regiones : 658.131 clientes permanecían sin suministro eléctrico",
-    "enlace": "https://www.davidnoticias.cl/gobierno-amplia-suspension-de-clases-en-10-regiones-658-131-clientes-permanecian-sin-suministro-electrico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Coquimbo",
-    "enlace": "https://www.davidnoticias.cl/sag-confirma-primer-caso-de-influenza-aviar-altamente-patogena-en-ave-silvestre-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Sistema frontal deja primeras viviendas afectadas por inundaciones y cortes de energía en Los Vilos",
-    "enlace": "https://www.davidnoticias.cl/sistema-frontal-deja-primeras-viviendas-afectadas-por-inundaciones-y-cortes-de-energia-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Andacollo enfrenta sistema frontal sin emergencias mayores gracias a medidas preventivas y monitoreo permanente",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Corte de La Serena entrega importante donación a integrantes del CEIA de Andacollo por “Campaña de Invierno 2026”",
     "enlace": "https://www.elandacollino.cl/2026/07/09/corte-de-la-serena-entrega-importante-donacion-a-integrantes-del-ceia-de-andacollo-por-campana-de-invierno-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Delegación Presidencial encabeza reuniones que buscan acuerdos entre pirquineros de Andacollo y Galantas Gold",
-    "enlace": "https://www.elandacollino.cl/2026/07/09/delegacion-presidencial-encabeza-reuniones-que-buscan-acuerdos-entre-pirquineros-de-andacollo-y-galantas-gold/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1458,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "General de Carabineros sobrevuela la Provincia de Huasco para monitorear efectos del sistema frontal",
+    "enlace": "https://www.maray.cl/atacama/17/07/2026/general-de-carabineros-sobrevuela-la-provincia-de-huasco-para-monitorear-efectos-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Lluvias en Atacama y caudales de los ríos se mantienen estables, según la DGA",
+    "enlace": "https://www.maray.cl/atacama/17/07/2026/lluvias-en-atacama-y-caudales-de-los-rios-se-mantienen-estables-segun-la-dga/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Lo Espejo: Dos carabineros resultan baleados durante fiscalización y despliegan operativo para capturar al atacante",
+    "enlace": "https://www.maray.cl/pais/17/07/2026/lo-espejo-dos-carabineros-resultan-baleados-durante-fiscalizacion-y-despliegan-operativo-para-capturar-al-atacante/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Terremoto de magnitud 7,4 remece el sur de México: SHOA descarta riesgo de tsunami para Chile",
     "enlace": "https://www.maray.cl/internacional/17/07/2026/terremoto-de-magnitud-74-remece-el-sur-de-mexico-shoa-descarta-riesgo-de-tsunami-para-chile/",
     "descripcion": "",
@@ -1514,33 +1541,6 @@
   {
     "titulo": "Definen al árbitro para la final del Mundial entre España y Argentina",
     "enlace": "https://www.maray.cl/deportes/17/07/2026/definen-al-arbitro-para-la-final-del-mundial-entre-espana-y-argentina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "SENAPRED actualiza Alerta Temprana Preventiva y mantiene Alerta Amarilla en la Provincia de Huasco",
-    "enlace": "https://www.maray.cl/atacama/17/07/2026/senapred-actualiza-alerta-temprana-preventiva-y-mantiene-alerta-amarilla-en-la-provincia-de-huasco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Kast viaja al sur para monitorear emergencia y asegura recursos ante efectos del sistema frontal",
-    "enlace": "https://www.maray.cl/pais/17/07/2026/kast-viaja-al-sur-para-monitorear-emergencia-y-asegura-recursos-ante-efectos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gendarmería activa plan preventivo en cárceles de Atacama",
-    "enlace": "https://www.maray.cl/atacama/17/07/2026/gendarmeria-activa-plan-preventivo-en-carceles-de-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía investiga muerte de hombre por impacto de bala en Chillán",
-    "enlace": "https://g5noticias.cl/2026/07/17/fiscalia-investiga-muerte-de-hombre-por-impacto-de-bala-en-chillan/",
+    "titulo": "Alcaldesa Macarena Ripamonti moviliza camionetas de seguridad para trasladar vecinos en riesgo hacia los albergues",
+    "enlace": "https://g5noticias.cl/2026/07/17/alcaldesa-macarena-ripamonti-moviliza-camionetas-de-seguridad-para-trasladar-vecinos-en-riesgo-hacia-los-albergues/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Illapel: Sujeto fue imputado por robar herramientas desde hospital en construcción",
-    "enlace": "https://g5noticias.cl/2026/07/17/illapel-sujeto-fue-imputado-por-robar-herramientas-desde-hospital-en-construccion/",
+    "titulo": "Consejos de seguridad digital para disfrutar de la red sin riesgos desde el celular",
+    "enlace": "https://g5noticias.cl/2026/07/17/consejos-de-seguridad-digital-para-disfrutar-de-la-red-sin-riesgos-desde-el-celular/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SLEP Costa Central fortalece monitoreo y acciones preventivas ante sistema frontal en los establecimientos educacionales",
-    "enlace": "https://g5noticias.cl/2026/07/17/slep-costa-central-fortalece-monitoreo-y-acciones-preventivas-ante-sistema-frontal-en-los-establecimientos-educacionales/",
+    "titulo": "Municipio de Quillota refuerza su coordinación ante los efectos del sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/17/municipio-de-quillota-refuerza-su-coordinacion-ante-los-efectos-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fuerte sismo de magnitud 7.4 sacudió el sur de México esta mañana",
-    "enlace": "https://g5noticias.cl/2026/07/17/fuerte-sismo-de-magnitud-7-4-sacudio-el-sur-de-mexico-esta-manana/",
+    "titulo": "Alejandro Tabilo se mete en semifinales del ATP 250 de Bastad en Suecia por retiro del argentino Thiago Tirante",
+    "enlace": "https://g5noticias.cl/2026/07/17/alejandro-tabilo-se-mete-en-semifinales-del-atp-250-de-bastad-en-suecia-por-retiro-del-argentino-thiago-tirante/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Irán cifra en 38 los muertos por los ataques de EE.UU. de la última semana",
-    "enlace": "https://g5noticias.cl/2026/07/17/iran-cifra-en-38-los-muertos-por-los-ataques-de-ee-uu-de-la-ultima-semana/",
+    "titulo": "Sistema Frontal: Esval actualiza balance de servicio",
+    "enlace": "https://g5noticias.cl/2026/07/17/sistema-frontal-esval-actualiza-balance-de-servicio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bienes Nacionales activa monitoreo territorial ante sistema frontal y coordina disponibilidad de inmuebles fiscales para albergues",
-    "enlace": "https://g5noticias.cl/2026/07/17/bienes-nacionales-activa-monitoreo-territorial-ante-sistema-frontal-y-coordina-disponibilidad-de-inmuebles-fiscales-para-albergues/",
+    "titulo": "Balance regional: en Petorca quedan aisladas 600 familias, Chilquinta reporta 89 mil clientes sin luz en toda su área de servicio y autoridades reiteran llamado al autocuidado",
+    "enlace": "https://g5noticias.cl/2026/07/17/balance-regional-en-petorca-quedan-aisladas-600-familias-chilquinta-reporta-89-mil-clientes-sin-luz-en-toda-su-area-de-servicio-y-autoridades-reiteran-llamado-al-autocuidado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bancada PDG pide al Presidente activar de inmediato el 2% de Emergencia para apoyar a las zonas afectadas",
-    "enlace": "https://g5noticias.cl/2026/07/17/bancada-pdg-pide-al-presidente-activar-de-inmediato-el-2-de-emergencia-para-apoyar-a-las-zonas-afectadas/",
+    "titulo": "“Hoy la emergencia es el sistema frontal”: Desafío Levantemos Chile despliega equipos en terreno y activa campaña para llegar con ayuda a las familias afectadas",
+    "enlace": "https://g5noticias.cl/2026/07/17/hoy-la-emergencia-es-el-sistema-frontal-desafio-levantemos-chile-despliega-equipos-en-terreno-y-activa-campana-para-llegar-con-ayuda-a-las-familias-afectadas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Últimas 24 horas anotan 77,90 mm de lluvias en Valparaíso y olas de hasta 7 metros de altura: se mantiene el déficit de precipitaciones en la zona",
-    "enlace": "https://g5noticias.cl/2026/07/17/ultimas-24-horas-anotan-7790-mm-de-lluvias-en-valparaiso-y-olas-de-hasta-7-metros-de-altura-se-mantiene-el-deficit-de-precipitaciones-en-la-zona/",
+    "titulo": "Artista de Quetroco realizará taller gratuito de Pintura y Dibujo para Adultos Mayores de sectores rurales",
+    "enlace": "https://g5noticias.cl/2026/07/17/artista-de-quetroco-realizara-taller-gratuito-de-pintura-y-dibujo-para-adultos-mayores-de-sectores-rurales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipio de La Calera determina el cierre del cementerio hasta el domingo debido al intenso sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/17/municipio-de-la-calera-determina-el-cierre-del-cementerio-hasta-el-domingo-debido-al-intenso-sistema-frontal/",
+    "titulo": "Illapel: Fiscalía imputó a mujer microtráfico de drogas y quedó en prisión preventiva",
+    "enlace": "https://g5noticias.cl/2026/07/17/illapel-fiscalia-imputo-a-mujer-microtrafico-de-drogas-y-quedo-en-prision-preventiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Cruz acumula 95,2 milímetros de lluvia y mantiene operativo municipal desplegado por sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/17/la-cruz-acumula-952-milimetros-de-lluvia-y-mantiene-operativo-municipal-desplegado-por-sistema-frontal/",
+    "titulo": "Determinan la apertura de albergue para mascotas en Quillota",
+    "enlace": "https://g5noticias.cl/2026/07/17/determinan-la-apertura-de-albergue-para-mascotas-en-quillota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
