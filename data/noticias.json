@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Minera Los Pelambres activa plan preventivo ante contingencia climática",
+    "enlace": "https://laserenaonline.cl/2026/07/17/minera-los-pelambres-activa-plan-preventivo-ante-contingencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Detienen a presunto autor de homicidio ocurrido en Terminal de buses de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/17/detienen-a-presunto-autor-de-homicidio-ocurrido-en-terminal-de-buses-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Reporte sobre precipitaciones en La Serena",
+    "enlace": "https://laserenaonline.cl/2026/07/17/reporte-sobre-precipitaciones-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Carabineros enfático: “Utilicemos los recursos de manera responsable” esto tras llamado falso",
     "enlace": "https://laserenaonline.cl/2026/07/17/carabineros-enfatico-utilicemos-los-recursos-de-manera-responsable-esto-tras-llamado-falso/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Reporte del tiempo: Tormentas eléctricas, lluvia y viento para la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/17/reporte-del-tiempo-tormentas-electricas-lluvia-y-viento-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Inauguran la histórica remodelación del Complejo Deportivo Municipal “Carlos Salinas Altamirano” de Los Vilos",
-    "enlace": "https://laserenaonline.cl/2026/07/16/inauguran-la-historica-remodelacion-del-complejo-deportivo-municipal-carlos-salinas-altamirano-de-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Hospital de Coquimbo realiza histórica primera entrega regional de bombas de insulina a pacientes pediátricos",
-    "enlace": "https://laserenaonline.cl/2026/07/16/hospital-de-coquimbo-realiza-historica-primera-entrega-regional-de-bombas-de-insulina-a-pacientes-pediatricos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Región de Coquimbo se consolida como referente en astronomía gracias al exitoso evento Navegantes Estelares",
-    "enlace": "https://laserenaonline.cl/2026/07/16/region-de-coquimbo-se-consolida-como-referente-en-astronomia-gracias-al-exitoso-evento-navegantes-estelares/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Caída de árbol interrumpe tránsito en ruta hacia Huintil Norte",
+    "enlace": "https://www.elillapelino.cl/2026/07/17/caida-de-arbol-interrumpe-transito-en-ruta-hacia-huintil-norte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Illapel registra 38 emergencias por sistema frontal y mantiene albergue habilitado para familias afectadas",
     "enlace": "https://www.elillapelino.cl/2026/07/16/illapel-registra-38-emergencias-por-sistema-frontal-y-mantiene-albergue-habilitado-para-familias-afectadas/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "Cuatro viviendas afectadas y 11 damnificados deja incendio estructural en Villa San Rafael de Illapel",
     "enlace": "https://www.elillapelino.cl/2026/07/10/cuatro-viviendas-afectadas-y-11-damnificados-deja-incendio-estructural-en-villa-san-rafael-de-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Emprendimiento de Illapel llega por 1ra vez a la Semana Internacional de Diseño de Palermo en Argentina",
-    "enlace": "https://www.elillapelino.cl/2026/07/08/emprendimiento-de-illapel-llega-por-1ra-vez-a-la-semana-internacional-de-diseno-de-palermo-en-argentina/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Activación de quebradas y rodados marcan primeras horas del sistema frontal en Paihuano",
+    "enlace": "https://www.elpaihuanino.cl/2026/07/17/activacion-de-quebradas-y-rodados-marcan-primeras-horas-del-sistema-frontal-en-paihuano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Paihuano reporta afectaciones por fuertes vientos y mantiene monitoreo de puntos críticos ante sistema frontal",
     "enlace": "https://www.elpaihuanino.cl/2026/07/16/paihuano-reporta-afectaciones-por-fuertes-vientos-y-mantiene-monitoreo-de-puntos-criticos-ante-sistema-frontal/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Paihuano será laboratorio natural para innovador proyecto científico que busca enfrentar la escasez hídrica",
     "enlace": "https://www.elpaihuanino.cl/2026/07/12/paihuano-sera-laboratorio-natural-para-innovador-proyecto-cientifico-que-busca-enfrentar-la-escasez-hidrica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Alcalde de Paihuano fue el único representante del Norte Chico invitado al Encuentro Nacional 3xi sobre pobreza",
-    "enlace": "https://www.elpaihuanino.cl/2026/07/10/alcalde-de-paihuano-fue-el-unico-representante-del-norte-chico-invitado-al-encuentro-nacional-3xi-sobre-pobreza/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Paihuanino",
@@ -1458,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Terremoto de magnitud 7,4 remece el sur de México: SHOA descarta riesgo de tsunami para Chile",
+    "enlace": "https://www.maray.cl/internacional/17/07/2026/terremoto-de-magnitud-74-remece-el-sur-de-mexico-shoa-descarta-riesgo-de-tsunami-para-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Región de Coquimbo enfrenta alarma por intensas lluvias y alto riesgo de remociones en masa",
+    "enlace": "https://www.maray.cl/pais/17/07/2026/region-de-coquimbo-enfrenta-alarma-por-intensas-lluvias-y-alto-riesgo-de-remociones-en-masa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Muere Brenda Fricker, actriz ganadora del Oscar y recordada por su papel en «Mi pobre angelito 2»",
+    "enlace": "https://www.maray.cl/internacional/17/07/2026/muere-brenda-fricker-actriz-ganadora-del-oscar-y-recordada-por-su-papel-en-mi-pobre-angelito-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Cómo disfrutar las comidas de invierno sin perder el equilibrio",
     "enlace": "https://www.maray.cl/vida-salud/17/07/2026/como-disfrutar-las-comidas-de-invierno-sin-perder-el-equilibrio/",
     "descripcion": "",
@@ -1514,33 +1541,6 @@
   {
     "titulo": "Gendarmería activa plan preventivo en cárceles de Atacama",
     "enlace": "https://www.maray.cl/atacama/17/07/2026/gendarmeria-activa-plan-preventivo-en-carceles-de-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cerro Navia: Hombre muere electrocutado tras recibir descarga desde un paradero en medio del sistema frontal",
-    "enlace": "https://www.maray.cl/pais/17/07/2026/cerro-navia-hombre-muere-electrocutado-tras-recibir-descarga-desde-un-paradero-en-medio-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Grúa pluma cae sobre tres viviendas en Coquimbo por fuertes vientos y destruye dos vehículos",
-    "enlace": "https://www.maray.cl/pais/16/07/2026/grua-pluma-cae-sobre-tres-viviendas-en-coquimbo-por-fuertes-vientos-y-destruye-dos-vehiculos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Activan Código Azul en siete regiones por sistema frontal y refuerzan atención para personas en situación de calle",
-    "enlace": "https://www.maray.cl/pais/16/07/2026/activan-codigo-azul-en-siete-regiones-por-sistema-frontal-y-refuerzan-atencion-para-personas-en-situacion-de-calle/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nueva Ley de Protección de Datos abre nuevo frente de presión para empresas chilenas y acelera demanda por talento legal flexible",
-    "enlace": "https://g5noticias.cl/2026/07/17/nueva-ley-de-proteccion-de-datos-abre-nuevo-frente-de-presion-para-empresas-chilenas-y-acelera-demanda-por-talento-legal-flexible/",
+    "titulo": "Fiscalía investiga muerte de hombre por impacto de bala en Chillán",
+    "enlace": "https://g5noticias.cl/2026/07/17/fiscalia-investiga-muerte-de-hombre-por-impacto-de-bala-en-chillan/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Concón aplica cierre total de la Avenida Borgoño por deslizamientos de tierra en el borde costero",
-    "enlace": "https://g5noticias.cl/2026/07/17/concon-aplica-cierre-total-de-la-avenida-borgono-por-deslizamientos-de-tierra-en-el-borde-costero/",
+    "titulo": "Illapel: Sujeto fue imputado por robar herramientas desde hospital en construcción",
+    "enlace": "https://g5noticias.cl/2026/07/17/illapel-sujeto-fue-imputado-por-robar-herramientas-desde-hospital-en-construccion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Balance por sistema frontal en la Provincia de Quillota: entre 80 y 100 mm de lluvias, más de 1.600 clientes sin energía eléctrica, 5 emergencias viales y 4 rutas con cierres preventivos",
-    "enlace": "https://g5noticias.cl/2026/07/17/balance-por-sistema-frontal-en-la-provincia-de-quillota-entre-80-y-100-mm-de-lluvias-mas-de-1-600-clientes-sin-energia-electrica-5-emergencias-viales-y-4-rutas-con-cierres-preventivos/",
+    "titulo": "SLEP Costa Central fortalece monitoreo y acciones preventivas ante sistema frontal en los establecimientos educacionales",
+    "enlace": "https://g5noticias.cl/2026/07/17/slep-costa-central-fortalece-monitoreo-y-acciones-preventivas-ante-sistema-frontal-en-los-establecimientos-educacionales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Kaufmann concentró cerca de un tercio del mercado chileno de camiones durante el primer semestre",
-    "enlace": "https://g5noticias.cl/2026/07/17/kaufmann-concentro-cerca-de-un-tercio-del-mercado-chileno-de-camiones-durante-el-primer-semestre/",
+    "titulo": "Fuerte sismo de magnitud 7.4 sacudió el sur de México esta mañana",
+    "enlace": "https://g5noticias.cl/2026/07/17/fuerte-sismo-de-magnitud-7-4-sacudio-el-sur-de-mexico-esta-manana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SKY Carga lanza nueva plataforma digital para que pymes gestionen envíos aéreos en minutos",
-    "enlace": "https://g5noticias.cl/2026/07/17/sky-carga-lanza-nueva-plataforma-digital-para-que-pymes-gestionen-envios-aereos-en-minutos/",
+    "titulo": "Irán cifra en 38 los muertos por los ataques de EE.UU. de la última semana",
+    "enlace": "https://g5noticias.cl/2026/07/17/iran-cifra-en-38-los-muertos-por-los-ataques-de-ee-uu-de-la-ultima-semana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Delegado presidencial provincial y seremis de Bienes Nacionales y Economía recorren albergues habilitados en Villa Alemana para este temporal",
-    "enlace": "https://g5noticias.cl/2026/07/17/delegado-presidencial-provincial-y-seremis-de-bienes-nacionales-y-economia-recorren-albergues-habilitados-en-villa-alemana-para-este-temporal/",
+    "titulo": "Bienes Nacionales activa monitoreo territorial ante sistema frontal y coordina disponibilidad de inmuebles fiscales para albergues",
+    "enlace": "https://g5noticias.cl/2026/07/17/bienes-nacionales-activa-monitoreo-territorial-ante-sistema-frontal-y-coordina-disponibilidad-de-inmuebles-fiscales-para-albergues/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Mañana, tarde, noche: Taller de Título 2026 de la Escuela de Teatro UV abre inscripciones a público",
-    "enlace": "https://g5noticias.cl/2026/07/17/manana-tarde-noche-taller-de-titulo-2026-de-la-escuela-de-teatro-uv-abre-inscripciones-a-publico/",
+    "titulo": "Bancada PDG pide al Presidente activar de inmediato el 2% de Emergencia para apoyar a las zonas afectadas",
+    "enlace": "https://g5noticias.cl/2026/07/17/bancada-pdg-pide-al-presidente-activar-de-inmediato-el-2-de-emergencia-para-apoyar-a-las-zonas-afectadas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los derechos no pueden retroceder. Por Carolina Araya, Directora Carrera de Derecho, Universidad de Las Américas, Sede Concepción",
-    "enlace": "https://g5noticias.cl/2026/07/17/los-derechos-no-pueden-retroceder-por-carolina-araya-directora-carrera-de-derecho-universidad-de-las-americas-sede-concepcion/",
+    "titulo": "Últimas 24 horas anotan 77,90 mm de lluvias en Valparaíso y olas de hasta 7 metros de altura: se mantiene el déficit de precipitaciones en la zona",
+    "enlace": "https://g5noticias.cl/2026/07/17/ultimas-24-horas-anotan-7790-mm-de-lluvias-en-valparaiso-y-olas-de-hasta-7-metros-de-altura-se-mantiene-el-deficit-de-precipitaciones-en-la-zona/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Quién quieres ser? PAES y la pregunta que debería venir antes de elegir una carrera",
-    "enlace": "https://g5noticias.cl/2026/07/17/quien-quieres-ser-paes-y-la-pregunta-que-deberia-venir-antes-de-elegir-una-carrera/",
+    "titulo": "Municipio de La Calera determina el cierre del cementerio hasta el domingo debido al intenso sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/17/municipio-de-la-calera-determina-el-cierre-del-cementerio-hasta-el-domingo-debido-al-intenso-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alianza impulsará nuevos empleos y competencias para acelerar la economía circular en Chile",
-    "enlace": "https://g5noticias.cl/2026/07/17/alianza-impulsara-nuevos-empleos-y-competencias-para-acelerar-la-economia-circular-en-chile-2/",
+    "titulo": "La Cruz acumula 95,2 milímetros de lluvia y mantiene operativo municipal desplegado por sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/17/la-cruz-acumula-952-milimetros-de-lluvia-y-mantiene-operativo-municipal-desplegado-por-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1998,6 +1998,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Opinión: ¿Por qué la natalidad cae a niveles críticos en Chile?",
+    "enlace": "https://elmagallanico.com/2026/07/17/opinion-por-que-la-natalidad-cae-a-niveles-criticos-en-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Vladimiro Mimica reúne siete décadas de historia en su libro de memorias",
     "enlace": "https://elmagallanico.com/2026/07/17/vladimiro-mimica-reune-siete-decadas-de-historia-en-su-libro-de-memorias/",
     "descripcion": "",
@@ -2072,15 +2081,6 @@
   {
     "titulo": "Justicia determina vulneración de derechos fundamentales de exfiscal de Puerto Natales",
     "enlace": "https://elmagallanico.com/2026/07/17/justicia-determina-vulneracion-de-derechos-fundamentales-de-exfiscal-de-puerto-natales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Jóvenes de Punta Arenas se capacitan como jueces para torneo de debate",
-    "enlace": "https://elmagallanico.com/2026/07/16/jovenes-de-punta-arenas-se-capacitan-como-jueces-para-torneo-de-debate/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
