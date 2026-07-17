@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Hombre resulta gravemente herido tras violenta riña con arma cortopunzante en Terminal de Buses de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/17/hombre-resulta-gravemente-herido-tras-violenta-rina-con-arma-cortopunzante-en-terminal-de-buses-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Derrumbe de grúa en Coquimbo deja viviendas y vehículos afectados en medio de intensas ráfagas de viento",
     "enlace": "https://www.elcoquimbano.cl/2026/07/16/derrumbe-de-grua-en-coquimbo-deja-viviendas-y-vehiculos-afectados-en-medio-de-intensas-rafagas-de-viento/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Recuperan bicicletas robadas por $12 millones que eran comercializadas en Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/14/recuperan-bicicletas-robadas-por-12-millones-que-eran-comercializadas-en-coquimbo/",
+    "titulo": "Seguridad Municipal logra retención de dos presuntos autores de asalto a conductor de aplicación en Las Compañías",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/17/seguridad-municipal-logra-retencion-de-dos-presuntos-autores-de-asalto-a-conductor-de-aplicacion-en-las-companias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Identifican 171 puntos críticos y 13 personas albergadas en COGRID de La Serena",
@@ -164,15 +173,6 @@
   {
     "titulo": "Fiscalización en el centro de La Serena termina con más de 150 cajetillas de cigarro incautadas: hay una detenida por contrabando",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/15/fiscalizacion-en-el-centro-de-la-serena-termina-con-mas-de-150-cajetillas-de-cigarro-incautadas-hay-una-detenida-por-contrabando/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El lado B del temporal en La Serena y Coquimbo : Se agotan nylon, sacos y masas para sopaipillas",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/14/el-lado-b-del-temporal-en-la-serena-y-coquimbo-se-agotan-nylon-sacos-y-masas-para-sopaipillas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Lluvias elevan preocupación frente a obras del Hospital de Illapel",
-    "enlace": "https://veetv.cl/lluvias-elevan-preocupacion-frente-a-obras-del-hospital-de-illapel/",
+    "titulo": "Sistema frontal deja emergencias menores y activa amplio despliegue preventivo en Choapa",
+    "enlace": "https://veetv.cl/sistema-frontal-emergencias-choapa/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "CEAZA pronostica hasta 230 mm de lluvia en el Choapa: autoridades suspenden las clases del viernes",
-    "enlace": "https://veetv.cl/lluvias-choapa-pronostico-ceaza/",
+    "titulo": "Lluvias elevan preocupación frente a obras del Hospital de Illapel",
+    "enlace": "https://veetv.cl/lluvias-elevan-preocupacion-frente-a-obras-del-hospital-de-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1728,6 +1728,33 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Gobierno anuncia investigación por desplome de grúa que dañó seis viviendas en Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/07/16/gobierno-anuncia-investigacion-por-desplome-de-grua-que-dano-seis-viviendas-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "USS fortalece trabajo comunitario en Corral para promover la seguridad alimentaria y el cuidado del agua",
+    "enlace": "https://g5noticias.cl/2026/07/16/uss-fortalece-trabajo-comunitario-en-corral-para-promover-la-seguridad-alimentaria-y-el-cuidado-del-agua/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Ministra del Deporte visita diversos centros deportivos de la Región de Valparaíso para apoyar la respuesta ante el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/16/ministra-del-deporte-visita-diversos-centros-deportivos-de-la-region-de-valparaiso-para-apoyar-la-respuesta-ante-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Tres víctimas fatales deja hasta el momento el sistema frontal que afecta a 10 regiones del país",
     "enlace": "https://g5noticias.cl/2026/07/16/tres-victimas-fatales-deja-hasta-el-momento-el-sistema-frontal-que-afecta-a-10-regiones-del-pais/",
     "descripcion": "",
@@ -1784,33 +1811,6 @@
   {
     "titulo": "Diversas caídas de árboles provocan estragos en las redes eléctricas de la Región de Valparaíso",
     "enlace": "https://g5noticias.cl/2026/07/16/diversas-caidas-de-arboles-provocan-estragos-en-las-redes-electricas-de-la-region-de-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Capitanía de Puerto de Talcahuano rescata a una familia aislada en Caleta Tumbes",
-    "enlace": "https://g5noticias.cl/2026/07/16/capitania-de-puerto-de-talcahuano-rescata-a-una-familia-aislada-en-caleta-tumbes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Megarreforma vuelve a la Cámara: Bancada PDG analizará los cambios del Senado y sigue a la espera del cumplimiento del compromiso por devolución del IVA a medicamentos y pañales",
-    "enlace": "https://g5noticias.cl/2026/07/16/megarreforma-vuelve-a-la-camara-bancada-pdg-analizara-los-cambios-del-senado-y-sigue-a-la-espera-del-cumplimiento-del-compromiso-por-devolucion-del-iva-a-medicamentos-y-panales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Damnificados por el megaincendio en Viña del Mar vuelven a sufrir, ahora con las lluvias",
-    "enlace": "https://g5noticias.cl/2026/07/16/cuando-la-lluvia-tambien-trae-recuerdos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,15 +1908,6 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Prófugo por homicidio de brigadista de Conaf fue capturado en Última Esperanza",
-    "enlace": "https://laprensaaustral.cl/2026/07/16/profugo-por-homicidio-de-brigadista-de-conaf-fue-capturado-en-ultima-esperanza/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
     "titulo": "Enap proyecta su primera perforación con fractura  hidráulica en Tierra del Fuego por US$648 millones",
     "enlace": "https://laprensaaustral.cl/2026/07/16/enap-proyecta-su-primera-perforacion-con-fractura-hidraulica-en-tierra-del-fuego-por-us648-millones/",
     "descripcion": "",
@@ -1991,6 +1982,15 @@
   {
     "titulo": "Envenenamiento de animales en Porvenir",
     "enlace": "https://laprensaaustral.cl/2026/07/16/envenenamiento-de-animales-en-porvenir/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Talento artístico infantil: Emilia Pacheco suma  importante logro a su novel trayectoria artística",
+    "enlace": "https://laprensaaustral.cl/2026/07/16/talento-artistico-infantil-emilia-pacheco-suma-importante-logro-a-su-novel-trayectoria-artistica/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
