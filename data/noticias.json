@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Autoridades descartan intervención artificial en humedales de Tongoy y llaman a la tranquilidad ante sistema frontal",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/17/autoridades-descartan-intervencion-artificial-en-humedales-de-tongoy-y-llaman-a-la-tranquilidad-ante-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Informan suspensión de faenas tras desplome de grúa en Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/17/informan-suspension-de-faenas-tras-desplome-de-grua-en-coquimbo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Coquimbo avanza hacia su primer museo: buscan convertirlo en el mejor del norte de Chile",
     "enlace": "https://www.elcoquimbano.cl/2026/07/16/coquimbo-avanza-hacia-su-primer-museo-alcalde-manouchehri-busca-convertirlo-en-el-mejor-del-norte-de-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Coquimbo cerrará cementerios municipales por sistema frontal: También se suspende recolección de basura por dos días",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/15/coquimbo-cerrara-cementerios-municipales-por-sistema-frontal-tambien-se-suspende-recoleccion-de-basura-por-dos-dias/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Un destello de color entre las nubes: Espectacular arcoíris sorprende a los habitantes de Ovalle",
+    "enlace": "https://ovallehoy.cl/un-destello-de-color-entre-las-nubes-espectacular-arcoiris-sorprende-a-los-habitantes-de-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Caída de árboles moviliza a equipos de emergencia en poblaciones San José de la Dehesa y Ariztía en Ovalle",
     "enlace": "https://ovallehoy.cl/caida-de-arboles-moviliza-a-equipos-de-emergencia-en-poblaciones-san-jose-de-la-dehesa-y-ariztia-en-ovalle/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "“Desde tu Sombra” invita a la reflexión en su estreno comunal en Monte Patria",
     "enlace": "https://ovallehoy.cl/desde-tu-sombra-invita-a-la-reflexion-en-su-estreno-comunal-en-monte-patria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del jueves 16 de julio",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-jueves-16-de-julio/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -720,22 +720,13 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Sistema frontal deja emergencias menores y activa amplio despliegue preventivo en Choapa",
-    "enlace": "https://veetv.cl/sistema-frontal-emergencias-choapa/",
+    "titulo": "Minera Los Pelambres refuerza acciones preventivas por contingencia climática",
+    "enlace": "https://www.elsalamanquino.cl/2026/07/17/minera-los-pelambres-refuerza-acciones-preventivas-por-contingencia-climatica/",
     "descripcion": "",
     "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "Lluvias elevan preocupación frente a obras del Hospital de Illapel",
-    "enlace": "https://veetv.cl/lluvias-elevan-preocupacion-frente-a-obras-del-hospital-de-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
     "titulo": "Salamanca supera los 80 milímetros de lluvia: Problemas de anegamientos en el centro y cortes de energía marcan este viernes",
@@ -819,13 +810,13 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Carabineros detiene a adolescente por robo y porte de arma blanca en Salamanca",
-    "enlace": "https://www.elsalamanquino.cl/2026/07/12/carabineros-detiene-a-adolescente-por-robo-y-porte-de-arma-blanca-en-salamanca/",
+    "titulo": "Andacollo enfrenta fenómeno meteorológico sin emergencias de consideración",
+    "enlace": "https://www.elandacollino.cl/2026/07/17/andacollo-enfrenta-fenomeno-meteorologico-sin-emergencias-de-consideracion/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Andacollo registra más de 38 milímetros de lluvia y mantiene monitoreo permanente ante intensificación del sistema frontal",
@@ -902,15 +893,6 @@
   {
     "titulo": "Proyecto Andacollo Oro avanza con 98 trabajadores y anuncia más de 400 nuevas oportunidades laborales",
     "enlace": "https://www.elandacollino.cl/2026/07/10/proyecto-andacollo-oro-avanza-con-98-trabajadores-y-anuncia-mas-de-400-nuevas-oportunidades-laborales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Corte de La Serena entrega importante donación a integrantes del CEIA de Andacollo por “Campaña de Invierno 2026”",
-    "enlace": "https://www.elandacollino.cl/2026/07/09/corte-de-la-serena-entrega-importante-donacion-a-integrantes-del-ceia-de-andacollo-por-campana-de-invierno-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1098,6 +1080,24 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Provincia de Huasco: SENAPRED mantiene Alerta Amarilla y declara alarma por intensas precipitaciones",
+    "enlace": "https://www.maray.cl/atacama/17/07/2026/provincia-de-huasco-senapred-mantiene-alerta-amarilla-y-declara-alarma-por-intensas-precipitaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Municipio de La Serena ordena suspender trabajos con grúas torre tras colapso registrado en Coquimbo",
+    "enlace": "https://www.maray.cl/pais/17/07/2026/municipio-de-la-serena-ordena-suspender-trabajos-con-gruas-torre-tras-colapso-registrado-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Coquimbo: Marejadas dejan embarcaciones varadas y daños en muelle de La Herradura",
     "enlace": "https://www.maray.cl/pais/17/07/2026/coquimbo-marejadas-dejan-embarcaciones-varadas-y-danos-en-muelle-de-la-herradura/",
     "descripcion": "",
@@ -1170,22 +1170,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Muere Brenda Fricker, actriz ganadora del Oscar y recordada por su papel en «Mi pobre angelito 2»",
-    "enlace": "https://www.maray.cl/internacional/17/07/2026/muere-brenda-fricker-actriz-ganadora-del-oscar-y-recordada-por-su-papel-en-mi-pobre-angelito-2/",
+    "titulo": "Se activa red de hogares temporales de emergencia para animales afectados por el sistema frontal en Villa Alemana",
+    "enlace": "https://diariolaquinta.cl/2026/07/17/se-activa-red-de-hogares-temporales-de-emergencia-para-animales-afectados-por-el-sistema-frontal-en-villa-alemana/?utm_source=rss&utm_medium=rss&utm_campaign=se-activa-red-de-hogares-temporales-de-emergencia-para-animales-afectados-por-el-sistema-frontal-en-villa-alemana",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cómo disfrutar las comidas de invierno sin perder el equilibrio",
-    "enlace": "https://www.maray.cl/vida-salud/17/07/2026/como-disfrutar-las-comidas-de-invierno-sin-perder-el-equilibrio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
     "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Notificación de partidas ROL V-143-2024 «Gatica»",
@@ -1215,7 +1206,7 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En homenaje a Julio Jung y junto a Anita Reeves se exhibirá gratis en Villa Alemana la película «…Y de pronto el amanecer»",
+    "titulo": "ACTIVIDAD SUSPENDIDA – En homenaje a Julio Jung y junto a Anita Reeves se exhibirá gratis en Villa Alemana la película «…Y de pronto el amanecer»",
     "enlace": "https://diariolaquinta.cl/2026/07/16/en-homenaje-a-julio-jung-y-junto-a-anita-reeves-se-exhibira-gratis-en-villa-alemana-la-pelicula-y-de-pronto-el-amanecer/?utm_source=rss&utm_medium=rss&utm_campaign=en-homenaje-a-julio-jung-y-junto-a-anita-reeves-se-exhibira-gratis-en-villa-alemana-la-pelicula-y-de-pronto-el-amanecer",
     "descripcion": "",
     "publicado": "",
@@ -1262,15 +1253,6 @@
   {
     "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Viña del Mar: Cese de alimentos RIT C-3646-2025 «Tapia / Jiménez»",
     "enlace": "https://diariolaquinta.cl/2026/07/16/notificacion-juzgado-de-familia-de-vina-del-mar-cese-de-alimentos-rit-c-3646-2025-tapia-jimenez-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-vina-del-mar-cese-de-alimentos-rit-c-3646-2025-tapia-jimenez-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[OPINIÓN] No cualquier cosa es arte (Julio Sánchez)",
-    "enlace": "https://diariolaquinta.cl/2026/07/15/opinion-no-cualquier-cosa-es-arte-julio-sanchez/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-no-cualquier-cosa-es-arte-julio-sanchez",
     "descripcion": "",
     "publicado": "",
     "medio": "Diario La Quinta",
