@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "SLEP Elqui inspecciona establecimientos educacionales evaluando afectaciones por Sistema Frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/18/slep-elqui-inspecciona-establecimientos-educacionales-evaluando-afectaciones-por-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Illapel: Fiscalía imputó a mujer microtráfico de drogas y quedó en prisión preventiva",
+    "enlace": "https://laserenaonline.cl/2026/07/18/illapel-fiscalia-imputo-a-mujer-microtrafico-de-drogas-y-quedo-en-prision-preventiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Región de Coquimbo: Comenzó tercera transferencia del Royalty Minero por más de $4.600 millones para impulsar la inversión municipal",
+    "enlace": "https://laserenaonline.cl/2026/07/18/region-de-coquimbo-comenzo-tercera-transferencia-del-royalty-minero-por-mas-de-4-600-millones-para-impulsar-la-inversion-municipal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "CGE y autoridades visitan a paciente electrodependiente en La Serena para reforzar medidas de apoyo y seguridad",
     "enlace": "https://laserenaonline.cl/2026/07/18/cge-y-autoridades-visitan-a-paciente-electrodependiente-en-la-serena-para-reforzar-medidas-de-apoyo-y-seguridad/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Conoce el estado de las rutas en la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/18/conoce-el-estado-de-las-rutas-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Activación de quebradas obliga el cierre de la Ruta D202 en La Serena",
-    "enlace": "https://laserenaonline.cl/2026/07/18/activacion-de-quebradas-obliga-el-cierre-de-la-ruta-d202-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Aguas del Valle activa fuentes de respaldo ante aumento de turbiedad en ríos de la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/18/aguas-del-valle-activa-fuentes-de-respaldo-ante-aumento-de-turbiedad-en-rios-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Declaran alerta roja para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/18/declaran-alerta-roja-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1458,6 +1458,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "CChC Atacama refuerza coordinación con SENAPRED y llama a la prevención ante sistema frontal",
+    "enlace": "https://www.maray.cl/atacama/18/07/2026/cchc-atacama-refuerza-coordinacion-con-senapred-y-llama-a-la-prevencion-ante-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Muere carabinero del GOPE que fue baleado durante operativo para capturar a «El Rana»",
     "enlace": "https://www.maray.cl/pais/18/07/2026/muere-carabinero-del-gope-que-fue-baleado-durante-operativo-para-capturar-a-el-rana/",
     "descripcion": "",
@@ -1469,6 +1478,15 @@
   {
     "titulo": "REPORTE: Lluvias superan los 80 milímetros en sectores de Atacama por intenso sistema frontal",
     "enlace": "https://www.maray.cl/atacama/18/07/2026/reporte-lluvias-superan-los-80-milimetros-en-sectores-de-atacama-por-intenso-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Suspenden fecha del fútbol Viejos Crack de Copiapó por condiciones climáticas adversas",
+    "enlace": "https://www.maray.cl/atacama/18/07/2026/suspenden-fecha-del-futbol-viejos-crack-de-copiapo-por-condiciones-climaticas-adversas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1523,24 +1541,6 @@
   {
     "titulo": "Sistema frontal deja cuatro fallecidos y más de 500 damnificados: Atacama y Coquimbo concentran la mayor preocupación",
     "enlace": "https://www.maray.cl/pais/18/07/2026/sistema-frontal-deja-cuatro-fallecidos-y-mas-de-500-damnificados-atacama-y-coquimbo-concentran-la-mayor-preocupacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Vallenar: Carabineros rescatan a matrimonio y sus mascotas tras evacuación por riesgo de desborde de embalse",
-    "enlace": "https://www.maray.cl/atacama/18/07/2026/vallenar-carabineros-rescatan-a-matrimonio-y-sus-mascotas-tras-evacuacion-por-riesgo-de-desborde-de-embalse/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "SENAPRED: Tierra Amarilla entra en Alerta Amarilla por sistema frontal con riesgo de aluviones",
-    "enlace": "https://www.maray.cl/atacama/18/07/2026/senapred-tierra-amarilla-entra-en-alerta-amarilla-por-sistema-frontal-con-riesgo-de-aluviones/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
