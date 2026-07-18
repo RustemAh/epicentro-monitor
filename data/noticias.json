@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Alcaldesa Daniela Norambuena solicita rescate aéreo de familia aislada en Almirante Latorre",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/18/alcaldesa-daniela-norambuena-solicita-rescate-aereo-de-familia-aislada-en-almirante-latorre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Aguas del Valle activa sistemas de respaldo por alta turbiedad en ríos y quebradas de la Región de Coquimbo",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/18/aguas-del-valle-activa-sistemas-de-respaldo-por-alta-turbiedad-en-rios-y-quebradas-de-la-region-de-coquimbo/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "En Colegio Héroes de la Concepción de La Serena Embajadora de Taiwán entregó apoyo a selección de Tchoukball",
     "enlace": "https://www.elserenense.cl/educacion/2026/07/16/en-colegio-heroes-de-la-concepcion-de-la-serena-embajadora-de-taiwan-entrego-apoyo-a-seleccion-de-tchoukball/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Crecida del Río Elqui mantiene en alerta: retiran ocupaciones ilegales en zona de riesgo",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/15/crecida-del-rio-elqui-mantiene-en-alerta-retiran-ocupaciones-ilegales-en-zona-de-riesgo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Consejero Regional Denis Cortés Vargas advierte grave crisis en el Choapa tras temporal y exige mayor fiscalización a empresas de servicios básicos",
+    "enlace": "https://www.elillapelino.cl/2026/07/18/consejero-regional-denis-cortes-vargas-advierte-grave-crisis-en-el-choapa-tras-temporal-y-exige-mayor-fiscalizacion-a-empresas-de-servicios-basicos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Gigantesca roca cae sobre una vivienda en Illapel y mantiene en alerta a equipos de emergencia",
     "enlace": "https://www.elillapelino.cl/2026/07/18/gigantesca-roca-cae-sobre-una-vivienda-en-illapel-y-mantiene-en-alerta-a-equipos-de-emergencia/",
     "descripcion": "",
@@ -621,13 +630,22 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Illapel impulsa el trabajo conjunto por comunidades educativas más seguras",
-    "enlace": "https://www.elillapelino.cl/2026/07/14/illapel-impulsa-el-trabajo-conjunto-por-comunidades-educativas-mas-seguras/",
+    "titulo": "Sistema frontal deja emergencias menores y activa amplio despliegue preventivo en Choapa",
+    "enlace": "https://veetv.cl/sistema-frontal-emergencias-choapa/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Lluvias elevan preocupación frente a obras del Hospital de Illapel",
+    "enlace": "https://veetv.cl/lluvias-elevan-preocupacion-frente-a-obras-del-hospital-de-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Minera Los Pelambres mantiene reforzadas las medidas de resguardo de sus trabajadores",
@@ -990,6 +1008,24 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Inglaterra vence a Francia en un partidazo y se queda con el tercer lugar del Mundial 2026",
+    "enlace": "https://www.maray.cl/deportes/18/07/2026/inglaterra-vence-a-francia-en-un-partidazo-y-se-queda-con-el-tercer-lugar-del-mundial-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno decreta duelo nacional por muerte de carabinero baleado en operativo en Valdivia",
+    "enlace": "https://www.maray.cl/pais/18/07/2026/gobierno-decreta-duelo-nacional-por-muerte-de-carabinero-baleado-en-operativo-en-valdivia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Precordillera de Atacama podría registrar hasta 40 centímetros de nieve durante los próximos días",
     "enlace": "https://www.maray.cl/atacama/18/07/2026/precordillera-de-atacama-podria-registrar-hasta-40-centimetros-de-nieve-durante-los-proximos-dias/",
     "descripcion": "",
@@ -1055,24 +1091,6 @@
   {
     "titulo": "Sismo en territorio antártico chileno no reúne condiciones para generar tsunami en las costas de Chile",
     "enlace": "https://www.maray.cl/pais/18/07/2026/sismo-en-territorio-antartico-chileno-no-reune-condiciones-para-generar-tsunami-en-las-costas-de-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "CChC Atacama refuerza coordinación con SENAPRED y llama a la prevención ante sistema frontal",
-    "enlace": "https://www.maray.cl/atacama/18/07/2026/cchc-atacama-refuerza-coordinacion-con-senapred-y-llama-a-la-prevencion-ante-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Muere carabinero del GOPE que fue baleado durante operativo para capturar a «El Rana»",
-    "enlace": "https://www.maray.cl/pais/18/07/2026/muere-carabinero-del-gope-que-fue-baleado-durante-operativo-para-capturar-a-el-rana/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
