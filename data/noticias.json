@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Biministro Louis De Grange encabezó COGRID en Coquimbo para coordinar respuesta del gobierno ante efectos del sistema frontal",
+    "enlace": "https://www.elserenense.cl/regionales/2026/07/19/biministro-louis-de-grange-encabezo-cogrid-en-coquimbo-para-coordinar-respuesta-del-gobierno-ante-efectos-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Aguas del Valle informa corte parcial de emergencia en sectores de Coquimbo y La Serena desde las 20 hrs de este domingo",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/19/aguas-del-valle-informa-corte-parcial-de-emergencia-en-sectores-de-coquimbo-y-la-serena-desde-las-20-hrs-de-este-domingo/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Balance de la lluvia en La Serena: Más de 13 milímetros, calles cortadas y más de 9 mil clientes sin electricidad",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/17/balance-de-la-lluvia-en-la-serena-mas-de-13-milimetros-calles-cortadas-y-mas-de-9-mil-clientes-sin-electricidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Seguridad Municipal logra retención de dos presuntos autores de asalto a conductor de aplicación en Las Compañías",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/17/seguridad-municipal-logra-retencion-de-dos-presuntos-autores-de-asalto-a-conductor-de-aplicacion-en-las-companias/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -828,6 +828,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Juan Hisi Core de Choapa Graves estragos en la Provincia de Choapa por intenso frente de mal tiempo",
+    "enlace": "https://www.elsalamanquino.cl/2026/07/19/juan-hisi-core-de-choapa-graves-estragos-en-la-provincia-de-choapa-por-intenso-frente-de-mal-tiempo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Minera Los Pelambres mantiene reforzadas las medidas de resguardo de sus trabajadores",
     "enlace": "https://www.elsalamanquino.cl/2026/07/18/minera-los-pelambres-mantiene-reforzadas-las-medidas-de-resguardo-de-sus-trabajadores/",
     "descripcion": "",
@@ -909,13 +918,22 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Salamanca: Fiscalía formalizó a menor de edad por dos robos contra personas y quedó e internación provisoria",
-    "enlace": "https://www.elsalamanquino.cl/2026/07/14/salamanca-fiscalia-formalizo-a-menor-de-edad-por-dos-robos-contra-personas-y-quedo-e-internacion-provisoria/",
+    "titulo": "Desesperado llamado desde Rivera Norte de Canela: vecinos denuncian aislamiento total y exigen ayuda urgente",
+    "enlace": "https://www.davidnoticias.cl/desesperado-llamado-desde-rivera-norte-de-canela-vecinos-denuncian-aislamiento-total-y-exigen-ayuda-urgente/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Minera Los Pelambres mantiene activo plan de contingencia y despliega apoyo en medio del sistema frontal",
+    "enlace": "https://www.davidnoticias.cl/minera-los-pelambres-mantiene-activo-plan-de-contingencia-y-despliega-apoyo-en-medio-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Pescadores de Caleta Huentelauquén quedan sin sustento tras el temporal: advierten meses de paralización",
@@ -983,24 +1001,6 @@
   {
     "titulo": "Aislamiento obliga a activar rescate aéreo de mujer lesionada en Los Maquis",
     "enlace": "https://www.davidnoticias.cl/aislamiento-obliga-a-activar-rescate-aereo-de-mujer-lesionada-en-los-maquis/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Comunidades del Valle de Quilimarí enfrentan complejo aislamiento: llevan tres días sin electricidad y con problemas de conectividad",
-    "enlace": "https://www.davidnoticias.cl/comunidades-del-valle-de-quilimari-enfrentan-complejo-aislamiento-llevan-tres-dias-sin-electricidad-y-con-problemas-de-conectividad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Carabineros supera los 30 rescates aéreos durante el sistema frontal y refuerza llamado a colaborar en las evacuaciones",
-    "enlace": "https://www.davidnoticias.cl/carabineros-supera-los-30-rescates-aereos-durante-el-sistema-frontal-y-refuerza-llamado-a-colaborar-en-las-evacuaciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Alcalde de Paihuano debió trasladarse a Vicuña para informar balance de la emergencia y solicitar refuerzo en comunicaciones",
+    "enlace": "https://www.elpaihuanino.cl/2026/07/19/alcalde-de-paihuano-debio-trasladarse-a-vicuna-para-informar-balance-de-la-emergencia-y-solicitar-refuerzo-en-comunicaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Activación de quebradas y rodados marcan primeras horas del sistema frontal en Paihuano",
     "enlace": "https://www.elpaihuanino.cl/2026/07/17/activacion-de-quebradas-y-rodados-marcan-primeras-horas-del-sistema-frontal-en-paihuano/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Municipio de Paihuano refuerza medidas preventivas ante sistema frontal que podría dejar más de 100 mm de lluvia",
     "enlace": "https://www.elpaihuanino.cl/2026/07/13/municipio-de-paihuano-refuerza-medidas-preventivas-ante-sistema-frontal-que-podria-dejar-mas-de-100-mm-de-lluvia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Paihuano será laboratorio natural para innovador proyecto científico que busca enfrentar la escasez hídrica",
-    "enlace": "https://www.elpaihuanino.cl/2026/07/12/paihuano-sera-laboratorio-natural-para-innovador-proyecto-cientifico-que-busca-enfrentar-la-escasez-hidrica/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Paihuanino",
@@ -1368,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "MOP Atacama mantiene despliegue permanente para resguardar la conectividad durante la emergencia",
+    "enlace": "https://www.maray.cl/atacama/19/07/2026/mop-atacama-mantiene-despliegue-permanente-para-resguardar-la-conectividad-durante-la-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobernador Regional respalda solicitud de declarar como zona de Catástrofe a la comuna de Alto del Carmen",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/07/2026/gobernador-regional-respalda-solicitud-de-declarar-como-zona-de-catastrofe-a-la-comuna-de-alto-del-carmen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Cristian Olivares, Alcalde de Alto del Carmen | «No tenemos como hacer llegar una urna a la localidad de Chollay»",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/07/2026/cristian-olivares-alcalde-de-alto-del-carmen-no-tenemos-como-hacer-llegar-una-urna-a-la-localidad-de-chollay/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Senadora Daniela Cicardini | «Atacama ayuda a Atacama»",
     "enlace": "https://www.maray.cl/podcast-de-noticias/19/07/2026/senadora-daniela-cicardini-atacama-ayuda-a-atacama/",
     "descripcion": "",
@@ -1424,33 +1451,6 @@
   {
     "titulo": "Irán ataca bases en Kuwait y amenaza a Estados Unidos",
     "enlace": "https://www.maray.cl/internacional/19/07/2026/iran-ataca-bases-en-kuwait-y-amenaza-a-estados-unidos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Argentina y España tienen una cita con la historia en la final de la Copa del Mundo 2026",
-    "enlace": "https://www.maray.cl/deportes/19/07/2026/argentina-y-espana-tienen-una-cita-con-la-historia-en-la-final-de-la-copa-del-mundo-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "«Lo más lindo de todos estos años fue el camino»: El mensaje de Messi antes de la final",
-    "enlace": "https://www.maray.cl/deportes/19/07/2026/lo-mas-lindo-de-todos-estos-anos-fue-el-camino-el-mensaje-de-messi-antes-de-la-final/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sistema frontal: Senapred contabiliza cuatro fallecidos y concentra preocupación en Atacama y Coquimbo",
-    "enlace": "https://www.maray.cl/pais/19/07/2026/sistema-frontal-senapred-contabiliza-cuatro-fallecidos-y-concentra-preocupacion-en-atacama-y-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,71 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Diputado Jaime Mulet solicita decretar estado de excepción constitucional de catástrofe para Atacama ante agravamiento del sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/19/diputado-jaime-mulet-solicita-decretar-estado-de-excepcion-constitucional-de-catastrofe-para-atacama-ante-agravamiento-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Quilpué oficia a la SEC por 24 mil 500 vecinos de la comuna sin suministro eléctrico",
+    "enlace": "https://g5noticias.cl/2026/07/19/municipalidad-de-quilpue-oficia-a-la-sec-por-24-mil-500-vecinos-de-la-comuna-sin-suministro-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Delegada Presidencial Provincial de Quillota, informa tendencia descendente de los caudales y mantiene respuesta activa ante el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/19/delegada-presidencial-provincial-de-quillota-informa-tendencia-descendente-de-los-caudales-y-mantiene-respuesta-activa-ante-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "¿Puede un cuento cambiar una vida?: La importancia de hablar (y escribir) sobre la salud mental de niños y jóvenes",
     "enlace": "https://g5noticias.cl/2026/07/19/puede-un-cuento-cambiar-una-vida-la-importancia-de-hablar-y-escribir-sobre-la-salud-mental-de-ninos-y-jovenes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Alcaldesa de La Cruz solicitó agilizar reposición del suministro eléctrico",
+    "enlace": "https://g5noticias.cl/2026/07/19/alcaldesa-de-la-cruz-solicito-agilizar-reposicion-del-suministro-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Gobierno refuerza medidas por sistema frontal: suspensión de clases y apoyo a las familias afectadas: 860 personas damnificadas, 356 albergadas y más de 113 mil clientes sin suministro eléctrico",
+    "enlace": "https://g5noticias.cl/2026/07/19/gobierno-refuerza-medidas-por-sistema-frontal-suspension-de-clases-y-apoyo-a-las-familias-afectadas-860-personas-damnificadas-356-albergadas-y-mas-de-113-mil-clientes-sin-suministro-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hijuelas extiende suspensión de clases hasta el martes",
+    "enlace": "https://g5noticias.cl/2026/07/19/hijuelas-extiende-suspension-de-clases-hasta-el-martes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Chilquinta intensifica la recuperación del suministro tras el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/19/chilquinta-intensifica-la-recuperacion-del-suministro-tras-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1658,69 +1721,6 @@
   {
     "titulo": "Los efectos de la depresión en la manera de hablar y comunicarse",
     "enlace": "https://g5noticias.cl/2026/07/19/los-efectos-de-la-depresion-en-la-manera-de-hablar-y-comunicarse/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Consejo CTCI realizó encuentro “Chile se apropia de la Estrategia Nacional CTCI 2026”",
-    "enlace": "https://g5noticias.cl/2026/07/19/consejo-ctci-realizo-encuentro-chile-se-apropia-de-la-estrategia-nacional-ctci-2026-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Mauro Basaure y el legado del #MeToo: «Más que fracaso, hablaría de una eficacia parcial y desigual»",
-    "enlace": "https://g5noticias.cl/2026/07/19/mauro-basaure-y-el-legado-del-metoo-mas-que-fracaso-hablaria-de-una-eficacia-parcial-y-desigual/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Cómo prevenir enfermedades respiratorias ante lluvias, bajas temperaturas y alta circulación viral",
-    "enlace": "https://g5noticias.cl/2026/07/19/como-prevenir-enfermedades-respiratorias-ante-lluvias-bajas-temperaturas-y-alta-circulacion-viral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Asociación Nacional de Cooperativas de Chile realizó seminario sobre inteligencia artificial, tecnología e innovación para el mundo cooperativo",
-    "enlace": "https://g5noticias.cl/2026/07/19/asociacion-nacional-de-cooperativas-de-chile-realizo-seminario-sobre-inteligencia-artificial-tecnologia-e-innovacion-para-el-mundo-cooperativo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "La fiscalización de las empresas mineras estatales: una institucionalidad que urge actualizar. Por Patricio Cartagena D., Abogado, Ex VPE Cochilco, Presidente de CAMMIN",
-    "enlace": "https://g5noticias.cl/2026/07/19/la-fiscalizacion-de-las-empresas-mineras-estatales-una-institucionalidad-que-urge-actualizar-por-patricio-cartagena-d-abogado-ex-vpe-cochilco-presidente-de-cammin/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Alerta por reto que mezcla alcohol con antigripales: cómo identificar señales de riesgo y cómo actuar ante una emergencia",
-    "enlace": "https://g5noticias.cl/2026/07/19/alerta-por-reto-que-mezcla-alcohol-con-antigripales-como-identificar-senales-de-riesgo-y-como-actuar-ante-una-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El calzado brasileño conquistó Chile: El país ya importó más de 495.000 pares en lo que va del año",
-    "enlace": "https://g5noticias.cl/2026/07/19/el-calzado-brasileno-conquisto-chile-el-pais-ya-importo-mas-de-495-000-pares-en-lo-que-va-del-ano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
