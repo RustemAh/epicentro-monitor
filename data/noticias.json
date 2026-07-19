@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Daños estructurales en varios puntos mantienen cortada la Ruta D-43 entre Ovalle y Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/19/danos-estructurales-en-varios-puntos-mantienen-cortada-la-ruta-d-43-entre-ovalle-y-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Carabineros rescata a seis perritos aislados por el sistema frontal en La Rinconada del Sauce de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/19/carabineros-rescata-a-seis-perritos-aislados-por-el-sistema-frontal-en-la-rinconada-del-sauce-de-coquimbo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Hombre resulta gravemente herido tras violenta riña con arma cortopunzante en Terminal de Buses de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/17/hombre-resulta-gravemente-herido-tras-violenta-rina-con-arma-cortopunzante-en-terminal-de-buses-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Derrumbe de grúa en Coquimbo deja viviendas y vehículos afectados en medio de intensas ráfagas de viento",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/16/derrumbe-de-grua-en-coquimbo-deja-viviendas-y-vehiculos-afectados-en-medio-de-intensas-rafagas-de-viento/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Seremi del Trabajo llama a reforzar las medidas de protección laboral ante pronóstico de intensas lluvias",
+    "enlace": "https://laserenaonline.cl/2026/07/19/seremi-del-trabajo-llama-a-reforzar-las-medidas-de-proteccion-laboral-ante-pronostico-de-intensas-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Ruta Protege refuerza el apoyo a personas en situación de calle ante precipitaciones en la comuna de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/19/ruta-protege-refuerza-el-apoyo-a-personas-en-situacion-de-calle-ante-precipitaciones-en-la-comuna-de-coquimbo/",
     "descripcion": "",
@@ -261,13 +270,13 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Balance Aguas del Valle ¿Se cortará el agua?",
-    "enlace": "https://laserenaonline.cl/2026/07/19/balance-aguas-del-valle-se-cortara-el-agua/",
+    "titulo": "Región Coquimbo. Conozca el registro de agua lluvia caída hasta las 14:20 hrs de hoy domingo",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-conozca-el-registro-de-agua-lluvia-caida-hasta-las-1420-hrs-de-hoy-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-conozca-el-registro-de-agua-lluvia-caida-hasta-las-1420-hrs-de-hoy-domingo",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
   },
   {
     "titulo": "Ejército despliega en 24 horas el Hospital Modular de Campaña hacia Ovalle",
@@ -344,15 +353,6 @@
   {
     "titulo": "Región Coquimbo. AHORA. Mop informa cierre de ruta 43 tramo Ovalle-Illapel",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-ahora-mop-informa-cierre-de-ruta-43-tramo-ovalle-illapel/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-ahora-mop-informa-cierre-de-ruta-43-tramo-ovalle-illapel",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Carabineros rescata a familia aislada por crecida del río Cogotí en Monte Patria",
-    "enlace": "https://serenaycoquimbo.cl/carabineros-rescata-a-familia-aislada-por-crecida-del-rio-cogoti-en-monte-patria/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-rescata-a-familia-aislada-por-crecida-del-rio-cogoti-en-monte-patria",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -540,6 +540,24 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Advierten presencia de socavón en ruta entre Combarbalá y Punitaqui",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/19/advierten-presencia-de-socavon-en-ruta-entre-combarbala-y-punitaqui/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Combarbalá entrega balance del temporal este domingo: cerca de 6 mil personas afectadas y más de 50 localidades con daños",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/19/combarbala-entrega-balance-del-temporal-este-domingo-cerca-de-6-mil-personas-afectadas-y-mas-de-50-localidades-con-danos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Combarbalá queda aislada tras desborde de ríos y colapso de accesos por sistema frontal",
     "enlace": "https://www.elcombarbalino.cl/2026/07/18/combarbala-queda-aislada-tras-desborde-de-rios-y-colapso-de-accesos-por-sistema-frontal/",
     "descripcion": "",
@@ -605,24 +623,6 @@
   {
     "titulo": "Ricardo Basulto en Combarbalá: “La robótica debe dejar de ser un taller y transformarse en una herramienta esencial de la educación”",
     "enlace": "https://www.elcombarbalino.cl/2026/07/10/ricardo-basulto-en-combarbala-la-robotica-debe-dejar-de-ser-un-taller-y-transformarse-en-una-herramienta-esencial-de-la-educacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Los robots se toman la cuarta: Combarbalá recibe una nueva fecha de la LIGA ROBÓTICA – PRECISION",
-    "enlace": "https://www.elcombarbalino.cl/2026/07/06/los-robots-se-toman-la-cuarta-combarbala-recibe-una-nueva-fecha-de-la-liga-robotica-precision/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "INDAP aporta a la seguridad y eficiencia hídrica con la apertura de llamado a concurso en Combarbalá",
-    "enlace": "https://www.elcombarbalino.cl/2026/07/03/indap-aporta-a-la-seguridad-y-eficiencia-hidrica-con-la-apertura-de-llamado-a-concurso-en-combarbala/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Pescadores de Caleta Huentelauquén quedan sin sustento tras el temporal: advierten meses de paralización",
+    "enlace": "https://www.davidnoticias.cl/pescadores-de-caleta-huentelauquen-quedan-sin-sustento-tras-el-temporal-advierten-meses-de-paralizacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Helicóptero de Carabineros permite evacuar a pacientes desde localidades aisladas de Los Vilos",
     "enlace": "https://www.davidnoticias.cl/helicoptero-de-carabineros-permite-evacuar-a-pacientes-desde-localidades-aisladas-de-los-vilos/",
     "descripcion": "",
@@ -992,15 +1001,6 @@
   {
     "titulo": "Carabineros supera los 30 rescates aéreos durante el sistema frontal y refuerza llamado a colaborar en las evacuaciones",
     "enlace": "https://www.davidnoticias.cl/carabineros-supera-los-30-rescates-aereos-durante-el-sistema-frontal-y-refuerza-llamado-a-colaborar-en-las-evacuaciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "MINEDUC suspende las clases este lunes 20 de julio en Coquimbo, Valparaíso y la Provincia de Huasco por sistema frontal",
-    "enlace": "https://www.davidnoticias.cl/mineduc-suspende-las-clases-este-lunes-20-de-julio-en-coquimbo-valparaiso-y-la-provincia-de-huasco-por-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Senadora Daniela Cicardini | «Atacama ayuda a Atacama»",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/07/2026/senadora-daniela-cicardini-atacama-ayuda-a-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Delegada Sofía Cid informa coordinaciones y monitoreo en las tres provincias de Atacama",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/07/2026/delegada-sofia-cid-informa-coordinaciones-y-monitoreo-en-las-tres-provincias-de-atacama-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Reportan una mujer desaparecida por avalancha de nieve en Alto del Carmen: Alcalde pide decretar zona de catástrofe",
     "enlace": "https://www.maray.cl/atacama/19/07/2026/reportan-una-mujer-desaparecida-por-avalancha-de-nieve-en-alto-del-carmen-alcalde-pide-decretar-zona-de-catastrofe/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "Sistema frontal: Senapred contabiliza cuatro fallecidos y concentra preocupación en Atacama y Coquimbo",
     "enlace": "https://www.maray.cl/pais/19/07/2026/sistema-frontal-senapred-contabiliza-cuatro-fallecidos-y-concentra-preocupacion-en-atacama-y-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Senapred mantiene Alerta Roja para la región de Coquimbo: clases se encuentran suspendidas",
-    "enlace": "https://www.maray.cl/pais/19/07/2026/senapred-mantiene-alerta-roja-para-la-region-de-coquimbo-clases-se-encuentran-suspendidas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Meteorología actualiza alerta por temporal en Atacama: Pronostican hasta 30 mm de lluvia para cada uno de estos sectores",
-    "enlace": "https://www.maray.cl/atacama/19/07/2026/meteorologia-actualiza-alerta-por-temporal-en-atacama-pronostican-hasta-30-mm-de-lluvia-para-cada-uno-de-estos-sectores/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
