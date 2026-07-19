@@ -90,6 +90,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Operativo especial permitirá que pacientes aislados reciban tratamiento de diálisis en La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/19/operativo-especial-permitira-que-pacientes-aislados-reciban-tratamiento-de-dialisis-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "CGE aplicará compensaciones a clientes afectados por cortes de suministro producto del sistema frontal",
+    "enlace": "https://www.elserenense.cl/regionales/2026/07/19/cge-aplicara-compensaciones-a-clientes-afectados-por-cortes-de-suministro-producto-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Suspenden exámenes prácticos de conducción por efectos del sistema frontal",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/19/suspenden-examenes-practicos-de-conduccion-por-efectos-del-sistema-frontal/",
     "descripcion": "",
@@ -162,20 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Activación de quebradas este sábado obliga al cierre de la Ruta D-205: Municipio de La Serena intensifica monitoreo y llama al autocuidado",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/18/activacion-de-quebradas-este-sabado-obliga-al-cierre-de-la-ruta-d-205-municipio-de-la-serena-intensifica-monitoreo-y-llama-al-autocuidado/",
+    "titulo": "Colegio Héroes de la Concepción representará a Chile en  Campeonato Panamericano de Tchoukball",
+    "enlace": "https://laserenaonline.cl/2026/07/19/colegio-heroes-de-la-concepcion-representara-a-chile-en-campeonato-panamericano-de-tchoukball/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Cuatro detenidos tras robo a local de artículos tecnológicos en pleno centro de La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/18/cuatro-detenidos-tras-robo-a-local-de-articulos-tecnologicos-en-pleno-centro-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Por crecida del Río Elqui: municipio de La Serena evacuó preventivamente a 15 personas de Valle de Los Ángeles y El Hinojal",
     "enlace": "https://laserenaonline.cl/2026/07/19/por-crecida-del-rio-elqui-municipio-de-la-serena-evacuo-preventivamente-a-15-personas-de-valle-de-los-angeles-y-el-hinojal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena mantiene despliegue preventivo ante las emergencias del Sistema Frontal",
-    "enlace": "https://laserenaonline.cl/2026/07/19/la-serena-mantiene-despliegue-preventivo-ante-las-emergencias-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Autoridades nacionales visitan Monte Patria para evaluar daños del sistema frontal",
+    "enlace": "https://www.elmontepatrino.cl/2026/07/19/autoridades-nacionales-visitan-monte-patria-para-evaluar-danos-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Rescatan a familia aislada por crecida del río Cogotí en Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/07/18/rescatan-a-familia-aislada-por-crecida-del-rio-cogoti-en-monte-patria/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Monte Patria se alista para precipitaciones que dejarán cerca de 200 milímetros de agua: Alegría en agricultores",
     "enlace": "https://www.elmontepatrino.cl/2026/07/14/monte-patria-se-alista-para-precipitaciones-que-dejaran-cerca-de-200-milimetros-de-agua-alegria-en-agricultores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Monte Patria celebra el Inti Raymi con amplia participación de niños y niñas",
-    "enlace": "https://www.elmontepatrino.cl/2026/07/14/monte-patria-celebra-el-inti-raymi-con-amplia-participacion-de-ninos-y-ninas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -828,6 +828,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Salamanca concentra esfuerzos en recuperación de caminos y reposición eléctrica tras paso del sistema frontal",
+    "enlace": "https://www.elsalamanquino.cl/2026/07/19/salamanca-concentra-esfuerzos-en-recuperacion-de-caminos-y-reposicion-electrica-tras-paso-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Juan Hisi Core de Choapa Graves estragos en la Provincia de Choapa por intenso frente de mal tiempo",
     "enlace": "https://www.elsalamanquino.cl/2026/07/19/juan-hisi-core-de-choapa-graves-estragos-en-la-provincia-de-choapa-por-intenso-frente-de-mal-tiempo/",
     "descripcion": "",
@@ -902,15 +911,6 @@
   {
     "titulo": "Junta de Vigilancia del Río Choapa reitera llamado a tomar medidas preventivas ante intensas lluvias pronosticadas para la provincia",
     "enlace": "https://www.elsalamanquino.cl/2026/07/15/junta-de-vigilancia-del-rio-choapa-reitera-llamado-a-tomar-medidas-preventivas-ante-intensas-lluvias-pronosticadas-para-la-provincia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Veltis abre en Salamanca nueva convocatoria para formar talento femenino en áreas críticas de la minería",
-    "enlace": "https://www.elsalamanquino.cl/2026/07/14/veltis-abre-en-salamanca-nueva-convocatoria-para-formar-talento-femenino-en-areas-criticas-de-la-mineria/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1548,8 +1548,44 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Alcalde de Puchuncaví exige a CGE y Chilquinta acelerar la reposición del suministro eléctrico",
+    "enlace": "https://g5noticias.cl/2026/07/19/alcalde-de-puchuncavi-exige-a-cge-y-chilquinta-acelerar-la-reposicion-del-suministro-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Armada emite aviso de marejadas entre Huasco y el Golfo de Arauco",
+    "enlace": "https://g5noticias.cl/2026/07/19/armada-emite-aviso-de-marejadas-entre-huasco-y-el-golfo-de-arauco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Prevención es clave para evitar daños a viviendas",
+    "enlace": "https://g5noticias.cl/2026/07/19/prevencion-es-clave-para-evitar-danos-a-viviendas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Papudo activa campaña solidaria para apoyar a familias de Ovalle afectadas por la emergencia climática",
     "enlace": "https://g5noticias.cl/2026/07/19/papudo-activa-campana-solidaria-para-apoyar-a-familias-de-ovalle-afectadas-por-la-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con Madonna como figura principal fue el show de entretiempo al estilo del Superbowl",
+    "enlace": "https://g5noticias.cl/2026/07/19/con-madonna-como-figura-principal-fue-el-show-de-entretiempo-al-estilo-del-superbowl/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1595,42 +1631,6 @@
   {
     "titulo": "Villa Alemana fortalece coordinación entre Municipio, Carabineros y Bomberos para enfrentar nuevo sistema frontal",
     "enlace": "https://g5noticias.cl/2026/07/19/villa-alemana-fortalece-coordinacion-entre-municipio-carabineros-y-bomberos-para-enfrentar-nuevo-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Papudo advierte cortes reiterados de electricidad y fallas en telecomunicaciones tras sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/19/papudo-advierte-cortes-reiterados-de-electricidad-y-fallas-en-telecomunicaciones-tras-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Zapallar solicitará recursos de emergencia al Gobierno Regional por daños en Villa Esmeralda",
-    "enlace": "https://g5noticias.cl/2026/07/19/zapallar-solicitara-recursos-de-emergencia-al-gobierno-regional-por-danos-en-villa-esmeralda/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado Jaime Mulet solicita decretar estado de excepción constitucional de catástrofe para Atacama ante agravamiento del sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/19/diputado-jaime-mulet-solicita-decretar-estado-de-excepcion-constitucional-de-catastrofe-para-atacama-ante-agravamiento-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Municipio de Puchuncaví refuerza controles en accesos a la Avenida del Mar de Maitencillo por socavón en Ruta F-30E",
-    "enlace": "https://g5noticias.cl/2026/07/19/municipio-de-puchuncavi-refuerza-controles-en-accesos-a-la-avenida-del-mar-de-maitencillo-por-socavon-en-ruta-f-30e/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1728,6 +1728,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "España se proclama campeona del mundo tras derrotar a Argentina",
+    "enlace": "https://laprensaaustral.cl/2026/07/19/espana-se-proclama-campeona-del-mundo-tras-derrotar-a-argentina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Excuartel de la Cruz Roja (1933)",
     "enlace": "https://laprensaaustral.cl/2026/07/19/excuartel-de-la-cruz-roja-1933/",
     "descripcion": "",
@@ -1802,15 +1811,6 @@
   {
     "titulo": "Una tarde de circo vivieron vecinos de la población Juan Pablo II",
     "enlace": "https://laprensaaustral.cl/2026/07/19/una-tarde-de-circo-vivieron-vecinos-de-la-poblacion-juan-pablo-ii/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Susan González Romero: una vida dedicada a las Invernadas  que la llevó a ser portada de la revista del Carnaval",
-    "enlace": "https://laprensaaustral.cl/2026/07/19/susan-gonzalez-romero-una-vida-dedicada-a-las-invernadas-que-la-llevo-a-ser-portada-de-la-revista-del-carnaval/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
