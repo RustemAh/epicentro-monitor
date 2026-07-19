@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Carabineros rescata a 30 personas y 25 perros aislados en Tambillos",
+    "enlace": "https://laserenaonline.cl/2026/07/19/carabineros-rescata-a-30-personas-y-25-perros-aislados-en-tambillos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Cantidad de agua caída en la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/19/cantidad-de-agua-caida-en-la-region-de-coquimbo-4/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Dentro y fuera de sus faenas: Minera Los Pelambres refuerza acciones preventivas por contingencia climática",
     "enlace": "https://laserenaonline.cl/2026/07/18/dentro-y-fuera-de-sus-faenas-minera-los-pelambres-refuerza-acciones-preventivas-por-contingencia-climatica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "SLEP Elqui inspecciona establecimientos educacionales evaluando afectaciones por Sistema Frontal",
-    "enlace": "https://laserenaonline.cl/2026/07/18/slep-elqui-inspecciona-establecimientos-educacionales-evaluando-afectaciones-por-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -918,6 +918,33 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Solicitan declarar Estado de Catástrofe para la Región de Coquimbo tras daños por sistema frontal",
+    "enlace": "https://www.davidnoticias.cl/solicitan-declarar-estado-de-catastrofe-para-la-region-de-coquimbo-tras-danos-por-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Capitanía de Puerto de Los Vilos actualiza aviso de temporal y advierte nuevo sistema frontal hasta el martes",
+    "enlace": "https://www.davidnoticias.cl/capitania-de-puerto-de-los-vilos-actualiza-aviso-de-temporal-y-advierte-nuevo-sistema-frontal-hasta-el-martes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Temporal arrastra cerca de 150 kilos de paltas hasta la playa de Pichidangui",
+    "enlace": "https://www.davidnoticias.cl/temporal-arrastra-cerca-de-150-kilos-de-paltas-hasta-la-playa-de-pichidangui/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Aislamiento obliga a activar rescate aéreo de mujer lesionada en Los Maquis",
     "enlace": "https://www.davidnoticias.cl/aislamiento-obliga-a-activar-rescate-aereo-de-mujer-lesionada-en-los-maquis/",
     "descripcion": "",
@@ -974,33 +1001,6 @@
   {
     "titulo": "Extenso corte de energía mantiene sin suministro a varias localidades de Los Vilos",
     "enlace": "https://www.davidnoticias.cl/extenso-corte-de-energia-mantiene-sin-suministro-a-varias-localidades-de-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Minera Los Pelambres mantiene reforzadas las medidas de  resguardo de sus trabajadores",
-    "enlace": "https://www.davidnoticias.cl/minera-los-pelambres-mantiene-reforzadas-las-medidas-de-resguardo-de-sus-trabajadores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Sistema frontal provoca nuevo incidente en el borde costero: embarcación pesquera zozobra en Pichidangui",
-    "enlace": "https://www.davidnoticias.cl/sistema-frontal-provoca-nuevo-incidente-en-el-borde-costero-embarcacion-pesquera-zozobra-en-pichidangui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Crecida del río Quilimarí se mantiene bajo monitoreo mientras persisten cortes de luz y problemas de acceso",
-    "enlace": "https://www.davidnoticias.cl/crecida-del-rio-quilimari-se-mantiene-bajo-monitoreo-mientras-persisten-cortes-de-luz-y-problemas-de-acceso/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Tragedia en Perú: sismo 5.1 deja 5 fallecidos y no se descartan más víctimas",
+    "enlace": "https://www.maray.cl/internacional/19/07/2026/tragedia-en-peru-sismo-5-1-deja-5-fallecidos-y-no-se-descartan-mas-victimas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Irán ataca bases en Kuwait y amenaza a Estados Unidos",
+    "enlace": "https://www.maray.cl/internacional/19/07/2026/iran-ataca-bases-en-kuwait-y-amenaza-a-estados-unidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Argentina y España tienen una cita con la historia en la final de la Copa del Mundo 2026",
     "enlace": "https://www.maray.cl/deportes/19/07/2026/argentina-y-espana-tienen-una-cita-con-la-historia-en-la-final-de-la-copa-del-mundo-2026/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "Declaran Alerta Roja en Tierra Amarilla.",
     "enlace": "https://www.maray.cl/atacama/18/07/2026/declaran-alerta-roja-en-tierra-amarilla/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Suspenden clases para el lunes en la provincia del Huasco y en las regiones de Coquimbo y Valparaíso.",
-    "enlace": "https://www.maray.cl/atacama/18/07/2026/suspenden-clases-para-el-lunes-en-la-provincia-del-huasco-y-en-las-regiones-de-coquimbo-y-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "VIDEO: Delegada Sofía Cid informa coordinaciones y monitoreo en las tres provincias de Atacama",
-    "enlace": "https://www.maray.cl/atacama/18/07/2026/delegada-sofia-cid-informa-coordinaciones-y-monitoreo-en-las-tres-provincias-de-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Opinión: No cualquier cosa es arte",
+    "enlace": "https://elmagallanico.com/2026/07/19/opinion-no-cualquier-cosa-es-arte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Se me vino a la memoria: El ovejero patrimonio de la Patagonia que se resiste a desaparecer",
     "enlace": "https://elmagallanico.com/2026/07/19/se-me-vino-a-la-memoria-el-ovejero-patrimonio-de-la-patagonia-que-se-resiste-a-desaparecer/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Villa Tehuelches marcó -8,2 °C y Punta Arenas reforzó operativo ante intenso frío",
     "enlace": "https://elmagallanico.com/2026/07/17/villa-tehuelches-marco-82-c-y-punta-arenas-reforzo-operativo-ante-intenso-frio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Talleres Infantiles de Invierno culminan con masiva participación de familias",
-    "enlace": "https://elmagallanico.com/2026/07/17/talleres-infantiles-de-invierno-culminan-con-masiva-participacion-de-familias/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
