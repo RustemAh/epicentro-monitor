@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Carabineros rescata a seis perritos aislados por el sistema frontal en La Rinconada del Sauce de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/19/carabineros-rescata-a-seis-perritos-aislados-por-el-sistema-frontal-en-la-rinconada-del-sauce-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Carabineros rescata a 30 personas y 25 perros aislados en Tambillos",
     "enlace": "https://www.elcoquimbano.cl/2026/07/18/carabineros-rescata-a-30-personas-y-25-perros-aislados-en-tambillos/",
     "descripcion": "",
@@ -81,13 +90,22 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "SIGUE EN VIVO el avance del sistema frontal por la Región de Coquimbo: mapa interactivo y pronóstico",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/16/sigue-en-vivo-el-avance-del-sistema-frontal-por-la-region-de-coquimbo-mapa-interactivo-y-pronostico/",
+    "titulo": "Aguas del Valle informa corte parcial de emergencia en sectores de Coquimbo y La Serena desde las 20 hrs de este domingo",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/19/aguas-del-valle-informa-corte-parcial-de-emergencia-en-sectores-de-coquimbo-y-la-serena-desde-las-20-hrs-de-este-domingo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "La Serena refuerza labores de emergencia mientras continúan las lluvias y el monitoreo de sectores críticos",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/19/la-serena-refuerza-labores-de-emergencia-mientras-continuan-las-lluvias-y-el-monitoreo-de-sectores-criticos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Fallece Guillermo Hanshing Chen, reconocido empresario, andinista y dirigente social de La Serena",
@@ -162,20 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Identifican 171 puntos críticos y 13 personas albergadas en COGRID de La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/16/identifican-171-puntos-criticos-y-13-personas-albergadas-en-cogrid-de-la-serena/",
+    "titulo": "Ruta Protege refuerza el apoyo a personas en situación de calle ante precipitaciones en la comuna de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/19/ruta-protege-refuerza-el-apoyo-a-personas-en-situacion-de-calle-ante-precipitaciones-en-la-comuna-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Faro Monumental de La Serena cierra sus puertas por sistema frontal",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/16/faro-monumental-de-la-serena-cierra-sus-puertas-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Balance Aguas del Valle ¿Se cortará el agua?",
     "enlace": "https://laserenaonline.cl/2026/07/19/balance-aguas-del-valle-se-cortara-el-agua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy domingo 19 de julio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/19/reporte-del-tiempo-hoy-domingo-19-de-julio-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -918,6 +918,24 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Helicóptero de Carabineros permite evacuar a pacientes desde localidades aisladas de Los Vilos",
+    "enlace": "https://www.davidnoticias.cl/helicoptero-de-carabineros-permite-evacuar-a-pacientes-desde-localidades-aisladas-de-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Nueva caída en la aprobación del Presidente José Antonio Kast: alcanzó un 28,9%",
+    "enlace": "https://www.davidnoticias.cl/nueva-caida-en-la-aprobacion-del-presidente-jose-antonio-kast-alcanzo-un-289/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Emergencia se agrava en Huentelauquén y Mincha: denuncian falta de respuesta de Vialidad",
     "enlace": "https://www.davidnoticias.cl/emergencia-se-agrava-en-huentelauquen-y-mincha-denuncian-falta-de-respuesta-de-vialidad/",
     "descripcion": "",
@@ -983,24 +1001,6 @@
   {
     "titulo": "MINEDUC suspende las clases este lunes 20 de julio en Coquimbo, Valparaíso y la Provincia de Huasco por sistema frontal",
     "enlace": "https://www.davidnoticias.cl/mineduc-suspende-las-clases-este-lunes-20-de-julio-en-coquimbo-valparaiso-y-la-provincia-de-huasco-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Pin Up Casino bonos sin depósito: guía real",
-    "enlace": "https://www.davidnoticias.cl/pin-up-casino-bonos-sin-deposito-guia-real/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Bomberos trabajan intensamente para despejar el acceso sur de Los Vilos inundado por el sistema frontal",
-    "enlace": "https://www.davidnoticias.cl/bomberos-trabajan-intensamente-para-despejar-el-acceso-sur-de-los-vilos-inundado-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Reportan una mujer desaparecida por avalancha de nieve en Alto del Carmen: Alcalde pide decretar zona de catástrofe",
+    "enlace": "https://www.maray.cl/atacama/19/07/2026/reportan-una-mujer-desaparecida-por-avalancha-de-nieve-en-alto-del-carmen-alcalde-pide-decretar-zona-de-catastrofe/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "«Lo más fuerte viene ahora»: Este domingo llega el tercer pulso del sistema frontal",
     "enlace": "https://www.maray.cl/atacama/19/07/2026/lo-mas-fuerte-viene-ahora-este-domingo-llega-el-tercer-pulso-del-sistema-frontal/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "Meteorología actualiza alerta por temporal en Atacama: Pronostican hasta 30 mm de lluvia para cada uno de estos sectores",
     "enlace": "https://www.maray.cl/atacama/19/07/2026/meteorologia-actualiza-alerta-por-temporal-en-atacama-pronostican-hasta-30-mm-de-lluvia-para-cada-uno-de-estos-sectores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Pulso Ciudadano: Aprobación de Kast se hunde al 28,9% y desaprobación escala al 56,6%",
-    "enlace": "https://www.maray.cl/pais/19/07/2026/pulso-ciudadano-aprobacion-de-kast-se-hunde-al-289-y-desaprobacion-escala-al-566/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1548,6 +1548,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[OPINIÓN] El temporal que puso en jaque la ampliación portuaria de Valparaíso (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/07/19/opinion-el-temporal-que-puso-en-jaque-la-ampliacion-portuaria-de-valparaiso-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-el-temporal-que-puso-en-jaque-la-ampliacion-portuaria-de-valparaiso-jorge-bustos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[OPINIÓN] Ecomasculinidades: una invitación a los hombres a cuidar la vida (Andrés Kogan Valderrama)",
     "enlace": "https://diariolaquinta.cl/2026/07/18/opinion-ecomasculinidades-una-invitacion-a-los-hombres-a-cuidar-la-vida-andres-kogan-valderrama/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-ecomasculinidades-una-invitacion-a-los-hombres-a-cuidar-la-vida-andres-kogan-valderrama",
     "descripcion": "",
@@ -1629,12 +1638,12 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Notificación de partidas ROL V-143-2024 «Gatica»",
-    "enlace": "https://diariolaquinta.cl/2026/07/16/notificacion-juzgado-de-letras-de-casablanca-notificacion-de-partidas-rol-v-143-2024-gatica-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-notificacion-de-partidas-rol-v-143-2024-gatica-2",
+    "titulo": "¿Puede un cuento cambiar una vida?: La importancia de hablar (y escribir) sobre la salud mental de niños y jóvenes",
+    "enlace": "https://g5noticias.cl/2026/07/19/puede-un-cuento-cambiar-una-vida-la-importancia-de-hablar-y-escribir-sobre-la-salud-mental-de-ninos-y-jovenes/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
@@ -1712,15 +1721,6 @@
   {
     "titulo": "El calzado brasileño conquistó Chile: El país ya importó más de 495.000 pares en lo que va del año",
     "enlace": "https://g5noticias.cl/2026/07/19/el-calzado-brasileno-conquisto-chile-el-pais-ya-importo-mas-de-495-000-pares-en-lo-que-va-del-ano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Sistema Único de Cotizaciones: Empresas deberán reforzar revisión de procesos internos. Por Francisca Cruz, Gerente Servicios Empresas de Alfredo Cruz",
-    "enlace": "https://g5noticias.cl/2026/07/19/sistema-unico-de-cotizaciones-empresas-deberan-reforzar-revision-de-procesos-internos-por-francisca-cruz-gerente-servicios-empresas-de-alfredo-cruz/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
