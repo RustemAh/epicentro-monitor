@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Colapso de torre de transmisión deja sin suministro eléctrico a sectores del norte de La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/20/colapso-de-torre-de-transmision-deja-sin-suministro-electrico-a-sectores-del-norte-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Con los pies en el barro: Carabineros rescata a nueve personas y tres mascotas aisladas por el sistema frontal en El Arrayán Costero",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/20/con-los-pies-en-el-barro-carabineros-rescata-a-nueve-personas-y-tres-mascotas-aisladas-por-el-sistema-frontal-en-el-arrayan-costero/",
     "descripcion": "",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "La Serena refuerza labores de emergencia mientras continúan las lluvias y el monitoreo de sectores críticos",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/19/la-serena-refuerza-labores-de-emergencia-mientras-continuan-las-lluvias-y-el-monitoreo-de-sectores-criticos/",
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/20/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Gobernador Juliá solicita al presidente Kast decretar zona de catástrofe para la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/07/20/gobernador-julia-solicita-al-presidente-kast-decretar-zona-de-catastrofe-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Desborde del río Elqui obliga a extender el corte de agua en La Serena y Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/20/desborde-del-rio-elqui-obliga-a-extender-el-corte-de-agua-en-la-serena-y-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -448,6 +448,96 @@
     "medio": "Región de Coquimbo",
     "zona": "IV Región",
     "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Rescates aéreos: Carabineros supera los 30 y refuerza llamado a colaborar en las evacuaciones",
+    "enlace": "https://ovallehoy.cl/rescates-aereos-carabineros-supera-los-30-y-refuerza-llamado-a-colaborar-en-las-evacuaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Conozca dónde estarán ubicados los puntos de apoyo de agua potable tras corte total en Ovalle",
+    "enlace": "https://ovallehoy.cl/conozca-donde-estaran-ubicados-los-puntos-de-apoyo-de-agua-potable-tras-corte-total-en-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Municipio de Ovalle reporta localidades aisladas y mantiene monitoreo permanente de la emergencia",
+    "enlace": "https://ovallehoy.cl/municipio-de-ovalle-reporta-localidades-aisladas-y-mantiene-monitoreo-permanente-de-la-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Sistema frontal deja más de 210 mm en Punitaqui y contundentes registros hídricos en la provincia del Limarí",
+    "enlace": "https://ovallehoy.cl/sistema-frontal-deja-mas-de-210-mm-en-punitaqui-y-contundentes-registros-hidricos-en-la-provincia-del-limari/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "ObituarioHOY del sábado 18 de julio",
+    "enlace": "https://ovallehoy.cl/obituariohoy-del-sabado-18-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Un destello de color entre las nubes: Espectacular arcoíris sorprende a los habitantes de Ovalle",
+    "enlace": "https://ovallehoy.cl/un-destello-de-color-entre-las-nubes-espectacular-arcoiris-sorprende-a-los-habitantes-de-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Caída de árboles moviliza a equipos de emergencia en poblaciones San José de la Dehesa y Ariztía en Ovalle",
+    "enlace": "https://ovallehoy.cl/caida-de-arboles-moviliza-a-equipos-de-emergencia-en-poblaciones-san-jose-de-la-dehesa-y-ariztia-en-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Jefes comunales hacen balance de la primera jornada del temporal que afecta a la provincia del Limarí",
+    "enlace": "https://ovallehoy.cl/jefes-comunales-hacen-balance-de-la-primera-jornada-del-temporal-que-afecta-a-la-provincia-del-limari/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Gobierno Regional pone a disposición hasta $1.940 millones para emergencias por sistema frontal",
+    "enlace": "https://ovallehoy.cl/gobierno-regional-pone-a-disposicion-hasta-1-940-millones-para-emergencias-por-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Las vitaminas esenciales para fortalecer el organismo durante los meses más fríos",
+    "enlace": "https://ovallehoy.cl/las-vitaminas-esenciales-para-fortalecer-el-organismo-durante-los-meses-mas-frios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "Autoridades nacionales visitan Monte Patria para evaluar daños del sistema frontal",
@@ -1008,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Andacollo enfrenta una de las jornadas más complejas del temporal: Está aislado, sin energía y telefonía",
+    "enlace": "https://www.elandacollino.cl/2026/07/20/andacollo-enfrenta-una-de-las-jornadas-mas-complejas-del-temporal-esta-aislado-sin-energia-y-telefonia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Teck Carmen de Andacollo asegura normal operación de sus instalaciones y refuerza medidas ante sistema frontal",
     "enlace": "https://www.elandacollino.cl/2026/07/19/teck-carmen-de-andacollo-asegura-normal-operacion-de-sus-instalaciones-y-refuerza-medidas-ante-sistema-frontal/",
     "descripcion": "",
@@ -1082,15 +1181,6 @@
   {
     "titulo": "Alcalde de Andacollo y representantes de la pequeña minería llevan conflicto con Galantas Gold al Senado",
     "enlace": "https://www.elandacollino.cl/2026/07/13/alcalde-de-andacollo-y-representantes-de-la-pequena-mineria-llevan-conflicto-con-galantas-gold-al-senado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Llaman a vecinos de Andacollo a prepararse ante intenso sistema frontal que podría dejar hasta 219 mm de lluvia en cuatro días",
-    "enlace": "https://www.elandacollino.cl/2026/07/13/llaman-a-vecinos-de-andacollo-a-prepararse-ante-intenso-sistema-frontal-que-podria-dejar-hasta-219-mm-de-lluvia-en-cuatro-dias/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1368,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Presidente José Antonio Kast viajará a Coquimbo para monitorear en terreno la emergencia por el sistema frontal",
+    "enlace": "https://www.maray.cl/pais/20/07/2026/presidente-jose-antonio-kast-viajara-a-coquimbo-para-monitorear-en-terreno-la-emergencia-por-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno defiende respuesta ante emergencia y asegura que desplegó todos los recursos disponibles",
+    "enlace": "https://www.maray.cl/pais/20/07/2026/gobierno-defiende-respuesta-ante-emergencia-y-asegura-que-desplego-todos-los-recursos-disponibles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Suspenden fecha del RallyMobil en Atacama por emergencia climática",
+    "enlace": "https://www.maray.cl/atacama/20/07/2026/suspenden-fecha-del-rallymobil-en-atacama-por-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Sistema frontal deja cinco fallecidos en Coquimbo y mantiene a miles de personas afectadas por la emergencia",
     "enlace": "https://www.maray.cl/pais/20/07/2026/sistema-frontal-deja-cinco-fallecidos-en-coquimbo-y-mantiene-a-miles-de-personas-afectadas-por-la-emergencia/",
     "descripcion": "",
@@ -1424,33 +1541,6 @@
   {
     "titulo": "Pentágono identifica a dos militares de EE.UU. fallecidos tras ataque iraní en Jordania",
     "enlace": "https://www.maray.cl/internacional/20/07/2026/pentagono-identifica-a-dos-militares-de-ee-uu-fallecidos-tras-ataque-irani-en-jordania/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Presidente Kast decreta Estado de Catástrofe para la Región de Coquimbo y la Provincia de Huasco por emergencia climática",
-    "enlace": "https://www.maray.cl/atacama/20/07/2026/presidente-kast-decreta-estado-de-catastrofe-para-la-region-de-coquimbo-y-la-provincia-de-huasco-por-emergencia-climatica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Biministro compara emergencia por sistema frontal con un terremoto y advierte compleja situación en Coquimbo",
-    "enlace": "https://www.maray.cl/pais/20/07/2026/biministro-compara-emergencia-por-sistema-frontal-con-un-terremoto-y-advierte-compleja-situacion-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "¿Qué significa el Estado de Catástrofe? Las cuatro medidas que pueden aplicarse tras el decreto en Coquimbo y Huasco",
-    "enlace": "https://www.maray.cl/atacama/20/07/2026/que-significa-el-estado-de-catastrofe-las-cuatro-medidas-que-pueden-aplicarse-tras-el-decreto-en-coquimbo-y-huasco/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Crecida de quebradas deja sectores aislados e inundaciones en Pullally: municipio despliega equipos de emergencia para restablecer la conectividad",
-    "enlace": "https://g5noticias.cl/2026/07/20/crecida-de-quebradas-deja-sectores-aislados-e-inundaciones-en-pullally-municipio-despliega-equipos-de-emergencia-para-restablecer-la-conectividad/",
+    "titulo": "Diputado Jaime Araya oficia al ministro del Interior y solicita medidas urgentes para resguardar la conectividad y el abastecimiento en regiones tras daños en la Ruta 5 Norte",
+    "enlace": "https://g5noticias.cl/2026/07/20/diputado-jaime-araya-oficia-al-ministro-del-interior-y-solicita-medidas-urgentes-para-resguardar-la-conectividad-y-el-abastecimiento-en-regiones-tras-danos-en-la-ruta-5-norte/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alcaldesa de La Cruz solicita bono de emergencia para agricultores afectados por heladas y anegamientos",
-    "enlace": "https://g5noticias.cl/2026/07/20/alcaldesa-de-la-cruz-solicita-bono-de-emergencia-para-agricultores-afectados-por-heladas-y-anegamientos/",
+    "titulo": "Senadora Cariola pide al Gobierno declarar Estado de Catástrofe en la provincia de Petorca",
+    "enlace": "https://g5noticias.cl/2026/07/20/senadora-cariola-pide-al-gobierno-declarar-estado-de-catastrofe-en-la-provincia-de-petorca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad de La Calera suspende las clases para el martes y miércoles en los establecimientos educacionales públicos y jardines infantiles",
-    "enlace": "https://g5noticias.cl/2026/07/20/municipalidad-de-la-calera-suspende-las-clases-para-el-martes-y-miercoles-en-los-establecimientos-educacionales-publicos-y-jardines-infantiles/",
+    "titulo": "Alcalde de Puerto Montt pide al Gobierno “modificaciones profundas” que protejan a Carabineros",
+    "enlace": "https://g5noticias.cl/2026/07/20/alcalde-de-puerto-montt-pide-al-gobierno-modificaciones-profundas-que-protejan-a-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Bello solicita al Gobierno declarar Estado de Catástrofe para la Provincia de Petorca",
-    "enlace": "https://g5noticias.cl/2026/07/20/diputada-bello-solicita-al-gobierno-declarar-estado-de-catastrofe-para-la-provincia-de-petorca/",
+    "titulo": "Senador Fidel Espinoza por visita de INDH a asesino del cabo Cosme: «duele que visiten a un criminal de esta calaña»",
+    "enlace": "https://g5noticias.cl/2026/07/20/senador-fidel-espinoza-por-visita-de-indh-a-asesino-del-cabo-cosme-duele-que-visiten-a-un-criminal-de-esta-calana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alcalde de Villa Alemana propone extender un día más la suspensión de clases tras paso del primer sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/20/alcalde-de-villa-alemana-propone-extender-un-dia-mas-la-suspension-de-clases-tras-paso-del-primer-sistema-frontal/",
+    "titulo": "Kia da un paso histórico en Chile ofreciendo garantía de hasta 10 años",
+    "enlace": "https://g5noticias.cl/2026/07/20/kia-da-un-paso-historico-en-chile-ofreciendo-garantia-de-hasta-10-anos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Contraloría tomó razón del Estado de Catástrofe y ya se asignaron los jefes de la Defensa Nacional para Huasco y Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/07/20/contraloria-tomo-razon-del-estado-de-catastrofe-y-ya-se-asignaron-los-jefes-de-la-defensa-nacional-para-huasco-y-coquimbo/",
+    "titulo": "“Hoy la emergencia es el sistema frontal”: Desafío Levantemos Chile continúa en terreno e invita a sumarse a la campaña para llegar con ayuda a las familias afectadas",
+    "enlace": "https://g5noticias.cl/2026/07/20/hoy-la-emergencia-es-el-sistema-frontal-desafio-levantemos-chile-continua-en-terreno-e-invita-a-sumarse-a-la-campana-para-llegar-con-ayuda-a-las-familias-afectadas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros evacúa por vía aérea a tres mujeres desde La Higuera hasta La Serena: dos requerían atención médica",
-    "enlace": "https://g5noticias.cl/2026/07/20/carabineros-evacua-por-via-aerea-a-tres-mujeres-desde-la-higuera-hasta-la-serena-dos-requerian-atencion-medica/",
+    "titulo": "Derechos de los trabajadores ante los cortes de agua potable provocados por el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/20/derechos-de-los-trabajadores-ante-los-cortes-de-agua-potable-provocados-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Zapallar advierte riesgo de aislamiento por avance de socavones y solicita obras de emergencia para mantener la conectividad",
-    "enlace": "https://g5noticias.cl/2026/07/20/zapallar-advierte-riesgo-de-aislamiento-por-avance-de-socavones-y-solicita-obras-de-emergencia-para-mantener-la-conectividad/",
+    "titulo": "24 jóvenes de Viña del Mar fueron seleccionados para ingresar al Curso de Formación de Carabineros",
+    "enlace": "https://g5noticias.cl/2026/07/20/24-jovenes-de-vina-del-mar-fueron-seleccionados-para-ingresar-al-curso-de-formacion-de-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senadora Gatica presenta proyecto para castigar con cárcel a quienes ayuden a prófugos de la justicia",
-    "enlace": "https://g5noticias.cl/2026/07/20/senadora-gatica-presenta-proyecto-para-castigar-con-carcel-a-quienes-ayuden-a-profugos-de-la-justicia/",
+    "titulo": "Senador Iván Flores por respuesta de ministro de Defensa a críticas por su ausencia: “Las explicaciones agravan la falta y peor aun cuando dice que no hay situaciones de personas desaparecidos”",
+    "enlace": "https://g5noticias.cl/2026/07/20/senador-ivan-flores-por-respuesta-de-ministro-de-defensa-a-criticas-por-su-ausencia-las-explicaciones-agravan-la-falta-y-peor-aun-cuando-dice-que-no-hay-situaciones-de-personas-desaparecidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gran Maestro Pablo Salinas es el ganador del Torneo de Ajedrez de Lebu 2026, que repartió más de 4 millones de pesos",
-    "enlace": "https://g5noticias.cl/2026/07/20/gran-maestro-pablo-salinas-es-el-ganador-del-torneo-de-ajedrez-de-lebu-2026-que-repartio-mas-de-4-millones-de-pesos/",
+    "titulo": "Bono de emergencia de $100 mil: el apoyo que Los Héroes pone a disposición de sus afiliados por el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/20/bono-de-emergencia-de-100-mil-el-apoyo-que-los-heroes-pone-a-disposicion-de-sus-afiliados-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
