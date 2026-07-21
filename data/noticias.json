@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Mineduc informa suspensión de clases el martes 21 y miércoles 22 de julio en la región de Coquimbo",
+    "enlace": "https://www.elserenense.cl/educacion/2026/07/20/mineduc-informa-suspension-de-clases-el-martes-21-y-miercoles-22-de-julio-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Colapso de torre de transmisión deja sin suministro eléctrico a sectores del norte de La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/20/colapso-de-torre-de-transmision-deja-sin-suministro-electrico-a-sectores-del-norte-de-la-serena/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Biministro Louis De Grange encabezó COGRID en Coquimbo para coordinar respuesta del gobierno ante efectos del sistema frontal",
     "enlace": "https://www.elserenense.cl/regionales/2026/07/19/biministro-louis-de-grange-encabezo-cogrid-en-coquimbo-para-coordinar-respuesta-del-gobierno-ante-efectos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Aguas del Valle informa corte parcial de emergencia en sectores de Coquimbo y La Serena desde las 20 hrs de este domingo",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/19/aguas-del-valle-informa-corte-parcial-de-emergencia-en-sectores-de-coquimbo-y-la-serena-desde-las-20-hrs-de-este-domingo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -900,24 +900,6 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Problemas de transmisión mantienen incompleto el registro de precipitaciones en Choapa",
-    "enlace": "https://veetv.cl/recipitaciones-choapa-fallas-transmision-datos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "Sistema frontal deja emergencias menores y activa amplio despliegue preventivo en Choapa",
-    "enlace": "https://veetv.cl/sistema-frontal-emergencias-choapa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
     "titulo": "Salamanca concentra esfuerzos en recuperación de caminos y reposición eléctrica tras paso del sistema frontal",
     "enlace": "https://www.elsalamanquino.cl/2026/07/19/salamanca-concentra-esfuerzos-en-recuperacion-de-caminos-y-reposicion-electrica-tras-paso-del-sistema-frontal/",
     "descripcion": "",
@@ -1008,8 +990,17 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Temporal provoca colapso parcial del histórico Muelle Viejo de Illapel",
-    "enlace": "https://www.davidnoticias.cl/temporal-provoca-colapso-parcial-del-historico-muelle-viejo-de-illapel/",
+    "titulo": "Mineduc mantiene suspensión de clases en la Región de Coquimbo por emergencia climática",
+    "enlace": "https://www.davidnoticias.cl/mineduc-mantiene-suspension-de-clases-en-la-region-de-coquimbo-por-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Temporal provoca colapso parcial del histórico puente  Viejo de Illapel",
+    "enlace": "https://www.davidnoticias.cl/temporal-provoca-colapso-parcial-del-historico-puente-viejo-de-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1089,13 +1080,13 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Nueva caída en la aprobación del Presidente José Antonio Kast: alcanzó un 28,9%",
-    "enlace": "https://www.davidnoticias.cl/nueva-caida-en-la-aprobacion-del-presidente-jose-antonio-kast-alcanzo-un-289/",
+    "titulo": "Quebradas mantienen aislados sectores de El Manzano: Daños en caminos obligan a intensificar labores de emergencia",
+    "enlace": "https://www.elandacollino.cl/2026/07/20/quebradas-mantienen-aislados-sectores-de-el-manzano-danos-en-caminos-obligan-a-intensificar-labores-de-emergencia/",
     "descripcion": "",
     "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Andacollo enfrenta una de las jornadas más complejas del temporal: Está aislado, sin energía y telefonía",
@@ -1172,15 +1163,6 @@
   {
     "titulo": "Galantas Gold comprará en México planta de chancado de 20.000 toneladas por día para el proyecto aurífero en Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/07/15/galantas-gold-comprara-en-mexico-planta-de-chancado-de-20-000-toneladas-por-dia-para-el-proyecto-aurifero-en-andacollo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Alcalde de Andacollo y representantes de la pequeña minería llevan conflicto con Galantas Gold al Senado",
-    "enlace": "https://www.elandacollino.cl/2026/07/13/alcalde-de-andacollo-y-representantes-de-la-pequena-mineria-llevan-conflicto-con-galantas-gold-al-senado/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1458,6 +1440,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Gobierno anuncia nueva suspensión de clases para este martes y miércoles",
+    "enlace": "https://www.maray.cl/atacama/20/07/2026/gobierno-anuncia-nueva-suspension-de-clases-para-este-martes-y-miercoles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Presidente Kast llega a Coquimbo y visita Hospital de Ovalle afectado por el sistema frontal",
+    "enlace": "https://www.maray.cl/pais/20/07/2026/presidente-kast-llega-a-coquimbo-y-visita-hospital-de-ovalle-afectado-por-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Ruta 5 entre Vallenar y Caldera reabre al tránsito con llamado a conducir con precaución",
+    "enlace": "https://www.maray.cl/atacama/20/07/2026/ruta-5-entre-vallenar-y-caldera-reabre-al-transito-con-llamado-a-conducir-con-precaucion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Delegación Presidencial de Atacama y Ejército refuerzan despliegue tras declaración de Estado de Catástrofe en Provincia del Huasco",
     "enlace": "https://www.maray.cl/atacama/20/07/2026/delegacion-presidencial-de-atacama-y-ejercito-refuerzan-despliegue-tras-declaracion-de-estado-de-catastrofe-en-provincia-del-huasco/",
     "descripcion": "",
@@ -1514,33 +1523,6 @@
   {
     "titulo": "Subsecretaria de Salud Pública se despliega en la Región de Atacama para reforzar respuesta sanitaria frente al temporal",
     "enlace": "https://www.maray.cl/atacama/20/07/2026/subsecretaria-de-salud-publica-se-despliega-en-la-region-de-atacama-para-reforzar-respuesta-sanitaria-frente-al-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "PDI Atacama despliega equipos en terreno para apoyar emergencia por sistema frontal",
-    "enlace": "https://www.maray.cl/atacama/20/07/2026/pdi-atacama-despliega-equipos-en-terreno-para-apoyar-emergencia-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Carabineros evacúa por vía aérea a tres mujeres desde La Higuera hasta La Serena: dos requerían atención médica",
-    "enlace": "https://www.maray.cl/pais/20/07/2026/carabineros-evacua-por-via-aerea-a-tres-mujeres-desde-la-higuera-hasta-la-serena-dos-requerian-atencion-medica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Anuncian intensas lluvias para esta noche y la madrugada del martes entre Atacama y Coquimbo",
-    "enlace": "https://www.maray.cl/atacama/20/07/2026/anuncian-intensas-lluvias-para-esta-noche-y-la-madrugada-del-martes-entre-atacama-y-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hospital de Llay Llay: diputada Bello solicita fiscalización tras inundaciones provocadas por sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/20/hospital-de-llay-llay-diputada-bello-solicita-fiscalizacion-tras-inundaciones-provocadas-por-sistema-frontal/",
+    "titulo": "Presidente Kast inspecciona daños en Hospital de Ovalle y coordina respuesta por sistema frontal en la Región de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/07/20/presidente-kast-inspecciona-danos-en-hospital-de-ovalle-y-coordina-respuesta-por-sistema-frontal-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alcalde de Puchuncaví denunciará ante la SEC a empresas de distribución eléctrica “por falta de servicios”",
-    "enlace": "https://g5noticias.cl/2026/07/20/alcalde-de-puchuncavi-denunciara-ante-la-sec-a-empresas-de-distribucion-electrica-por-falta-de-servicios/",
+    "titulo": "SISS informa actualización del monitoreo de la contingencia sanitaria en la Región de Coquimbo por sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/20/siss-informa-actualizacion-del-monitoreo-de-la-contingencia-sanitaria-en-la-region-de-coquimbo-por-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Quintero: municipio y Vialidad coordinan habilitación segura del túnel FACH tras intensas lluvias",
-    "enlace": "https://g5noticias.cl/2026/07/20/quintero-municipio-y-vialidad-coordinan-habilitacion-segura-del-tunel-fach-tras-intensas-lluvias/",
+    "titulo": "Caso Naín: Juzgado de Garantía de Temuco decreta la prisión preventiva de imputado por homicidio de carabineros",
+    "enlace": "https://g5noticias.cl/2026/07/20/caso-nain-juzgado-de-garantia-de-temuco-decreta-la-prision-preventiva-de-imputado-por-homicidio-de-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Jorge Díaz pide legislar para que personas mayores puedan realizar trámites cuando los servicios no reconocen su huella dactilar",
-    "enlace": "https://g5noticias.cl/2026/07/20/diputado-jorge-diaz-pide-legislar-para-que-personas-mayores-puedan-realizar-tramites-cuando-los-servicios-no-reconocen-su-huella-dactilar/",
+    "titulo": "Subsecretario Rodríguez por PdL de compensación por pañales y medicamentos: «Valoramos la aprobación unánime de la idea de legislar sobre este proyecto»",
+    "enlace": "https://g5noticias.cl/2026/07/20/subsecretario-rodriguez-por-pdl-de-compensacion-por-panales-y-medicamentos-valoramos-la-aprobacion-unanime-de-la-idea-de-legislar-sobre-este-proyecto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Temporal casi triplica el agua almacenada en los embalses de la Región de Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/07/20/temporal-casi-triplica-el-agua-almacenada-en-los-embalses-de-la-region-de-coquimbo/",
+    "titulo": "Suspenden clases este martes 21/7 en la Región de Coquimbo, las provincias de Huasco, Marga Marga y Petorca, y otras cinco comunas en las regiones de Atacama y Metropolitana",
+    "enlace": "https://g5noticias.cl/2026/07/20/suspenden-clases-este-martes-21-7-en-la-region-de-coquimbo-las-provincias-de-huasco-marga-marga-y-petorca-y-otras-cinco-comunas-en-las-regiones-de-atacama-y-metropolitana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Servicio de Salud O’Higgins se despliega para supervisar la red asistencial ante emergencia climática",
-    "enlace": "https://g5noticias.cl/2026/07/20/servicio-de-salud-ohiggins-se-despliega-para-supervisar-la-red-asistencial-ante-emergencia-climatica/",
+    "titulo": "CONAF extiende el cierre preventivo de las áreas protegidas de la región hasta el 27 de julio",
+    "enlace": "https://g5noticias.cl/2026/07/20/conaf-extiende-el-cierre-preventivo-de-las-areas-protegidas-de-la-region-hasta-el-27-de-julio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "20 nuevas comunas se suman a las beneficiadas por la condonación de multas e intereses y la postergación del pago de impuestos mensuales",
-    "enlace": "https://g5noticias.cl/2026/07/20/20-nuevas-comunas-se-suman-a-las-beneficiadas-por-la-condonacion-de-multas-e-intereses-y-la-postergacion-del-pago-de-impuestos-mensuales/",
+    "titulo": "Autoridades de Medio Ambiente y Deporte recorren sectores más afectados por temporal de Concón, Quintero y Puchuncaví",
+    "enlace": "https://g5noticias.cl/2026/07/20/autoridades-de-medio-ambiente-y-deporte-recorren-sectores-mas-afectados-por-temporal-de-concon-quintero-y-puchuncavi/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "“Una burla”: diputado Nelson Venegas tras anuncio de compensación de $40 mil pesos ofrecidos por Chilquinta a afectados por cortes de luz",
-    "enlace": "https://g5noticias.cl/2026/07/20/una-burla-diputado-nelson-venegas-tras-anuncio-de-compensacion-de-40-mil-pesos-ofrecidos-por-chilquinta-a-afectados-por-cortes-de-luz/",
+    "titulo": "Comité PC e Independientes acusan indolencia del Gobierno e incapacidad para enfrentar la emergencia climática",
+    "enlace": "https://g5noticias.cl/2026/07/20/comite-pc-e-independientes-acusan-indolencia-del-gobierno-e-incapacidad-para-enfrentar-la-emergencia-climatica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Coordinación en red permitió trasladar con éxito a paciente aislado por emergencia climática para trasplante renal desde Cabildo a Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/07/20/coordinacion-en-red-permitio-trasladar-con-exito-a-paciente-aislado-por-emergencia-climatica-para-trasplante-renal-desde-cabildo-a-vina-del-mar/",
+    "titulo": "Nogales: equipos municipales siguen desplegados en terreno para atender a afectados por sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/20/nogales-equipos-municipales-siguen-desplegados-en-terreno-para-atender-a-afectados-por-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad de Villa Alemana inicia catastro de daños y despliega acciones de recuperación de la comuna tras primer sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/20/municipalidad-de-villa-alemana-inicia-catastro-de-danos-y-despliega-acciones-de-recuperacion-de-la-comuna-tras-primer-sistema-frontal/",
+    "titulo": "Senador Miguel Becker pide agilizar tramitación de la Ley Naín-Retamal 2.0 tras muerte del cabo Marco Cosme",
+    "enlace": "https://g5noticias.cl/2026/07/20/senador-miguel-becker-pide-agilizar-tramitacion-de-la-ley-nain-retamal-2-0-tras-muerte-del-cabo-marco-cosme/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
