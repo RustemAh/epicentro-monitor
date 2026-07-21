@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Presidente Kast llegó hasta el Regimiento 21 de La Serena: “Hoy día la urgencia, la emergencia, nos convoca a todos”",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/21/presidente-kast-llego-hasta-el-regimiento-21-de-la-serena-hoy-dia-la-urgencia-la-emergencia-nos-convoca-a-todos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Mineduc informa suspensión de clases el martes 21 y miércoles 22 de julio en la región de Coquimbo",
     "enlace": "https://www.elserenense.cl/educacion/2026/07/20/mineduc-informa-suspension-de-clases-el-martes-21-y-miercoles-22-de-julio-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Suspenden exámenes prácticos de conducción por efectos del sistema frontal",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/19/suspenden-examenes-practicos-de-conduccion-por-efectos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Biministro Louis De Grange encabezó COGRID en Coquimbo para coordinar respuesta del gobierno ante efectos del sistema frontal",
-    "enlace": "https://www.elserenense.cl/regionales/2026/07/19/biministro-louis-de-grange-encabezo-cogrid-en-coquimbo-para-coordinar-respuesta-del-gobierno-ante-efectos-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Illapel enfrenta una emergencia sin precedentes: alcalde califica daños como “peores que un terremoto”",
+    "enlace": "https://www.elillapelino.cl/2026/07/21/illapel-enfrenta-una-emergencia-sin-precedentes-alcalde-califica-danos-como-peores-que-un-terremoto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Consejero Regional Denis Cortés Vargas advierte grave crisis en el Choapa tras temporal y exige mayor fiscalización a empresas de servicios básicos",
     "enlace": "https://www.elillapelino.cl/2026/07/18/consejero-regional-denis-cortes-vargas-advierte-grave-crisis-en-el-choapa-tras-temporal-y-exige-mayor-fiscalizacion-a-empresas-de-servicios-basicos/",
     "descripcion": "",
@@ -891,13 +900,22 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Despliegues nocturnos de Carabineros permiten detener a dos conocidos delincuentes en Illapel",
-    "enlace": "https://www.elillapelino.cl/2026/07/14/despliegues-nocturnos-de-carabineros-permiten-detener-a-dos-conocidos-delincuentes-en-illapel/",
+    "titulo": "Problemas de transmisión mantienen incompleto el registro de precipitaciones en Choapa",
+    "enlace": "https://veetv.cl/recipitaciones-choapa-fallas-transmision-datos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Sistema frontal deja emergencias menores y activa amplio despliegue preventivo en Choapa",
+    "enlace": "https://veetv.cl/sistema-frontal-emergencias-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Salamanca concentra esfuerzos en recuperación de caminos y reposición eléctrica tras paso del sistema frontal",
@@ -1080,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Alcalde de Andacollo solicita apoyo urgente ante aislamiento y daños: “Se agota el combustible no hay energía, ni señal celular”",
+    "enlace": "https://www.elandacollino.cl/2026/07/21/alcalde-de-andacollo-solicita-apoyo-urgente-ante-aislamiento-y-danos-se-agota-el-combustible-no-hay-energia-ni-senal-celular/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Quebradas mantienen aislados sectores de El Manzano: Daños en caminos obligan a intensificar labores de emergencia",
     "enlace": "https://www.elandacollino.cl/2026/07/20/quebradas-mantienen-aislados-sectores-de-el-manzano-danos-en-caminos-obligan-a-intensificar-labores-de-emergencia/",
     "descripcion": "",
@@ -1154,15 +1181,6 @@
   {
     "titulo": "Refuerzan plan de emergencia comunal en Andacollo ante sistema frontal que afectará a la región",
     "enlace": "https://www.elandacollino.cl/2026/07/16/refuerzan-plan-de-emergencia-comunal-en-andacollo-ante-sistema-frontal-que-afectara-a-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Galantas Gold comprará en México planta de chancado de 20.000 toneladas por día para el proyecto aurífero en Andacollo",
-    "enlace": "https://www.elandacollino.cl/2026/07/15/galantas-gold-comprara-en-mexico-planta-de-chancado-de-20-000-toneladas-por-dia-para-el-proyecto-aurifero-en-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1530,6 +1548,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "“Sencillamente no se prepararon”: Diputado Mella oficia al Ministerio de Energía y advierte sobre alimentos en descomposición e insulinas en riesgo",
+    "enlace": "https://laliguanoticias.cl/2026/07/21/sencillamente-no-se-prepararon-diputado-mella-oficia-al-ministerio-de-energia-y-advierte-sobre-alimentos-en-descomposicion-e-insulinas-en-riesgo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "Diputada Sofía González exige al gobierno declarar estado de catástrofe a las comunas de La Ligua, Cabildo y Petorca",
     "enlace": "https://laliguanoticias.cl/2026/07/20/diputada-sofia-gonzalez-exige-al-gobierno-declarar-estado-de-catastrofe-a-las-comunas-de-la-ligua-cabildo-y-petorca/",
     "descripcion": "",
@@ -1604,15 +1631,6 @@
   {
     "titulo": "Carabineros de La Ligua detiene a mujer con 122 dosis de pasta base: justicia decretó prisión preventiva",
     "enlace": "https://laliguanoticias.cl/2026/07/10/carabineros-de-la-ligua-detiene-a-mujer-con-122-dosis-de-pasta-base-justicia-decreto-prision-preventiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Destituyen a directivo en caso de venta irregular de permisos de circulación en Papudo: otro funcionario fue desvinculado por uso de licencias médicas",
-    "enlace": "https://laliguanoticias.cl/2026/07/10/destituyen-a-directivo-en-caso-de-venta-irregular-de-permisos-de-circulacion-en-papudo-otro-funcionario-fue-desvinculado-por-uso-de-licencias-medicas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1710,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presidente Kast inspecciona daños en Hospital de Ovalle y coordina respuesta por sistema frontal en la Región de Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/07/20/presidente-kast-inspecciona-danos-en-hospital-de-ovalle-y-coordina-respuesta-por-sistema-frontal-en-la-region-de-coquimbo/",
+    "titulo": "El crimen organizado también se combate desde la contabilidad. Por Viviana Puentes Directora Escuela de Auditoría Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/07/21/el-crimen-organizado-tambien-se-combate-desde-la-contabilidad-por-viviana-puentes-directora-escuela-de-auditoria-universidad-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SISS informa actualización del monitoreo de la contingencia sanitaria en la Región de Coquimbo por sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/20/siss-informa-actualizacion-del-monitoreo-de-la-contingencia-sanitaria-en-la-region-de-coquimbo-por-sistema-frontal/",
+    "titulo": "¿Cómo opera la Subsecretaría de Telecomunicaciones ante emergencias?",
+    "enlace": "https://g5noticias.cl/2026/07/21/como-opera-la-subsecretaria-de-telecomunicaciones-ante-emergencias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1728,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Caso Naín: Juzgado de Garantía de Temuco decreta la prisión preventiva de imputado por homicidio de carabineros",
-    "enlace": "https://g5noticias.cl/2026/07/20/caso-nain-juzgado-de-garantia-de-temuco-decreta-la-prision-preventiva-de-imputado-por-homicidio-de-carabineros/",
+    "titulo": "El impacto de FOJI en 25 años: La música como herramienta de vida",
+    "enlace": "https://g5noticias.cl/2026/07/21/el-impacto-de-foji-en-25-anos-la-musica-como-herramienta-de-vida/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subsecretario Rodríguez por PdL de compensación por pañales y medicamentos: «Valoramos la aprobación unánime de la idea de legislar sobre este proyecto»",
-    "enlace": "https://g5noticias.cl/2026/07/20/subsecretario-rodriguez-por-pdl-de-compensacion-por-panales-y-medicamentos-valoramos-la-aprobacion-unanime-de-la-idea-de-legislar-sobre-este-proyecto/",
+    "titulo": "Del abrigo funcional al estilo con personalidad: Boutique que ofrece ropa térmica a precios bajos para enfrentar bajas temperaturas y lluvias",
+    "enlace": "https://g5noticias.cl/2026/07/21/del-abrigo-funcional-al-estilo-con-personalidad-boutique-que-ofrece-ropa-termica-a-precios-bajos-para-enfrentar-bajas-temperaturas-y-lluvias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Suspenden clases este martes 21/7 en la Región de Coquimbo, las provincias de Huasco, Marga Marga y Petorca, y otras cinco comunas en las regiones de Atacama y Metropolitana",
-    "enlace": "https://g5noticias.cl/2026/07/20/suspenden-clases-este-martes-21-7-en-la-region-de-coquimbo-las-provincias-de-huasco-marga-marga-y-petorca-y-otras-cinco-comunas-en-las-regiones-de-atacama-y-metropolitana/",
+    "titulo": "«El Divino Anticristo» llega al Festival Telón Austral con una potente reflexión sobre salud mental y vulnerabilidad",
+    "enlace": "https://g5noticias.cl/2026/07/21/el-divino-anticristo-llega-al-festival-telon-austral-con-una-potente-reflexion-sobre-salud-mental-y-vulnerabilidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CONAF extiende el cierre preventivo de las áreas protegidas de la región hasta el 27 de julio",
-    "enlace": "https://g5noticias.cl/2026/07/20/conaf-extiende-el-cierre-preventivo-de-las-areas-protegidas-de-la-region-hasta-el-27-de-julio/",
+    "titulo": "El Museo Fonck invita a descubrir el sorprendente camuflaje de la mariposa hoja a través de un taller online de acuarela",
+    "enlace": "https://g5noticias.cl/2026/07/21/el-museo-fonck-invita-a-descubrir-el-sorprendente-camuflaje-de-la-mariposa-hoja-a-traves-de-un-taller-online-de-acuarela-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Autoridades de Medio Ambiente y Deporte recorren sectores más afectados por temporal de Concón, Quintero y Puchuncaví",
-    "enlace": "https://g5noticias.cl/2026/07/20/autoridades-de-medio-ambiente-y-deporte-recorren-sectores-mas-afectados-por-temporal-de-concon-quintero-y-puchuncavi/",
+    "titulo": "Más de 41 mil niños esperaban atención de protección en 2025: campaña llama a donar tiempo por la niñez",
+    "enlace": "https://g5noticias.cl/2026/07/21/mas-de-41-mil-ninos-esperaban-atencion-de-proteccion-en-2025-campana-llama-a-donar-tiempo-por-la-ninez/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comité PC e Independientes acusan indolencia del Gobierno e incapacidad para enfrentar la emergencia climática",
-    "enlace": "https://g5noticias.cl/2026/07/20/comite-pc-e-independientes-acusan-indolencia-del-gobierno-e-incapacidad-para-enfrentar-la-emergencia-climatica/",
+    "titulo": "¿Se pueden evitar los socavones? Académico explica qué podría estar fallando en el diseño de las obras",
+    "enlace": "https://g5noticias.cl/2026/07/21/se-pueden-evitar-los-socavones-academico-explica-que-podria-estar-fallando-en-el-diseno-de-las-obras/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nogales: equipos municipales siguen desplegados en terreno para atender a afectados por sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/20/nogales-equipos-municipales-siguen-desplegados-en-terreno-para-atender-a-afectados-por-sistema-frontal/",
+    "titulo": "Invierno impulsa el gasto de turistas brasileños en Chile: Julio concentra el mayor ticket promedio y la mayor actividad comercial",
+    "enlace": "https://g5noticias.cl/2026/07/20/invierno-impulsa-el-gasto-de-turistas-brasilenos-en-chile-julio-concentra-el-mayor-ticket-promedio-y-la-mayor-actividad-comercial/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senador Miguel Becker pide agilizar tramitación de la Ley Naín-Retamal 2.0 tras muerte del cabo Marco Cosme",
-    "enlace": "https://g5noticias.cl/2026/07/20/senador-miguel-becker-pide-agilizar-tramitacion-de-la-ley-nain-retamal-2-0-tras-muerte-del-cabo-marco-cosme/",
+    "titulo": "CNE publica Bases de la Licitación de Suministro 2026/01 para abastecer a clientes regulados entre 2029 y 2044",
+    "enlace": "https://g5noticias.cl/2026/07/20/cne-publica-bases-de-la-licitacion-de-suministro-2026-01-para-abastecer-a-clientes-regulados-entre-2029-y-2044/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
