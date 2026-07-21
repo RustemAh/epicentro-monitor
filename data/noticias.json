@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Fonasa mantiene cerradas todas sus sucursales en la Región de Coquimbo y refuerza atención en línea",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/21/fonasa-mantiene-cerradas-todas-sus-sucursales-en-la-region-de-coquimbo-y-refuerza-atencion-en-linea/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Bots atacan a alcaldes de Coquimbo y La Serena por criticar al gobierno en medio de la emergencia",
     "enlace": "https://www.elcoquimbano.cl/2026/07/20/bots-atacan-a-alcaldes-de-coquimbo-y-la-serena-por-criticar-al-gobierno-en-medio-de-la-emergencia/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Informan suspensión de faenas tras desplome de grúa en Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/17/informan-suspension-de-faenas-tras-desplome-de-grua-en-coquimbo/",
+    "titulo": "Coquimbo, Canela, Los Vilos, La Higuera, La Serena, Paihuano, Monte Patria, Punitaqui, Río Hurtado con beneficio del SII por IVA",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/21/coquimbo-canela-los-vilos-la-higuera-la-serena-paihuano-monte-patria-punitaqui-rio-hurtado-con-beneficio-del-sii-por-iva/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Presidente Kast llegó hasta el Regimiento 21 de La Serena: “Hoy día la urgencia, la emergencia, nos convoca a todos”",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Suspenden exámenes prácticos de conducción por efectos del sistema frontal",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/19/suspenden-examenes-practicos-de-conduccion-por-efectos-del-sistema-frontal/",
+    "titulo": "Desborde del embalse Recoleta ocasiona corte de emergencia en Ovalle",
+    "enlace": "https://laserenaonline.cl/2026/07/21/desborde-del-embalse-recoleta-ocasiona-corte-de-emergencia-en-ovalle/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Balance actualizado: Cantidad de agua caída en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/21/balance-actualizado-cantidad-de-agua-caida-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Actualización: Urgencias de la región y CDT de La Serena siguen en funcionamiento",
+    "enlace": "https://laserenaonline.cl/2026/07/21/actualizacion-urgencias-de-la-region-y-cdt-de-la-serena-siguen-en-funcionamiento/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Carabineros intensifica despliegue en Cruz de Caña y rescata a 33 personas durante la jornada de este lunes",
     "enlace": "https://laserenaonline.cl/2026/07/21/carabineros-intensifica-despliegue-en-cruz-de-cana-y-rescata-a-33-personas-durante-la-jornada-de-este-lunes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "¿Cuánto ha llovido en la Región de Coquimbo?",
-    "enlace": "https://laserenaonline.cl/2026/07/21/cuanto-ha-llovido-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 21 de julio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/21/reporte-del-tiempo-hoy-21-de-julio-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
-    "enlace": "https://laserenaonline.cl/2026/07/20/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,96 +1008,6 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Choapa supera los 300 milímetros de lluvia y acumula hasta 2,5 metros de nieve tras histórico sistema frontal",
-    "enlace": "https://www.davidnoticias.cl/choapa-supera-los-300-milimetros-de-lluvia-y-acumula-hasta-25-metros-de-nieve-tras-historico-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Embalses  de la Región de Coquimbo casi triplican su nivel de almacenamiento tras el sistema frontal",
-    "enlace": "https://www.davidnoticias.cl/embalses-de-la-region-de-coquimbo-casi-triplican-su-nivel-de-almacenamiento-tras-el-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Mineduc mantiene suspensión de clases en la Región de Coquimbo por emergencia climática",
-    "enlace": "https://www.davidnoticias.cl/mineduc-mantiene-suspension-de-clases-en-la-region-de-coquimbo-por-emergencia-climatica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Temporal provoca colapso parcial del histórico puente  Viejo de Illapel",
-    "enlace": "https://www.davidnoticias.cl/temporal-provoca-colapso-parcial-del-historico-puente-viejo-de-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Contribuyentes de comunas más afectadas por sistema frontal podrán declarar y pagar impuestos mensuales hasta el 30 de octubre sin multas ni intereses",
-    "enlace": "https://www.davidnoticias.cl/contribuyentes-de-comunas-mas-afectadas-por-sistema-frontal-podran-declarar-y-pagar-impuestos-mensuales-hasta-el-30-de-octubre-sin-multas-ni-intereses/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Confirman cinco fallecidos por temporal en la Región de Coquimbo: tragedia evidencia la magnitud de la emergencia",
-    "enlace": "https://www.davidnoticias.cl/confirman-cinco-fallecidos-por-temporal-en-la-region-de-coquimbo-tragedia-evidencia-la-magnitud-de-la-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Por fin: Gobierno decreta Estado de Excepción por Catástrofe para la región de Coquimbo y la provincia del Huasco tras devastador sistema frontal",
-    "enlace": "https://www.davidnoticias.cl/por-fin-gobierno-decreta-estado-de-excepcion-por-catastrofe-para-la-region-de-coquimbo-y-la-provincia-del-huasco-tras-devastador-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "URGENTE | Activan Alerta SAE por crecimiento del embalse Culimo y ordenan evacuar las riberas",
-    "enlace": "https://www.davidnoticias.cl/urgente-activan-alerta-sae-por-crecimiento-del-embalse-culimo-y-ordenan-evacuar-las-riberas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Desesperado llamado desde Rivera Norte de Canela: vecinos denuncian aislamiento total y exigen ayuda urgente",
-    "enlace": "https://www.davidnoticias.cl/desesperado-llamado-desde-rivera-norte-de-canela-vecinos-denuncian-aislamiento-total-y-exigen-ayuda-urgente/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Minera Los Pelambres mantiene activo plan de contingencia y despliega apoyo en medio del sistema frontal",
-    "enlace": "https://www.davidnoticias.cl/minera-los-pelambres-mantiene-activo-plan-de-contingencia-y-despliega-apoyo-en-medio-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
     "titulo": "Alcalde de Andacollo solicita apoyo urgente ante aislamiento y daños: “Se agota el combustible no hay energía, ni señal celular”",
     "enlace": "https://www.elandacollino.cl/2026/07/21/alcalde-de-andacollo-solicita-apoyo-urgente-ante-aislamiento-y-danos-se-agota-el-combustible-no-hay-energia-ni-senal-celular/",
     "descripcion": "",
@@ -1458,6 +1368,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "SENAPRED: Emiten aviso por tormentas eléctricas para las provincias de Copiapó y Huasco",
+    "enlace": "https://www.maray.cl/atacama/21/07/2026/senapred-emiten-aviso-por-tormentas-electricas-para-las-provincias-de-copiapo-y-huasco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "OMS alerta que brote de ébola en República Democrática del Congo sigue expandiéndose y deja 967 fallecidos",
     "enlace": "https://www.maray.cl/internacional/21/07/2026/oms-alerta-que-brote-de-ebola-en-republica-democratica-del-congo-sigue-expandiendose-y-deja-967-fallecidos/",
     "descripcion": "",
@@ -1485,8 +1404,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "SENAPRED: Emiten aviso por tormentas eléctricas para las provincias de Copiapó y Huasco",
-    "enlace": "https://www.maray.cl/atacama/21/07/2026/senapred-emiten-aviso-por-tormentas-electricas-para-las-provincias-de-copiapo-y-huasco/",
+    "titulo": "Santo Tomás Copiapó entrega recomendaciones para enfrentar las consecuencias del sistema frontal en Atacama",
+    "enlace": "https://www.maray.cl/atacama/21/07/2026/santo-tomas-copiapo-entrega-recomendaciones-para-enfrentar-las-consecuencias-del-sistema-frontal-en-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1532,15 +1451,6 @@
   {
     "titulo": "Gobierno suspende clases en toda la región de Valparaíso por efectos del sistema frontal",
     "enlace": "https://www.maray.cl/pais/21/07/2026/gobierno-suspende-clases-en-toda-la-region-de-valparaiso-por-efectos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Kast pide centrar esfuerzos en la emergencia y aplazar críticas por gestión del sistema frontal",
-    "enlace": "https://www.maray.cl/atacama/21/07/2026/kast-pide-centrar-esfuerzos-en-la-emergencia-y-aplazar-criticas-por-gestion-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Schalper (RN) responde a Libertarios: “La única música que debe sonar hoy es la de la reconstrucción y el empleo”",
-    "enlace": "https://g5noticias.cl/2026/07/21/schalper-rn-responde-a-libertarios-la-unica-musica-que-debe-sonar-hoy-es-la-de-la-reconstruccion-y-el-empleo/",
+    "titulo": "Cámara realiza minuto de silencio por víctimas de atropello múltiple en Feria Caupolicán a solicitud del diputado Teao",
+    "enlace": "https://g5noticias.cl/2026/07/21/camara-realiza-minuto-de-silencio-por-victimas-de-atropello-multiple-en-feria-caupolican-a-solicitud-del-diputado-teao/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "BancoEstado habilita botón para realizar donaciones en apoyo a las familias afectadas por el sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/21/bancoestado-habilita-boton-para-realizar-donaciones-en-apoyo-a-las-familias-afectadas-por-el-sistema-frontal/",
+    "titulo": "Carabineros refuerza fiscalizaciones en el entorno del Hospital Regional de Talca",
+    "enlace": "https://g5noticias.cl/2026/07/21/carabineros-refuerza-fiscalizaciones-en-el-entorno-del-hospital-regional-de-talca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremi de Economía y director regional de Sercotec visitan Caleta Portales para evaluar daños tras intensas marejadas y fallas en una grúa",
-    "enlace": "https://g5noticias.cl/2026/07/21/seremi-de-economia-y-director-regional-de-sercotec-visitan-caleta-portales-para-evaluar-danos-tras-intensas-marejadas-y-fallas-en-una-grua/",
+    "titulo": "Diputada Irací Hassler por megarreforma: “No cuenta ni con nuestros votos ni con nuestro silencio”",
+    "enlace": "https://g5noticias.cl/2026/07/21/diputada-iraci-hassler-por-megarreforma-no-cuenta-ni-con-nuestros-votos-ni-con-nuestro-silencio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Santiago eleva indemnización a dirigente sindical torturado en La Serena en 1973",
-    "enlace": "https://g5noticias.cl/2026/07/21/corte-de-santiago-eleva-indemnizacion-a-dirigente-sindical-torturado-en-la-serena-en-1973/",
+    "titulo": "Más de 34 mil clientes se mantiene sin suministro eléctrico en la Región de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/07/21/mas-de-34-mil-clientes-se-mantiene-sin-suministro-de-suministro-electrico-en-la-region-de-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sistema frontal: Bancada UDI pide al Gobierno postergar pago de contribuciones de bienes raíces y predios agrícolas en zonas afectadas",
-    "enlace": "https://g5noticias.cl/2026/07/21/sistema-frontal-bancada-udi-pide-al-gobierno-postergar-pago-de-contribuciones-de-bienes-raices-y-predios-agricolas-en-zonas-afectadas/",
+    "titulo": "Diputado Andrés Celis descarta poner en tabla y priorizar el proyecto “Escucha su corazón” en la Comisión de Salud",
+    "enlace": "https://g5noticias.cl/2026/07/21/diputado-andres-celis-descarta-poner-en-tabla-y-priorizar-el-proyecto-escucha-su-corazon-en-la-comision-de-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subsecretario José Francisco Lagos encabezó despliegue en la Provincia de Petorca para coordinar respuesta del Gobierno ante el sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/21/subsecretario-jose-francisco-lagos-encabezo-despliegue-en-la-provincia-de-petorca-para-coordinar-respuesta-del-gobierno-ante-el-sistema-frontal/",
+    "titulo": "Equipos de emergencia rescatan persona que quedó atrapada en Río Aconcagua",
+    "enlace": "https://g5noticias.cl/2026/07/21/equipos-de-emergencia-rescatan-persona-que-quedo-atrapada-en-rio-aconcagua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Emergencia climática y aumento de virus respiratorios: expertos advierten que el diagnóstico temprano es clave para evitar el colapso hospitalario",
-    "enlace": "https://g5noticias.cl/2026/07/21/emergencia-climatica-y-aumento-de-virus-respiratorios-expertos-advierten-que-el-diagnostico-temprano-es-clave-para-evitar-el-colapso-hospitalario/",
+    "titulo": "Propietarios de Los Pinos de Reñaca denuncian abandono municipal bajo la actual administración y contradicciones en los dichos de la alcaldesa Ripamonti",
+    "enlace": "https://g5noticias.cl/2026/07/21/propietarios-de-los-pinos-de-renaca-denuncian-abandono-municipal-bajo-la-actual-administracion-y-contradicciones-en-los-dichos-de-la-alcaldesa-ripamonti/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presión por costos en la PYME: Monto promedio de facturas adelantadas da un salto y aumenta 16%",
-    "enlace": "https://g5noticias.cl/2026/07/21/presion-por-costos-en-la-pyme-monto-promedio-de-facturas-adelantadas-da-un-salto-y-aumenta-16/",
+    "titulo": "Alcaldesa de Quilpué solicita a Sernac iniciar acciones legales por cortes de suministro eléctrico",
+    "enlace": "https://g5noticias.cl/2026/07/21/alcaldesa-de-quilpue-solicita-a-sernac-iniciar-acciones-legales-por-cortes-de-suministro-electrico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Balance realizado en Senapred: subsecretario del Interior sostiene que 98,6% de los clientes en Chile ya se encuentran con servicio eléctrico",
-    "enlace": "https://g5noticias.cl/2026/07/21/balance-realizado-en-senapred-subsecretario-del-interior-sostiene-que-986-de-los-clientes-ya-que-encuentran-con-servicio-electrico/",
+    "titulo": "Senadora Gatica pide a Comisión de Hacienda votar esta semana proyecto de incentivos para Carabineros",
+    "enlace": "https://g5noticias.cl/2026/07/21/senadora-gatica-pide-a-comision-de-hacienda-votar-esta-semana-proyecto-de-incentivos-para-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros mantiene intenso despliegue en la provincia de Huasco para enfrentar la emergencia por el sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/21/carabineros-mantiene-intenso-despliegue-en-la-provincia-de-huasco-para-enfrentar-la-emergencia-por-el-sistema-frontal/",
+    "titulo": "Diputado Cuello por votación de Megarreforma: «Le mete la mano al bolsillo a los chilenos para beneficiar a los más ricos”",
+    "enlace": "https://g5noticias.cl/2026/07/21/diputado-cuello-por-votacion-de-megarreforma-le-mete-la-mano-al-bolsillo-a-los-chilenos-para-beneficiar-a-los-mas-ricos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,94 +1728,31 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Colegio Arauco se queda con el título provincial y avanza al Regional de Básquetbol Escolar IN",
-    "enlace": "https://araucovision.cl/colegio-arauco-se-queda-con-el-titulo-provincial-y-avanza-al-regional-de-basquetbol-escolar-in/",
+    "titulo": "Denuncian ante la PDI envenenamiento de al menos siete perros en el sector",
+    "enlace": "https://laprensaaustral.cl/2026/07/21/denuncian-ante-la-pdi-envenenamiento-de-al-menos-siete-perros-en-el-sector/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Fondo de Sercotec impulsará la creación de empresas innovadoras lideradas por mujeres",
-    "enlace": "https://araucovision.cl/fondo-de-sercotec-impulsara-la-creacion-de-empresas-innovadoras-lideradas-por-mujeres/",
+    "titulo": "Fundación Artes de la Patagonia Austral llama a fortalecer la implementación de una política cultural de alcance regional",
+    "enlace": "https://laprensaaustral.cl/2026/07/21/fundacion-artes-de-la-patagonia-austral-llama-a-fortalecer-la-implementacion-de-una-politica-cultural-de-alcance-regional/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Bioforest abre sus laboratorios para acercar la ciencia forestal a estudiantes",
-    "enlace": "https://araucovision.cl/bioforest-abre-sus-laboratorios-para-acercar-la-ciencia-forestal-a-estudiantes/",
+    "titulo": "Mujer que golpeó a su padre con un bate de madera y lo dejó grave condenada a 5 años de cárcel efectiva",
+    "enlace": "https://laprensaaustral.cl/2026/07/21/mujer-que-golpeo-a-su-padre-con-un-bate-de-madera-y-lo-dejo-grave-condenada-a-5-anos-de-carcel-efectiva/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Internos del CDP de Arauco emocionaron con la obra “La Leyenda de Llacolén”",
-    "enlace": "https://araucovision.cl/internos-del-cdp-de-arauco-emocionaron-con-la-obra-la-leyenda-de-llacolen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Gobierno llama a emprendedores del Biobío a trabajar mediante plataforma pública con más de 170 instrumentos disponibles",
-    "enlace": "https://araucovision.cl/gobierno-llama-a-emprendedores-del-biobio-a-trabajar-mediante-plataforma-publica-con-mas-de-170-instrumentos-disponibles/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Seremi de Salud invita a la comunidad de Arauco a promover la lactancia materna a través del primer concurso de reels",
-    "enlace": "https://araucovision.cl/seremi-de-salud-invita-a-la-comunidad-de-arauco-a-promover-la-lactancia-materna-a-traves-del-primer-concurso-de-reels/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Tras 16 años de espera: Con inversión histórica de $17 mil millones arranca la reconstrucción del Mercado de Talcahuano",
-    "enlace": "https://araucovision.cl/tras-16-anos-de-espera-con-inversion-historica-de-17-mil-millones-arranca-la-reconstruccion-del-mercado-de-talcahuano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Chile supera el 63% de generación renovable y enfrenta un nuevo desafío: Asegurar la estabilidad del sistema eléctrico",
-    "enlace": "https://araucovision.cl/chile-supera-el-63-de-generacion-renovable-y-enfrenta-un-nuevo-desafio-asegurar-la-estabilidad-del-sistema-electrico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Pesquera Alimentos Marinos S.A. “ALIMAR” demanda al Estado de Chile y solicita compensación por más de US$140 millones debido a Ley de Fraccionamiento",
-    "enlace": "https://araucovision.cl/pesquera-alimentos-marinos-s-a-alimar-demanda-al-estado-de-chile-y-solicita-compensacion-por-mas-de-us140-millones-debido-a-ley-de-fraccionamiento/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Arauco será una de las siete zonas priorizadas en concurso nacional para ampliar red de carga rápida de vehículos eléctricos",
-    "enlace": "https://araucovision.cl/arauco-sera-una-de-las-siete-zonas-priorizadas-en-concurso-nacional-para-ampliar-red-de-carga-rapida-de-vehiculos-electricos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
     "titulo": "Choque en Manantiales con Los Acacios",
@@ -1964,33 +1811,6 @@
   {
     "titulo": "Abogado Cristián Opazo Aguilera es el nuevo fiscal jefe de Natales",
     "enlace": "https://laprensaaustral.cl/2026/07/21/abogado-cristian-opazo-aguilera-es-el-nuevo-fiscal-jefe-de-natales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Transporte hacia y desde el Aeropuerto Presidente Ibáñez",
-    "enlace": "https://laprensaaustral.cl/2026/07/21/transporte-hacia-y-desde-el-aeropuerto-presidente-ibanez/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Daniel Ortega liquida la vía electoral en  Nicaragua: “Aquí no volverá a haber elecciones”",
-    "enlace": "https://laprensaaustral.cl/2026/07/21/daniel-ortega-liquida-la-via-electoral-en-nicaragua-aqui-no-volvera-a-haber-elecciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Intervienen “cráter” de calle 21 de Mayo",
-    "enlace": "https://laprensaaustral.cl/2026/07/21/intervienen-crater-de-calle-21-de-mayo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
