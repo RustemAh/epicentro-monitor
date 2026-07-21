@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Municipio de Coquimbo lleva ayuda a familias aisladas de Totoralillo Alto por cortes de caminos tras las lluvias",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/21/municipio-de-coquimbo-lleva-ayuda-a-familias-aisladas-de-totoralillo-alto-por-cortes-de-caminos-tras-las-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Se mantiene cerrado tránsito en Alonso del Santo Cid esquina el Sauce por riesgo de socavón",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/21/se-mantiene-cerrado-transito-en-alonso-del-santo-cid-esquina-el-sauce-por-riesgo-de-socavon/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Ministro Quiroz descarta incluir a la Región de Coquimbo en fondo de emergencia: “Es imposible”",
     "enlace": "https://www.elcoquimbano.cl/2026/07/21/ministro-quiroz-descarta-incluir-a-la-region-de-coquimbo-en-fondo-de-emergencia-es-imposible/",
     "descripcion": "",
@@ -72,22 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Carabineros rescata a 30 personas y 25 perros aislados en Tambillos",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/18/carabineros-rescata-a-30-personas-y-25-perros-aislados-en-tambillos/",
+    "titulo": "Carabineros rescata a nueve personas y 17 mascotas aisladas en La Florida tras el intenso sistema frontal",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/21/carabineros-rescata-a-nueve-personas-y-17-mascotas-aisladas-en-la-florida-tras-el-intenso-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Municipio de Coquimbo apoya la evacuación de familias por activación de quebradas en la comuna",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/18/municipio-de-coquimbo-apoya-la-evacuacion-de-familias-por-activacion-de-quebradas-en-la-comuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Minera San Gerónimo informa estabilidad de infraestructura crítica tras intensas lluvias",
@@ -164,15 +173,6 @@
   {
     "titulo": "Gobernador de Coquimbo califica de “insultante” pregunta de periodista en medio de la crisis por sistema frontal",
     "enlace": "https://www.elserenense.cl/regionales/2026/07/20/gobernador-de-coquimbo-califica-de-insultante-pregunta-de-periodista-en-medio-de-la-crisis-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Por el temporal: qué derechos te amparan si no puedes llegar a tu lugar de trabajo",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/07/19/por-el-temporal-que-derechos-te-amparan-si-no-puedes-llegar-a-tu-lugar-de-trabajo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -720,8 +720,17 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Desborde del río Illapel obliga a evacuar familias en La Puntilla: Municipio reitera llamado a acatar las alertas de emergencia",
+    "enlace": "https://illapelchile.cl/actualidad/desborde-del-rio-illapel-obliga-a-evacuar-familias-en-la-puntilla-municipio-reitera-llamado-a-acatar-las-alertas-de-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Embalse El Bato se mantiene bajo su capacidad máxima y autoridades desmienten alerta de desborde",
-    "enlace": "https://illapelchile.cl/sin-categoria/embalse-el-bato-se-mantiene-bajo-su-capacidad-maxima-y-autoridades-desmienten-alerta-de-desborde/",
+    "enlace": "https://illapelchile.cl/actualidad/embalse-el-bato-se-mantiene-bajo-su-capacidad-maxima-y-autoridades-desmienten-alerta-de-desborde/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Diario de Illapel",
@@ -794,15 +803,6 @@
   {
     "titulo": "Víctor Sánchez: el gendarme señalado como presunto líder de una red de narcotráfico en la cárcel de Illapel",
     "enlace": "https://illapelchile.cl/policial/victor-sanchez-el-gendarme-senalado-como-presunto-lider-de-una-red-de-narcotrafico-en-la-carcel-de-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Diario de Illapel",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Gestión hídrica en Illapel: Programa Aproxima lleva agua potable a hogares de El Maitén Norte",
-    "enlace": "https://illapelchile.cl/lospelambres/gestion-hidrica-en-illapel-programa-aproxima-lleva-agua-potable-a-hogares-de-el-maiten-norte/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Diario de Illapel",
@@ -1006,6 +1006,96 @@
     "medio": "El Salamanquino",
     "zona": "Salamanca",
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Alcalde Christian Gross por Infiernillos: “Hacemos un llamado a que las instituciones puedan estar presentes acá”",
+    "enlace": "https://losviloschile.cl/actualidad/alcalde-christian-gross-por-infiernillos-hacemos-un-llamado-a-que-las-instituciones-puedan-estar-presentes-aca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos licita instalación de 12 nuevas cámaras de seguridad por cerca de $150 millones",
+    "enlace": "https://losviloschile.cl/policial/los-vilos-licita-instalacion-de-12-nuevas-camaras-de-seguridad-por-cerca-de-150-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos refuerza medidas preventivas ante sistema frontal que dejaría más de 170 milímetros",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-refuerza-medidas-preventivas-ante-sistema-frontal-que-dejaria-mas-de-170-milimetros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Complejo Deportivo Carlos Salinas Altamirano de Los Vilos fue renovado con inversión superior a $650 millones",
+    "enlace": "https://losviloschile.cl/deportes/complejo-deportivo-carlos-salinas-altamirano-de-los-vilos-fue-renovado-con-inversion-superior-a-650-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Más de 25 juntas de vecinos participaron en encuentro comunitario en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/mas-de-25-juntas-de-vecinos-participaron-en-encuentro-comunitario-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos busca alternativas para 87 familias ante desalojo de terreno destinado a nuevo cementerio",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-busca-alternativas-para-87-familias-ante-desalojo-de-terreno-destinado-a-nuevo-cementerio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Agricultora de Canela destaca el valor terapéutico de trabajar la tierra",
+    "enlace": "https://losviloschile.cl/canela/agricultora-de-canela-destaca-el-valor-terapeutico-de-trabajar-la-tierra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Comienzan las obras de modernización de Caleta Las Conchas en Los Vilos",
+    "enlace": "https://losviloschile.cl/actualidad/comienzan-las-obras-de-modernizacion-de-caleta-las-conchas-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos cierra con éxito la primera edición de Invierno Kids",
+    "enlace": "https://losviloschile.cl/social/municipalidad-de-los-vilos-cierra-con-exito-la-primera-edicion-de-invierno-kids/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Delegación Presidencial de Choapa desmiente falsa alarma sobre el Embalse El Bato y llama a informarse por canales oficiales",
@@ -1485,6 +1575,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Biministro Louis de Grange: “No dejaremos de trabajar hasta recuperar la conectividad en las regiones de Atacama y Coquimbo”",
+    "enlace": "https://www.maray.cl/atacama/21/07/2026/biministro-louis-de-grange-no-dejaremos-de-trabajar-hasta-recuperar-la-conectividad-en-las-regiones-de-atacama-y-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Día Mundial del Cerebro: Hasta el 90% de algunos ACV podrían prevenirse",
     "enlace": "https://www.maray.cl/vida-salud/21/07/2026/dia-mundial-del-cerebro-hasta-el-90-de-algunos-acv-podrian-prevenirse/",
     "descripcion": "",
@@ -1532,15 +1631,6 @@
   {
     "titulo": "Sistema frontal impacta en despliegue de Kast: Presidente no pudo llegar a reunión en Vallenar por estado de los caminos",
     "enlace": "https://www.maray.cl/atacama/21/07/2026/sistema-frontal-impacta-en-despliegue-de-kast-presidente-no-pudo-llegar-a-reunion-en-vallenar-por-estado-de-los-caminos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Senapred activa mensajería SAE preventiva por activación de quebradas en varias comunas de Atacama",
-    "enlace": "https://www.maray.cl/atacama/21/07/2026/senapred-activa-mensajeria-sae-preventiva-por-activacion-de-quebradas-en-varias-comunas-de-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1728,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[OPINIÓN] La unión hace la fuerza: Inmobiliaria Fundamenta, abogados Lagos, Vargas, Silber y jueza Vivanco (Patricio Herman)",
+    "enlace": "https://diariolaquinta.cl/2026/07/21/opinion-la-union-hace-la-fuerza-inmobiliaria-fundamenta-abogados-lagos-vargas-silber-y-jueza-vivanco-patricio-herman/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-la-union-hace-la-fuerza-inmobiliaria-fundamenta-abogados-lagos-vargas-silber-y-jueza-vivanco-patricio-herman",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[OPINIÓN] El temporal que puso en jaque la ampliación portuaria de Valparaíso (Jorge Bustos)",
     "enlace": "https://diariolaquinta.cl/2026/07/19/opinion-el-temporal-que-puso-en-jaque-la-ampliacion-portuaria-de-valparaiso-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-el-temporal-que-puso-en-jaque-la-ampliacion-portuaria-de-valparaiso-jorge-bustos",
     "descripcion": "",
@@ -1719,17 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad de Valparaíso habilita refugio temporal para animales comunitarios durante el sistema frontal",
-    "enlace": "https://diariolaquinta.cl/2026/07/16/municipalidad-de-valparaiso-habilita-refugio-temporal-para-animales-comunitarios-durante-el-sistema-frontal/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-valparaiso-habilita-refugio-temporal-para-animales-comunitarios-durante-el-sistema-frontal",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Utilizando una retroexcavadora Carabineros rescata a nueve personas y 17 mascotas aisladas en La Florida",
-    "enlace": "https://g5noticias.cl/2026/07/21/utilizando-una-retroexcavadora-carabineros-rescata-a-nueve-personas-y-17-mascotas-aisladas-en-la-florida/",
+    "titulo": "LEPAS revela los primeros detalles de L4 EV y L6 PHEV",
+    "enlace": "https://g5noticias.cl/2026/07/21/lepas-revela-los-primeros-detalles-de-l4-ev-y-l6-phev/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Coordinadora por la Defensa de la Educación Pública exige decisiones oportunas y rechaza improvisación en suspensión de clases en la región de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/07/21/coordinadora-por-la-defensa-de-la-educacion-publica-exige-decisiones-oportunas-y-rechaza-improvisacion-en-suspension-de-clases-en-la-region-de-valparaiso/",
+    "titulo": "Informe semestral de amenazas de Gen: los atacantes se están acercando a los sistemas en los que las personas confían",
+    "enlace": "https://g5noticias.cl/2026/07/21/informe-semestral-de-amenazas-de-gen-los-atacantes-se-estan-acercando-a-los-sistemas-en-los-que-las-personas-confian/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipio de Viña del Mar abre catastro para que familias afectadas accedan a beneficios tras emergencia climática",
-    "enlace": "https://g5noticias.cl/2026/07/21/municipio-de-vina-del-mar-abre-catastro-para-que-familias-afectadas-accedan-a-beneficios-tras-emergencia-climatica/",
+    "titulo": "En el Día del Perro: una buena salud digestiva también es clave para quienes cambian vidas, como los perros guía",
+    "enlace": "https://g5noticias.cl/2026/07/21/en-el-dia-del-perro-una-buena-salud-digestiva-tambien-es-clave-para-quienes-cambian-vidas-como-los-perros-guia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Biministro Louis de Grange: “No dejaremos de trabajar hasta recuperar la conectividad en las regiones de Atacama y Coquimbo”",
-    "enlace": "https://g5noticias.cl/2026/07/21/biministro-louis-de-grange-no-dejaremos-de-trabajar-hasta-recuperar-la-conectividad-en-las-regiones-de-atacama-y-coquimbo/",
+    "titulo": "La Cruz avanza en la reposición del suministro eléctrico en los sectores afectados por la emergencia",
+    "enlace": "https://g5noticias.cl/2026/07/21/la-cruz-avanza-en-la-reposicion-del-suministro-electrico-en-los-sectores-afectados-por-la-emergencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremi de Justicia lideró mesa intersectorial para mujeres embarazadas y lactante privadas de libertad en Concepción",
-    "enlace": "https://g5noticias.cl/2026/07/21/seremi-de-justicia-lidero-mesa-intersectorial-para-mujeres-embarazadas-y-lactante-privadas-de-libertad-en-concepcion/",
+    "titulo": "Alianza por del Desarrollo establece marco de colaboración para ayudar a personas afectadas por el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/21/alianza-por-del-desarrollo-establece-marco-de-colaboracion-para-ayudar-a-personas-afectadas-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sistema frontal en Chile: siete medidas que pueden marcar la diferencia durante un corte de luz o una inundación",
-    "enlace": "https://g5noticias.cl/2026/07/21/sistema-frontal-en-chile-siete-medidas-que-pueden-marcar-la-diferencia-durante-un-corte-de-luz-o-una-inundacion/",
+    "titulo": "Defensoría del Contribuyente logra acuerdo con el SII para simplificar el inicio de actividades de emprendedores",
+    "enlace": "https://g5noticias.cl/2026/07/21/defensoria-del-contribuyente-logra-acuerdo-con-el-sii-para-simplificar-el-inicio-de-actividades-de-emprendedores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En medio del temporal: la leche materna es el alimento más seguro. Por Jonathan Vásquez Matrón, académico de Vinculación con el Medio, Carrera de Medicina, Universidad San Sebastián",
-    "enlace": "https://g5noticias.cl/2026/07/21/en-medio-del-temporal-la-leche-materna-es-el-alimento-mas-seguro-por-jonathan-vasquez-matron-academico-de-vinculacion-con-el-medio-carrera-de-medicina-universidad-san-sebastian/",
+    "titulo": "Carabineros rescata a seis personas atrapadas por la crecida del río en el sector Canto del Agua",
+    "enlace": "https://g5noticias.cl/2026/07/21/carabineros-rescata-a-seis-personas-atrapadas-por-la-crecida-del-rio-en-el-sector-canto-del-agua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Valentina Palavecino, la fotógrafa detrás de las imágenes más íntimas de Mon Laferte y Gabriel Boric, presenta su fotolibro «Cámara Lenta» en Casa Espacio",
-    "enlace": "https://g5noticias.cl/2026/07/21/valentina-palavecino-la-fotografa-detras-de-las-imagenes-mas-intimas-de-mon-laferte-y-gabriel-boric-presenta-su-fotolibro-camara-lenta-en-casa-espacio/",
+    "titulo": "Nunca lo dejaron solo: carabineros rescatan a perro herido en medio de la emergencia en el río Limarí",
+    "enlace": "https://g5noticias.cl/2026/07/21/nunca-lo-dejaron-solo-carabineros-rescatan-a-perro-herido-en-medio-de-la-emergencia-en-el-rio-limari/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDI Quilpué detiene a condenado por parricidio que permanecía prófugo de la justicia",
-    "enlace": "https://g5noticias.cl/2026/07/21/pdi-quilpue-detiene-a-condenado-por-parricidio-que-permanecia-profugo-de-la-justicia/",
+    "titulo": "COGRID de Emergencia refuerza despliegue en terreno y coordinación de las medidas de emergencia en la Región de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/07/21/cogrid-de-emergencia-refuerza-despliegue-en-terreno-y-coordinacion-de-las-medidas-de-emergencia-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Anticipan nuevo sistema frontal para el inicio de la próxima semana",
-    "enlace": "https://g5noticias.cl/2026/07/21/anticipan-nuevo-sistema-frontal-para-el-inicio-de-la-proxima-semana/",
+    "titulo": "Diputado Venegas exige suspender las clases durante el resto de la semana en la Región de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/07/21/diputado-venegas-exige-suspender-las-clases-durante-el-resto-de-la-semana-en-la-region-de-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
