@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Iglesia en La Serena lleva esperanza a comunidades afectadas por el sistema frontal",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/23/iglesia-en-la-serena-lleva-esperanza-a-comunidades-afectadas-por-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Decretan tres días de duelo comunal por fallecidos en La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/23/decretan-tres-dias-de-duelo-comunal-por-fallecidos-en-la-serena/",
     "descripcion": "",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Coquimbo, Canela, Los Vilos, La Higuera, La Serena, Paihuano, Monte Patria, Punitaqui, Río Hurtado con beneficio del SII por IVA",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/21/coquimbo-canela-los-vilos-la-higuera-la-serena-paihuano-monte-patria-punitaqui-rio-hurtado-con-beneficio-del-sii-por-iva/",
+    "titulo": "Por contingencia climática: se extiende la inscripción a la PAES Regular 2026",
+    "enlace": "https://laserenaonline.cl/2026/07/23/por-contingencia-climatica-se-extiende-la-inscripcion-a-la-paes-regular-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Más de 32 mil vacunas llegaron a la Región para fortalecer la respuesta sanitaria tras la emergencia",
+    "enlace": "https://laserenaonline.cl/2026/07/23/mas-de-32-mil-vacunas-llegaron-a-la-region-para-fortalecer-la-respuesta-sanitaria-tras-la-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "La Serena: Fiscalía formalizó investigación por robo tentado ocurrido post lluvias a 4 sujetos detenidos por Carabineros",
     "enlace": "https://laserenaonline.cl/2026/07/23/la-serena-fiscalia-formalizo-investigacion-por-robo-tentado-ocurrido-post-lluvias-a-4-sujetos-detenidos-por-carabineros/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Región de Coquimbo: Fiscalía instruyó varias diligencias por el hallazgo de cuerpos tras Sistema Frontal",
-    "enlace": "https://laserenaonline.cl/2026/07/23/region-de-coquimbo-fiscalia-instruyo-varias-diligencias-por-el-hallazgo-de-cuerpos-tras-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 23 de julio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/23/el-tiempo-hoy-23-de-julio-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Entregan balance de emergencia por lluvias y se destaca despliegue municipal en sectores rurales de Salamanca",
+    "enlace": "https://www.elsalamanquino.cl/2026/07/23/entregan-balance-de-emergencia-por-lluvias-y-se-destaca-despliegue-municipal-en-sectores-rurales-de-salamanca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Minera Los Pelambres mantiene resguardo de personas, instalaciones y apoyo a comunidades ante sistema frontal",
     "enlace": "https://www.elsalamanquino.cl/2026/07/22/minera-los-pelambres-mantiene-resguardo-de-personas-instalaciones-y-apoyo-a-comunidades-ante-sistema-frontal/",
     "descripcion": "",
@@ -999,13 +1008,13 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "En Salamanca se suspenderá por 4 días la recolección de basura por intensas lluvias",
-    "enlace": "https://www.elsalamanquino.cl/2026/07/15/en-salamanca-se-suspendera-por-4-dias-la-recoleccion-de-basura-por-intensas-lluvias/",
+    "titulo": "FEPEMACH hace llamado a apoyar a caletas pesqueras que están aisladas en la Región de Coquimbo",
+    "enlace": "https://www.davidnoticias.cl/fepemach-hace-llamado-a-apoyar-a-caletas-pesqueras-que-estan-aisladas-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Cámara de Diputados aprueba en general proyecto que regula las “deepfakes” creadas con inteligencia artificial",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Cinco días sin electricidad: desesperado llamado de vecinos de Atelcura exige respuesta urgente de CGE y las autoridades",
     "enlace": "https://www.davidnoticias.cl/cinco-dias-sin-electricidad-desesperado-llamado-de-vecinos-de-atelcura-exige-respuesta-urgente-de-cge-y-las-autoridades/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Incidente en sistema de drenaje del tranque El Mauro obliga a no consumir agua en la población",
-    "enlace": "https://www.davidnoticias.cl/incidente-en-sistema-de-drenaje-del-tranque-el-mauro-obliga-a-no-consumir-agua-en-la-poblacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,6 +1458,42 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "De la Fuente por reacción de argentinos en la final: «Es algo intolerable, no se puede permitir»",
+    "enlace": "https://www.maray.cl/deportes/23/07/2026/de-la-fuente-por-reaccion-de-argentinos-en-la-final-es-algo-intolerable-no-se-puede-permitir/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Trump evalúa un ataque de mayor escala contra Irán y Teherán amenaza al Reino Unido",
+    "enlace": "https://www.maray.cl/internacional/23/07/2026/trump-evalua-un-ataque-de-mayor-escala-contra-iran-y-teheran-amenaza-al-reino-unido/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Prisión preventiva para «El Panda», acusado de balear a dos carabineros en Lo Espejo",
+    "enlace": "https://www.maray.cl/pais/23/07/2026/prision-preventiva-para-el-panda-acusado-de-balear-a-dos-carabineros-en-lo-espejo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Postergación de dividendos y créditos: BancoEstado anuncia apoyos para clientes afectados por temporal",
+    "enlace": "https://www.maray.cl/pais/23/07/2026/postergacion-de-dividendos-y-creditos-bancoestado-anuncia-apoyos-para-clientes-afectados-por-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Justicia rebaja arresto domiciliario de Manuel Monsalve a régimen nocturno",
     "enlace": "https://www.maray.cl/pais/23/07/2026/justicia-rebaja-arresto-domiciliario-de-manuel-monsalve-a-regimen-nocturno/",
     "descripcion": "",
@@ -1505,42 +1541,6 @@
   {
     "titulo": "Cámara de Diputados aprueba el primer proyecto de ley minero del gobierno del Presidente Kast",
     "enlace": "https://www.maray.cl/podcast-de-noticias/23/07/2026/camara-de-diputados-aprueba-el-primer-proyecto-de-ley-minero-del-gobierno-del-presidente-kast-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno amplía Estado de Catástrofe a Tierra Amarilla por estragos en rutas tras sistema frontal",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/23/07/2026/gobierno-amplia-estado-de-catastrofe-a-tierra-amarilla-por-estragos-en-rutas-tras-sistema-frontal-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Trabajador fue arrastrado por el rio perdiendo la vida en Tierra amarilla",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/23/07/2026/trabajador-fue-arrastrado-por-el-rio-perdiendo-la-vida-en-tierra-amarilla/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Atacama: Tras récord de lluvias, ahora se espera ola de calor de hasta 31°",
-    "enlace": "https://www.maray.cl/atacama/23/07/2026/atacama-tras-record-de-lluvias-ahora-se-espera-ola-de-calor-de-hasta-31/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Fisco deberá indemnizar con $35 millones a mujer que pasó siete meses en prisión por falso positivo de cocaína",
-    "enlace": "https://www.maray.cl/pais/23/07/2026/fisco-debera-indemnizar-con-35-millones-a-mujer-que-paso-siete-meses-en-prision-por-falso-positivo-de-cocaina/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 30 camiones de Bomberos reforzarán la distribución de agua en la Región de Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/07/23/mas-de-30-camiones-de-bomberos-reforzaran-la-distribucion-de-agua-en-la-region-de-coquimbo/",
+    "titulo": "Senadora Provoste se reúne con Ministro de Hacienda y logra compromiso de recursos para el Plan de Reconstrucción de Atacama",
+    "enlace": "https://g5noticias.cl/2026/07/23/senadora-provoste-se-reune-con-ministro-de-hacienda-y-logra-compromiso-de-recursos-para-el-plan-de-reconstruccion-de-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Por amplia mayoría, el Congreso despacha a Ley proyecto “Ordenemos la Cuenta”",
-    "enlace": "https://g5noticias.cl/2026/07/23/por-amplia-mayoria-el-congreso-despacha-a-ley-proyecto-ordenemos-la-cuenta/",
+    "titulo": "Izko Alonso, el pequeño piloto chileno que le escribió una carta a Ayrton Senna y se la leyó en Sao Paulo",
+    "enlace": "https://g5noticias.cl/2026/07/23/izko-alonso-el-pequeno-piloto-chileno-que-le-escribio-una-carta-a-ayrton-senna-y-se-la-leyo-en-sao-paulo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros de la Sección Centauro detuvo a conductor de vehículo con encargo por robo en Talca",
-    "enlace": "https://g5noticias.cl/2026/07/23/carabineros-de-la-seccion-centauro-detuvo-a-conductor-de-vehiculo-con-encargo-por-robo-en-talca/",
+    "titulo": "Programa Cuidados y Empleo inició módulos de Enfermería para estudiantes de Quillota",
+    "enlace": "https://g5noticias.cl/2026/07/23/programa-cuidados-y-empleo-inicio-modulos-de-enfermeria-para-estudiantes-de-quillota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Urgencias laborales y ambientales: expertos analizarán cómo actuar durante los primeros minutos",
-    "enlace": "https://g5noticias.cl/2026/07/23/urgencias-laborales-y-ambientales-expertos-analizaran-como-actuar-durante-los-primeros-minutos/",
+    "titulo": "Lluvias mejoran balance hídrico, pero déficit de nieve continúa preocupando en la Región de Ñuble",
+    "enlace": "https://g5noticias.cl/2026/07/23/lluvias-mejoran-balance-hidrico-pero-deficit-de-nieve-continua-preocupando-en-la-region-de-nuble/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Proyecto Itahue–Hualqui avanza en Ñuble y consolida obras clave para fortalecer la transmisión eléctrica en la región",
-    "enlace": "https://g5noticias.cl/2026/07/23/proyecto-itahue-hualqui-avanza-en-nuble-y-consolida-obras-clave-para-fortalecer-la-transmision-electrica-en-la-region/",
+    "titulo": "“Levantemos Chile de once a once”: Desafío Levantemos Chile y Once Stream se unen en transmisión solidaria para ayudar a los afectados del sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/23/levantemos-chile-de-once-a-once-desafio-levantemos-chile-y-once-stream-se-unen-en-transmision-solidaria-para-ayudar-a-los-afectados-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "TOP de Rancagua condena a autor de captación y divulgación de imágenes privadas y amenazas",
-    "enlace": "https://g5noticias.cl/2026/07/23/top-de-rancagua-condena-a-autor-de-captacion-y-divulgacion-de-imagenes-privadas-y-amenazas/",
+    "titulo": "Movistar Chile activa nuevas medidas en la Región de Coquimbo para mantener las comunicaciones durante la emergencia climática",
+    "enlace": "https://g5noticias.cl/2026/07/23/movistar-chile-activa-nuevas-medidas-en-la-region-de-coquimbo-para-mantener-las-comunicaciones-durante-la-emergencia-climatica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Museo Universitario del Grabado UPLA albergará lanzamiento del libro “Ilusión Óptica”",
-    "enlace": "https://g5noticias.cl/2026/07/23/museo-universitario-del-grabado-upla-albergara-lanzamiento-del-libro-ilusion-optica/",
+    "titulo": "Hospital Dr. Gustavo Fricke fortalece la formación médica para futura Unidad de Diálisis del Hospital de La Ligua",
+    "enlace": "https://g5noticias.cl/2026/07/23/hospital-dr-gustavo-fricke-fortalece-la-formacion-medica-para-futura-unidad-de-dialisis-del-hospital-de-la-ligua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Recuperan especies y detienen a individuos tras robo en Pichingal",
-    "enlace": "https://g5noticias.cl/2026/07/23/recuperan-especies-y-detienen-a-individuos-tras-robo-en-pichingal/",
+    "titulo": "Diputado Santana denuncia a minera Pascua Lama por abandono de trabajadores en la alta cordillera",
+    "enlace": "https://g5noticias.cl/2026/07/23/diputado-santana-denuncia-a-minera-pascua-lama-por-abandono-de-trabajadores-en-la-alta-cordillera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bruno Betancor, ex jugador uruguayo de Everton de Viña del Mar, fallece a los 22 años por un paro cardiorrespiratorio",
-    "enlace": "https://g5noticias.cl/2026/07/23/bruno-betancor-ex-jugador-uruguayo-de-everton-de-vina-del-mar-fallece-a-los-22-anos-por-un-paro-cardiorrespiratorio/",
+    "titulo": "Diputado Erich Grohs pide a Aguas del Valle coordinar medidas de seguridad para estanques en La Serena",
+    "enlace": "https://g5noticias.cl/2026/07/23/diputado-erich-grohs-pide-a-aguas-del-valle-coordinar-medidas-de-seguridad-para-estanques-en-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Canciller Pérez Mackenna visita el puerto de Singapur y destaca que tener puertos eficientes es fundamental para el esfuerzo exportador",
-    "enlace": "https://g5noticias.cl/2026/07/23/canciller-perez-mackenna-visita-el-puerto-de-singapur-y-destaca-que-tener-puertos-eficientes-es-fundamental-para-el-esfuerzo-exportador/",
+    "titulo": "Estudiantes de la UAI iniciaron los Trabajos de Invierno 2026 apoyando a familias afectadas por el temporal en Quillota",
+    "enlace": "https://g5noticias.cl/2026/07/23/estudiantes-de-la-uai-iniciaron-los-trabajos-de-invierno-2026-apoyando-a-familias-afectadas-por-el-temporal-en-quillota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
