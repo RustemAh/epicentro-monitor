@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "BancoEstado activa plan de apoyo tras las lluvias en la región de Coquimbo: Contempla postergación de créditos y alivio financiero",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/23/bancoestado-activa-plan-de-apoyo-tras-las-lluvias-en-la-region-de-coquimbo-contempla-postergacion-de-creditos-y-alivio-financiero/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Motel de Coquimbo abrió sus puertas para entregar agua y duchas gratuitas a vecinos afectados por corte del suministro",
     "enlace": "https://www.elcoquimbano.cl/2026/07/23/motel-de-coquimbo-abrio-sus-puertas-para-entregar-agua-y-duchas-gratuitas-a-vecinos-afectados-por-corte-del-suministro/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Fonasa mantiene cerradas todas sus sucursales en la Región de Coquimbo y refuerza atención en línea",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/21/fonasa-mantiene-cerradas-todas-sus-sucursales-en-la-region-de-coquimbo-y-refuerza-atencion-en-linea/",
+    "titulo": "¿Las lluvias dañaron su edificio? Cinco recomendaciones para detectar posibles daños",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/07/23/las-lluvias-danaron-su-edificio-cinco-recomendaciones-para-detectar-posibles-danos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Iglesia en La Serena lleva esperanza a comunidades afectadas por el sistema frontal",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Ministra de Ciencia entrega cinco antenas Starlink a La Serena para reforzar las labores de rescate en zonas aisladas",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/21/ministra-de-ciencia-entrega-cinco-antenas-starlink-a-la-serena-para-reforzar-las-labores-de-rescate-en-zonas-aisladas/",
+    "titulo": "Funcionarios del Hospital de La Serena responden con donaciones de sangre ante stock crítico en medio del sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/23/funcionarios-del-hospital-de-la-serena-responden-con-donaciones-de-sangre-ante-stock-critico-en-medio-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Decretan tres días de duelo en La Serena por fallecidos tras temporal",
     "enlace": "https://laserenaonline.cl/2026/07/23/decretan-tres-dias-de-duelo-en-la-serena-por-fallecidos-tras-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Fiscalía formalizó investigación por robo tentado ocurrido post lluvias a 4 sujetos detenidos por Carabineros",
-    "enlace": "https://laserenaonline.cl/2026/07/23/la-serena-fiscalia-formalizo-investigacion-por-robo-tentado-ocurrido-post-lluvias-a-4-sujetos-detenidos-por-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Seremi del Trabajo recuerda derechos laborales de voluntarios de Bomberos en el contexto de la emergencia regional",
+    "enlace": "https://regiondecoquimbo.cl/2026/07/23/seremi-del-trabajo-recuerda-derechos-laborales-de-voluntarios-de-bomberos-en-el-contexto-de-la-emergencia-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Más de 30 camiones de Bomberos reforzarán la distribución de agua en la Región de Coquimbo",
     "enlace": "https://regiondecoquimbo.cl/2026/07/23/mas-de-30-camiones-de-bomberos-reforzaran-la-distribucion-de-agua-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Autoridades refuerzan medidas preventivas en quebradas de Vicuña ante sistema frontal",
     "enlace": "https://regiondecoquimbo.cl/2026/07/15/autoridades-refuerzan-medidas-preventivas-en-quebradas-de-vicuna-ante-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno refuerza despliegue preventivo en Paihuano ante sistema frontal",
-    "enlace": "https://regiondecoquimbo.cl/2026/07/15/gobierno-refuerza-despliegue-preventivo-en-paihuano-ante-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Andacollo mantiene operativo plan de reposición de agua potable y suministro eléctrico tras sistema frontal",
+    "enlace": "https://www.elandacollino.cl/2026/07/23/andacollo-mantiene-operativo-plan-de-reposicion-de-agua-potable-y-suministro-electrico-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Basílica de Andacollo sólo tuvo pérdida menor de vidrios tras el temporal y fuerte viento según balance",
     "enlace": "https://www.elandacollino.cl/2026/07/22/basilica-de-andacollo-solo-tuvo-perdida-menor-de-vidrios-tras-el-temporal-y-fuerte-viento-segun-balance/",
     "descripcion": "",
@@ -1179,12 +1188,12 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Trabajo conjunto permitió llevar energía y tranquilidad a vecinos electrodependientes de Chepiquilla",
-    "enlace": "https://www.elandacollino.cl/2026/07/18/trabajo-conjunto-permitio-llevar-energia-y-tranquilidad-a-vecinos-electrodependientes-de-chepiquilla/",
+    "titulo": "Movistar Chile activa nuevas medidas en Paihuano para mantener las comunicaciones durante la emergencia climática",
+    "enlace": "https://www.elpaihuanino.cl/2026/07/23/movistar-chile-activa-nuevas-medidas-en-paihuano-para-mantener-las-comunicaciones-durante-la-emergencia-climatica/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
@@ -1269,13 +1278,13 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Se hicieron pasar por trabajadores: tres detenidos por Carabineros por robo de cables en Paihuano",
-    "enlace": "https://www.elpaihuanino.cl/2026/07/15/se-hicieron-pasar-por-trabajadores-tres-detenidos-por-carabineros-por-robo-de-cables-en-paihuano/",
+    "titulo": "Tribunal admite querella del Partido Socialista por presunta usurpación de inmueble en Copiapó",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/23/tribunal-admite-querella-del-partido-socialista-por-presunta-usurpacion-de-inmueble-en-copiapo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "Copiapó: Solenor comienza a operar nueva planta de residuos mineros",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Municipalidad de Tierra Amarilla y Rescate Atacama logran encontrar sanos y salvos a 10 personas atrapadas en Cerro Blanco",
     "enlace": "https://www.atacamanoticias.cl/2026/07/22/municipalidad-de-tierra-amarilla-y-rescate-atacama-logran-encontrar-sanos-y-salvos-a-10-personas-atrapadas-en-cerro-blanco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Junaeb ha entregado más de 5.000 raciones de alimentación en albergues de la región de Atacama",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/22/junaeb-ha-entregado-mas-de-5-000-raciones-de-alimentacion-en-albergues-de-la-region-de-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,78 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Gobierno y CGE sobrevuelan y entregan de combustible para atención de pacientes electrodependientes en Carrizalillo y Caleta Chañaral de Aceituno",
+    "enlace": "https://www.maray.cl/atacama/23/07/2026/gobierno-y-cge-sobrevuelan-y-entregan-de-combustible-para-atencion-de-pacientes-electrodependientes-en-carrizalillo-y-caleta-chanaral-de-aceituno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Corte de rutas dispara precio del tomate y expertos advierten mayor presión sobre la inflación",
+    "enlace": "https://www.maray.cl/pais/23/07/2026/corte-de-rutas-dispara-precio-del-tomate-y-expertos-advierten-mayor-presion-sobre-la-inflacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal",
+    "enlace": "https://www.maray.cl/atacama/23/07/2026/seremi-del-medio-ambiente-de-atacama-entrega-instrucciones-para-el-manejo-sanitario-de-residuos-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Vallenar: Fiscalía formalizó delito de homicidio  frustrado y detenido cumplirá prisión preventiva",
+    "enlace": "https://www.maray.cl/atacama/23/07/2026/vallenar-fiscalia-formalizo-delito-de-homicidio-frustrado-y-detenido-cumplira-prision-preventiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "«Ordenemos la Cuenta»: Congreso despachó a ley proyecto que frena alzas de la luz",
+    "enlace": "https://www.maray.cl/pais/23/07/2026/ordenemos-la-cuenta-congreso-despacho-a-ley-proyecto-que-frena-alzas-de-la-luz/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Un convoy de 14 camiones aljibe llega a Huasco y Freirina para reforzar el suministro de agua potable",
+    "enlace": "https://www.maray.cl/atacama/23/07/2026/un-convoy-de-14-camiones-aljibe-llega-a-huasco-y-freirina-para-reforzar-el-suministro-de-agua-potable/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno busca amortiguar alza de los combustibles ante escalada del precio del petróleo",
+    "enlace": "https://www.maray.cl/pais/23/07/2026/gobierno-busca-amortiguar-alza-de-los-combustibles-ante-escalada-del-precio-del-petroleo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Cae sujeto con amplio prontuario tras asaltar a una adulta mayor en pleno centro de Chañaral",
+    "enlace": "https://www.maray.cl/atacama/23/07/2026/cae-sujeto-con-amplio-prontuario-tras-asaltar-a-una-adulta-mayor-en-pleno-centro-de-chanaral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "De la Fuente por reacción de argentinos en la final: «Es algo intolerable, no se puede permitir»",
     "enlace": "https://www.maray.cl/deportes/23/07/2026/de-la-fuente-por-reaccion-de-argentinos-en-la-final-es-algo-intolerable-no-se-puede-permitir/",
     "descripcion": "",
@@ -1476,76 +1548,22 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Prisión preventiva para «El Panda», acusado de balear a dos carabineros en Lo Espejo",
-    "enlace": "https://www.maray.cl/pais/23/07/2026/prision-preventiva-para-el-panda-acusado-de-balear-a-dos-carabineros-en-lo-espejo/",
+    "titulo": "Nuevo camión limpiafosas reforzará la atención de familias sin alcantarillado en Petorca",
+    "enlace": "https://laliguanoticias.cl/2026/07/23/nuevo-camion-limpiafosas-reforzara-la-atencion-de-familias-sin-alcantarillado-en-petorca/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Postergación de dividendos y créditos: BancoEstado anuncia apoyos para clientes afectados por temporal",
-    "enlace": "https://www.maray.cl/pais/23/07/2026/postergacion-de-dividendos-y-creditos-bancoestado-anuncia-apoyos-para-clientes-afectados-por-temporal/",
+    "titulo": "Crisis en Valle Hermoso: Diputado Mella apunta a Minera Las Cenizas, CGE y el MOP por emergencia que afecta el agua potable",
+    "enlace": "https://laliguanoticias.cl/2026/07/23/crisis-en-valle-hermoso-diputado-mella-apunta-a-minera-las-cenizas-cge-y-el-mop-por-emergencia-que-afecta-el-agua-potable/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Justicia rebaja arresto domiciliario de Manuel Monsalve a régimen nocturno",
-    "enlace": "https://www.maray.cl/pais/23/07/2026/justicia-rebaja-arresto-domiciliario-de-manuel-monsalve-a-regimen-nocturno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Frustran intento de ingreso de elementos prohibidos a cárcel de Copiapó tras lanzamientos desde el exterior",
-    "enlace": "https://www.maray.cl/atacama/23/07/2026/frustran-intento-de-ingreso-de-elementos-prohibidos-a-carcel-de-copiapo-tras-lanzamientos-desde-el-exterior/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cardenal Chomali: «En vez de mostrarle el latido a una mujer, sería bueno que lo escuchara el médico»",
-    "enlace": "https://www.maray.cl/pais/23/07/2026/cardenal-chomali-en-vez-de-mostrarle-el-latido-a-una-mujer-seria-bueno-que-lo-escuchara-el-medico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Trabajadores aislados en Alto del Carmen: Municipio y empresa difieren en condiciones que se encuentran",
-    "enlace": "https://www.maray.cl/atacama/23/07/2026/trabajadores-aislados-en-alto-del-carmen-municipio-y-empresa-difieren-en-condiciones-que-se-encuentran/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Seremi MOP Atacama | «Tener conectividad es para nosotros de n nivel de prioridad muy alto»",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/23/07/2026/seremi-mop-atacama-tener-conectividad-es-para-nosotros-de-n-nivel-de-prioridad-muy-alto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cámara de Diputados aprueba el primer proyecto de ley minero del gobierno del Presidente Kast",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/23/07/2026/camara-de-diputados-aprueba-el-primer-proyecto-de-ley-minero-del-gobierno-del-presidente-kast-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "Declaran a la Región de Valparaíso como Zona Afectada por Catástrofe tras el sistema frontal",
@@ -1620,22 +1638,31 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Incendio destruyó tres viviendas en Bellavista y deja a diez personas damnificadas en Cabildo",
-    "enlace": "https://laliguanoticias.cl/2026/07/12/incendio-destruyo-tres-viviendas-en-bellavista-y-deja-a-diez-personas-damnificadas-en-cabildo/",
+    "titulo": "[OPINIÓN] La naturaleza, única detenida por los desastres (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/07/23/opinion-la-naturaleza-unica-detenida-por-los-desastres-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-la-naturaleza-unica-detenida-por-los-desastres-jorge-bustos",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cámara de Diputados aprueba admisibilidad de proyecto que crea el “Registro de Vándalos para delincuentes de Cuello y Corbata” impulsado por el diputado Cristian Mella",
-    "enlace": "https://laliguanoticias.cl/2026/07/10/camara-de-diputados-aprueba-admisibilidad-de-proyecto-que-crea-el-registro-de-vandalos-para-delincuentes-de-cuello-y-corbata-impulsado-por-el-diputado-cristian-mella/",
+    "titulo": "[OPINIÓN] De los dioses patriarcales de las grandes civilizaciones a la razón masculina moderna (Andrés Kogan Valderrama)",
+    "enlace": "https://diariolaquinta.cl/2026/07/23/opinion-de-los-dioses-patriarcales-de-las-grandes-civilizaciones-a-la-razon-masculina-moderna-andres-kogan-valderrama/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-de-los-dioses-patriarcales-de-las-grandes-civilizaciones-a-la-razon-masculina-moderna-andres-kogan-valderrama",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "En Patio Sócrates de Valparaíso se realizará taller de prácticas performativas para mujeres y disidencias",
+    "enlace": "https://diariolaquinta.cl/2026/07/23/en-patio-socrates-de-valparaiso-se-realizara-taller-de-practicas-performativas-para-mujeres-y-disidencias/?utm_source=rss&utm_medium=rss&utm_campaign=en-patio-socrates-de-valparaiso-se-realizara-taller-de-practicas-performativas-para-mujeres-y-disidencias",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
     "titulo": "[NOTIFICACIÓN] Tribunal de Familia de Villa Alemana: Alimentos Cesación RIT C-1146-2025 «Sotelo / Oyarzo»",
@@ -1701,35 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Primer Juzgado de Letras de Los Andes: Posesión efectiva ROL V-32-2026 «Peppi / Peppi»",
-    "enlace": "https://diariolaquinta.cl/2026/07/22/notificacion-primer-juzgado-de-letras-de-los-andes-posesion-efectiva-rol-v-32-2026-peppi-peppi/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-primer-juzgado-de-letras-de-los-andes-posesion-efectiva-rol-v-32-2026-peppi-peppi",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Isla de Pascua: Reconstitución de inscripción de sociedad «Comercializadora Pou Va’e Tea SpA»",
-    "enlace": "https://diariolaquinta.cl/2026/07/22/notificacion-isla-de-pascua-reconstitucion-de-inscripcion-de-sociedad-comercializadora-pou-vae-tea-spa/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-isla-de-pascua-reconstitucion-de-inscripcion-de-sociedad-comercializadora-pou-vae-tea-spa",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Alimentos Aumento RIT C-119-2026 «Pereda / Iriarte»",
-    "enlace": "https://diariolaquinta.cl/2026/07/22/notificacion-tribunal-de-familia-de-san-antonio-alimentos-aumento-rit-c-119-2026-pereda-iriarte/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-alimentos-aumento-rit-c-119-2026-pereda-iriarte",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Senadora Provoste se reúne con Ministro de Hacienda y logra compromiso de recursos para el Plan de Reconstrucción de Atacama",
-    "enlace": "https://g5noticias.cl/2026/07/23/senadora-provoste-se-reune-con-ministro-de-hacienda-y-logra-compromiso-de-recursos-para-el-plan-de-reconstruccion-de-atacama/",
+    "titulo": "Karina Gómez Gálvez será la nueva gerente general de Fondo Esperanza",
+    "enlace": "https://g5noticias.cl/2026/07/23/karina-gomez-galvez-sera-la-nueva-gerente-general-de-fondo-esperanza/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Izko Alonso, el pequeño piloto chileno que le escribió una carta a Ayrton Senna y se la leyó en Sao Paulo",
-    "enlace": "https://g5noticias.cl/2026/07/23/izko-alonso-el-pequeno-piloto-chileno-que-le-escribio-una-carta-a-ayrton-senna-y-se-la-leyo-en-sao-paulo/",
+    "titulo": "«Cerro de Sabores» abre sus puertas de manera gratuita",
+    "enlace": "https://g5noticias.cl/2026/07/23/cerro-de-sabores-abre-sus-puertas-de-manera-gratuita/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Programa Cuidados y Empleo inició módulos de Enfermería para estudiantes de Quillota",
-    "enlace": "https://g5noticias.cl/2026/07/23/programa-cuidados-y-empleo-inicio-modulos-de-enfermeria-para-estudiantes-de-quillota/",
+    "titulo": "Colegio Roberto Matta celebró 136 años consolidando su legado en la educación pública de Quillota",
+    "enlace": "https://g5noticias.cl/2026/07/23/colegio-roberto-matta-celebro-136-anos-consolidando-su-legado-en-la-educacion-publica-de-quillota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Lluvias mejoran balance hídrico, pero déficit de nieve continúa preocupando en la Región de Ñuble",
-    "enlace": "https://g5noticias.cl/2026/07/23/lluvias-mejoran-balance-hidrico-pero-deficit-de-nieve-continua-preocupando-en-la-region-de-nuble/",
+    "titulo": "“Cuento del tío”: Fiscalía formalizó a imputados que engañaron a adulta mayor con supuesto boleto premiado",
+    "enlace": "https://g5noticias.cl/2026/07/23/cuento-del-tio-fiscalia-formalizo-a-imputados-que-enganaron-a-adulta-mayor-con-supuesto-boleto-premiado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "“Levantemos Chile de once a once”: Desafío Levantemos Chile y Once Stream se unen en transmisión solidaria para ayudar a los afectados del sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/23/levantemos-chile-de-once-a-once-desafio-levantemos-chile-y-once-stream-se-unen-en-transmision-solidaria-para-ayudar-a-los-afectados-del-sistema-frontal/",
+    "titulo": "Subaru All New Outback: la séptima generación del ícono aventurero inicia una nueva era en Sudamérica",
+    "enlace": "https://g5noticias.cl/2026/07/23/subaru-all-new-outback-la-septima-generacion-del-icono-aventurero-inicia-una-nueva-era-en-sudamerica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Movistar Chile activa nuevas medidas en la Región de Coquimbo para mantener las comunicaciones durante la emergencia climática",
-    "enlace": "https://g5noticias.cl/2026/07/23/movistar-chile-activa-nuevas-medidas-en-la-region-de-coquimbo-para-mantener-las-comunicaciones-durante-la-emergencia-climatica/",
+    "titulo": "¿Qué queda luego de las declaraciones de Mara Sedini? Por Jorge Astudillo, investigador y académico de Derecho, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/07/23/que-queda-luego-de-las-declaraciones-de-mara-sedini-por-jorge-astudillo-investigador-y-academico-de-derecho-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hospital Dr. Gustavo Fricke fortalece la formación médica para futura Unidad de Diálisis del Hospital de La Ligua",
-    "enlace": "https://g5noticias.cl/2026/07/23/hospital-dr-gustavo-fricke-fortalece-la-formacion-medica-para-futura-unidad-de-dialisis-del-hospital-de-la-ligua/",
+    "titulo": "Chile cuenta con el organismo electoral mejor evaluado de América Latina",
+    "enlace": "https://g5noticias.cl/2026/07/23/chile-cuenta-con-el-organismo-electoral-mejor-evaluado-de-america-latina/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Santana denuncia a minera Pascua Lama por abandono de trabajadores en la alta cordillera",
-    "enlace": "https://g5noticias.cl/2026/07/23/diputado-santana-denuncia-a-minera-pascua-lama-por-abandono-de-trabajadores-en-la-alta-cordillera/",
+    "titulo": "Fiscalía obtiene prisión preventiva para imputado que intentó matar a un hombre e hirió a otro en Quillón",
+    "enlace": "https://g5noticias.cl/2026/07/23/fiscalia-obtiene-prision-preventiva-para-imputado-que-intento-matar-a-un-hombre-e-hirio-a-otro-en-quillon/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Erich Grohs pide a Aguas del Valle coordinar medidas de seguridad para estanques en La Serena",
-    "enlace": "https://g5noticias.cl/2026/07/23/diputado-erich-grohs-pide-a-aguas-del-valle-coordinar-medidas-de-seguridad-para-estanques-en-la-serena/",
+    "titulo": "¿Cómo impacta el sistema frontal en el bolsillo de las familias chilenas?",
+    "enlace": "https://g5noticias.cl/2026/07/23/como-impacta-el-sistema-frontal-en-el-bolsillo-de-las-familias-chilenas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Estudiantes de la UAI iniciaron los Trabajos de Invierno 2026 apoyando a familias afectadas por el temporal en Quillota",
-    "enlace": "https://g5noticias.cl/2026/07/23/estudiantes-de-la-uai-iniciaron-los-trabajos-de-invierno-2026-apoyando-a-familias-afectadas-por-el-temporal-en-quillota/",
+    "titulo": "Municipio de Villa Alemana aplicará test de drogas a autoridades mediante examen de orina el 31 de julio",
+    "enlace": "https://g5noticias.cl/2026/07/23/municipio-de-villa-alemana-aplicara-test-de-drogas-a-autoridades-mediante-examen-de-orina-el-31-de-julio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
