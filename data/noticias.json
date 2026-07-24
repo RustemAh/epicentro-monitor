@@ -270,6 +270,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "La Serena. Don Luis necesita ayuda para alimentar a sus animales. Así quedó el entorno donde vive",
+    "enlace": "https://serenaycoquimbo.cl/la-serena-don-luis-necesita-ayuda-para-alimentar-a-sus-animales-asi-quedo-el-entorno-donde-vive/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-don-luis-necesita-ayuda-para-alimentar-a-sus-animales-asi-quedo-el-entorno-donde-vive",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Región Coquimbo. Han aumentado en intensidad los chubascos. Conozca el agua caída hasta las 22 horas",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-han-aumentado-en-intensidad-los-chubascos-conozca-el-agua-caida-hasta-las-22-horas/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-han-aumentado-en-intensidad-los-chubascos-conozca-el-agua-caida-hasta-las-22-horas",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Nacional. Hallan sin vida a 2 personas al interior de una vivienda",
     "enlace": "https://serenaycoquimbo.cl/nacional-hallan-sin-vida-a-2-personas-al-interior-de-una-vivienda/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-hallan-sin-vida-a-2-personas-al-interior-de-una-vivienda",
     "descripcion": "",
@@ -335,24 +353,6 @@
   {
     "titulo": "Región Coquimbo.  Hoy jueves cayeron chubascos en diferentes localidades. Conozca el detalle de agua caída",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-hoy-jueves-cayeron-chubascos-en-diferentes-localidades-conozca-el-detalle-de-agua-caida/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-hoy-jueves-cayeron-chubascos-en-diferentes-localidades-conozca-el-detalle-de-agua-caida",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "La Serena: Habilitan centro de acopio para apoyar a damnificados por sistema frontal",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-habilitan-centro-de-acopio-para-apoyar-a-damnificados-por-sistema-frontal/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-habilitan-centro-de-acopio-para-apoyar-a-damnificados-por-sistema-frontal",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Anuncian la prórroga automática del pago de créditos INDAP para usuarios de la región de Coquimbo",
-    "enlace": "https://serenaycoquimbo.cl/anuncian-la-prorroga-automatica-del-pago-de-creditos-indap-para-usuarios-de-la-region-de-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-la-prorroga-automatica-del-pago-de-creditos-indap-para-usuarios-de-la-region-de-coquimbo",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -630,6 +630,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Combarbalá mantiene intenso despliegue para recuperar la conectividad y restablecer servicios tras histórico temporal",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/24/combarbala-mantiene-intenso-despliegue-para-recuperar-la-conectividad-y-restablecer-servicios-tras-historico-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "​Municipio de Combarbalá despliega operativo de emergencia tras intenso sistema frontal y actualiza catastro de afectaciones",
     "enlace": "https://www.elcombarbalino.cl/2026/07/21/municipio-de-combarbala-despliega-operativo-de-emergencia-tras-intenso-sistema-frontal-y-actualiza-catastro-de-afectaciones/",
     "descripcion": "",
@@ -704,15 +713,6 @@
   {
     "titulo": "Michelle Adams: “Combarbalá y la región podría recibir una cantidad de lluvia pocas veces vista en la historia reciente”",
     "enlace": "https://www.elcombarbalino.cl/2026/07/14/michelle-adams-combarbala-y-la-region-podria-recibir-una-cantidad-de-lluvia-pocas-veces-vista-en-la-historia-reciente/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Combarbalino destaca por sus producciones de árboles frutales: “Donde estoy parece un oasis”",
-    "enlace": "https://www.elcombarbalino.cl/2026/07/13/combarbalino-destaca-por-sus-producciones-de-arboles-frutales-donde-estoy-parece-un-oasis/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Hospital de Illapel refuerza llamado a mantener actualizados los datos de contacto ante reprogramación de atenciones",
+    "enlace": "https://www.elillapelino.cl/2026/07/23/hospital-de-illapel-refuerza-llamado-a-mantener-actualizados-los-datos-de-contacto-ante-reprogramacion-de-atenciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Bomberos de Illapel aclara malentendido sobre desaparición de voluntarios",
     "enlace": "https://www.elillapelino.cl/2026/07/21/bomberos-de-illapel-aclara-malentendido-sobre-desaparicion-de-voluntarios/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "Vehículo se desbarranca en calle Los Álamos de Illapel y moviliza a equipos de emergencia",
     "enlace": "https://www.elillapelino.cl/2026/07/16/vehiculo-se-desbarranca-en-calle-los-alamos-de-illapel-y-moviliza-a-equipos-de-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Minera Los Pelambres activa plan preventivo ante contingencia climática",
-    "enlace": "https://www.elillapelino.cl/2026/07/16/minera-los-pelambres-activa-plan-preventivo-ante-contingencia-climatica/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1006,96 +1006,6 @@
     "medio": "El Salamanquino",
     "zona": "Salamanca",
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Alarma ambiental en Salamanca: vecinos de Chuchiñí denuncian presunto vertimiento de ácidos desde instalaciones de Minera Tres Valles",
-    "enlace": "https://www.davidnoticias.cl/alarma-ambiental-en-salamanca-vecinos-de-chuchini-denuncian-presunto-vertimiento-de-acidos-desde-instalaciones-de-minera-tres-valles/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "FEPEMACH hace llamado a apoyar a caletas pesqueras que están aisladas en la Región de Coquimbo",
-    "enlace": "https://www.davidnoticias.cl/fepemach-hace-llamado-a-apoyar-a-caletas-pesqueras-que-estan-aisladas-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Cámara de Diputados aprueba en general proyecto que regula las “deepfakes” creadas con inteligencia artificial",
-    "enlace": "https://www.davidnoticias.cl/camara-de-diputados-aprueba-en-general-proyecto-que-regula-las-deepfakes-creadas-con-inteligencia-artificial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Ejército y Municipio activan puente aéreo para asistir a comunidades incomunicadas en Los Vilos",
-    "enlace": "https://www.davidnoticias.cl/ejercito-y-municipio-activan-puente-aereo-para-asistir-a-comunidades-incomunicadas-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Minera Los Pelambres asegura que tranque El Mauro no presenta inestabilidad tras intensas lluvias y confirma descarga controlada hacia el Estero Pupío",
-    "enlace": "https://www.davidnoticias.cl/minera-los-pelambres-asegura-que-tranque-el-mauro-no-presenta-inestabilidad-tras-intensas-lluvias-y-confirma-descarga-controlada-hacia-el-estero-pupio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Superintendencia de Medio Ambiente activa seguimiento por incidente en Tranque El Mauro tras requerimiento del senador Sergio Gahona",
-    "enlace": "https://www.davidnoticias.cl/superintendencia-de-medio-ambiente-activa-seguimiento-por-incidente-en-tranque-el-mauro-tras-requerimiento-del-senador-sergio-gahona/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Desborde del embalse Recoleta obliga a suspender el suministro de agua potable en Ovalle",
-    "enlace": "https://www.davidnoticias.cl/desborde-del-embalse-recoleta-obliga-a-suspender-el-suministro-de-agua-potable-en-ovalle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Desborde del río Illapel obliga a evacuar familias en La Puntilla: Municipio reitera llamado a acatar las alertas de emergencia",
-    "enlace": "https://www.davidnoticias.cl/desborde-del-rio-illapel-obliga-a-evacuar-familias-en-la-puntilla-municipio-reitera-llamado-a-acatar-las-alertas-de-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospital San Pedro de Los Vilos confirma funcionamiento normal de sus atenciones y llama a usar responsablemente el Servicio de Urgencia",
-    "enlace": "https://www.davidnoticias.cl/hospital-san-pedro-de-los-vilos-confirma-funcionamiento-normal-de-sus-atenciones-y-llama-a-usar-responsablemente-el-servicio-de-urgencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Minera Los Pelambres mantiene resguardo de personas, instalaciones y apoyo a comunidades ante sistema fronta",
-    "enlace": "https://www.davidnoticias.cl/minera-los-pelambres-mantiene-resguardo-de-personas-instalaciones-y-apoyo-a-comunidades-ante-sistema-fronta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Bomberos refuerza abastecimiento de agua en Andacollo con llegada de camiones aljibe desde Atacama",
@@ -1467,7 +1377,7 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Dio positivo en test de drogas: Gobierno explica renuncia de subsecretario de Hacienda",
+    "titulo": "Renuncia subsecretario de Hacienda Juan Pablo Rodríguez: Será reemplazado por Tomás Bunster",
     "enlace": "https://www.maray.cl/pais/23/07/2026/dio-positivo-en-test-de-drogas-gobierno-explica-renuncia-de-subsecretario-de-hacienda/",
     "descripcion": "",
     "publicado": "",
@@ -1478,6 +1388,24 @@
   {
     "titulo": "PDI confirma hallazgo de dos mujeres fallecidas en Alto del Carmen y rescata a perro aislado durante operativo aéreo",
     "enlace": "https://www.maray.cl/atacama/23/07/2026/pdi-confirma-hallazgo-de-dos-mujeres-fallecidas-en-alto-del-carmen-y-rescata-a-perro-aislado-durante-operativo-aereo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "FAE Meraki dio inicio a innovador programa de hidroponía para fortalecer el aprendizaje y el bienestar de niños y niñas",
+    "enlace": "https://www.maray.cl/atacama/23/07/2026/fae-meraki-dio-inicio-a-innovador-programa-de-hidroponia-para-fortalecer-el-aprendizaje-y-el-bienestar-de-ninos-y-ninas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Escuela Luis Cruz Martínez impulsa campaña solidaria para apoyar a sus estudiantes afectados por el sistema frontal",
+    "enlace": "https://www.maray.cl/atacama/23/07/2026/escuela-luis-cruz-martinez-impulsa-campana-solidaria-para-apoyar-a-sus-estudiantes-afectados-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1528,114 +1456,6 @@
     "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "«Ordenemos la Cuenta»: Congreso despachó a ley proyecto que frena alzas de la luz",
-    "enlace": "https://www.maray.cl/pais/23/07/2026/ordenemos-la-cuenta-congreso-despacho-a-ley-proyecto-que-frena-alzas-de-la-luz/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Un convoy de 14 camiones aljibe llega a Huasco y Freirina para reforzar el suministro de agua potable",
-    "enlace": "https://www.maray.cl/atacama/23/07/2026/un-convoy-de-14-camiones-aljibe-llega-a-huasco-y-freirina-para-reforzar-el-suministro-de-agua-potable/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Nuevo camión limpiafosas reforzará la atención de familias sin alcantarillado en Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/07/23/nuevo-camion-limpiafosas-reforzara-la-atencion-de-familias-sin-alcantarillado-en-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Crisis en Valle Hermoso: Diputado Mella apunta a Minera Las Cenizas, CGE y el MOP por emergencia que afecta el agua potable",
-    "enlace": "https://laliguanoticias.cl/2026/07/23/crisis-en-valle-hermoso-diputado-mella-apunta-a-minera-las-cenizas-cge-y-el-mop-por-emergencia-que-afecta-el-agua-potable/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Declaran a la Región de Valparaíso como Zona Afectada por Catástrofe tras el sistema frontal",
-    "enlace": "https://laliguanoticias.cl/2026/07/22/declaran-a-la-region-de-valparaiso-como-zona-afectada-por-catastrofe-tras-el-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputado Venegas exige suspender las clases durante el resto de la semana en la provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/07/21/diputado-venegas-exige-suspender-las-clases-durante-el-resto-de-la-semana-en-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "“Sencillamente no se prepararon”: Diputado Mella oficia al Ministerio de Energía y advierte sobre alimentos en descomposición e insulinas en riesgo",
-    "enlace": "https://laliguanoticias.cl/2026/07/21/sencillamente-no-se-prepararon-diputado-mella-oficia-al-ministerio-de-energia-y-advierte-sobre-alimentos-en-descomposicion-e-insulinas-en-riesgo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputada Sofía González exige al gobierno declarar estado de catástrofe a las comunas de La Ligua, Cabildo y Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/07/20/diputada-sofia-gonzalez-exige-al-gobierno-declarar-estado-de-catastrofe-a-las-comunas-de-la-ligua-cabildo-y-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputado Venegas solicita al Presidente Kast declarar zona de catástrofe para la provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/07/20/diputado-venegas-solicita-al-presidente-kast-declarar-zona-de-catastrofe-para-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputada Bello solicita al Gobierno declarar Estado de Catástrofe para la Provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/07/20/diputada-bello-solicita-al-gobierno-declarar-estado-de-catastrofe-para-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Comunas de Papudo y Zapallar ponen foco en derrumbes, humedales y puntos críticos ante nuevo frente de mal tiempo",
-    "enlace": "https://laliguanoticias.cl/2026/07/13/comunas-de-papudo-y-zapallar-ponen-foco-en-derrumbes-humedales-y-puntos-criticos-ante-nuevo-frente-de-mal-tiempo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Municipalidad de Petorca refuerza medidas preventivas ante sistema frontal previsto para la comuna",
-    "enlace": "https://laliguanoticias.cl/2026/07/13/municipalidad-de-petorca-refuerza-medidas-preventivas-ante-sistema-frontal-previsto-para-la-comuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "[OPINIÓN] ¿Para cuándo la protección al bolsillo del pueblo? (Javier Osorio)",
@@ -1726,186 +1546,6 @@
     "medio": "Diario La Quinta",
     "zona": "Casablanca",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El futuro de la logística: cómo la automatización y la IA están redefiniendo la última milla en Chile",
-    "enlace": "https://g5noticias.cl/2026/07/23/el-futuro-de-la-logistica-como-la-automatizacion-y-la-ia-estan-redefiniendo-la-ultima-milla-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tras las inundaciones: cómo reconocer las señales de alerta y consultar a tiempo para evitar complicaciones de salud",
-    "enlace": "https://g5noticias.cl/2026/07/23/tras-las-inundaciones-como-reconocer-las-senales-de-alerta-y-consultar-a-tiempo-para-evitar-complicaciones-de-salud/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Sernac inicia procedimiento extrajudicial con eléctricas en busca de compensaciones para familias afectadas por cortes del servicio",
-    "enlace": "https://g5noticias.cl/2026/07/23/sernac-inicia-procedimiento-extrajudicial-con-electricas-en-busca-de-compensaciones-para-familias-afectadas-por-cortes-del-servicio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Arte y medioambiente: obra «La Balada de las Sirenas Secas» invita a reflexionar sobre la crisis hídrica en Petorca",
-    "enlace": "https://g5noticias.cl/2026/07/23/arte-y-medioambiente-obra-la-balada-de-las-sirenas-secas-invita-a-reflexionar-sobre-la-crisis-hidrica-en-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fach realiza quinto envío de ayuda humanitaria a la zona norte",
-    "enlace": "https://g5noticias.cl/2026/07/23/fach-realiza-quinto-envio-de-ayuda-humanitaria-a-la-zona-norte/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Alcalde de La Calera firma escritura de terreno en donde se proyecta un dispositivo de salud para Artificio",
-    "enlace": "https://g5noticias.cl/2026/07/23/alcalde-de-la-calera-firma-escritura-de-terreno-en-donde-se-proyecta-un-dispositivo-de-salud-para-artificio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Gobierno impulsa en La Araucanía nuevo Subsidio a la Contratación para fortalecer la generación de empleo formal",
-    "enlace": "https://g5noticias.cl/2026/07/23/gobierno-impulsa-en-la-araucania-nuevo-subsidio-a-la-contratacion-para-fortalecer-la-generacion-de-empleo-formal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "En operativo en Estación Central, autoridades de salud destacan la extensión de la vacunación contra la influenza a toda la población",
-    "enlace": "https://g5noticias.cl/2026/07/23/en-operativo-en-estacion-central-autoridades-de-salud-destacan-la-extension-de-la-vacunacion-contra-la-influenza-a-toda-la-poblacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Con 16 años, joven pianista crucino abre los Conciertos de Invierno",
-    "enlace": "https://g5noticias.cl/2026/07/23/con-16-anos-joven-pianista-crucino-abre-los-conciertos-de-invierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Región de Coquimbo avanza en la recuperación de servicios básicos y conectividad tras la emergencia",
-    "enlace": "https://g5noticias.cl/2026/07/23/region-de-coquimbo-avanza-en-la-recuperacion-de-servicios-basicos-y-conectividad-tras-la-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Colegio Arauco se queda con el título provincial y avanza al Regional de Básquetbol Escolar IN",
-    "enlace": "https://araucovision.cl/colegio-arauco-se-queda-con-el-titulo-provincial-y-avanza-al-regional-de-basquetbol-escolar-in/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Fondo de Sercotec impulsará la creación de empresas innovadoras lideradas por mujeres",
-    "enlace": "https://araucovision.cl/fondo-de-sercotec-impulsara-la-creacion-de-empresas-innovadoras-lideradas-por-mujeres/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Bioforest abre sus laboratorios para acercar la ciencia forestal a estudiantes",
-    "enlace": "https://araucovision.cl/bioforest-abre-sus-laboratorios-para-acercar-la-ciencia-forestal-a-estudiantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Internos del CDP de Arauco emocionaron con la obra “La Leyenda de Llacolén”",
-    "enlace": "https://araucovision.cl/internos-del-cdp-de-arauco-emocionaron-con-la-obra-la-leyenda-de-llacolen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Gobierno llama a emprendedores del Biobío a trabajar mediante plataforma pública con más de 170 instrumentos disponibles",
-    "enlace": "https://araucovision.cl/gobierno-llama-a-emprendedores-del-biobio-a-trabajar-mediante-plataforma-publica-con-mas-de-170-instrumentos-disponibles/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Seremi de Salud invita a la comunidad de Arauco a promover la lactancia materna a través del primer concurso de reels",
-    "enlace": "https://araucovision.cl/seremi-de-salud-invita-a-la-comunidad-de-arauco-a-promover-la-lactancia-materna-a-traves-del-primer-concurso-de-reels/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Tras 16 años de espera: Con inversión histórica de $17 mil millones arranca la reconstrucción del Mercado de Talcahuano",
-    "enlace": "https://araucovision.cl/tras-16-anos-de-espera-con-inversion-historica-de-17-mil-millones-arranca-la-reconstruccion-del-mercado-de-talcahuano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Chile supera el 63% de generación renovable y enfrenta un nuevo desafío: Asegurar la estabilidad del sistema eléctrico",
-    "enlace": "https://araucovision.cl/chile-supera-el-63-de-generacion-renovable-y-enfrenta-un-nuevo-desafio-asegurar-la-estabilidad-del-sistema-electrico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Pesquera Alimentos Marinos S.A. “ALIMAR” demanda al Estado de Chile y solicita compensación por más de US$140 millones debido a Ley de Fraccionamiento",
-    "enlace": "https://araucovision.cl/pesquera-alimentos-marinos-s-a-alimar-demanda-al-estado-de-chile-y-solicita-compensacion-por-mas-de-us140-millones-debido-a-ley-de-fraccionamiento/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Arauco será una de las siete zonas priorizadas en concurso nacional para ampliar red de carga rápida de vehículos eléctricos",
-    "enlace": "https://araucovision.cl/arauco-sera-una-de-las-siete-zonas-priorizadas-en-concurso-nacional-para-ampliar-red-de-carga-rapida-de-vehiculos-electricos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
     "titulo": "RESULTADOS Y POSICIONES DE SERIES MENORES",
