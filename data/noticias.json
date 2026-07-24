@@ -450,6 +450,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Más de 3.200 familias de Ovalle ya recibieron ayuda tras el sistema frontal",
+    "enlace": "https://ovallehoy.cl/mas-de-3-200-familias-de-ovalle-ya-recibieron-ayuda-tras-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Avanza la recuperación de servicios básicos y conectividad tras la emergencia en la región",
+    "enlace": "https://ovallehoy.cl/avanza-la-recuperacion-de-servicios-basicos-y-conectividad-tras-la-emergencia-en-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "General Director de Carabineros visita la región de Coquimbo y constata en terreno el despliegue policial por emergencia climática",
     "enlace": "https://ovallehoy.cl/general-director-de-carabineros-visita-la-region-de-coquimbo-y-constata-en-terreno-el-despliegue-policial-por-emergencia-climatica/",
     "descripcion": "",
@@ -515,24 +533,6 @@
   {
     "titulo": "Monte Patria inicia fase de rehabilitación tras histórico sistema frontal: despliegan trabajos de despeje y catastro social",
     "enlace": "https://ovallehoy.cl/monte-patria-inicia-fase-de-rehabilitacion-tras-historico-sistema-frontal-despliegan-trabajos-de-despeje-y-catastro-social/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Mantienen Alerta Roja en la región: Precipitaciones ceden pero advierten «muy alto» riesgo de remoción en masa",
-    "enlace": "https://ovallehoy.cl/mantienen-alerta-roja-en-la-region-precipitaciones-ceden-pero-advierten-muy-alto-riesgo-de-remocion-en-masa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Ovalle: Distribuirán 5.000 cajas de alimentos para los afectados por las precipitaciones",
-    "enlace": "https://ovallehoy.cl/ovalle-distribuiran-5-000-cajas-de-alimentos-para-los-afectados-por-las-precipitaciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "El Noticiero del Huasco, viernes 24 de julio de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/el-noticiero-del-huasco-viernes-24-de-julio-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
     "titulo": "Habilitan paso regulado en Maitencillo para atender emergencias en la provincia del Huasco",
     "enlace": "https://elnoticierodelhuasco.cl/2026/07/habilitan-paso-regulado-en-maitencillo-para-atender-emergencias-en-la-provincia-del-huasco/",
     "descripcion": "",
@@ -1449,13 +1458,22 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Emergencia por sistema frontal mantiene aislados sectores de Alto del Carmen y autoridades reiteran llamado a no desplazarse",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/emergencia-por-sistema-frontal-mantiene-aislados-sectores-de-alto-del-carmen-y-autoridades-reiteran-llamado-a-no-desplazarse/",
+    "titulo": "Cinco detenidos tras violento robo a tienda de tecnología en Mallplaza Sur de San Bernardo",
+    "enlace": "https://www.maray.cl/pais/24/07/2026/cinco-detenidos-tras-violento-robo-a-tienda-de-tecnologia-en-mallplaza-sur-de-san-bernardo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Provincia del Huasco deja atrás las lluvias, pero persisten avisos por viento, calor y riesgo de aluviones",
+    "enlace": "https://www.maray.cl/atacama/24/07/2026/provincia-del-huasco-deja-atras-las-lluvias-pero-persisten-avisos-por-viento-calor-y-riesgo-de-aluviones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "O’Higgins cae por la cuenta mínima ante Boca y deja abierta la llave para la revancha en Rancagua",
@@ -1485,15 +1503,6 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "FAE Meraki dio inicio a innovador programa de hidroponía para fortalecer el aprendizaje y el bienestar de niños y niñas",
-    "enlace": "https://www.maray.cl/atacama/23/07/2026/fae-meraki-dio-inicio-a-innovador-programa-de-hidroponia-para-fortalecer-el-aprendizaje-y-el-bienestar-de-ninos-y-ninas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
     "titulo": "Escuela Luis Cruz Martínez impulsa campaña solidaria para apoyar a sus estudiantes afectados por el sistema frontal",
     "enlace": "https://www.maray.cl/atacama/23/07/2026/escuela-luis-cruz-martinez-impulsa-campana-solidaria-para-apoyar-a-sus-estudiantes-afectados-por-el-sistema-frontal/",
     "descripcion": "",
@@ -1512,7 +1521,7 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Gobierno y CGE sobrevuelan y entregan de combustible para atención de pacientes electrodependientes en Carrizalillo y Caleta Chañaral de Aceituno",
+    "titulo": "Gobierno y CGE sobrevuelan y entregan combustible para atención de pacientes electrodependientes en Carrizalillo y Caleta Chañaral de Aceituno",
     "enlace": "https://www.maray.cl/atacama/23/07/2026/gobierno-y-cge-sobrevuelan-y-entregan-de-combustible-para-atencion-de-pacientes-electrodependientes-en-carrizalillo-y-caleta-chanaral-de-aceituno/",
     "descripcion": "",
     "publicado": "",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal",
     "enlace": "https://www.maray.cl/atacama/23/07/2026/seremi-del-medio-ambiente-de-atacama-entrega-instrucciones-para-el-manejo-sanitario-de-residuos-tras-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Vallenar: Fiscalía formalizó delito de homicidio  frustrado y detenido cumplirá prisión preventiva",
-    "enlace": "https://www.maray.cl/atacama/23/07/2026/vallenar-fiscalia-formalizo-delito-de-homicidio-frustrado-y-detenido-cumplira-prision-preventiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,42 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de Villa Alemana: Alimentos Cesación RIT C-1146-2025 «Sotelo / Oyarzo»",
+    "enlace": "https://diariolaquinta.cl/2026/07/24/notificacion-tribunal-de-familia-de-villa-alemana-alimentos-cesacion-rit-c-1146-2025-sotelo-oyarzo-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-villa-alemana-alimentos-cesacion-rit-c-1146-2025-sotelo-oyarzo-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Primer Juzgado de Letras de Los Andes: Posesión efectiva ROL V-32-2026 «Peppi / Peppi»",
+    "enlace": "https://diariolaquinta.cl/2026/07/24/notificacion-primer-juzgado-de-letras-de-los-andes-posesion-efectiva-rol-v-32-2026-peppi-peppi-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-primer-juzgado-de-letras-de-los-andes-posesion-efectiva-rol-v-32-2026-peppi-peppi-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[REMATE] Curacaví: Lote en Conjunto Habitacional «Villa El Faldeo de Curacaví» – 12/AGO/2026",
+    "enlace": "https://diariolaquinta.cl/2026/07/24/remate-curacavi-lote-en-conjunto-habitacional-villa-el-faldeo-de-curacavi-12-ago-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=remate-curacavi-lote-en-conjunto-habitacional-villa-el-faldeo-de-curacavi-12-ago-2026-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Alimentos Aumento RIT C-119-2026 «Pereda / Iriarte»",
+    "enlace": "https://diariolaquinta.cl/2026/07/24/notificacion-tribunal-de-familia-de-san-antonio-alimentos-aumento-rit-c-119-2026-pereda-iriarte-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-alimentos-aumento-rit-c-119-2026-pereda-iriarte-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Alimentos RIT C-629-2025 «Farías / Malgue»",
     "enlace": "https://diariolaquinta.cl/2026/07/24/notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-629-2025-farias-malgue-12/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-629-2025-farias-malgue-12",
     "descripcion": "",
@@ -1692,44 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En Patio Sócrates de Valparaíso se realizará taller de prácticas performativas para mujeres y disidencias",
-    "enlace": "https://diariolaquinta.cl/2026/07/23/en-patio-socrates-de-valparaiso-se-realizara-taller-de-practicas-performativas-para-mujeres-y-disidencias/?utm_source=rss&utm_medium=rss&utm_campaign=en-patio-socrates-de-valparaiso-se-realizara-taller-de-practicas-performativas-para-mujeres-y-disidencias",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de Villa Alemana: Alimentos Cesación RIT C-1146-2025 «Sotelo / Oyarzo»",
-    "enlace": "https://diariolaquinta.cl/2026/07/23/notificacion-tribunal-de-familia-de-villa-alemana-alimentos-cesacion-rit-c-1146-2025-sotelo-oyarzo-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-villa-alemana-alimentos-cesacion-rit-c-1146-2025-sotelo-oyarzo-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Primer Juzgado de Letras de Los Andes: Posesión efectiva ROL V-32-2026 «Peppi / Peppi»",
-    "enlace": "https://diariolaquinta.cl/2026/07/23/notificacion-primer-juzgado-de-letras-de-los-andes-posesion-efectiva-rol-v-32-2026-peppi-peppi-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-primer-juzgado-de-letras-de-los-andes-posesion-efectiva-rol-v-32-2026-peppi-peppi-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Isla de Pascua: Reconstitución de inscripción de sociedad «Comercializadora Pou Va’e Tea SpA»",
-    "enlace": "https://diariolaquinta.cl/2026/07/23/notificacion-isla-de-pascua-reconstitucion-de-inscripcion-de-sociedad-comercializadora-pou-vae-tea-spa-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-isla-de-pascua-reconstitucion-de-inscripcion-de-sociedad-comercializadora-pou-vae-tea-spa-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Así será Mediamorfosis 2026: cinco días de arte, tecnología, Domo 360° y experiencias inmersivas con entrada liberada",
-    "enlace": "https://g5noticias.cl/2026/07/24/asi-sera-mediamorfosis-2026-cinco-dias-de-arte-tecnologia-domo-360-y-experiencias-inmersivas-con-entrada-liberada/",
+    "titulo": "El poder de lo cotidiano: 5 hábitos imprescindibles para proteger tu salud en el Día Mundial del Autocuidado",
+    "enlace": "https://g5noticias.cl/2026/07/24/el-poder-de-lo-cotidiano-5-habitos-imprescindibles-para-proteger-tu-salud-en-el-dia-mundial-del-autocuidado-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Exportaciones de Los Lagos: señales positivas en un escenario global desafiante. Por Ricardo Arriagada, director regional de ProChile Los Lagos",
-    "enlace": "https://g5noticias.cl/2026/07/24/exportaciones-de-los-lagos-senales-positivas-en-un-escenario-global-desafiante-por-ricardo-arriagada-director-regional-de-prochile-los-lagos/",
+    "titulo": "Patrullaje preventivo de Seguridad Pública permitió detener a sujeto que robaba cableado del tendido eléctrico ferroviario en Villa Alemana",
+    "enlace": "https://g5noticias.cl/2026/07/24/patrullaje-preventivo-de-seguridad-publica-permitio-detener-a-sujeto-que-robaba-cableado-del-tendido-electrico-ferroviario-en-villa-alemana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nuevas inscripciones para la quinta Corrida Familiar de Maipú",
-    "enlace": "https://g5noticias.cl/2026/07/24/nuevas-inscripciones-para-la-quinta-corrida-familiar-de-maipu/",
+    "titulo": "Psicólogo y tener amigos solo por Internet: “el anonimato es un escudo para quien teme el rechazo”",
+    "enlace": "https://g5noticias.cl/2026/07/24/psicologo-y-tener-amigos-solo-por-internet-el-anonimato-es-un-escudo-para-quien-teme-el-rechazo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alerta: Nueva campaña de malware se propaga por WhatsApp con archivos que simulan facturas y pagos",
-    "enlace": "https://g5noticias.cl/2026/07/24/alerta-nueva-campana-de-malware-se-propaga-por-whatsapp-con-archivos-que-simulan-facturas-y-pagos/",
+    "titulo": "¿Menos agua y posiblemente más inundaciones?: Investigador UCT advierte nuevo rostro del cambio climático en Chile",
+    "enlace": "https://g5noticias.cl/2026/07/24/menos-agua-y-posiblemente-mas-inundaciones-investigador-uct-advierte-nuevo-rostro-del-cambio-climatico-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fundación NTT DATA y Municipalidad de Renca impulsan Laboratorio de Talentos para fortalecer las habilidades tecnológicas de niñas y niños",
-    "enlace": "https://g5noticias.cl/2026/07/24/fundacion-ntt-data-y-municipalidad-de-renca-impulsan-laboratorio-de-talentos-para-fortalecer-las-habilidades-tecnologicas-de-ninas-y-ninos/",
+    "titulo": "Pausas activas en el trabajo: una herramienta simple para mejorar la salud laboral. Por Soraya Villegas León, kinesióloga y miembro de la Sociedad Chilena de Medicina del Estilo de Vida (SOCHIMEV)",
+    "enlace": "https://g5noticias.cl/2026/07/24/pausas-activas-en-el-trabajo-una-herramienta-simple-para-mejorar-la-salud-laboral-por-soraya-villegas-leon-kinesiologa-y-miembro-de-la-sociedad-chilena-de-medicina-del-estilo-de-vida-sochimev/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ríos atmosféricos y gestión hídrica en Chile. Por Francisco Miranda, Líder de Gestión Integrada del Agua de GHD en Chile",
-    "enlace": "https://g5noticias.cl/2026/07/24/rios-atmosfericos-y-gestion-hidrica-en-chile-por-francisco-miranda-lider-de-gestion-integrada-del-agua-de-ghd-en-chile/",
+    "titulo": "¿Abrigos invisibles y esponjas gigantescas? Conoce 5 secretos de la naturaleza para enfrentar las lluvias torrenciales",
+    "enlace": "https://g5noticias.cl/2026/07/24/abrigos-invisibles-y-esponjas-gigantescas-conoce-5-secretos-de-la-naturaleza-para-enfrentar-las-lluvias-torrenciales-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "100.000 vehículos, 5.500 sueños en marcha: BYD celebra hitos históricos en Camaçari",
-    "enlace": "https://g5noticias.cl/2026/07/24/100-000-vehiculos-5-500-suenos-en-marcha-byd-celebra-hitos-historicos-en-camacari/",
+    "titulo": "La lluvia también detiene el turismo. Por Francesca Machiavello Narváez, Académica Administración en Ecoturismo, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/07/24/la-lluvia-tambien-detiene-el-turismo-por-francesca-machiavello-narvaez-academica-administracion-en-ecoturismo-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Global66 sigue escalando y anuncia su ingreso a la red de Endeavor",
-    "enlace": "https://g5noticias.cl/2026/07/24/global66-sigue-escalando-y-anuncia-su-ingreso-a-la-red-de-endeavor/",
+    "titulo": "DAF Chile y ZAMine Chile desarrollan el primer camión de lubricación de alta ingeniería para la gran minería",
+    "enlace": "https://g5noticias.cl/2026/07/24/daf-chile-y-zamine-chile-desarrollan-el-primer-camion-de-lubricacion-de-alta-ingenieria-para-la-gran-mineria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cataratas: la principal causa de ceguera en Chile afecta a casi uno de cada cuatro mayores de 65 años",
-    "enlace": "https://g5noticias.cl/2026/07/24/cataratas-la-principal-causa-de-ceguera-en-chile-afecta-a-casi-uno-de-cada-cuatro-mayores-de-65-anos/",
+    "titulo": "Mercado Pago es reconocida por CNBC como una de las principales empresas fintech del mundo de 2026",
+    "enlace": "https://g5noticias.cl/2026/07/24/mercado-pago-es-reconocida-por-cnbc-como-una-de-las-principales-empresas-fintech-del-mundo-de-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Manouchehri y Cicardini (PS) plantearon incluir reconstrucción de Coquimbo y Atacama en Megarreforma",
-    "enlace": "https://g5noticias.cl/2026/07/24/manouchehri-y-cicardini-ps-plantearon-incluir-reconstruccion-de-coquimbo-y-atacama-en-megarreforma-la-indicacion-propuesta-en-la-comision-mixta-del-proyecto-no-conto-con-unanimidad-para-ser-di/",
+    "titulo": "Repercusiones de una catástrofe en la salud mental. Por Enzo Arias, psicólogo de Clínica Colonial – www.clinicacolonial.cl",
+    "enlace": "https://g5noticias.cl/2026/07/24/repercusiones-de-una-catastrofe-en-la-salud-mental-por-enzo-arias-psicologo-de-clinica-colonial-www-clinicacolonial-cl/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Animalista cuestiona denuncia por matanza de perros   en Ojo Bueno y pide a municipalidad presentar querella",
-    "enlace": "https://laprensaaustral.cl/2026/07/24/animalista-cuestiona-denuncia-por-matanza-de-perros-en-ojo-bueno-y-pide-a-municipalidad-presentar-querella/",
+    "titulo": "Parten los “play offs” en baby del Yungay",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/parten-los-play-offs-en-baby-del-yungay-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Carabineros despidió al can “Golfo” que sirvió 5 años en Magallanes y que murió en acto de servicio",
-    "enlace": "https://laprensaaustral.cl/2026/07/24/carabineros-despidio-al-can-golfo-que-sirvio-5-anos-en-magallanes-y-que-murio-en-acto-de-servicio/",
+    "titulo": "Colo Colo y Limache dan el vamos a la segunda rueda",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/colo-colo-y-limache-dan-el-vamos-a-la-segunda-rueda/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Líneas de colectivos de Tacopa  subieron su tarifa a $900",
-    "enlace": "https://laprensaaustral.cl/2026/07/24/lineas-de-colectivos-de-tacopa-subieron-su-tarifa-a-900/",
+    "titulo": "Babyfútbol laboral: nueva jornada de fase clasificatoria",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/babyfutbol-laboral-nueva-jornada-de-fase-clasificatoria/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Práctica de hockey sobre hielo en laguna congelada del Pudeto",
-    "enlace": "https://laprensaaustral.cl/2026/07/24/practica-de-hockey-sobre-hielo-en-laguna-congelada-del-pudeto/",
+    "titulo": "Gala de Coro  Municipal de  Punta Arenas",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/gala-de-coro-municipal-de-punta-arenas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Alcalde de Porvenir favorecido con suspensión de proceso por  prevaricación: firmará un año en Carabineros y pagará $200.000",
-    "enlace": "https://laprensaaustral.cl/2026/07/24/alcalde-de-porvenir-favorecido-con-suspension-de-proceso-por-prevaricacion-firmara-un-ano-en-carabineros-y-pagara-200-000/",
+    "titulo": "Conmemoran  70 años del Colegio  de Periodistas",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/conmemoran-70-anos-del-colegio-de-periodistas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1953,8 +1953,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "RESULTADOS Y POSICIONES DE SERIES MENORES",
-    "enlace": "https://laprensaaustral.cl/2026/07/23/resultados-y-posiciones-de-series-menores/",
+    "titulo": "Encuentro de  ingenieras",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/encuentro-de-ingenieras/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1962,8 +1962,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Con polémica: Fifa armó “once” ideal",
-    "enlace": "https://laprensaaustral.cl/2026/07/23/con-polemica-fifa-armo-once-ideal/",
+    "titulo": "El diario español El Mundo se hizo eco de la versión de  un chantaje de la Fifa a la Argentina y el Chiqui lo negó",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/el-diario-espanol-el-mundo-se-hizo-eco-de-la-version-de-un-chantaje-de-la-fifa-a-la-argentina-y-el-chiqui-lo-nego/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1971,8 +1971,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Liberan a ñandú rescatado tras ser   atropellado en la ruta a Natales",
-    "enlace": "https://laprensaaustral.cl/2026/07/23/liberan-a-nandu-rescatado-tras-ser-atropellado-en-la-ruta-a-natales/",
+    "titulo": "Trump quiere que Gianni Infantino sea el próximo  secretario general de la Onu, según The New York Post",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/trump-quiere-que-gianni-infantino-sea-el-proximo-secretario-general-de-la-onu-segun-the-new-york-post/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1980,8 +1980,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Se prende el “basket” federado: Cordenap, Inacap y Sokol le meten presión a Español",
-    "enlace": "https://laprensaaustral.cl/2026/07/23/se-prende-el-basket-federado-cordenap-inacap-y-sokol-le-meten-presion-a-espanol/",
+    "titulo": "Magallanes en 100 Palabras lanza audiolibro  gratuito narrado por Gabriel Urzúa",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/magallanes-en-100-palabras-lanza-audiolibro-gratuito-narrado-por-gabriel-urzua/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1989,8 +1989,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Gobierno prevé alzas transitorias en hortalizas por efectos del sistema frontal",
-    "enlace": "https://laprensaaustral.cl/2026/07/23/gobierno-preve-alzas-transitorias-en-hortalizas-por-efectos-del-sistema-frontal/",
+    "titulo": "Tabsa y Club de Leones Cruz del Sur renuevan  convenio de colaboración para las Jornadas",
+    "enlace": "https://laprensaaustral.cl/2026/07/24/tabsa-y-club-de-leones-cruz-del-sur-renuevan-convenio-de-colaboracion-para-las-jornadas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
