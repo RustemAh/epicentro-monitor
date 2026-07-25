@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Refuerzan la prevención de la Hepatitis A tras la emergencia climática",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/25/refuerzan-la-prevencion-de-la-hepatitis-a-tras-la-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Pueblito Peñuelas de Coquimbo iniciará reapertura gradual de sus espacios tras el sistema frontal",
     "enlace": "https://www.elcoquimbano.cl/2026/07/24/pueblito-penuelas-de-coquimbo-iniciara-reapertura-gradual-de-sus-espacios-tras-el-sistema-frontal/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Concejo Municipal aprueba por unanimidad inversión extraordinaria de más de $1.500 millones para fortalecer la respuesta a la emergencia en Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/22/concejo-municipal-aprueba-por-unanimidad-inversion-extraordinaria-de-mas-de-1-500-millones-para-fortalecer-la-respuesta-a-la-emergencia-en-coquimbo/",
+    "titulo": "Ruta 5 entre La Serena y Copiapó operará con restricciones y tránsito regulado durante este fin de semana",
+    "enlace": "https://www.elserenense.cl/regionales/2026/07/25/ruta-5-entre-la-serena-y-copiapo-operara-con-restricciones-y-transito-regulado-durante-este-fin-de-semana/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "La Serena alcanza un 90% de normalización en la recolección de basura domiciliaria tras las lluvias",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Sorpresa en La Serena: Aparece una culebra cerca del Faro tras las crecidas del río Elqui",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/23/sorpresa-en-la-serena-aparece-una-culebra-cerca-del-faro-tras-las-crecidas-del-rio-elqui/",
+    "titulo": "Seremi de Medio Ambiente llama a la prevención tras incremento de material particulado grueso post sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/25/seremi-de-medio-ambiente-llama-a-la-prevencion-tras-incremento-de-material-particulado-grueso-post-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Aguas del Valle confirma restablecimiento total del servicio de agua potable en Ovalle",
+    "enlace": "https://laserenaonline.cl/2026/07/25/aguas-del-valle-confirma-restablecimiento-total-del-servicio-de-agua-potable-en-ovalle/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Dirección del Trabajo aclara cómo se aplican las normas laborales durante la alerta sanitaria",
     "enlace": "https://laserenaonline.cl/2026/07/24/direccion-del-trabajo-aclara-como-se-aplican-las-normas-laborales-durante-la-alerta-sanitaria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Coquimbo intensifica despliegue para llevar ayuda a familias aisladas de la ruralidad",
-    "enlace": "https://laserenaonline.cl/2026/07/24/coquimbo-intensifica-despliegue-para-llevar-ayuda-a-familias-aisladas-de-la-ruralidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "En un 90% está normalizada la recolección de residuos domiciliarios en La Serena",
-    "enlace": "https://laserenaonline.cl/2026/07/24/en-un-90-esta-normalizada-la-recoleccion-de-residuos-domiciliarios-en-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,33 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "CORE define planes de acción para enfrentar daños provocados por temporal en la Región de Coquimbo",
+    "enlace": "https://ovallehoy.cl/core-define-planes-de-accion-para-enfrentar-danos-provocados-por-temporal-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "ObituarioHOY del sábado 25 de julio",
+    "enlace": "https://ovallehoy.cl/obituariohoy-del-sabado-25-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "RegiónHOY: Alcaldes y parlamentarios exigen al Gobierno recursos extraordinarios para iniciar reconstrucción tras emergencia climática",
+    "enlace": "https://ovallehoy.cl/regionhoy-alcaldes-y-parlamentarios-exigen-al-gobierno-recursos-extraordinarios-para-iniciar-reconstruccion-tras-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "REPORTAJE ESPECIAL: ¿Se podría haber evitado la crisis del agua durante los temporales en Ovalle?",
     "enlace": "https://ovallehoy.cl/reportaje-especial-se-podria-haber-evitado-la-crisis-del-agua-durante-los-temporales-en-ovalle/",
     "descripcion": "",
@@ -506,33 +533,6 @@
   {
     "titulo": "General Director de Carabineros visita la región de Coquimbo y constata en terreno el despliegue policial por emergencia climática",
     "enlace": "https://ovallehoy.cl/general-director-de-carabineros-visita-la-region-de-coquimbo-y-constata-en-terreno-el-despliegue-policial-por-emergencia-climatica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Coordinan acciones de fiscalización tras contingencia registrada en el Tranque El Mauro",
-    "enlace": "https://ovallehoy.cl/coordinan-acciones-de-fiscalizacion-tras-contingencia-registrada-en-el-tranque-el-mauro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Anuncian la prórroga automática del pago de créditos INDAP para usuarios de la región de Coquimbo",
-    "enlace": "https://ovallehoy.cl/anuncian-la-prorroga-automatica-del-pago-de-creditos-indap-para-usuarios-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Reimundo y Cristian contraen matrimonio en la Unidad de Paciente Crítico del Hospital de Ovalle",
-    "enlace": "https://ovallehoy.cl/reimundo-y-cristian-contraen-matrimonio-en-la-unidad-de-paciente-critico-del-hospital-de-ovalle/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Copiapó: Fiscalía ordena diligencias  por muerte de persona en la ruta 5 norte",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/25/copiapo-fiscalia-ordena-diligencias-por-muerte-de-persona-en-la-ruta-5-norte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Reforma al SAE avanza a Hacienda entre críticas por supuesto cierre del debate en comisión",
     "enlace": "https://www.atacamanoticias.cl/2026/07/24/reforma-al-sae-avanza-a-hacienda-entre-criticas-por-supuesto-cierre-del-debate-en-comision/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Gobierno y CGE sobrevuelan y entre-gan de combustible para atención de pacientes electrodependientes en Carrizalillo y Caleta Chañaral de Aceituno",
     "enlace": "https://www.atacamanoticias.cl/2026/07/24/gobierno-y-cge-sobrevuelan-y-entre-gan-de-combustible-para-atencion-de-pacientes-electrodependientes-en-carrizalillo-y-caleta-chanaral-de-aceituno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Escuela Luis Cruz Martínez impulsa campaña solidaria para apoyar a sus estudiantes afectados por el sistema frontal",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/24/escuela-luis-cruz-martinez-impulsa-campana-solidaria-para-apoyar-a-sus-estudiantes-afectados-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,60 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Pronósticos y alertas: Meteorología lanzó su nueva app para celulares",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/25/07/2026/pronosticos-y-alertas-meteorologia-lanzo-su-nueva-app-para-celulares-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "CChC Atacama valora aprobación del proyecto de Reconstrucción Nacional y llama a agilizar su implementación",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/25/07/2026/cchc-atacama-valora-aprobacion-del-proyecto-de-reconstruccion-nacional-y-llama-a-agilizar-su-implementacion-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Nueva Copiapó movilizó a más de 12 mil pasajeros y mantuvo operativa su flota eléctrica durante el sistema frontal",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/25/07/2026/nueva-copiapo-movilizo-a-mas-de-12-mil-pasajeros-y-mantuvo-operativa-su-flota-electrica-durante-el-sistema-frontal-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Copiapó: Fiscalía ordena diligencias  por muerte de persona en la ruta 5 norte",
+    "enlace": "https://www.maray.cl/atacama/25/07/2026/copiapo-fiscalia-ordena-diligencias-por-muerte-de-persona-en-la-ruta-5-norte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "PDI ubica con vida a tres crianceros aislados en la cordillera de Alto del Carmen",
+    "enlace": "https://www.maray.cl/atacama/25/07/2026/pdi-ubica-con-vida-a-tres-crianceros-aislados-en-la-cordillera-de-alto-del-carmen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Comienza el desalojo del Cerro Chuño en Arica con amplio operativo policial",
+    "enlace": "https://www.maray.cl/pais/25/07/2026/comienza-el-desalojo-del-cerro-chuno-en-arica-con-amplio-operativo-policial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Mujer simuló pedir una pizza para denunciar amenazas de muerte y permitió la detención de su hijo en Talca",
     "enlace": "https://www.maray.cl/pais/25/07/2026/mujer-simulo-pedir-una-pizza-para-denunciar-amenazas-de-muerte-y-permitio-la-detencion-de-su-hijo-en-talca/",
     "descripcion": "",
@@ -1487,60 +1541,6 @@
   {
     "titulo": "Delincuentes perpetraron violenta pero fallida encerrona a familia en Las Condes",
     "enlace": "https://www.maray.cl/pais/25/07/2026/delincuentes-perpetraron-violenta-pero-fallida-encerrona-a-familia-en-las-condes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno amplió campaña de vacunación contra la influenza a toda la población",
-    "enlace": "https://www.maray.cl/pais/25/07/2026/gobierno-amplio-campana-de-vacunacion-contra-la-influenza-a-toda-la-poblacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "MOP logra habilitación parcial de Ruta Costera C-10 y recupera conectividad entre Caleta Totoral y Huasco Bajo",
-    "enlace": "https://www.maray.cl/atacama/25/07/2026/mop-logra-habilitacion-parcial-de-ruta-costera-c-10-y-recupera-conectividad-entre-caleta-totoral-y-huasco-bajo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Carabinero de franco muere tras violento choque contra un bus Red en Ñuñoa",
-    "enlace": "https://www.maray.cl/pais/25/07/2026/carabinero-de-franco-muere-tras-violento-choque-contra-un-bus-red-en-nunoa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Universidad Católica recibe a Deportes La Serena con la misión de seguir en la pelea por el liderato",
-    "enlace": "https://www.maray.cl/deportes/25/07/2026/universidad-catolica-recibe-a-deportes-la-serena-con-la-mision-de-seguir-en-la-pelea-por-el-liderato/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Coquimbo: Refuerzan la prevención de la Hepatitis A tras la emergencia climática",
-    "enlace": "https://www.maray.cl/pais/25/07/2026/coquimbo-refuerzan-la-prevencion-de-la-hepatitis-a-tras-la-emergencia-climatica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Nueva Copiapó dio inicio a la aplicación de test de drogas a sus conductores para reforzar la seguridad vial",
-    "enlace": "https://www.maray.cl/atacama/25/07/2026/nueva-copiapo-dio-inicio-a-la-aplicacion-de-test-de-drogas-a-sus-conductores-para-reforzar-la-seguridad-vial/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
