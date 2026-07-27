@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Carta al Director: Cuando la seguridad de las comunidades educativas queda en segundo plano en Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/27/carta-al-director-cuando-la-seguridad-de-las-comunidades-educativas-queda-en-segundo-plano-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Denuncian robo de cables en sector Guanaqueros en medio de la recuperación del suministro por emergencia",
     "enlace": "https://www.elcoquimbano.cl/2026/07/27/denuncian-robo-de-cables-en-sector-guanaqueros-en-medio-de-la-recuperacion-del-suministro-por-emergencia/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Reportaje del mega evento de lluvias: Científicos del CEAZA explican qué ocurrió y qué viene ahora",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/23/reportaje-del-mega-evento-de-lluvias-cientificos-del-ceaza-explican-que-ocurrio-y-que-viene-ahora/",
+    "titulo": "Más de 113 millones de pesos se destinarán a sistemas sanitarios rurales de La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/27/mas-de-113-millones-de-pesos-se-destinaran-a-sistemas-sanitarios-rurales-de-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Tras el temporal: las heridas invisibles que deja una tragedia y el desafío de recuperar la salud mental",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Gobierno Regional de Coquimbo articula apoyo privado para restablecer acceso al Cerro Grande y resguardar las telecomunicaciones",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/24/gobierno-regional-de-coquimbo-articula-apoyo-privado-para-restablecer-acceso-al-cerro-grande-y-resguardar-las-telecomunicaciones/",
+    "titulo": "Más de 113 millones de pesos se destinarán a sistemas sanitarios rurales de La Serena",
+    "enlace": "https://laserenaonline.cl/2026/07/27/mas-de-113-millones-de-pesos-se-destinaran-a-sistemas-sanitarios-rurales-de-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Concurso regional de pintura celebra 10 años con una edición histórica",
+    "enlace": "https://laserenaonline.cl/2026/07/27/concurso-regional-de-pintura-celebra-10-anos-con-una-edicion-historica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "SLEP Elqui informa que 20 de sus establecimientos regresan a clases hoy lunes 27 de julio",
+    "enlace": "https://laserenaonline.cl/2026/07/27/slep-elqui-informa-que-20-de-sus-establecimientos-regresan-a-clases-hoy-lunes-27-de-julio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Denuncian robo de cables en sector Guanaqueros en medio de la recuperación del suministro por emergencia",
     "enlace": "https://laserenaonline.cl/2026/07/27/denuncian-robo-de-cables-en-sector-guanaqueros-en-medio-de-la-recuperacion-del-suministro-por-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El Modelo Paihuano: Las acciones preventivas que permitieron mitigar los efectos del temporal en la comuna",
-    "enlace": "https://laserenaonline.cl/2026/07/27/el-modelo-paihuano-las-acciones-preventivas-que-permitieron-mitigar-los-efectos-del-temporal-en-la-comuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 27 de julio para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/27/reporte-del-tiempo-hoy-27-de-julio-para-la-region-de-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Enfermedades respiratorias y estomacales: médicos alertan sobre principales riesgos en zonas afectadas por el sistema frontal",
-    "enlace": "https://laserenaonline.cl/2026/07/26/enfermedades-respiratorias-y-estomacales-medicos-alertan-sobre-principales-riesgos-en-zonas-afectadas-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Amplían detención de exseremi de Salud de Magallanes investigado por presunto delito sexual",
-    "enlace": "https://g5noticias.cl/2026/07/27/amplian-detencion-de-exseremi-de-salud-de-magallanes-investigado-por-presunto-delito-sexual/",
+    "titulo": "Creación de empresas alcanza récord en primer semestre de 2026 con más de 120 mil constituciones",
+    "enlace": "https://g5noticias.cl/2026/07/27/creacion-de-empresas-alcanza-record-en-primer-semestre-de-2026-con-mas-de-120-mil-constituciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sismo de mediana intensidad en las regiones de Valparaíso y Metropolitana",
-    "enlace": "https://g5noticias.cl/2026/07/27/sismo-de-mediana-intensidad-en-las-regiones-de-valparaiso-y-metropolitana/",
+    "titulo": "Rapa Nui recibió 18 restos ancestrales restituidos por el Australian Museum",
+    "enlace": "https://g5noticias.cl/2026/07/27/rapa-nui-recibio-18-restos-ancestrales-restituidos-por-el-australian-museum/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Balance delictual refleja importante disminución de robos en la Región de Valparaíso y refuerza el trabajo coordinado para enfrentar los delitos de mayor violencia",
-    "enlace": "https://g5noticias.cl/2026/07/27/balance-delictual-refleja-importante-disminucion-de-robos-en-la-region-de-valparaiso-y-refuerza-el-trabajo-coordinado-para-enfrentar-los-delitos-de-mayor-violencia/",
+    "titulo": "Labores de vigilancia concluyen con dos detenidos y 271 kilos de drogas incautadas en Antofagasta",
+    "enlace": "https://g5noticias.cl/2026/07/27/labores-de-vigilancia-concluyen-con-dos-detenidos-y-271-kilos-de-drogas-incautadas-en-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Kaiser (PNL) y dichos de Ítalo Omegna sobre abusos a niños TEA: “No nos hacemos cargo de declaraciones de ese calibre”",
-    "enlace": "https://g5noticias.cl/2026/07/27/kaiser-pnl-y-dichos-de-italo-omegna-sobre-abusos-a-ninos-tea-no-nos-hacemos-cargo-de-declaraciones-de-ese-calibre/",
+    "titulo": "¿Qué dijo Javier Milei y por qué desató una crisis diplomática entre Argentina y Brasil?",
+    "enlace": "https://g5noticias.cl/2026/07/27/que-dijo-javier-milei-y-por-que-desato-una-crisis-diplomatica-entre-argentina-y-brasil/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros detuvo a un joven de 15 años que atacó a un funcionario municipal al interior del Liceo Bicentenario de Panquehue",
-    "enlace": "https://g5noticias.cl/2026/07/27/carabineros-detuvo-a-un-joven-de-15-anos-que-ataco-a-un-funcionario-municipal-al-interior-del-liceo-bicentenario-de-panquehue/",
+    "titulo": "Trump ordena detener los bombardeos contra Irán para negociar un acuerdo",
+    "enlace": "https://g5noticias.cl/2026/07/27/trump-ordena-detener-los-bombardeos-contra-iran-para-negociar-un-acuerdo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Una persona fallece luego de sufrir una violenta agresión en la comuna de Llay Llay",
-    "enlace": "https://g5noticias.cl/2026/07/27/una-persona-fallece-luego-de-sufrir-una-violenta-agresion-en-la-comuna-de-llay-llay/",
+    "titulo": "Estados Unidos: Tres muertos y cuatro heridos en tiroteo durante festival gastronómico en Seattle",
+    "enlace": "https://g5noticias.cl/2026/07/27/estados-unidos-tres-muertos-y-cuatro-heridos-en-tiroteo-durante-festival-gastronomico-en-seattle/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Programa Abre: Voluntariado de Teletón Valdivia mejoró accesibilidad en 16 viviendas de la región",
-    "enlace": "https://g5noticias.cl/2026/07/27/programa-abre-voluntariado-de-teleton-valdivia-mejoro-accesibilidad-en-16-viviendas-de-la-region/",
+    "titulo": "Presidente Kast presenta reforma para destituir a autoridades que den positivo en exámenes de drogas",
+    "enlace": "https://g5noticias.cl/2026/07/27/presidente-kast-presenta-reforma-para-destituir-a-autoridades-que-den-positivo-en-examenes-de-drogas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CD Valdivia y CD Castro son clasiqueros! Dominan sus derbis y encienden la Semana 3 de la LNB",
-    "enlace": "https://g5noticias.cl/2026/07/27/cd-valdivia-y-cd-castro-son-clasiqueros-dominan-sus-derbis-y-encienden-la-semana-3-de-la-lnb/",
+    "titulo": "Renuncia seremi del Trabajo de Tarapacá investigado por denuncias de acoso y maltrato laboral",
+    "enlace": "https://g5noticias.cl/2026/07/27/renuncia-seremi-del-trabajo-de-tarapaca-investigado-por-denuncias-de-acoso-y-maltrato-laboral/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Parisi (PDG) y detención de seremi de Magallanes por presunto delito sexual: “Es legítimo preguntarse si los filtros están funcionando”",
-    "enlace": "https://g5noticias.cl/2026/07/27/diputada-parisi-pdg-y-detencion-de-seremi-de-magallanes-por-presunto-delito-sexual-es-legitimo-preguntarse-si-los-filtros-estan-funcionando/",
+    "titulo": "Carabineros recupera en Iquique móvil robado en Ñuñoa y detiene banda vinculada al robo de vehículos",
+    "enlace": "https://g5noticias.cl/2026/07/27/carabineros-recupera-en-iquique-movil-robado-en-nunoa-y-detiene-banda-vinculada-al-robo-de-vehiculos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presidenta de Comisión de Agricultura cita a sesión urgente por situación de agricultores del norte",
-    "enlace": "https://g5noticias.cl/2026/07/27/presidenta-de-comision-de-agricultura-cita-a-sesion-urgente-por-situacion-de-agricultores-del-norte/",
+    "titulo": "Carabineros rescata a cóndor herido en Ruta Internacional Los Libertadores",
+    "enlace": "https://g5noticias.cl/2026/07/27/carabineros-rescata-a-condor-herido-en-ruta-internacional-los-libertadores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,24 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Conductora volcó por la escarcha en ruta sur",
+    "enlace": "https://laprensaaustral.cl/2026/07/27/conductora-volco-por-la-escarcha-en-ruta-sur/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Exitoso bingo por las Jornadas",
+    "enlace": "https://laprensaaustral.cl/2026/07/27/exitoso-bingo-por-las-jornadas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Ultimos aprontes de los binomios para el Gran Premio fueguino",
     "enlace": "https://laprensaaustral.cl/2026/07/27/ultimos-aprontes-de-los-binomios-para-el-gran-premio-fueguino/",
     "descripcion": "",
@@ -1973,24 +1991,6 @@
   {
     "titulo": "La agonía silenciosa de los hospitales públicos",
     "enlace": "https://laprensaaustral.cl/2026/07/27/la-agonia-silenciosa-de-los-hospitales-publicos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Tabaco, alcohol y un dato irrefutable:  al menos el 75% de los cánceres de cabeza  y cuello se asocia a su consumo",
-    "enlace": "https://laprensaaustral.cl/2026/07/27/tabaco-alcohol-y-un-dato-irrefutable-al-menos-el-75-de-los-canceres-de-cabeza-y-cuello-se-asocia-a-su-consumo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "La confianza pública no admite zonas grises",
-    "enlace": "https://laprensaaustral.cl/2026/07/27/la-confianza-publica-no-admite-zonas-grises/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
