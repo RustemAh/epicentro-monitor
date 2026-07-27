@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Badén del Sauce de Coquimbo recibió trabajos de reparación provisorios para reanudar el tránsito seguro",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/26/baden-del-sauce-de-coquimbo-recibio-trabajos-de-reparacion-provisorios-para-reanudar-el-transito-seguro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "SLEP Puerto Cordillera confirma retorno a clases en 10 establecimientos de Coquimbo para este lunes",
     "enlace": "https://www.elcoquimbano.cl/2026/07/25/slep-puerto-cordillera-confirma-retorno-a-clases-en-10-establecimientos-de-coquimbo-para-este-lunes/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "BancoEstado activa plan de apoyo tras las lluvias en la región de Coquimbo: Contempla postergación de créditos y alivio financiero",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/23/bancoestado-activa-plan-de-apoyo-tras-las-lluvias-en-la-region-de-coquimbo-contempla-postergacion-de-creditos-y-alivio-financiero/",
+    "titulo": "Este lunes sólo 4 colegios del Slep Elqui retornan a clases: Los demás será en forma progresiva",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/26/este-lunes-solo-4-colegios-del-slep-elqui-retornan-a-clases-los-demas-sera-en-forma-progresiva/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "PDI mantiene búsqueda de tres personas tras recibir 20 denuncias por presunta desgracia en la Región de Coquimbo",
@@ -164,15 +173,6 @@
   {
     "titulo": "Municipio de La Serena cifra en cerca de US$50 millones los recursos necesarios para la reconstrucción tras el sistema frontal",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/23/municipio-de-la-serena-cifra-en-cerca-de-us50-millones-los-recursos-necesarios-para-la-reconstruccion-tras-el-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más de 200 personas continúan en albergues de La Serena tras sistema frontal",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/23/mas-de-200-personas-continuan-en-albergues-de-la-serena-tras-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -1008,6 +1008,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Alcalde Christian Gross por Infiernillos: “Hacemos un llamado a que las instituciones puedan estar presentes acá”",
+    "enlace": "https://losviloschile.cl/actualidad/alcalde-christian-gross-por-infiernillos-hacemos-un-llamado-a-que-las-instituciones-puedan-estar-presentes-aca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos licita instalación de 12 nuevas cámaras de seguridad por cerca de $150 millones",
+    "enlace": "https://losviloschile.cl/policial/los-vilos-licita-instalacion-de-12-nuevas-camaras-de-seguridad-por-cerca-de-150-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos refuerza medidas preventivas ante sistema frontal que dejaría más de 170 milímetros",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-refuerza-medidas-preventivas-ante-sistema-frontal-que-dejaria-mas-de-170-milimetros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Complejo Deportivo Carlos Salinas Altamirano de Los Vilos fue renovado con inversión superior a $650 millones",
+    "enlace": "https://losviloschile.cl/deportes/complejo-deportivo-carlos-salinas-altamirano-de-los-vilos-fue-renovado-con-inversion-superior-a-650-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Más de 25 juntas de vecinos participaron en encuentro comunitario en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/mas-de-25-juntas-de-vecinos-participaron-en-encuentro-comunitario-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos busca alternativas para 87 familias ante desalojo de terreno destinado a nuevo cementerio",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-busca-alternativas-para-87-familias-ante-desalojo-de-terreno-destinado-a-nuevo-cementerio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Agricultora de Canela destaca el valor terapéutico de trabajar la tierra",
+    "enlace": "https://losviloschile.cl/canela/agricultora-de-canela-destaca-el-valor-terapeutico-de-trabajar-la-tierra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Comienzan las obras de modernización de Caleta Las Conchas en Los Vilos",
+    "enlace": "https://losviloschile.cl/actualidad/comienzan-las-obras-de-modernizacion-de-caleta-las-conchas-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos cierra con éxito la primera edición de Invierno Kids",
+    "enlace": "https://losviloschile.cl/social/municipalidad-de-los-vilos-cierra-con-exito-la-primera-edicion-de-invierno-kids/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Criteria: aumenta desaprobación al Presidente Kast y mayoría rechaza proyecto “Escucha tu corazón”",
     "enlace": "https://www.davidnoticias.cl/criteria-aumenta-desaprobacion-al-presidente-kast-y-mayoria-rechaza-proyecto-escucha-tu-corazon/",
     "descripcion": "",
@@ -1458,6 +1548,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Criteria: Aprobación del Presidente Kast llega al 36%",
+    "enlace": "https://www.maray.cl/pais/26/07/2026/criteria-aprobacion-del-presidente-kast-llega-al-36/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Sistema frontal: Gobierno reporta 233 afectaciones recuperadas entre Atacama y La Araucanía",
+    "enlace": "https://www.maray.cl/atacama/26/07/2026/atacama-hasta-araucania-biministro-louis-de-grange-hemos-tenido-un-avance-significativo-en-la-recuperacion-de-la-conectividad-agua-potable-y-telecomunicaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Detective de la PDI abatió a un presunto delincuente tras frustrar asalto en servicentro de la Ruta 68",
+    "enlace": "https://www.maray.cl/pais/26/07/2026/detective-de-la-pdi-abatio-a-un-presunto-delincuente-tras-frustrar-asalto-en-servicentro-de-la-ruta-68/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Universidad de Chile vence a Audax Italiano y sigue firme en la lucha por los primeros lugares",
+    "enlace": "https://www.maray.cl/deportes/26/07/2026/universidad-de-chile-vence-a-audax-italiano-y-sigue-firme-en-la-lucha-por-los-primeros-lugares/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Ataque ruso a supermercado en Ucrania deja dos muertos, entre ellos un niño de 10 años",
+    "enlace": "https://www.maray.cl/internacional/26/07/2026/ataque-ruso-a-supermercado-en-ucrania-deja-dos-muertos-entre-ellos-un-nino-de-10-anos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Nueva Atacama trabaja en la habilitación de agua en Huasco y comenzará a distribuir agua potable en Freirina",
     "enlace": "https://www.maray.cl/atacama/26/07/2026/nueva-atacama-trabaja-en-la-habilitacion-de-agua-en-huasco-y-comenzara-a-distribuir-agua-potable-en-freirina/",
     "descripcion": "",
@@ -1496,51 +1631,6 @@
   {
     "titulo": "Universidad de Chile visita a Audax Italiano con la misión de seguir descontando terreno en la Liga de Primera",
     "enlace": "https://www.maray.cl/deportes/26/07/2026/universidad-de-chile-visita-a-audax-italiano-con-la-mision-de-seguir-descontando-terreno-en-la-liga-de-primera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "La Serena protagoniza una gran reacción y rescata un valioso empate ante Universidad Católica en el Claro Arena",
-    "enlace": "https://www.maray.cl/deportes/26/07/2026/la-serena-protagoniza-una-gran-reaccion-y-rescata-un-valioso-empate-ante-universidad-catolica-en-el-claro-arena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Delegada Sofía Cid destaca avance de las obras para recuperar la conectividad en la Ruta C-10",
-    "enlace": "https://www.maray.cl/atacama/26/07/2026/delegada-sofia-cid-destaca-avance-de-las-obras-para-recuperar-la-conectividad-en-la-ruta-c-10/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Minsal solicita la renuncia del seremi de Salud de Magallanes por investigación judicial en curso",
-    "enlace": "https://www.maray.cl/pais/25/07/2026/minsal-solicita-la-renuncia-del-seremi-de-salud-de-magallanes-por-investigacion-judicial-en-curso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cobresal rescató un entretenido empate ante Huachipato en un partidazo bajo la lluvia",
-    "enlace": "https://www.maray.cl/atacama/25/07/2026/cobresal-rescato-un-entretenido-empate-ante-huachipato-en-un-partidazo-bajo-la-lluvia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Pronósticos y alertas: Meteorología lanzó su nueva app para celulares",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/25/07/2026/pronosticos-y-alertas-meteorologia-lanzo-su-nueva-app-para-celulares-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SLEP Elqui informa que 20 de sus establecimientos regresan a clases este lunes 27 de julio",
-    "enlace": "https://g5noticias.cl/2026/07/26/slep-elqui-informa-que-20-de-sus-establecimientos-regresan-a-clases-este-lunes-27-de-julio/",
+    "titulo": "Universidad de Chile derrotó al Audax Italiano y alcanzó a la Universidad Católica en la tabla de Primera",
+    "enlace": "https://g5noticias.cl/2026/07/26/universidad-de-chile-derroto-al-audax-italiano-y-alcanzo-a-la-universidad-catolica-en-la-tabla-de-primera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cómo capturar el valor de la banca agéntica. Por Ignacio Vargas, Managing Director de Financial Services en Accenture",
-    "enlace": "https://g5noticias.cl/2026/07/26/como-capturar-el-valor-de-la-banca-agentica-por-ignacio-vargas-managing-director-de-financial-services-en-accenture/",
+    "titulo": "Cuando la calefacción también puede afectar la salud",
+    "enlace": "https://g5noticias.cl/2026/07/26/cuando-la-calefaccion-tambien-puede-afectar-la-salud-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Recuperación tras una cirugía: el cuidado temprano de la herida puede evitar complicaciones",
-    "enlace": "https://g5noticias.cl/2026/07/26/recuperacion-tras-una-cirugia-el-cuidado-temprano-de-la-herida-puede-evitar-complicaciones-2/",
+    "titulo": "Cadem semanal: contundente juicio tras analizar los descargos de exministra Mara Sedini en polémica entrevista",
+    "enlace": "https://g5noticias.cl/2026/07/26/cadem-semanal-contundente-juicio-tras-analizar-los-descargos-de-exministra-mara-sedini-en-polemica-entrevista/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desempleo: menos preocupación, más acción. Por Eduardo Marín, gerente general de Trabajando.com",
-    "enlace": "https://g5noticias.cl/2026/07/26/desempleo-menos-preocupacion-mas-accion-por-eduardo-marin-gerente-general-de-trabajando-com/",
+    "titulo": "Manouchehri (PS) oficia a Superintendencia por crisis de Aguas del Valle y pide evaluar continuidad de la empresa",
+    "enlace": "https://g5noticias.cl/2026/07/26/manouchehri-ps-oficia-a-superintendencia-por-crisis-de-aguas-del-valle-y-pide-evaluar-continuidad-de-la-empresa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más allá del maullido ¿Cómo los gatos liberan oxitocina?",
-    "enlace": "https://g5noticias.cl/2026/07/26/mas-alla-del-maullido-como-los-gatos-liberan-oxitocina/",
+    "titulo": "Sello Leviatán presenta a Seba & El Monstruo, Uaco y Mono Guitarra en CENTEX",
+    "enlace": "https://g5noticias.cl/2026/07/26/sello-leviatan-presenta-a-seba-el-monstruo-uaco-y-mono-guitarra-en-centex/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El imparable ascenso del streaming sin costo: LG Channels supera los 5.000 canales y aumenta un 30% sus usuarios activos en 2025",
-    "enlace": "https://g5noticias.cl/2026/07/26/el-imparable-ascenso-del-streaming-sin-costo-lg-channels-supera-los-5-000-canales-y-aumenta-un-30-sus-usuarios-activos-en-2025/",
+    "titulo": "​»La renuncia no basta»: Senador Karim Bianchi oficia al Fiscal Nacional por polémico video y exige investigar hasta las últimas consecuencias",
+    "enlace": "https://g5noticias.cl/2026/07/26/la-renuncia-no-basta-senador-karim-bianchi-oficia-al-fiscal-nacional-por-polemico-video-y-exige-investigar-hasta-las-ultimas-consecuencias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Falsas preventas y supuestos estrenos anticipados de Spider-Man podrían robar datos bancarios de los fanáticos",
-    "enlace": "https://g5noticias.cl/2026/07/26/falsas-preventas-y-supuestos-estrenos-anticipados-de-spider-man-podrian-robar-datos-bancarios-de-los-fanaticos/",
+    "titulo": "Alcalde de Monte Patria: “El Ministro de Agricultura es una autoridad no grata para nuestra comuna”",
+    "enlace": "https://g5noticias.cl/2026/07/26/alcalde-de-monte-patria-el-ministro-de-agricultura-es-una-autoridad-no-grata-para-nuestra-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Aguas del Valle produce a niveles máximos, pero enfrenta consumo excepcional que retrasa la normalización total del servicio",
-    "enlace": "https://g5noticias.cl/2026/07/26/aguas-del-valle-produce-a-niveles-maximos-pero-enfrenta-consumo-excepcional-que-retrasa-la-normalizacion-total-del-servicio/",
+    "titulo": "Con frío y lluvias: el invierno se convierte en una oportunidad para retomar la lectura en casa",
+    "enlace": "https://g5noticias.cl/2026/07/26/con-frio-y-lluvias-el-invierno-se-convierte-en-una-oportunidad-para-retomar-la-lectura-en-casa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Editorial Amanuta: La casa chilena de la literatura infantil que conquista el mundo",
-    "enlace": "https://g5noticias.cl/2026/07/26/editorial-amanuta-la-casa-chilena-de-la-literatura-infantil-que-conquista-el-mundo/",
+    "titulo": "Se retoman las campañas del Frente Amplio: Unidad para Avanzar realiza su primera convocatoria en San Miguel",
+    "enlace": "https://g5noticias.cl/2026/07/26/se-retoman-las-campanas-del-frente-amplio-unidad-para-avanzar-realiza-su-primera-convocatoria-en-san-miguel/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Después de la lluvia: 10 tips para capturar las mejores postales del invierno chileno con tu smartphone",
-    "enlace": "https://g5noticias.cl/2026/07/26/despues-de-la-lluvia-10-tips-para-capturar-las-mejores-postales-del-invierno-chileno-con-tu-smartphone/",
+    "titulo": "Autoridades de Ciencia y Economía invitan a mujeres del Biobío a postular al Premio InspiraTEC 2026",
+    "enlace": "https://g5noticias.cl/2026/07/26/autoridades-de-ciencia-y-economia-invitan-a-mujeres-del-biobio-a-postular-al-premio-inspiratec-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
