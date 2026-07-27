@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Tras el temporal: las heridas invisibles que deja una tragedia y el desafío de recuperar la salud mental",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/07/27/tras-el-temporal-las-heridas-invisibles-que-deja-una-tragedia-y-el-desafio-de-recuperar-la-salud-mental/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Niña de 2 años muere tras caer a un pozo de agua en parcela del sector San Valentín en La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/27/nina-de-2-anos-muere-tras-caer-a-un-pozo-de-agua-en-parcela-del-sector-san-valentin-en-la-serena/",
     "descripcion": "",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Seremi del Trabajo recuerda derechos laborales de voluntarios de Bomberos en el contexto de la emergencia regional",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/07/24/seremi-del-trabajo-recuerda-derechos-laborales-de-voluntarios-de-bomberos-en-el-contexto-de-la-emergencia-regional/",
+    "titulo": "Gobierno intensifica proceso de digitación de Fichas Básicas de Emergencia tras sistema frontal en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/27/gobierno-intensifica-proceso-de-digitacion-de-fichas-basicas-de-emergencia-tras-sistema-frontal-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Pronostican nuevas precipitaciones para este viernes en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/27/pronostican-nuevas-precipitaciones-para-este-viernes-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Subsecretario Balmaceda visita obras de emergencia en Ovalle y Punitaqui tras sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/27/subsecretario-balmaceda-visita-obras-de-emergencia-en-ovalle-y-punitaqui-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Enfermedades respiratorias y estomacales: médicos alertan sobre principales riesgos en zonas afectadas por el sistema frontal",
     "enlace": "https://laserenaonline.cl/2026/07/26/enfermedades-respiratorias-y-estomacales-medicos-alertan-sobre-principales-riesgos-en-zonas-afectadas-por-el-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Especialistas explican los peligros de la humedad y cómo ventilar y temperar los hogares",
-    "enlace": "https://laserenaonline.cl/2026/07/26/especialistas-explican-los-peligros-de-la-humedad-y-como-ventilar-y-temperar-los-hogares/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Coquimbo avanza con recursos propios para recuperar la conectividad en zonas afectadas",
-    "enlace": "https://laserenaonline.cl/2026/07/26/coquimbo-avanza-con-recursos-propios-para-recuperar-la-conectividad-en-zonas-afectadas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Campaña solidaria busca devolver la alegría a niñas y niños afectados por las lluvias en la región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/07/26/la-serena-campana-solidaria-busca-devolver-la-alegria-a-ninas-y-ninos-afectados-por-las-lluvias-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,24 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Nuevo sistema frontal dejaría hasta 31 milímetros de lluvia este viernes en la Región de Coquimbo",
+    "enlace": "https://www.davidnoticias.cl/nuevo-sistema-frontal-dejaria-hasta-31-milimetros-de-lluvia-este-viernes-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Foto denuncia: Señal de evacuación por tsunami apunta hacia el mar y genera preocupación en Los Vilos",
+    "enlace": "https://www.davidnoticias.cl/foto-denuncia-senal-de-evacuacion-por-tsunami-apunta-hacia-el-mar-y-genera-preocupacion-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Equipos municipales logran llegar a Culimo para entregar ayuda pese al aislamiento provocado por el temporal",
     "enlace": "https://www.davidnoticias.cl/equipos-municipales-logran-llegar-a-culimo-para-entregar-ayuda-pese-al-aislamiento-provocado-por-el-temporal/",
     "descripcion": "",
@@ -1073,24 +1091,6 @@
   {
     "titulo": "Tensión en Caimanes por incidente en El Mauro: comunidad exigió respuestas a Minera Los Pelambres y autoridades",
     "enlace": "https://www.davidnoticias.cl/tension-en-caimanes-por-incidente-en-el-mauro-comunidad-exigio-respuestas-a-minera-los-pelambres-y-autoridades/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Alcaldes de la región de Coquimbo exigen al Gobierno más de US$500 millones para iniciar la reconstrucción tras el temporal",
-    "enlace": "https://www.davidnoticias.cl/alcaldes-de-la-region-de-coquimbo-exigen-al-gobierno-mas-de-us500-millones-para-iniciar-la-reconstruccion-tras-el-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Alarma ambiental en Salamanca: vecinos de Chuchiñí denuncian presunto vertimiento de ácidos desde instalaciones de Minera Tres Valles",
-    "enlace": "https://www.davidnoticias.cl/alarma-ambiental-en-salamanca-vecinos-de-chuchini-denuncian-presunto-vertimiento-de-acidos-desde-instalaciones-de-minera-tres-valles/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "“Arancel quita potencial”: Empresarios confían que Cancillería revierta fallida negociación con EEUU",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/27/arancel-quita-potencial-empresarios-confian-que-cancilleria-revierta-fallida-negociacion-con-eeuu/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Irán dice que EEUU está “atrapado en un pantano que creó” con la guerra y envía advertencia",
     "enlace": "https://www.atacamanoticias.cl/2026/07/27/iran-dice-que-eeuu-esta-atrapado-en-un-pantano-que-creo-con-la-guerra-y-envia-advertencia/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Al menos 77 mil hectáreas han sido arrasadas en el mayor incendio de la historia de España",
     "enlace": "https://www.atacamanoticias.cl/2026/07/27/al-menos-77-mil-hectareas-han-sido-arrasadas-en-el-mayor-incendio-de-la-historia-de-espana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "73% cree que Mara Sedini dejó de ser ministra por falta de experiencia para el cargo, según Cadem",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/27/73-cree-que-mara-sedini-dejo-de-ser-ministra-por-falta-de-experiencia-para-el-cargo-segun-cadem/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,60 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Salud impulsa vacunación contra hepatitis A e influenza en zonas afectadas por el temporal",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/salud-impulsa-vacunacion-contra-hepatitis-a-e-influenza-en-zonas-afectadas-por-el-temporal-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "CEAZA anticipa lluvias de hasta 31 milímetros desde este viernes en Coquimbo por nuevo sistema frontal",
+    "enlace": "https://www.maray.cl/pais/27/07/2026/ceaza-anticipa-lluvias-de-hasta-31-milimetros-desde-este-viernes-en-coquimbo-por-nuevo-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Avanza recuperación de conectividad en Alto del Carmen",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/avanza-recuperacion-de-conectividad-en-alto-del-carmen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Ruta 5 Norte entre La Serena y Vallenar se mantiene habilitada con restricciones y medidas especiales de gestión de tránsito",
+    "enlace": "https://www.maray.cl/atacama/27/07/2026/ruta-5-norte-entre-la-serena-y-vallenar-se-mantiene-habilitada-con-restricciones-y-medidas-especiales-de-gestion-de-transito/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fiscalía ordena diligencias por muerte de persona en la ruta 5 norte",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/fiscalia-ordena-diligencias-por-muerte-de-persona-en-la-ruta-5-norte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Delegada Sofía Cid destaca avance de las obras para recuperar la conectividad en la Ruta C-10",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/delegada-sofia-cid-destaca-avance-de-las-obras-para-recuperar-la-conectividad-en-la-ruta-c-10-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Andrea Pirlo confirmó que rechazó la banca de la selección italiana",
     "enlace": "https://www.maray.cl/deportes/27/07/2026/andrea-pirlo-confirmo-que-rechazo-la-banca-de-la-seleccion-italiana/",
     "descripcion": "",
@@ -1494,58 +1548,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Subsecretario de Obras Públicas destaca avances en conectividad y coordinación para enfrentar emergencia en la provincia del Huasco",
-    "enlace": "https://www.maray.cl/atacama/27/07/2026/subsecretario-de-obras-publicas-destaca-avances-en-conectividad-y-coordinacion-para-enfrentar-emergencia-en-la-provincia-del-huasco/",
+    "titulo": "Últimos días para postular al Fondo Vecino Sopraval de Educación",
+    "enlace": "https://laliguanoticias.cl/2026/07/27/ultimos-dias-para-postular-al-fondo-vecino-sopraval-de-educacion/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Investigan muerte de ciudadano venezolano tras ataque con arma blanca en Estación Central",
-    "enlace": "https://www.maray.cl/pais/27/07/2026/investigan-muerte-de-ciudadano-venezolano-tras-ataque-con-arma-blanca-en-estacion-central/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "‘The Odyssey’ arrasa en la taquilla mundial y supera los 639 millones de dólares en apenas dos semanas",
-    "enlace": "https://www.maray.cl/internacional/27/07/2026/the-odyssey-arrasa-en-la-taquilla-mundial-y-supera-los-639-millones-de-dolares-en-apenas-dos-semanas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cadem: Aprobación de Kast baja a 37% y mayoría atribuye salida de Mara Sedini a falta de experiencia",
-    "enlace": "https://www.maray.cl/pais/27/07/2026/cadem-aprobacion-de-kast-baja-a-37-y-mayoria-atribuye-salida-de-mara-sedini-a-falta-de-experiencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sistema frontal afectará la Región de Valparaíso con precipitaciones y ráfagas de viento",
-    "enlace": "https://www.maray.cl/pais/27/07/2026/sistema-frontal-afectara-la-region-de-valparaiso-con-precipitaciones-y-rafagas-de-viento/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Deportes Concepción derrotó a O’Higgins y toma distancia de la zona de descenso",
-    "enlace": "https://www.maray.cl/deportes/27/07/2026/deportes-concepcion-derroto-a-ohiggins-y-toma-distancia-de-la-zona-de-descenso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "Diputado Venegas, alcalde Pallares y concejales de La Ligua exigen al gobierno decretar Estado de Catástrofe en la provincia de Petorca",
@@ -1622,15 +1631,6 @@
   {
     "titulo": "Diputado Venegas solicita al Presidente Kast declarar zona de catástrofe para la provincia de Petorca",
     "enlace": "https://laliguanoticias.cl/2026/07/20/diputado-venegas-solicita-al-presidente-kast-declarar-zona-de-catastrofe-para-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputada Bello solicita al Gobierno declarar Estado de Catástrofe para la Provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/07/20/diputada-bello-solicita-al-gobierno-declarar-estado-de-catastrofe-para-la-provincia-de-petorca/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipio de Hijuelas descarta riesgo para la población tras fuga de ácido nítrico en empresa de la zona",
-    "enlace": "https://g5noticias.cl/2026/07/27/municipio-de-hijuelas-descarta-riesgo-para-la-poblacion-tras-fuga-de-acido-nitrico-en-empresa-de-la-zona/",
+    "titulo": "Amplían detención de exseremi de Salud de Magallanes investigado por presunto delito sexual",
+    "enlace": "https://g5noticias.cl/2026/07/27/amplian-detencion-de-exseremi-de-salud-de-magallanes-investigado-por-presunto-delito-sexual/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presidente del PPD, diputado Raúl Soto, por dichos de ministro Alvarado: «El problema está en el oficialismo y en el gobierno, no en la oposición»",
-    "enlace": "https://g5noticias.cl/2026/07/27/presidente-del-ppd-diputado-raul-soto-por-dichos-de-ministro-alvarado-el-problema-esta-en-el-oficialismo-y-en-el-gobierno-no-en-la-oposicion/",
+    "titulo": "Sismo de mediana intensidad en las regiones de Valparaíso y Metropolitana",
+    "enlace": "https://g5noticias.cl/2026/07/27/sismo-de-mediana-intensidad-en-las-regiones-de-valparaiso-y-metropolitana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros mantiene patrullajes en Paso Nevado por desborde del Estero Tricahue y llama a evitar concurrir al sector",
-    "enlace": "https://g5noticias.cl/2026/07/27/carabineros-mantiene-patrullajes-en-paso-nevado-por-desborde-del-estero-tricahue-y-llama-a-evitar-concurrir-al-sector/",
+    "titulo": "Balance delictual refleja importante disminución de robos en la Región de Valparaíso y refuerza el trabajo coordinado para enfrentar los delitos de mayor violencia",
+    "enlace": "https://g5noticias.cl/2026/07/27/balance-delictual-refleja-importante-disminucion-de-robos-en-la-region-de-valparaiso-y-refuerza-el-trabajo-coordinado-para-enfrentar-los-delitos-de-mayor-violencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Solo 38 de cada 100 jóvenes encuentra empleo: Diputados de la Comisión del Trabajo culpan a la gestión laboral de Boric y piden modernizar capacitaciones",
-    "enlace": "https://g5noticias.cl/2026/07/27/solo-38-de-cada-100-jovenes-encuentra-empleo-diputados-de-la-comision-del-trabajo-culpan-a-la-gestion-laboral-de-boric-y-piden-modernizar-capacitaciones/",
+    "titulo": "Kaiser (PNL) y dichos de Ítalo Omegna sobre abusos a niños TEA: “No nos hacemos cargo de declaraciones de ese calibre”",
+    "enlace": "https://g5noticias.cl/2026/07/27/kaiser-pnl-y-dichos-de-italo-omegna-sobre-abusos-a-ninos-tea-no-nos-hacemos-cargo-de-declaraciones-de-ese-calibre/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Frente Amplio retoma su campaña: lista de Martínez suma respaldo de alcaldes y lidera encuentro programático participativo",
-    "enlace": "https://g5noticias.cl/2026/07/27/frente-amplio-retoma-su-campana-lista-de-martinez-suma-respaldo-de-alcaldes-y-lidera-encuentro-programatico-participativo/",
+    "titulo": "Carabineros detuvo a un joven de 15 años que atacó a un funcionario municipal al interior del Liceo Bicentenario de Panquehue",
+    "enlace": "https://g5noticias.cl/2026/07/27/carabineros-detuvo-a-un-joven-de-15-anos-que-ataco-a-un-funcionario-municipal-al-interior-del-liceo-bicentenario-de-panquehue/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscal Nacional nombra a Rodrigo Peña como nuevo Fiscal Regional del Maule",
-    "enlace": "https://g5noticias.cl/2026/07/27/fiscal-nacional-nombra-a-rodrigo-pena-como-nuevo-fiscal-regional-del-maule/",
+    "titulo": "Una persona fallece luego de sufrir una violenta agresión en la comuna de Llay Llay",
+    "enlace": "https://g5noticias.cl/2026/07/27/una-persona-fallece-luego-de-sufrir-una-violenta-agresion-en-la-comuna-de-llay-llay/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Quinto TOP de Santiago condena a 3 años y un día de presidio a autor de receptación de motocicleta",
-    "enlace": "https://g5noticias.cl/2026/07/27/quinto-top-de-santiago-condena-a-3-anos-y-un-dia-de-presidio-a-autor-de-receptacion-de-motocicleta/",
+    "titulo": "Programa Abre: Voluntariado de Teletón Valdivia mejoró accesibilidad en 16 viviendas de la región",
+    "enlace": "https://g5noticias.cl/2026/07/27/programa-abre-voluntariado-de-teleton-valdivia-mejoro-accesibilidad-en-16-viviendas-de-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SLEP Costa Central implementa plan integral de seguridad para resguardar la continuidad de la educación pública",
-    "enlace": "https://g5noticias.cl/2026/07/27/slep-costa-central-implementa-plan-integral-de-seguridad-para-resguardar-la-continuidad-de-la-educacion-publica/",
+    "titulo": "CD Valdivia y CD Castro son clasiqueros! Dominan sus derbis y encienden la Semana 3 de la LNB",
+    "enlace": "https://g5noticias.cl/2026/07/27/cd-valdivia-y-cd-castro-son-clasiqueros-dominan-sus-derbis-y-encienden-la-semana-3-de-la-lnb/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La lluvia no detiene la fiesta. ExpoVino Invierno celebra sus 15 años el próximo sábado con más de 65 viñas",
-    "enlace": "https://g5noticias.cl/2026/07/27/la-lluvia-no-detiene-la-fiesta-expovino-invierno-celebra-sus-15-anos-el-proximo-sabado-con-mas-de-65-vinas/",
+    "titulo": "Diputada Parisi (PDG) y detención de seremi de Magallanes por presunto delito sexual: “Es legítimo preguntarse si los filtros están funcionando”",
+    "enlace": "https://g5noticias.cl/2026/07/27/diputada-parisi-pdg-y-detencion-de-seremi-de-magallanes-por-presunto-delito-sexual-es-legitimo-preguntarse-si-los-filtros-estan-funcionando/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Paltas de Chile se refiere al daño provocado a la actividad por los últimos sistemas frontales",
-    "enlace": "https://g5noticias.cl/2026/07/27/paltas-de-chile-se-refiere-al-dano-provocado-a-la-actividad-por-los-ultimos-sistemas-frontales/",
+    "titulo": "Presidenta de Comisión de Agricultura cita a sesión urgente por situación de agricultores del norte",
+    "enlace": "https://g5noticias.cl/2026/07/27/presidenta-de-comision-de-agricultura-cita-a-sesion-urgente-por-situacion-de-agricultores-del-norte/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
