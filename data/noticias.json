@@ -1008,8 +1008,8 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "Carabinero resulta gravemente herido tras disparo accidental en comisaría de Las Compañías de La Serena",
-    "enlace": "https://www.davidnoticias.cl/carabinero-resulta-gravemente-herido-tras-disparo-accidental-en-comisaria-de-las-companias-de-la-serena/",
+    "titulo": "Fallece carabinero tras recibir disparo accidental durante procedimiento interno en cuartel policial",
+    "enlace": "https://www.davidnoticias.cl/fallece-carabinero-tras-recibir-disparo-accidental-durante-procedimiento-interno-en-cuartel-policial/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,6 +1458,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Coordinación temprana y trabajo en terreno: el apoyo de Caserones a las comunidades rurales durante la emergencia climática",
+    "enlace": "https://www.maray.cl/atacama/28/07/2026/coordinacion-temprana-y-trabajo-en-terreno-el-apoyo-de-caserones-a-las-comunidades-rurales-durante-la-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "¿Por qué escasea el jurel? Fenómeno de El Niño estaría detrás de la menor disponibilidad",
     "enlace": "https://www.maray.cl/pais/27/07/2026/por-que-escasea-el-jurel-fenomeno-de-el-nino-estaria-detras-de-la-menor-disponibilidad/",
     "descripcion": "",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "Salud impulsa vacunación contra hepatitis A e influenza en zonas afectadas por el temporal",
     "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/salud-impulsa-vacunacion-contra-hepatitis-a-e-influenza-en-zonas-afectadas-por-el-temporal-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "CEAZA anticipa lluvias de hasta 31 milímetros desde este viernes en Coquimbo por nuevo sistema frontal",
-    "enlace": "https://www.maray.cl/pais/27/07/2026/ceaza-anticipa-lluvias-de-hasta-31-milimetros-desde-este-viernes-en-coquimbo-por-nuevo-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,6 +1728,69 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Dongfeng Indumotora inicia la preventa del nuevo L7 PHEV: hasta 1.110 km de autonomía total para llegar más lejos",
+    "enlace": "https://g5noticias.cl/2026/07/28/dongfeng-indumotora-inicia-la-preventa-del-nuevo-l7-phev-hasta-1-110-km-de-autonomia-total-para-llegar-mas-lejos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Carabinero falleció al interior de unidad policial en La Serena: investigan disparo accidental",
+    "enlace": "https://g5noticias.cl/2026/07/28/carabinero-fallecio-al-interior-de-unidad-policial-en-la-serena-investigan-disparo-accidental/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "La transformación digital silenciosa que está modernizando la salmonicultura chilena",
+    "enlace": "https://g5noticias.cl/2026/07/28/la-transformacion-digital-silenciosa-que-esta-modernizando-la-salmonicultura-chilena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Festival NochedeMonos celebra 20 años impulsando la animación latinoamericana desde Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/07/28/festival-nochedemonos-celebra-20-anos-impulsando-la-animacion-latinoamericana-desde-universidad-de-las-americas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hombre falleció tras sufrir caída de portón sobre su cuerpo en condominio de Limache",
+    "enlace": "https://g5noticias.cl/2026/07/28/hombre-fallecio-tras-sufrir-caida-de-porton-sobre-su-cuerpo-en-condominio-de-limache/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Sonidos del Biobío celebrará su quinta edición con seis propuestas regionales y el regreso de Niño Cohete",
+    "enlace": "https://g5noticias.cl/2026/07/28/sonidos-del-biobio-celebrara-su-quinta-edicion-con-seis-propuestas-regionales-y-el-regreso-de-nino-cohete/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "¿Deben pagar quienes son rescatados tras actuar con imprudencia? El debate que reabrió el accidente en el Cajón del Maipo",
+    "enlace": "https://g5noticias.cl/2026/07/28/deben-pagar-quienes-son-rescatados-tras-actuar-con-imprudencia-el-debate-que-reabrio-el-accidente-en-el-cajon-del-maipo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Ford Racing inicia una nueva fase de pruebas para su regreso a los Hiperautos en Le Mans",
     "enlace": "https://g5noticias.cl/2026/07/27/ford-racing-inicia-una-nueva-fase-de-pruebas-para-su-regreso-a-los-hiperautos-en-le-mans/",
     "descripcion": "",
@@ -1748,69 +1811,6 @@
   {
     "titulo": "Canciller Pérez Mackenna expone ejes principales de la candidatura de Valparaíso a ser sede de la Secretaría del Acuerdo BBNJ: «Chile es un puente confiable entre diversas regiones y visiones del mundo»",
     "enlace": "https://g5noticias.cl/2026/07/27/canciller-perez-mackenna-expone-ejes-principales-de-la-candidatura-de-valparaiso-a-ser-sede-de-la-secretaria-del-acuerdo-bbnj-chile-es-un-puente-confiable-entre-diversas-regiones-y-visiones-del-mun/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Qué significa el término “3L”? La fórmula de Geely que busca revolucionar la eficiencia del SUV híbrido en Chile",
-    "enlace": "https://g5noticias.cl/2026/07/27/que-significa-el-termino-3l-la-formula-de-geely-que-busca-revolucionar-la-eficiencia-del-suv-hibrido-en-chile-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Especialista UOH entrega recomendaciones para el manejo seguro de alimentos tras los sistemas frontales",
-    "enlace": "https://g5noticias.cl/2026/07/27/especialista-uoh-entrega-recomendaciones-para-el-manejo-seguro-de-alimentos-tras-los-sistemas-frontales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Investigan el impacto de la migración en la agenda parlamentaria",
-    "enlace": "https://g5noticias.cl/2026/07/27/investigan-el-impacto-de-la-migracion-en-la-agenda-parlamentaria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Supereduc impulsa plan para reducir la burocracia y acompañar mejor a las comunidades educativas",
-    "enlace": "https://g5noticias.cl/2026/07/27/supereduc-impulsa-plan-para-reducir-la-burocracia-y-acompanar-mejor-a-las-comunidades-educativas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "INDH La Araucanía ofició a la Superintendencia de Electricidad y Combustibles por interrupciones de suministro eléctrico que afectaron a más de 24 mil hogares de la región",
-    "enlace": "https://g5noticias.cl/2026/07/27/indh-la-araucania-oficio-a-la-superintendencia-de-electricidad-y-combustibles-por-interrupciones-de-suministro-electrico-que-afectaron-a-mas-de-24-mil-hogares-de-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Decano de la Facultad de Medicina UV destaca labor y enfoque estratégico del nuevo Consejo Nacional de Salud",
-    "enlace": "https://g5noticias.cl/2026/07/27/decano-de-la-facultad-de-medicina-uv-destaca-labor-y-enfoque-estrategico-del-nuevo-consejo-nacional-de-salud/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Prohibir el anatocismo ¿alivio para los deudores o un costo para todos? Por José Navarrete Oyarce, Director del Magíster en Tributación Universidad Andrés Bello",
-    "enlace": "https://g5noticias.cl/2026/07/27/prohibir-el-anatocismo-alivio-para-los-deudores-o-un-costo-para-todos-por-jose-navarrete-oyarce-director-del-magister-en-tributacion-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
