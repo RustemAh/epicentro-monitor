@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Ministerio de Salud declara Alerta Sanitaria por hantavirus a la región de Coquimbo y 12 regiones del país",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/28/ministerio-de-salud-declara-alerta-sanitaria-por-hantavirus-a-la-region-de-coquimbo-y-12-regiones-del-pais/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Traslados aeromédicos han permitido atender a pacientes tras intensas lluvias en la Región de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/28/traslados-aeromedicos-han-permitido-atender-a-pacientes-tras-intensas-lluvias-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Refuerzan la prevención de la Hepatitis A tras la emergencia climática",
     "enlace": "https://www.elcoquimbano.cl/2026/07/25/refuerzan-la-prevencion-de-la-hepatitis-a-tras-la-emergencia-climatica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Pueblito Peñuelas de Coquimbo iniciará reapertura gradual de sus espacios tras el sistema frontal",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/24/pueblito-penuelas-de-coquimbo-iniciara-reapertura-gradual-de-sus-espacios-tras-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "La solidaridad sigue en marcha: Coquimbo extiende llamado a colaborar con familias afectadas por el sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/28/la-solidaridad-sigue-en-marcha-coquimbo-extiende-llamado-a-colaborar-con-familias-afectadas-por-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Traslados aeromédicos han permitido atender a pacientes tras intensas lluvias en la región",
+    "enlace": "https://laserenaonline.cl/2026/07/28/traslados-aeromedicos-han-permitido-atender-a-pacientes-tras-intensas-lluvias-en-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Ficha Básica de Emergencia permite identificar el nivel de afectación de las familias y determinar la entrega del Bono de Recuperación",
     "enlace": "https://laserenaonline.cl/2026/07/28/ficha-basica-de-emergencia-permite-identificar-el-nivel-de-afectacion-de-las-familias-y-determinar-la-entrega-del-bono-de-recuperacion/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Dominga distribuye más de 200 mil litros de agua potable en la Región para apoyar a familias afectadas por el tempopral",
     "enlace": "https://laserenaonline.cl/2026/07/28/dominga-distribuye-mas-de-200-mil-litros-de-agua-potable-en-la-region-para-apoyar-a-familias-afectadas-por-el-tempopral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Illapel: Fiscalía instruye diligencias por hallazgo de feto humano",
-    "enlace": "https://laserenaonline.cl/2026/07/28/illapel-fiscalia-instruye-diligencias-por-hallazgo-de-feto-humano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Mocasines de mujer: el calzado elegante y cómodo que volvió para quedarse",
-    "enlace": "https://laserenaonline.cl/2026/07/28/mocasines-de-mujer-el-calzado-elegante-y-comodo-que-volvio-para-quedarse/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Evacúan preventivamente el Liceo Nicolás Federico Lohse Vargas por fuerte olor a gas: investigan origen de la emanación",
+    "enlace": "https://www.davidnoticias.cl/evacuan-preventivamente-el-liceo-nicolas-federico-lohse-vargas-por-fuerte-olor-a-gas-investigan-origen-de-la-emanacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "La catástrofe que reveló nuestra ceguera sistémica",
     "enlace": "https://www.davidnoticias.cl/la-catastrofe-que-revelo-nuestra-ceguera-sistemica/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Astrónomos del CATA reconstruyen la evolución química de 3I/ATLAS tras su paso por el Sistema Solar",
     "enlace": "https://www.davidnoticias.cl/astronomos-del-cata-reconstruyen-la-evolucion-quimica-de-3i-atlas-tras-su-paso-por-el-sistema-solar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Criteria: aumenta desaprobación al Presidente Kast y mayoría rechaza proyecto “Escucha tu corazón”",
-    "enlace": "https://www.davidnoticias.cl/criteria-aumenta-desaprobacion-al-presidente-kast-y-mayoria-rechaza-proyecto-escucha-tu-corazon/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sistema frontal: región de Valparaíso lidera aplicación de ficha FIBE a nivel nacional",
-    "enlace": "https://g5noticias.cl/2026/07/28/sistema-frontal-region-de-valparaiso-lidera-aplicacion-de-ficha-fibe-a-nivel-nacional/",
+    "titulo": "Fernando Ubiergo celebra 50 años de legado y grandes canciones",
+    "enlace": "https://g5noticias.cl/2026/07/28/fernando-ubiergo-celebra-50-anos-de-legado-y-grandes-canciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Venegas y concejal Camilo Castillo exigen priorizar recuperación del Jardín Ovillito de Lana en La Ligua",
-    "enlace": "https://g5noticias.cl/2026/07/28/diputado-venegas-y-concejal-camilo-castillo-exigen-priorizar-recuperacion-del-jardin-ovillito-de-lana-en-la-ligua/",
+    "titulo": "La reforma tributaria ya fue aprobada, ¿y ahora qué? Por Catherine Ruz, Socia fundadora de Grey Capital",
+    "enlace": "https://g5noticias.cl/2026/07/28/la-reforma-tributaria-ya-fue-aprobada-y-ahora-que-por-catherine-ruz-socia-fundadora-de-grey-capital/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Cómo apoyar a niños y niñas durante una emergencia?",
-    "enlace": "https://g5noticias.cl/2026/07/28/como-apoyar-a-ninos-y-ninas-durante-una-emergencia/",
+    "titulo": "Lomas Bayas incorpora tecnología que detiene equipos de forma autónoma para proteger a las personas",
+    "enlace": "https://g5noticias.cl/2026/07/28/lomas-bayas-incorpora-tecnologia-que-detiene-equipos-de-forma-autonoma-para-proteger-a-las-personas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Consejo Regional de Capacitación de Valparaíso aprueba cursos de alta demanda laboral para 2027 con inversión superior a $500 millones",
-    "enlace": "https://g5noticias.cl/2026/07/28/consejo-regional-de-capacitacion-de-valparaiso-aprueba-cursos-de-alta-demanda-laboral-para-2027-con-inversion-superior-a-500-millones/",
+    "titulo": "Diputado Romero (PRep) presenta proyecto para sancionar como delito de aborto la venta ilegal de medicamentos para ese fin",
+    "enlace": "https://g5noticias.cl/2026/07/28/diputado-romero-prep-presenta-proyecto-para-sancionar-como-delito-de-aborto-la-venta-ilegal-de-medicamentos-para-ese-fin/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sebastián Vergara, secretario general del PPD: «No puede haber reforma laboral si no se incluye a los trabajadores»",
-    "enlace": "https://g5noticias.cl/2026/07/28/sebastian-vergara-secretario-general-del-ppd-no-puede-haber-reforma-laboral-si-no-se-incluye-a-los-trabajadores/",
+    "titulo": "Equipos del Hospital Provincial Marga Marga preparan simulacro previo al plan de traslado seguro de pacientes",
+    "enlace": "https://g5noticias.cl/2026/07/28/equipos-del-hospital-provincial-marga-marga-preparan-simulacro-previo-al-plan-de-traslado-seguro-de-pacientes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Autoridades detallaron medidas de seguridad para el encuentro entre Everton y Colo-Colo",
-    "enlace": "https://g5noticias.cl/2026/07/28/autoridades-detallaron-medidas-de-seguridad-para-el-encuentro-entre-everton-y-colo-colo/",
+    "titulo": "Seremi de Seguridad destaca proyecto para fortalecer a Carabineros",
+    "enlace": "https://g5noticias.cl/2026/07/28/seremi-de-seguridad-destaca-proyecto-para-fortalecer-a-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En medio del sistema frontal: MOP anuncia licitaciones de 3 obras hidráulicas por más de $1.237 millones para fortalecer la prevención en Ñuble",
-    "enlace": "https://g5noticias.cl/2026/07/28/en-medio-del-sistema-frontal-mop-anuncia-licitaciones-de-3-obras-hidraulicas-por-mas-de-1-237-millones-para-fortalecer-la-prevencion-en-nuble/",
+    "titulo": "Estudiantes UVM presentan diseño urbano-arquitectónico para el futuro Complejo Deportivo de San Felipe",
+    "enlace": "https://g5noticias.cl/2026/07/28/estudiantes-uvm-presentan-diseno-urbano-arquitectonico-para-el-futuro-complejo-deportivo-de-san-felipe/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministerio de Salud declara Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
-    "enlace": "https://g5noticias.cl/2026/07/28/ministerio-de-salud-declara-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
+    "titulo": "Presidenta del Senado presenta proyecto de Ley Marco de Atención Temprana para fortalecer la inclusión de niños y niñas neurodivergentes",
+    "enlace": "https://g5noticias.cl/2026/07/28/presidenta-del-senado-presenta-proyecto-de-ley-marco-de-atencion-temprana-para-fortalecer-la-inclusion-de-ninos-y-ninas-neurodivergentes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Copiapó: Fiscalía obtuvo prisión preventiva de imputado que disparó con arma a fogueo a carabineros",
-    "enlace": "https://g5noticias.cl/2026/07/28/copiapo-fiscalia-obtuvo-prision-preventiva-de-imputado-que-disparo-con-arma-a-fogueo-a-carabineros/",
+    "titulo": "Oficina móvil de CGE mantiene atención especial en la provincia de Petorca tras la contingencia climática",
+    "enlace": "https://g5noticias.cl/2026/07/28/oficina-movil-de-cge-mantiene-atencion-especial-en-la-provincia-de-petorca-tras-la-contingencia-climatica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PNL pide investigar a Fundación Libera y Ecoceanos tras aumento de aranceles de EE.UU. a exportaciones chilenas",
-    "enlace": "https://g5noticias.cl/2026/07/28/pnl-pide-investigar-a-fundacion-libera-y-ecoceanos-tras-aumento-de-aranceles-de-ee-uu-a-exportaciones-chilenas/",
+    "titulo": "PPD llama al Gobierno a convocar el Consejo de Política Exterior y a los excancilleres ante alza de aranceles por parte de Estados Unidos",
+    "enlace": "https://g5noticias.cl/2026/07/28/ppd-llama-al-gobierno-a-convocar-el-consejo-de-politica-exterior-y-a-los-excancilleres-ante-alza-de-aranceles-por-parte-de-estados-unidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Formalizan a exseremi de Salud por violación, pero jueza solo impone arraigo nacional",
+    "enlace": "https://laprensaaustral.cl/2026/07/28/formalizan-a-exseremi-de-salud-por-violacion-pero-jueza-solo-impone-arraigo-nacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Santo Tomás y Municipalidad firman acuerdo para prácticas de estudiantes de actividad física",
     "enlace": "https://laprensaaustral.cl/2026/07/28/santo-tomas-y-municipalidad-firman-acuerdo-para-practicas-de-estudiantes-de-actividad-fisica/",
     "descripcion": "",
@@ -1989,12 +1998,93 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Alerta Roja para Futrono y Valdivia",
-    "enlace": "https://laprensaaustral.cl/2026/07/28/alerta-roja-para-futrono-y-valdivia/",
+    "titulo": "¿Cuándo es el momento de implementar SAP en una empresa en crecimiento?",
+    "enlace": "https://elmagallanico.com/2026/07/28/cuando-es-el-momento-de-implementar-sap-en-una-empresa-en-crecimiento/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Edelmag entrega ropa de invierno para estudiantes de la escuela Padre Hurtado",
+    "enlace": "https://elmagallanico.com/2026/07/28/edelmag-entrega-ropa-de-invierno-para-estudiantes-de-la-escuela-padre-hurtado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Cine Star celebra un nuevo aniversario con promociones, actividades y el estreno de Spider-Man",
+    "enlace": "https://elmagallanico.com/2026/07/28/cine-star-celebra-un-nuevo-aniversario-con-promociones-actividades-y-el-estreno-de-spider-man/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Enap ingresa a Evaluación Ambiental proyecto por 690 millones de dólares para la extracción de hidrocarburos en continente",
+    "enlace": "https://elmagallanico.com/2026/07/28/enap-ingresa-a-evaluacion-ambiental-proyecto-por-690-millones-de-dolares-para-la-extraccion-de-hidrocarburos-en-continente/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Cómo elegir el jean de mujer ideal y acertar en tu elección",
+    "enlace": "https://elmagallanico.com/2026/07/23/como-elegir-el-jean-de-mujer-ideal-y-acertar-en-tu-eleccion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "EpaAustral conmemora una década de las Rampas de Conectividad con exposición fotográfica en Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/07/23/epaaustral-conmemora-una-decada-de-las-rampas-de-conectividad-con-exposicion-fotografica-en-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Más de 400 emergencias por congelamiento: Aguas Magallanes reitera llamado a proteger medidores y cañerías",
+    "enlace": "https://elmagallanico.com/2026/07/21/mas-de-400-emergencias-por-congelamiento-aguas-magallanes-reitera-llamado-a-proteger-medidores-y-canerias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Opinión: Los costos de defender derechos humanos en las cárceles",
+    "enlace": "https://elmagallanico.com/2026/07/21/opinion-los-costos-de-defender-derechos-humanos-en-las-carceles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Opinión: La resiliencia de las cadenas de suministro también se construye con personas",
+    "enlace": "https://elmagallanico.com/2026/07/21/opinion-la-resiliencia-de-las-cadenas-de-suministro-tambien-se-construye-con-personas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Opinión: Una crisis que comienza antes de 1° básico",
+    "enlace": "https://elmagallanico.com/2026/07/20/opinion-una-crisis-que-comienza-antes-de-1-basico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   }
 ]
