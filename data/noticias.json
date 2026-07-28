@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Gobierno extiende plazo para la revisión técnica en la Región de Coquimbo tras sistema frontal",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/27/gobierno-extiende-plazo-para-la-revision-tecnica-en-la-region-de-coquimbo-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Carta al Director: Cuando la seguridad de las comunidades educativas queda en segundo plano en Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/27/carta-al-director-cuando-la-seguridad-de-las-comunidades-educativas-queda-en-segundo-plano-en-coquimbo/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Víctor Pino acumula presiones y su salida de la Delegación Presidencial se vuelve cada vez más probable",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/24/victor-pino-acumula-presiones-y-su-salida-de-la-delegacion-presidencial-se-vuelve-cada-vez-mas-probable/",
+    "titulo": "Carabinero fallece tras disparo accidental recibido al interior de la Sexta Comisaría de Las Compañías",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/27/carabinero-fallece-tras-disparo-accidental-recibido-al-interior-de-la-sexta-comisaria-de-las-companias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Gobernador Juliá convoca a sesión extraordinaria del CORE para aprobar histórica cartera de proyectos por más de $18 mil millones",
@@ -164,15 +173,6 @@
   {
     "titulo": "La Serena prioriza la apertura de caminos para llegar a sectores aislados y recuperar el tránsito comunal",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/25/la-serena-prioriza-la-apertura-de-caminos-para-llegar-a-sectores-aislados-y-recuperar-el-transito-comunal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Ruta 5 entre La Serena y Copiapó operará con restricciones y tránsito regulado durante este fin de semana",
-    "enlace": "https://www.elserenense.cl/regionales/2026/07/25/ruta-5-entre-la-serena-y-copiapo-operara-con-restricciones-y-transito-regulado-durante-este-fin-de-semana/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -270,8 +270,8 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Nacional. Esta tarde, joven de 20 años muere tras recibir disparo en la cabeza",
-    "enlace": "https://serenaycoquimbo.cl/nacional-esta-tarde-joven-de-20-anos-muere-tras-recibir-disparo-en-la-cabeza/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-tarde-joven-de-20-anos-muere-tras-recibir-disparo-en-la-cabeza",
+    "titulo": "Región Coquimbo. Un temblor ocurrió esta noche de lunes",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-un-temblor-ocurrio-esta-noche-de-lunes/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-un-temblor-ocurrio-esta-noche-de-lunes",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -279,8 +279,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "SLEP Elqui informa que 20 de sus establecimientos regresan a clases este lunes 27 de julio",
-    "enlace": "https://serenaycoquimbo.cl/slep-elqui-informa-que-20-de-sus-establecimientos-regresan-a-clases-este-lunes-27-de-julio/?utm_source=rss&utm_medium=rss&utm_campaign=slep-elqui-informa-que-20-de-sus-establecimientos-regresan-a-clases-este-lunes-27-de-julio",
+    "titulo": "Región Coquimbo: CEAZA pronostica precipitaciones para este viernes de hasta 30 mm",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-ceaza-pronostica-precipitaciones-para-este-viernes-de-hasta-30-mm/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-ceaza-pronostica-precipitaciones-para-este-viernes-de-hasta-30-mm",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -288,8 +288,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Nacional. Esta tarde, sujeto es abatido por funcionario PDI tras frustrar robo en servicentro",
-    "enlace": "https://serenaycoquimbo.cl/nacional-esta-tarde-sujeto-es-abatido-por-funcionario-pdi-tras-frustrar-robo-en-servicentro/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-tarde-sujeto-es-abatido-por-funcionario-pdi-tras-frustrar-robo-en-servicentro",
+    "titulo": "Maquinaria gestionada por la Delegación Presidencial refuerza la recuperación en las comunas de la Región de Coquimbo",
+    "enlace": "https://serenaycoquimbo.cl/maquinaria-gestionada-por-la-delegacion-presidencial-refuerza-la-recuperacion-en-las-comunas-de-la-region-de-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=maquinaria-gestionada-por-la-delegacion-presidencial-refuerza-la-recuperacion-en-las-comunas-de-la-region-de-coquimbo",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -297,8 +297,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Manouchehri (PS) oficia a Superintendencia por crisis de Aguas del Valle y pide evaluar continuidad de la empresa",
-    "enlace": "https://serenaycoquimbo.cl/manouchehri-ps-oficia-a-superintendencia-por-crisis-de-aguas-del-valle-y-pide-evaluar-continuidad-de-la-empresa/?utm_source=rss&utm_medium=rss&utm_campaign=manouchehri-ps-oficia-a-superintendencia-por-crisis-de-aguas-del-valle-y-pide-evaluar-continuidad-de-la-empresa",
+    "titulo": "Ficha Básica de Emergencia permite identificar el nivel de afectación de las familias y determinar la entrega del Bono de Recuperación",
+    "enlace": "https://serenaycoquimbo.cl/ficha-basica-de-emergencia-permite-identificar-el-nivel-de-afectacion-de-las-familias-y-determinar-la-entrega-del-bono-de-recuperacion/?utm_source=rss&utm_medium=rss&utm_campaign=ficha-basica-de-emergencia-permite-identificar-el-nivel-de-afectacion-de-las-familias-y-determinar-la-entrega-del-bono-de-recuperacion",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -306,8 +306,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Región Coquimbo. Pronostican precipitaciones de agua y nieve entre lunes en la noche y martes",
-    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-pronostican-precipitaciones-de-agua-y-nieve-entre-lunes-en-la-noche-y-martes/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-pronostican-precipitaciones-de-agua-y-nieve-entre-lunes-en-la-noche-y-martes",
+    "titulo": "Senador Núñez exige a superintendencia que Aguas del Valle compense a la gente por extensos cortes",
+    "enlace": "https://serenaycoquimbo.cl/senador-nunez-exige-a-superintendencia-que-aguas-del-valle-compense-a-la-gente-por-extensos-cortes/?utm_source=rss&utm_medium=rss&utm_campaign=senador-nunez-exige-a-superintendencia-que-aguas-del-valle-compense-a-la-gente-por-extensos-cortes",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -315,8 +315,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "La Serena. Varias familias necesitan ayuda; aún están aislados en el sector Los Porotitos",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-varias-familias-necesitan-ayuda-aun-estan-aislados-en-el-sector-los-porotitos/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-varias-familias-necesitan-ayuda-aun-estan-aislados-en-el-sector-los-porotitos",
+    "titulo": "Agricultores de Monte Patria por dichos de ministro Campos: “El ninguneo es un daño peor que la catástrofe”",
+    "enlace": "https://serenaycoquimbo.cl/agricultores-de-monte-patria-por-dichos-de-ministro-campos-el-ninguneo-es-un-dano-peor-que-la-catastrofe/?utm_source=rss&utm_medium=rss&utm_campaign=agricultores-de-monte-patria-por-dichos-de-ministro-campos-el-ninguneo-es-un-dano-peor-que-la-catastrofe",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -324,8 +324,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Biministro Louis de Grange: “Hemos tenido un avance significativo en la recuperación de la conectividad, agua potable y telecomunicaciones”",
-    "enlace": "https://serenaycoquimbo.cl/biministro-louis-de-grange-hemos-tenido-un-avance-significativo-en-la-recuperacion-de-la-conectividad-agua-potable-y-telecomunicaciones/?utm_source=rss&utm_medium=rss&utm_campaign=biministro-louis-de-grange-hemos-tenido-un-avance-significativo-en-la-recuperacion-de-la-conectividad-agua-potable-y-telecomunicaciones",
+    "titulo": "La Serena: Apoyo veterinario beneficia a crianceros y mascotas",
+    "enlace": "https://serenaycoquimbo.cl/la-serena-apoyo-veterinario-beneficia-a-crianceros-y-mascotas/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-apoyo-veterinario-beneficia-a-crianceros-y-mascotas",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -333,8 +333,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Aguas del Valle produce a niveles máximos, pero enfrenta consumo excepcional que retrasa la normalización total del servicio",
-    "enlace": "https://serenaycoquimbo.cl/aguas-del-valle-produce-a-niveles-maximos-pero-enfrenta-consumo-excepcional-que-retrasa-la-normalizacion-total-del-servicio/?utm_source=rss&utm_medium=rss&utm_campaign=aguas-del-valle-produce-a-niveles-maximos-pero-enfrenta-consumo-excepcional-que-retrasa-la-normalizacion-total-del-servicio",
+    "titulo": "Valle del Elqui. Hallan cuerpo calcinado de mujer en sitio eriazo",
+    "enlace": "https://serenaycoquimbo.cl/valle-del-elqui-hallan-cuerpo-calcinado-de-mujer-en-sitio-eriazo/?utm_source=rss&utm_medium=rss&utm_campaign=valle-del-elqui-hallan-cuerpo-calcinado-de-mujer-en-sitio-eriazo",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -342,8 +342,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Coquimbo. Cientos de bomberos andan distribuyendo agua a la población",
-    "enlace": "https://serenaycoquimbo.cl/coquimbo-cientos-de-bomberos-andan-distribuyendo-agua-a-la-poblacion/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-cientos-de-bomberos-andan-distribuyendo-agua-a-la-poblacion",
+    "titulo": "La Serena. Esta noche. Carabinero resulta herido de gravedad tras disparo en el tórax",
+    "enlace": "https://serenaycoquimbo.cl/la-serena-esta-noche-carabinero-resulta-herido-de-gravedad-tras-disparo-en-el-torax/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-esta-noche-carabinero-resulta-herido-de-gravedad-tras-disparo-en-el-torax",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -351,8 +351,8 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "La Serena-Coquimbo. Denuncian que varios sectores de la conurbación están aún sin suministro de agua potable",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-coquimbo-denuncian-que-varios-sectores-de-la-conurbacion-estan-aun-sin-suministro-de-agua-potable/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-coquimbo-denuncian-que-varios-sectores-de-la-conurbacion-estan-aun-sin-suministro-de-agua-potable",
+    "titulo": "La Serena. Niña de 2 años fallece tras caer a pozo",
+    "enlace": "https://serenaycoquimbo.cl/la-serena-nina-de-2-anos-fallece-tras-caer-a-pozo/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-nina-de-2-anos-fallece-tras-caer-a-pozo",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Carabinero resulta gravemente herido tras disparo accidental en comisaría de Las Compañías de La Serena",
+    "enlace": "https://www.davidnoticias.cl/carabinero-resulta-gravemente-herido-tras-disparo-accidental-en-comisaria-de-las-companias-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Investigan muerte de niña de 2 años tras caer a un pozo en La Serena",
     "enlace": "https://www.davidnoticias.cl/investigan-muerte-de-nina-de-2-anos-tras-caer-a-un-pozo-en-la-serena/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Gobernador Regional llevará al CORE millonario plan de reconstrucción para comunas afectadas por el sistema frontal",
     "enlace": "https://www.davidnoticias.cl/gobernador-regional-llevara-al-core-millonario-plan-de-reconstruccion-para-comunas-afectadas-por-el-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "PDI informa que 17 de las 20 denuncias por presunta desgracia en la Región de Coquimbo ya fueron resueltas",
-    "enlace": "https://www.davidnoticias.cl/pdi-informa-que-17-de-las-20-denuncias-por-presunta-desgracia-en-la-region-de-coquimbo-ya-fueron-resueltas/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1458,6 +1458,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "¿Por qué escasea el jurel? Fenómeno de El Niño estaría detrás de la menor disponibilidad",
+    "enlace": "https://www.maray.cl/pais/27/07/2026/por-que-escasea-el-jurel-fenomeno-de-el-nino-estaria-detras-de-la-menor-disponibilidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Senapred declara Alerta Roja en Futrono y Valdivia por desborde de ríos y riesgo para viviendas",
+    "enlace": "https://www.maray.cl/pais/27/07/2026/senapred-declara-alerta-roja-en-futrono-y-valdivia-por-desborde-de-rios-y-riesgo-para-viviendas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Unión La Calera rescata un empate agónico ante Everton bajo la lluvia en el Nicolás Chahuán",
+    "enlace": "https://www.maray.cl/deportes/27/07/2026/union-la-calera-rescata-un-empate-agonico-ante-everton-bajo-la-lluvia-en-el-nicolas-chahuan/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Incendio en tren obliga a suspender parte de la Línea 5 del Metro y deja una docena de afectados por humo",
+    "enlace": "https://www.maray.cl/pais/27/07/2026/incendio-en-tren-obliga-a-suspender-parte-de-la-linea-5-del-metro-y-deja-una-docena-de-afectados-por-humo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Copiapó: Fiscalía obtuvo pena efectiva de cárcel  en contra de autor de delito de femicidio frustrado",
+    "enlace": "https://www.maray.cl/atacama/27/07/2026/copiapo-fiscalia-obtuvo-pena-efectiva-de-carcel-en-contra-de-autor-de-delito-de-femicidio-frustrado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Niña de 8 años resulta con nueve heridas tras ser atacada por otra estudiante en escuela de La Granja",
     "enlace": "https://www.maray.cl/pais/27/07/2026/nina-de-8-anos-resulta-con-nueve-heridas-tras-ser-atacada-por-otra-estudiante-en-escuela-de-la-granja/",
     "descripcion": "",
@@ -1503,49 +1548,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Avanza recuperación de conectividad en Alto del Carmen",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/avanza-recuperacion-de-conectividad-en-alto-del-carmen/",
+    "titulo": "Anuncian inicio de construcción de nuevas veredas y espacios públicos en El Pedernal",
+    "enlace": "https://laliguanoticias.cl/2026/07/27/anuncian-inicio-de-construccion-de-nuevas-veredas-y-espacios-publicos-en-el-pedernal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Ruta 5 Norte entre La Serena y Vallenar se mantiene habilitada con restricciones y medidas especiales de gestión de tránsito",
-    "enlace": "https://www.maray.cl/atacama/27/07/2026/ruta-5-norte-entre-la-serena-y-vallenar-se-mantiene-habilitada-con-restricciones-y-medidas-especiales-de-gestion-de-transito/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Fiscalía ordena diligencias por muerte de persona en la ruta 5 norte",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/fiscalia-ordena-diligencias-por-muerte-de-persona-en-la-ruta-5-norte/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Delegada Sofía Cid destaca avance de las obras para recuperar la conectividad en la Ruta C-10",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/delegada-sofia-cid-destaca-avance-de-las-obras-para-recuperar-la-conectividad-en-la-ruta-c-10-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Andrea Pirlo confirmó que rechazó la banca de la selección italiana",
-    "enlace": "https://www.maray.cl/deportes/27/07/2026/andrea-pirlo-confirmo-que-rechazo-la-banca-de-la-seleccion-italiana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "Diputada Sofía González solicita revisar normativa vigente que regula a mineras ante emergencias que puedan afectar el medio ambiente",
@@ -1622,15 +1631,6 @@
   {
     "titulo": "Diputado Venegas exige suspender las clases durante el resto de la semana en la provincia de Petorca",
     "enlace": "https://laliguanoticias.cl/2026/07/21/diputado-venegas-exige-suspender-las-clases-durante-el-resto-de-la-semana-en-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "“Sencillamente no se prepararon”: Diputado Mella oficia al Ministerio de Energía y advierte sobre alimentos en descomposición e insulinas en riesgo",
-    "enlace": "https://laliguanoticias.cl/2026/07/21/sencillamente-no-se-prepararon-diputado-mella-oficia-al-ministerio-de-energia-y-advierte-sobre-alimentos-en-descomposicion-e-insulinas-en-riesgo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bancada de Diputados Republicanos solicitarán una CEI tras confirmarse caso de falsa detenida desaparecida en Argentina",
-    "enlace": "https://g5noticias.cl/2026/07/27/bancada-de-diputados-republicanos-solicitaran-una-cei-tras-confirmarse-caso-de-falsa-detenida-desaparecida-en-argentina/",
+    "titulo": "Ford Racing inicia una nueva fase de pruebas para su regreso a los Hiperautos en Le Mans",
+    "enlace": "https://g5noticias.cl/2026/07/27/ford-racing-inicia-una-nueva-fase-de-pruebas-para-su-regreso-a-los-hiperautos-en-le-mans/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sistema frontal: Brito llama a la unidad y búsqueda de soluciones tras reunión en Senapred",
-    "enlace": "https://g5noticias.cl/2026/07/27/sistema-frontal-brito-llama-a-la-unidad-y-busqueda-de-soluciones-tras-reunion-en-senapred/",
+    "titulo": "Compañías de seguros amplían plazo para presentar denuncio de siniestro",
+    "enlace": "https://g5noticias.cl/2026/07/27/companias-de-seguros-amplian-plazo-para-presentar-denuncio-de-siniestro/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremía de Desarrollo Social y Familia brindó apoyo en las 36 comunas continentales de la región de Valparaíso tras el sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/27/seremia-de-desarrollo-social-y-familia-brindo-apoyo-en-las-36-comunas-continentales-de-la-region-de-valparaiso-tras-el-sistema-frontal/",
+    "titulo": "Canciller Pérez Mackenna expone ejes principales de la candidatura de Valparaíso a ser sede de la Secretaría del Acuerdo BBNJ: «Chile es un puente confiable entre diversas regiones y visiones del mundo»",
+    "enlace": "https://g5noticias.cl/2026/07/27/canciller-perez-mackenna-expone-ejes-principales-de-la-candidatura-de-valparaiso-a-ser-sede-de-la-secretaria-del-acuerdo-bbnj-chile-es-un-puente-confiable-entre-diversas-regiones-y-visiones-del-mun/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Rector de la PUCV asume nuevo período con llamado a proyectar la Universidad hacia su Centenario",
-    "enlace": "https://g5noticias.cl/2026/07/27/rector-de-la-pucv-asume-nuevo-periodo-con-llamado-a-proyectar-la-universidad-hacia-su-centenario/",
+    "titulo": "¿Qué significa el término “3L”? La fórmula de Geely que busca revolucionar la eficiencia del SUV híbrido en Chile",
+    "enlace": "https://g5noticias.cl/2026/07/27/que-significa-el-termino-3l-la-formula-de-geely-que-busca-revolucionar-la-eficiencia-del-suv-hibrido-en-chile-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cencosud, Duracell, Falabella y Tottus se suman a TRAEE en una etapa clave para la implementación de la Ley REP",
-    "enlace": "https://g5noticias.cl/2026/07/27/cencosud-duracell-falabella-y-tottus-se-suman-a-traee-en-una-etapa-clave-para-la-implementacion-de-la-ley-rep/",
+    "titulo": "Especialista UOH entrega recomendaciones para el manejo seguro de alimentos tras los sistemas frontales",
+    "enlace": "https://g5noticias.cl/2026/07/27/especialista-uoh-entrega-recomendaciones-para-el-manejo-seguro-de-alimentos-tras-los-sistemas-frontales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Sofía González solicita revisar normativa vigente que regula a mineras ante emergencias que puedan afectar el medio ambiente",
-    "enlace": "https://g5noticias.cl/2026/07/27/diputada-sofia-gonzalez-solicita-revisar-normativa-vigente-que-regula-a-mineras-ante-emergencias-que-puedan-afectar-el-medio-ambiente/",
+    "titulo": "Investigan el impacto de la migración en la agenda parlamentaria",
+    "enlace": "https://g5noticias.cl/2026/07/27/investigan-el-impacto-de-la-migracion-en-la-agenda-parlamentaria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Omar Sabat (UDI) respalda proyecto que establece la cesación del cargo para autoridades que den positivo en test de drogas: “Las autoridades debemos ser los primeros en dar el ejemplo”",
-    "enlace": "https://g5noticias.cl/2026/07/27/diputado-omar-sabat-udi-respalda-proyecto-que-establece-la-cesacion-del-cargo-para-autoridades-que-den-positivo-en-test-de-drogas-las-autoridades-debemos-ser-los-primeros-en-dar-el-ejemplo/",
+    "titulo": "Supereduc impulsa plan para reducir la burocracia y acompañar mejor a las comunidades educativas",
+    "enlace": "https://g5noticias.cl/2026/07/27/supereduc-impulsa-plan-para-reducir-la-burocracia-y-acompanar-mejor-a-las-comunidades-educativas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senadora Vodanovic por renuncia Minvu Maule: “Necesitamos autoridades con vocación de servicio sobre todo en emergencias”",
-    "enlace": "https://g5noticias.cl/2026/07/27/senadora-vodanovic-por-renuncia-minvu-maule-necesitamos-autoridades-con-vocacion-de-servicio-sobre-todo-en-emergencias/",
+    "titulo": "INDH La Araucanía ofició a la Superintendencia de Electricidad y Combustibles por interrupciones de suministro eléctrico que afectaron a más de 24 mil hogares de la región",
+    "enlace": "https://g5noticias.cl/2026/07/27/indh-la-araucania-oficio-a-la-superintendencia-de-electricidad-y-combustibles-por-interrupciones-de-suministro-electrico-que-afectaron-a-mas-de-24-mil-hogares-de-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Incendio afecta a tres vagones de la Línea 5 del Metro de Santiago: cinco personas resultaron afectadas por el humo",
-    "enlace": "https://g5noticias.cl/2026/07/27/incendio-afecta-a-tres-vagones-de-la-linea-5-del-metro-de-santiago-cinco-personas-resultaron-afectadas-por-el-humo/",
+    "titulo": "Decano de la Facultad de Medicina UV destaca labor y enfoque estratégico del nuevo Consejo Nacional de Salud",
+    "enlace": "https://g5noticias.cl/2026/07/27/decano-de-la-facultad-de-medicina-uv-destaca-labor-y-enfoque-estrategico-del-nuevo-consejo-nacional-de-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Semana de la Chilenidad 2026: No te pierdas el mejor panorama dieciochero para vivir en familia",
-    "enlace": "https://g5noticias.cl/2026/07/27/semana-de-la-chilenidad-2026-no-te-pierdas-el-mejor-panorama-dieciochero-para-vivir-en-familia/",
+    "titulo": "Prohibir el anatocismo ¿alivio para los deudores o un costo para todos? Por José Navarrete Oyarce, Director del Magíster en Tributación Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/07/27/prohibir-el-anatocismo-alivio-para-los-deudores-o-un-costo-para-todos-por-jose-navarrete-oyarce-director-del-magister-en-tributacion-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
