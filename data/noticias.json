@@ -450,6 +450,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Autoridades regionales comprometen apoyo a vecinos de Río Hurtado",
+    "enlace": "https://ovallehoy.cl/autoridades-regionales-comprometen-apoyo-a-vecinos-de-rio-hurtado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Pronostican precipitaciones para este viernes de hasta 30 mm en localidades del Limarí",
+    "enlace": "https://ovallehoy.cl/pronostican-precipitaciones-para-este-viernes-de-hasta-30-mm-en-localidades-del-limari/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Denuncian robo de cables en sector Guanaqueros en medio de la recuperación del suministro por emergencia",
     "enlace": "https://ovallehoy.cl/denuncian-robo-de-cables-en-sector-guanaqueros-en-medio-de-la-recuperacion-del-suministro-por-emergencia/",
     "descripcion": "",
@@ -515,24 +533,6 @@
   {
     "titulo": "Impulsan Comisión Investigadora por respuesta del Gobierno ante sistema frontal",
     "enlace": "https://ovallehoy.cl/impulsan-comision-investigadora-por-respuesta-del-gobierno-ante-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del domingo 26 de julio",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-domingo-26-de-julio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "CORE define planes de acción para enfrentar daños provocados por temporal en la Región de Coquimbo",
-    "enlace": "https://ovallehoy.cl/core-define-planes-de-accion-para-enfrentar-danos-provocados-por-temporal-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Alerta por los Squishy Dumpling: juguetes sensoriales pueden ser tóxicos y provocar graves quemaduras",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/27/alerta-por-los-squishy-dumpling-juguetes-sensoriales-pueden-ser-toxicos-y-provocar-graves-quemaduras/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Él me daba besos, pero ya no hablaba”: Tessa Aguadé, viuda de Julio Jung, recordó sus últimos días",
     "enlace": "https://www.atacamanoticias.cl/2026/07/27/el-me-daba-besos-pero-ya-no-hablaba-tessa-aguade-viuda-de-julio-jung-recordo-sus-ultimos-dias/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "El negocio de la residencia temporal por AUC: reportaje desnuda a “agencia” para “legalizar” migrantes",
     "enlace": "https://www.atacamanoticias.cl/2026/07/27/el-negocio-de-la-residencia-temporal-por-auc-reportaje-desnuda-a-agencia-para-legalizar-migrantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Escort y fármacos: lo que se sabe de la denuncia por delito sexual que terminó con salida de seremi",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/27/escort-y-farmacos-lo-que-se-sabe-de-la-denuncia-por-delito-sexual-que-termino-con-salida-de-seremi/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Niña de 8 años resulta con nueve heridas tras ser atacada por otra estudiante en escuela de La Granja",
+    "enlace": "https://www.maray.cl/pais/27/07/2026/nina-de-8-anos-resulta-con-nueve-heridas-tras-ser-atacada-por-otra-estudiante-en-escuela-de-la-granja/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Copiapó: Fiscalía ordena diligencias al OS-9 tras detención de un imputado que disparó a carabineros",
+    "enlace": "https://www.maray.cl/atacama/27/07/2026/copiapo-fiscalia-ordena-diligencias-al-os-9-tras-detencion-de-un-imputado-que-disparo-a-carabineros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "MOP refuerza despliegue en Alto del Carmen y coordina nuevas labores para recuperar caminos afectados por la emergencia",
+    "enlace": "https://www.maray.cl/atacama/27/07/2026/mop-refuerza-despliegue-en-alto-del-carmen-y-coordina-nuevas-labores-para-recuperar-caminos-afectados-por-la-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Salud impulsa vacunación contra hepatitis A e influenza en zonas afectadas por el temporal",
     "enlace": "https://www.maray.cl/podcast-de-noticias/27/07/2026/salud-impulsa-vacunacion-contra-hepatitis-a-e-influenza-en-zonas-afectadas-por-el-temporal-2/",
     "descripcion": "",
@@ -1514,33 +1541,6 @@
   {
     "titulo": "Andrea Pirlo confirmó que rechazó la banca de la selección italiana",
     "enlace": "https://www.maray.cl/deportes/27/07/2026/andrea-pirlo-confirmo-que-rechazo-la-banca-de-la-seleccion-italiana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Tabilo sigue como la mejor raqueta chilena tras nueva actualización del ranking ATP",
-    "enlace": "https://www.maray.cl/deportes/27/07/2026/tabilo-sigue-como-la-mejor-raqueta-chilena-tras-nueva-actualizacion-del-ranking-atp/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Senapred declara Alerta Roja en seis comunas de Ñuble por crecida de ríos y riesgo de inundaciones",
-    "enlace": "https://www.maray.cl/pais/27/07/2026/senapred-declara-alerta-roja-en-seis-comunas-de-nuble-por-crecida-de-rios-y-riesgo-de-inundaciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Reglamento complica a Colo Colo: nuevo arquero no podrá usar «Vozinha» en su camiseta",
-    "enlace": "https://www.maray.cl/deportes/27/07/2026/reglamento-complica-a-colo-colo-nuevo-arquero-no-podra-usar-vozinha-en-su-camiseta/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,89 +1728,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Bancada de Diputados Republicanos solicitarán una CEI tras confirmarse caso de falsa detenida desaparecida en Argentina",
+    "enlace": "https://g5noticias.cl/2026/07/27/bancada-de-diputados-republicanos-solicitaran-una-cei-tras-confirmarse-caso-de-falsa-detenida-desaparecida-en-argentina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Sistema frontal: Brito llama a la unidad y búsqueda de soluciones tras reunión en Senapred",
+    "enlace": "https://g5noticias.cl/2026/07/27/sistema-frontal-brito-llama-a-la-unidad-y-busqueda-de-soluciones-tras-reunion-en-senapred/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seremía de Desarrollo Social y Familia brindó apoyo en las 36 comunas continentales de la región de Valparaíso tras el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/07/27/seremia-de-desarrollo-social-y-familia-brindo-apoyo-en-las-36-comunas-continentales-de-la-region-de-valparaiso-tras-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Rector de la PUCV asume nuevo período con llamado a proyectar la Universidad hacia su Centenario",
+    "enlace": "https://g5noticias.cl/2026/07/27/rector-de-la-pucv-asume-nuevo-periodo-con-llamado-a-proyectar-la-universidad-hacia-su-centenario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cencosud, Duracell, Falabella y Tottus se suman a TRAEE en una etapa clave para la implementación de la Ley REP",
+    "enlace": "https://g5noticias.cl/2026/07/27/cencosud-duracell-falabella-y-tottus-se-suman-a-traee-en-una-etapa-clave-para-la-implementacion-de-la-ley-rep/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputada Sofía González solicita revisar normativa vigente que regula a mineras ante emergencias que puedan afectar el medio ambiente",
+    "enlace": "https://g5noticias.cl/2026/07/27/diputada-sofia-gonzalez-solicita-revisar-normativa-vigente-que-regula-a-mineras-ante-emergencias-que-puedan-afectar-el-medio-ambiente/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputado Omar Sabat (UDI) respalda proyecto que establece la cesación del cargo para autoridades que den positivo en test de drogas: “Las autoridades debemos ser los primeros en dar el ejemplo”",
+    "enlace": "https://g5noticias.cl/2026/07/27/diputado-omar-sabat-udi-respalda-proyecto-que-establece-la-cesacion-del-cargo-para-autoridades-que-den-positivo-en-test-de-drogas-las-autoridades-debemos-ser-los-primeros-en-dar-el-ejemplo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Senadora Vodanovic por renuncia Minvu Maule: “Necesitamos autoridades con vocación de servicio sobre todo en emergencias”",
+    "enlace": "https://g5noticias.cl/2026/07/27/senadora-vodanovic-por-renuncia-minvu-maule-necesitamos-autoridades-con-vocacion-de-servicio-sobre-todo-en-emergencias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Incendio afecta a tres vagones de la Línea 5 del Metro de Santiago: cinco personas resultaron afectadas por el humo",
+    "enlace": "https://g5noticias.cl/2026/07/27/incendio-afecta-a-tres-vagones-de-la-linea-5-del-metro-de-santiago-cinco-personas-resultaron-afectadas-por-el-humo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Semana de la Chilenidad 2026: No te pierdas el mejor panorama dieciochero para vivir en familia",
     "enlace": "https://g5noticias.cl/2026/07/27/semana-de-la-chilenidad-2026-no-te-pierdas-el-mejor-panorama-dieciochero-para-vivir-en-familia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Delegación Presidencial encabeza fase de recuperación y apoyo a los damnificados de la Provincia de Quillota",
-    "enlace": "https://g5noticias.cl/2026/07/27/delegacion-presidencial-encabeza-fase-de-recuperacion-y-apoyo-a-los-damnificados-de-la-provincia-de-quillota/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Copiapó: Fiscalía obtuvo pena efectiva de cárcel en contra de autor de delito de femicidio frustrado",
-    "enlace": "https://g5noticias.cl/2026/07/27/copiapo-fiscalia-obtuvo-pena-efectiva-de-carcel-en-contra-de-autor-de-delito-de-femicidio-frustrado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Corte de Punta Arenas confirma destitución de funcionaria del Servicio de Salud por viajar con licencia médica",
-    "enlace": "https://g5noticias.cl/2026/07/27/corte-de-punta-arenas-confirma-destitucion-de-funcionaria-del-servicio-de-salud-por-viajar-con-licencia-medica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Coordinadora por la Defensa de la Educación Pública de Valparaíso exige al Gobierno frenar recortes y reparar escuelas dañadas por temporales en la Región",
-    "enlace": "https://g5noticias.cl/2026/07/27/coordinadora-por-la-defensa-de-la-educacion-publica-de-valparaiso-exige-al-gobierno-frenar-recortes-y-reparar-escuelas-danadas-por-temporales-en-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Mulet pide urgencia para proyecto de decomiso sin condena y compromete ágil tramitación de reforma para cese de cargo por drogas",
-    "enlace": "https://g5noticias.cl/2026/07/27/mulet-pide-urgencia-para-proyecto-de-decomiso-sin-condena-y-compromete-agil-tramitacion-de-reforma-para-cese-de-cargo-por-drogas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "MOP O’Higgins refuerza monitoreo de ríos y cauces ante sistema frontal mediante red de estaciones DGA y despliegue preventivo de la DOH",
-    "enlace": "https://g5noticias.cl/2026/07/27/mop-ohiggins-refuerza-monitoreo-de-rios-y-cauces-ante-sistema-frontal-mediante-red-de-estaciones-dga-y-despliegue-preventivo-de-la-doh/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Región de O’Higgins recibirá el operativo médico público-privado más grande del país",
-    "enlace": "https://g5noticias.cl/2026/07/27/region-de-ohiggins-recibira-el-operativo-medico-publico-privado-mas-grande-del-pais/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tras nuevo incidente de overoles blancos afuera del I. Nacional: Charpentier (PRep) pedirá que Comisión de Educación ponga en tabla su proyecto sobre “apoderado delegado”",
-    "enlace": "https://g5noticias.cl/2026/07/27/tras-nuevo-incidente-de-overoles-blancos-afuera-del-i-nacional-charpentier-prep-pedira-que-comision-de-educacion-ponga-en-tabla-su-proyecto-sobre-apoderado-delegado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputadas Tello y Yeomans piden a Kast un plan urgente para reactivar la pesca artesanal en Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/07/27/diputadas-tello-y-yeomans-piden-a-kast-un-plan-urgente-para-reactivar-la-pesca-artesanal-en-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
