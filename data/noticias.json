@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Más de 3 mil viviendas afectadas: El devastador balance que deja el temporal en La Serena, continúa catastro",
+    "enlace": "https://www.elserenense.cl/comunales/2026/07/29/mas-de-3-mil-viviendas-afectadas-el-devastador-balance-que-deja-el-temporal-en-la-serena-continua-catastro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Inician a catastro de empresas afectadas por las lluvias en la Región de Coquimbo",
     "enlace": "https://www.elserenense.cl/regionales/2026/07/29/inician-a-catastro-de-empresas-afectadas-por-las-lluvias-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Niña de 2 años muere tras caer a un pozo de agua en parcela del sector San Valentín en La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/07/27/nina-de-2-anos-muere-tras-caer-a-un-pozo-de-agua-en-parcela-del-sector-san-valentin-en-la-serena/",
+    "titulo": "Temporal golpea con dureza al mundo rural de Monte Patria: más de 2.000 animales muertos han sido reportados por crianceros",
+    "enlace": "https://laserenaonline.cl/2026/07/29/temporal-golpea-con-dureza-al-mundo-rural-de-monte-patria-mas-de-2-000-animales-muertos-han-sido-reportados-por-crianceros/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Los Vilos presenta afectaciones por el sistema frontal al Consejo Regional",
+    "enlace": "https://laserenaonline.cl/2026/07/29/los-vilos-presenta-afectaciones-por-el-sistema-frontal-al-consejo-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Municipalidad de La Serena: “Jamás hemos autorizado construcciones en cauces de quebradas”",
     "enlace": "https://laserenaonline.cl/2026/07/29/municipalidad-de-la-serena-jamas-hemos-autorizado-construcciones-en-cauces-de-quebradas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "PDI concluye diligencias por denuncias de presunta desgracia en la Región de Coquimbo: las 20 personas fueron ubicadas",
-    "enlace": "https://laserenaonline.cl/2026/07/29/pdi-concluye-diligencias-por-denuncias-de-presunta-desgracia-en-la-region-de-coquimbo-las-20-personas-fueron-ubicadas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Vicuña: Fiscalía ECOH investiga hallazgo de cadáver",
-    "enlace": "https://laserenaonline.cl/2026/07/29/vicuna-fiscalia-ecoh-investiga-hallazgo-de-cadaver/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Caso contra el rapero D4vd: revelan que víctima hallada mutilada en su auto estuvo embarazada y abortó",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/29/caso-contra-el-rapero-d4vd-revelan-que-victima-hallada-mutilada-en-su-auto-estuvo-embarazada-y-aborto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "“Las próximas horas serán fundamentales”: piloto chileno que combate los incendios en España",
     "enlace": "https://www.atacamanoticias.cl/2026/07/29/las-proximas-horas-seran-fundamentales-piloto-chileno-que-combate-los-incendios-en-espana/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Pizarro (PC) propone incorporar como delito la apología a la pedofilia tras polémicos dichos de Omegna",
     "enlace": "https://www.atacamanoticias.cl/2026/07/28/pizarro-pc-propone-incorporar-como-delito-la-apologia-a-la-pedofilia-tras-polemicos-dichos-de-omegna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Minsal declara alerta sanitaria por hantavirus desde Atacama a Magallanes",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/28/minsal-declara-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En Escuela Juan Bosch de Niebla inició el Programa de Apreciación de la Música Nacional 2026",
-    "enlace": "https://g5noticias.cl/2026/07/29/en-escuela-juan-bosch-de-niebla-inicio-el-programa-de-apreciacion-de-la-musica-nacional-2026/",
+    "titulo": "Barómetro de Invierno: Negocios concentran el 66% de los intentos de intrusión y los fines de semana se consolidan como el período más sensible",
+    "enlace": "https://g5noticias.cl/2026/07/29/barometro-de-invierno-negocios-concentran-el-66-de-los-intentos-de-intrusion-y-los-fines-de-semana-se-consolidan-como-el-periodo-mas-sensible-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipio coordina acciones con Obras Portuarias tras daños provocados por el temporal en el borde costero de Quintero",
-    "enlace": "https://g5noticias.cl/2026/07/29/municipio-coordina-acciones-con-obras-portuarias-tras-danos-provocados-por-el-temporal-en-el-borde-costero-de-quintero/",
+    "titulo": "Alcalde de Quintero Rolando Silva impulsa plan preventivo para reducir riesgos ante nuevas lluvias",
+    "enlace": "https://g5noticias.cl/2026/07/29/alcalde-de-quintero-rolando-silva-impulsa-plan-preventivo-para-reducir-riesgos-ante-nuevas-lluvias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Bernardo Salinas cuestiona activación del Fondo Nacional de Reconstrucción: «No tienen ningún plan de reconstrucción»",
-    "enlace": "https://g5noticias.cl/2026/07/29/diputado-bernardo-salinas-cuestiona-activacion-del-fondo-nacional-de-reconstruccion-no-tienen-ningun-plan-de-reconstruccion/",
+    "titulo": "Delegado Presidencial Regional analiza proyectos de alta prioridad con Director del Servicio de Salud Viña del Mar Quillota Petorca",
+    "enlace": "https://g5noticias.cl/2026/07/29/delegado-presidencial-regional-analiza-proyectos-de-alta-prioridad-con-director-del-servicio-de-salud-vina-del-mar-quillota-petorca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chile presenta ante la ONU la Plataforma Continental Extendida del Archipiélago Juan Fernández",
-    "enlace": "https://g5noticias.cl/2026/07/29/chile-presenta-ante-la-onu-la-plataforma-continental-extendida-del-archipielago-juan-fernandez/",
+    "titulo": "Ministerio de Agricultura refuerza trabajo en terreno en Atacama y Valparaíso tras la declaración de emergencia agrícola",
+    "enlace": "https://g5noticias.cl/2026/07/29/ministerio-de-agricultura-refuerza-trabajo-en-terreno-en-atacama-y-valparaiso-tras-la-declaracion-de-emergencia-agricola/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad de Valparaíso logra reducir tiempos de espera por renovación de licencias de conducir de 8 meses a menos de una semana",
-    "enlace": "https://g5noticias.cl/2026/07/29/municipalidad-de-valparaiso-logra-reducir-tiempos-de-espera-por-renovacion-de-licencias-de-conducir-de-8-meses-a-menos-de-una-semana/",
+    "titulo": "Caso Factop: Álvaro Jalaff es condenado a cinco años de libertad vigilada intensiva y multa",
+    "enlace": "https://g5noticias.cl/2026/07/29/caso-factop-alvaro-jalaff-es-condenado-a-cinco-anos-de-libertad-vigilada-intensiva-y-multa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Andrés Celis impulsa mesa transversal de salud para agilizar el acceso a medicamentos y tratamientos innovadores",
-    "enlace": "https://g5noticias.cl/2026/07/29/diputado-andres-celis-impulsa-mesa-transversal-de-salud-para-agilizar-el-acceso-a-medicamentos-y-tratamientos-innovadores/",
+    "titulo": "Mercado de autos usados en Chile creció un 5,8 %",
+    "enlace": "https://g5noticias.cl/2026/07/29/mercado-de-autos-usados-en-chile-crecio-un-58/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tras llamado de Kast a impulsar un “tsunami de inversiones”, diputado Jaime Araya: “Las familias solo han recibido malas noticias”",
-    "enlace": "https://g5noticias.cl/2026/07/29/tras-llamado-de-kast-a-impulsar-un-tsunami-de-inversiones-diputado-jaime-araya-las-familias-solo-han-recibido-malas-noticias/",
+    "titulo": "Más de 88 mil familias de Ñuble mantendrán el Subsidio Eléctrico durante 2027 tras aprobación de nueva ley",
+    "enlace": "https://g5noticias.cl/2026/07/29/mas-de-88-mil-familias-de-nuble-mantendran-el-subsidio-electrico-durante-2027-tras-aprobacion-de-nueva-ley/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Se extiende el plazo: Premio InspiraTEC amplía su período de postulación",
-    "enlace": "https://g5noticias.cl/2026/07/29/se-extiende-el-plazo-premio-inspiratec-amplia-su-periodo-de-postulacion/",
+    "titulo": "Corte Suprema acoge demanda por despido injustificado de trabajadora embarazada",
+    "enlace": "https://g5noticias.cl/2026/07/29/corte-suprema-acoge-demanda-por-despido-injustificado-de-trabajadora-embarazada/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "O.S.7 de Carabineros incauta casi 90 kilos de droga y cuatro armas de fuego tras operativo entre Perquenco, Villarrica y Puente Alto.",
-    "enlace": "https://g5noticias.cl/2026/07/29/o-s-7-de-carabineros-incauta-casi-90-kilos-de-droga-y-cuatro-armas-de-fuego-tras-operativo-entre-perquenco-villarrica-y-puente-alto/",
+    "titulo": "Fiscalía de Bolivia ordena la captura de Evo Morales por las protestas de mayo y junio",
+    "enlace": "https://g5noticias.cl/2026/07/29/fiscalia-de-bolivia-ordena-la-captura-de-evo-morales-por-las-protestas-de-mayo-y-junio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CChC invita a empresas de la Región de Valparaíso a sumarse a la Aceleradora Construir Innovando",
-    "enlace": "https://g5noticias.cl/2026/07/29/cchc-invita-a-empresas-de-la-region-de-valparaiso-a-sumarse-a-la-aceleradora-construir-innovando/",
+    "titulo": "Presidente José Antonio Kast anuncia medidas de apoyo para las familias afectadas por el sistema frontal en Atacama",
+    "enlace": "https://g5noticias.cl/2026/07/29/presidente-jose-antonio-kast-anuncia-medidas-de-apoyo-para-las-familias-afectadas-por-el-sistema-frontal-en-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
