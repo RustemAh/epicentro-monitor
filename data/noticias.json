@@ -1278,8 +1278,26 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "A preparar el bolsillo: las bencinas subirán hasta unos $33 por litro según Enap",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/29/a-preparar-el-bolsillo-las-bencinas-subiran-hasta-unos-33-por-litro-segun-enap-2/",
+    "titulo": "La comunidad académica reeligió a Forlin Aguilera como rector de la Universidad de Atacama para el período 2026-2030",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/30/la-comunidad-academica-reeligio-a-forlin-aguilera-como-rector-de-la-universidad-de-atacama-para-el-periodo-2026-2030/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Autoridades de Gobierno destacan visita del Presidente Kast a las zonas afectadas en Atacama",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/30/autoridades-de-gobierno-destacan-visita-del-presidente-kast-a-las-zonas-afectadas-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Seremi de Educación recorre zonas afectadas por las lluvias para constatar el estado de los establecimientos educacionales",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/30/seremi-de-educacion-recorre-zonas-afectadas-por-las-lluvias-para-constatar-el-estado-de-los-establecimientos-educacionales/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1350,107 +1368,89 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Se rechaza reclamación en contra de la calificación favorable del proyecto minero Playa Verde en Chañaral",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/29/se-rechaza-reclamacion-en-contra-de-la-calificacion-favorable-del-proyecto-minero-playa-verde-en-chanaral/",
+    "titulo": "Presidente José Antonio Kast anuncia medidas de apoyo para las familias afectadas por el sistema frontal en Atacama",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/presidente-jose-antonio-kast-anuncia-medidas-de-apoyo-para-las-familias-afectadas-por-el-sistema-frontal-en-atacama/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Patrullaje preventivo: aumenta en un 90% las retenciones efectuadas por la DISEM en Copiapó",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/29/patrullaje-preventivo-aumenta-en-un-90-las-retenciones-efectuadas-por-la-disem-en-copiapo/",
+    "titulo": "PAME del Ejército refuerza la atención de salud en Alto del Carmen tras emergencia climática",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/pame-del-ejercito-refuerza-la-atencion-de-salud-en-alto-del-carmen-tras-emergencia-climatica/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Diputado Cristián Tapia destaca instalación de puente mecano que devolverá la conectividad a Freirina",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/diputado-cristian-tapia-destaca-instalacion-de-puente-mecano-que-devolvera-la-conectividad-a-freirina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Nueva Atacama no cobrará la cuenta de julio a las familias de Huasco y Freirina",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/nueva-atacama-no-cobrara-la-cuenta-de-julio-a-las-familias-de-huasco-y-freirina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Entregaron combustible para atención de pacientes electrodependientes en Carrizalillo y Caleta Chañaral de Aceituno",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/entregaron-combustible-para-atencion-de-pacientes-electrodependientes-en-carrizalillo-y-caleta-chanaral-de-aceituno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Consejo Regional de Atacama aprobó más de 7 mil 855 millones de pesos para proyectos comunales",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/consejo-regional-de-atacama-aprobo-mas-de-7-mil-855-millones-de-pesos-para-proyectos-comunales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Centro ferretero Lonza de Vallenar realiza importante donación de herramientas y equipamiento",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/centro-ferretero-lonza-de-vallenar-realiza-importante-donacion-de-herramientas-y-equipamiento/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Delegado Presidencial Juan Donoso valora visita del Presidente José Antonio Kast a la provincia de Huasco",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/delegado-presidencial-juan-donoso-valora-visita-del-presidente-jose-antonio-kast-a-la-provincia-de-huasco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "El Noticiero del Huasco, jueves 30 de julio de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/07/el-noticiero-del-huasco-jueves-30-de-julio-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
     "titulo": "Declaran emergencia agrícola en la provincia del Huasco producto de las lluvias",
     "enlace": "https://elnoticierodelhuasco.cl/2026/07/declaran-emergencia-agricola-en-la-provincia-del-huasco-producto-de-las-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "MINVU mantiene despliegue en terreno con foco en daño a  Viviendas y espacios públicos en las provincia de Huasco y Copiapo",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/minvu-mantiene-despliegue-en-terreno-con-foco-en-dano-a-viviendas-y-espacios-publicos-en-las-provincia-de-huasco-y-copiapo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "GORE inicia entrega de alimento para crianceros y anuncia nuevos operativos en la región",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/gore-inicia-entrega-de-alimento-para-crianceros-y-anuncia-nuevos-operativos-en-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Entregan más 230 generadores de respaldo a familias de Alto del Carmen",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/entregan-mas-230-generadores-de-respaldo-a-familias-de-alto-del-carmen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Habilitan paso nocturno entre Copiapó y Vallenar, mientras el tramo a La Serena mantiene restricciones horarias",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/habilitan-paso-nocturno-entre-copiapo-y-vallenar-mientras-el-tramo-a-la-serena-mantiene-restricciones-horarias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Transportes prorroga las revisiones técnicas en la región de Coquimbo y provincia del Huasco",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/transportes-prorroga-las-revisiones-tecnicas-en-la-region-de-coquimbo-y-provincia-del-huasco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "El Noticiero del Huasco, miércoles 29 de julio de 2026",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/el-noticiero-del-huasco-miercoles-29-de-julio-de-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Gobierno estima que daños del sistema frontal ascienden a 500 millones de dólares",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/gobierno-estima-que-danos-del-sistema-frontal-ascienden-a-500-millones-de-dolares/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Walmart Chile envía 7,5 toneladas de ayuda a comunidades aisladas mediante puente aéreo a la provincia del Huasco",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/walmart-chile-envia-75-toneladas-de-ayuda-a-comunidades-aisladas-mediante-puente-aereo-a-la-provincia-del-huasco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Junta de Vecinos de Caleta Los Bronces alerta por grave deterioro de la Ruta C-480 y llama a evitar desplazamientos",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/07/junta-de-vecinos-de-caleta-los-bronces-alerta-por-grave-deterioro-de-la-ruta-c-480-y-llama-a-evitar-desplazamientos/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Noticiero del Huasco",
@@ -1638,6 +1638,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Alimentos RIT C-546-2026 «Catalán / Catalán»",
+    "enlace": "https://diariolaquinta.cl/2026/07/30/notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-546-2026-catalan-catalan/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-alimentos-rit-c-546-2026-catalan-catalan",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Interdicción por demencia ROL V-173-2025 «Sánchez»",
     "enlace": "https://diariolaquinta.cl/2026/07/29/notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-173-2025-sanchez-6/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-173-2025-sanchez-6",
     "descripcion": "",
@@ -1719,17 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Interdicción por demencia ROL V-173-2025 «Sánchez»",
-    "enlace": "https://diariolaquinta.cl/2026/07/27/notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-173-2025-sanchez-4/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-173-2025-sanchez-4",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Automatización de cobros recurrentes gana espacio en la industria de seguros",
-    "enlace": "https://g5noticias.cl/2026/07/29/automatizacion-de-cobros-recurrentes-gana-espacio-en-la-industria-de-seguros/",
+    "titulo": "Nutricionista recomienda qué pescado comer si escasea el jurel",
+    "enlace": "https://g5noticias.cl/2026/07/30/nutricionista-recomienda-que-pescado-comer-si-escasea-el-jurel/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alerta por Virus Hanta: ¿Cómo prevenir el contagio y cuándo acudir a urgencias?",
-    "enlace": "https://g5noticias.cl/2026/07/29/alerta-por-virus-hanta-como-prevenir-el-contagio-y-cuando-acudir-a-urgencias/",
+    "titulo": "Una Sola Salud: Nuestro bienestar depende de un mismo equilibrio. Por Gonzalo Labbé, gerente General de Farmoquímica del Pacífico.",
+    "enlace": "https://g5noticias.cl/2026/07/30/una-sola-salud-nuestro-bienestar-depende-de-un-mismo-equilibrio-por-gonzalo-labbe-gerente-general-de-farmoquimica-del-pacifico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Por qué algunas empresas no pueden aprovechar al máximo el impacto de la IA?",
-    "enlace": "https://g5noticias.cl/2026/07/29/por-que-algunas-empresas-no-pueden-aprovechar-al-maximo-el-impacto-de-la-ia/",
+    "titulo": "Los beneficios que traerá la norma que amplía el uso de firma electrónica",
+    "enlace": "https://g5noticias.cl/2026/07/30/los-beneficios-que-traera-la-norma-que-amplia-el-uso-de-firma-electronica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Qué pasa si no encuentras un refugio? Los riesgos de permanecer expuesto al frío en la montaña",
-    "enlace": "https://g5noticias.cl/2026/07/29/que-pasa-si-no-encuentras-un-refugio-los-riesgos-de-permanecer-expuesto-al-frio-en-la-montana/",
+    "titulo": "¿Qué pasa con los ahorros previsionales al fallecer? Las claves para entender qué alternativas existen para proteger a la familia",
+    "enlace": "https://g5noticias.cl/2026/07/30/que-pasa-con-los-ahorros-previsionales-al-fallecer-las-claves-para-entender-que-alternativas-existen-para-proteger-a-la-familia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalización a población migrante en el barrio El Almendral de Valparaíso deja 13 extranjeros denunciados y notifica a otros 9 de expulsión",
-    "enlace": "https://g5noticias.cl/2026/07/29/fiscalizacion-a-poblacion-migrante-en-el-barrio-el-almendral-de-valparaiso-deja-13-extranjeros-denunciados-y-notifica-a-otros-9-de-expulsion/",
+    "titulo": "Universidades enfrentan mayor presión operativa por uso intensivo de campus y tecnología permite reducir hasta 50% los tiempos de respuesta",
+    "enlace": "https://g5noticias.cl/2026/07/30/universidades-enfrentan-mayor-presion-operativa-por-uso-intensivo-de-campus-y-tecnologia-permite-reducir-hasta-50-los-tiempos-de-respuesta-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "San Bernardo: Carabineros detuvo a hombre por receptación y recuperó cinco vehículos con encargo vigente",
-    "enlace": "https://g5noticias.cl/2026/07/29/san-bernardo-carabineros-detuvo-a-hombre-por-receptacion-y-recupero-cinco-vehiculos-con-encargo-vigente/",
+    "titulo": "Dr. Andrés Carvajal: La congelación de óvulos como decisión clave para el futuro reproductivo",
+    "enlace": "https://g5noticias.cl/2026/07/30/dr-andres-carvajal-la-congelacion-de-ovulos-como-decision-clave-para-el-futuro-reproductivo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bus de pasajeros y camión que se desplazaban hacia Valparaíso protagonizan colisión en la Ruta 68: 22 personas resultaron heridas",
-    "enlace": "https://g5noticias.cl/2026/07/29/bus-de-pasajeros-y-camion-que-se-desplazaban-hacia-valparaiso-protagonizan-colision-en-la-ruta-68/",
+    "titulo": "Escalar no es abrir más países, es tomar mejores decisiones. Por Chris Thompson, Scouting Manager de Magical",
+    "enlace": "https://g5noticias.cl/2026/07/30/escalar-no-es-abrir-mas-paises-es-tomar-mejores-decisiones-por-chris-thompson-scouting-manager-de-magical/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ipsos presentó los resultados del Monitor de Sostenibilidad Empresarial 2026 y premió a las empresas líderes del ranking",
-    "enlace": "https://g5noticias.cl/2026/07/29/ipsos-presento-los-resultados-del-monitor-de-sostenibilidad-empresarial-2026-y-premio-a-las-empresas-lideres-del-ranking/",
+    "titulo": "Subaru renueva su compromiso con el esquí nacional junto al Club Andes y Ski UC",
+    "enlace": "https://g5noticias.cl/2026/07/30/subaru-renueva-su-compromiso-con-el-esqui-nacional-junto-al-club-andes-y-ski-uc/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Neumáticos: Tianli apuesta por Chile para impulsar expansión regional",
-    "enlace": "https://g5noticias.cl/2026/07/29/neumaticos-tianli-apuesta-por-chile-para-impulsar-expansion-regional/",
+    "titulo": "Solo 25% de las organizaciones tiene una estrategia de IA para la auditoría interna",
+    "enlace": "https://g5noticias.cl/2026/07/30/solo-25-de-las-organizaciones-tiene-una-estrategia-de-ia-para-la-auditoria-interna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Calidad del aire interior en invierno: recomendaciones para hogares más saludables",
-    "enlace": "https://g5noticias.cl/2026/07/29/calidad-del-aire-interior-en-invierno-recomendaciones-para-hogares-mas-saludables/",
+    "titulo": "Mascotas en invierno: los cuidados que pueden prevenir enfermedades respiratorias",
+    "enlace": "https://g5noticias.cl/2026/07/30/mascotas-en-invierno-los-cuidados-que-pueden-prevenir-enfermedades-respiratorias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Jorge Toro, Sokol y Magallanes lideran el babyfútbol Master",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/jorge-toro-sokol-y-magallanes-lideran-el-babyfutbol-master/",
+    "titulo": "Edelmag cambia de gerente general: Miguel Castillo renuncia y asume Guillermo Rojas desde septiembre",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/edelmag-cambia-de-gerente-general-miguel-castillo-renuncia-y-asume-guillermo-rojas-desde-septiembre/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Infantino quiere “vender” el Mundial",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/infantino-quiere-vender-el-mundial/",
+    "titulo": "Colisión con fuga deja lesionados",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/colision-con-fuga-deja-lesionados/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Cuando lo posible se impone  o se aplica el realismo",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/cuando-lo-posible-se-impone-o-se-aplica-el-realismo-3/",
+    "titulo": "Prófugo detenido por la PDI quedó en prisión",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/profugo-detenido-por-la-pdi-quedo-en-prision/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Sólo 22,9% del presupuesto de inversión  del Gobierno Regional ha sido ejecutado",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/solo-229-del-presupuesto-de-inversion-del-gobierno-regional-ha-sido-ejecutado/",
+    "titulo": "Jóvenes escritoras desplegaron su talento literario",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/jovenes-escritoras-desplegaron-su-talento-literario/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Centro de Capacitación Laboral invita a  familias a integrarse a proyecto educativo",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/centro-de-capacitacion-laboral-invita-a-familias-a-integrarse-a-proyecto-educativo/",
+    "titulo": "La importancia  del pelo",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/la-importancia-del-pelo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1953,8 +1953,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Fiscalización permitió recuperar una vivienda social en Puerto Williams",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/fiscalizacion-permitio-recuperar-una-vivienda-social-en-puerto-williams/",
+    "titulo": "Minsal anuncia que todos los tipos  de cáncer serán incluidos en el GES",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/minsal-anuncia-que-todos-los-tipos-de-cancer-seran-incluidos-en-el-ges/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1962,8 +1962,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Proyecto busca instalar una Unidad de  Quimioterapia en el Hospital de Natales",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/proyecto-busca-instalar-una-unidad-de-quimioterapia-en-el-hospital-de-natales/",
+    "titulo": "El futuro del turismo antártico",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/el-futuro-del-turismo-antartico/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1971,8 +1971,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Formalizan a sujeto por amenazar a guardia de supermercado y agredir a carabinero",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/formalizan-a-sujeto-por-amenazar-a-guardia-de-supermercado-y-agredir-a-carabinero/",
+    "titulo": "Creadores del Sur llenaron de arte y color las  vacaciones de invierno en Cabo de Hornos",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/creadores-del-sur-llenaron-de-arte-y-color-las-vacaciones-de-invierno-en-cabo-de-hornos/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1980,8 +1980,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Concejo municipal de Natales dio luz verde  a obras por más de 600 millones de pesos",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/concejo-municipal-de-natales-dio-luz-verde-a-obras-por-mas-de-600-millones-de-pesos/",
+    "titulo": "En fallo dividido Suprema traspasó a la justicia civil investigación por muerte del cabo Carlos Palacios",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/en-fallo-dividido-suprema-traspaso-a-la-justicia-civil-investigacion-por-muerte-del-cabo-carlos-palacios/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -1989,8 +1989,8 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Estadísticas del 133: ocho de cada 10 llamadas  recibidas por Carabineros son improcedentes",
-    "enlace": "https://laprensaaustral.cl/2026/07/29/estadisticas-del-133-ocho-de-cada-10-llamadas-recibidas-por-carabineros-son-improcedentes/",
+    "titulo": "Indignación por rayados en “La Bombonera”",
+    "enlace": "https://laprensaaustral.cl/2026/07/30/indignacion-por-rayados-en-la-bombonera/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
