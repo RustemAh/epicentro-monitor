@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Mes de la Reinserción Social: oportunidades que transforman vidas y fortalecen la seguridad de la Región de Coquimbo",
+    "enlace": "https://www.elserenense.cl/regionales/2026/07/30/mes-de-la-reinsercion-social-oportunidades-que-transforman-vidas-y-fortalecen-la-seguridad-de-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Presidente Kast compromete apoyo para limpieza del borde costero de La Serena y se reúne con los 15 alcaldes de la zona",
     "enlace": "https://www.elserenense.cl/comunales/2026/07/29/presidente-kast-compromete-apoyo-para-limpieza-del-borde-costero-de-la-serena-y-se-reune-con-los-15-alcaldes-de-la-zona/",
     "descripcion": "",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Gobernador Juliá convoca a sesión extraordinaria del CORE para aprobar histórica cartera de proyectos por más de $18 mil millones",
-    "enlace": "https://www.elserenense.cl/regionales/2026/07/27/gobernador-julia-convoca-a-sesion-extraordinaria-del-core-para-aprobar-historica-cartera-de-proyectos-por-mas-de-18-mil-millones/",
+    "titulo": "Alcaldesa Norambuena presentó plan de Recuperación y reactivación al Ministro de Economía",
+    "enlace": "https://laserenaonline.cl/2026/07/30/alcaldesa-norambuena-presento-plan-de-recuperacion-y-reactivacion-al-ministro-de-economia/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Emiten alerta preventiva por precipitaciones en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/30/emiten-alerta-preventiva-por-precipitaciones-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Más de 3 mil viviendas afectadas y 31 destruidas: Balance preliminar que deja el Sistema Frontal en La Serena",
+    "enlace": "https://laserenaonline.cl/2026/07/30/mas-de-3-mil-viviendas-afectadas-y-31-destruidas-balance-preliminar-que-deja-el-sistema-frontal-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Ministro Tomás Rau visita Coquimbo para evaluar la situación del empleo en la región",
     "enlace": "https://laserenaonline.cl/2026/07/29/ministro-tomas-rau-visita-coquimbo-para-evaluar-la-situacion-del-empleo-en-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Temporal golpea con dureza al mundo rural de Monte Patria: más de 2.000 animales muertos han sido reportados por crianceros",
-    "enlace": "https://laserenaonline.cl/2026/07/29/temporal-golpea-con-dureza-al-mundo-rural-de-monte-patria-mas-de-2-000-animales-muertos-han-sido-reportados-por-crianceros/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Los Vilos presenta afectaciones por el sistema frontal al Consejo Regional",
-    "enlace": "https://laserenaonline.cl/2026/07/29/los-vilos-presenta-afectaciones-por-el-sistema-frontal-al-consejo-regional/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "SLEP Puerto Cordillera supervisa retorno gradual a clases en sus establecimientos educacionales",
-    "enlace": "https://laserenaonline.cl/2026/07/29/slep-puerto-cordillera-supervisa-retorno-gradual-a-clases-en-sus-establecimientos-educacionales/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -630,6 +630,96 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Partió camión solidario desde Antofagasta con ayuda para Combarbalá",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/30/partio-camion-solidario-desde-antofagasta-con-ayuda-para-combarbala/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Embalse Valle Hermoso en Combarbalá alcanza el 50% de su capacidad por primera vez desde su construcción",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/29/embalse-valle-hermoso-en-combarbala-alcanza-el-50-de-su-capacidad-por-primera-vez-desde-su-construccion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Concejo Municipal de Antofagasta aprueba traspaso de $30 millones a Combarbalá para apoyar a damnificados",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/29/concejo-municipal-de-antofagasta-aprueba-traspaso-de-30-millones-a-combarbala-para-apoyar-a-damnificados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Familias de Combarbalá esperan la solidaridad de Antofagasta",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/24/familias-de-combarbala-esperan-la-solidaridad-de-antofagasta/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Combarbalá mantiene intenso despliegue para recuperar la conectividad y restablecer servicios tras histórico temporal",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/24/combarbala-mantiene-intenso-despliegue-para-recuperar-la-conectividad-y-restablecer-servicios-tras-historico-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "​Municipio de Combarbalá despliega operativo de emergencia tras intenso sistema frontal y actualiza catastro de afectaciones",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/21/municipio-de-combarbala-despliega-operativo-de-emergencia-tras-intenso-sistema-frontal-y-actualiza-catastro-de-afectaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Combarbalá actualiza balance del sistema frontal este lunes: 46 localidades aisladas y más de 3.600 personas afectadas",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/20/combarbala-actualiza-balance-del-sistema-frontal-este-lunes-46-localidades-aisladas-y-mas-de-3-600-personas-afectadas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Advierten presencia de socavón en ruta entre Combarbalá y Punitaqui",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/19/advierten-presencia-de-socavon-en-ruta-entre-combarbala-y-punitaqui/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Combarbalá entrega balance del temporal este domingo: cerca de 6 mil personas afectadas y más de 50 localidades con daños",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/19/combarbala-entrega-balance-del-temporal-este-domingo-cerca-de-6-mil-personas-afectadas-y-mas-de-50-localidades-con-danos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Combarbalá queda aislada tras desborde de ríos y colapso de accesos por sistema frontal",
+    "enlace": "https://www.elcombarbalino.cl/2026/07/18/combarbala-queda-aislada-tras-desborde-de-rios-y-colapso-de-accesos-por-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Desborde del río Illapel obliga a evacuar familias en La Puntilla: Municipio reitera llamado a acatar las alertas de emergencia",
     "enlace": "https://illapelchile.cl/actualidad/desborde-del-rio-illapel-obliga-a-evacuar-familias-en-la-puntilla-municipio-reitera-llamado-a-acatar-las-alertas-de-emergencia/",
     "descripcion": "",
@@ -918,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Cómo elegir el equipaje ideal para viajar cómodo y aprovechar mejor cada aventura",
+    "enlace": "https://www.davidnoticias.cl/como-elegir-el-equipaje-ideal-para-viajar-comodo-y-aprovechar-mejor-cada-aventura/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Alcaldesa de La Serena anuncia recurso de protección contra Aguas del Valle por falta de agua potable",
     "enlace": "https://www.davidnoticias.cl/alcaldesa-de-la-serena-anuncia-recurso-de-proteccion-contra-aguas-del-valle-por-falta-de-agua-potable/",
     "descripcion": "",
@@ -992,15 +1091,6 @@
   {
     "titulo": "Investigan muerte de niña de 2 años tras caer a un pozo en La Serena",
     "enlace": "https://www.davidnoticias.cl/investigan-muerte-de-nina-de-2-anos-tras-caer-a-un-pozo-en-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Nuevo sistema frontal dejaría hasta 31 milímetros de lluvia este viernes en la Región de Coquimbo",
-    "enlace": "https://www.davidnoticias.cl/nuevo-sistema-frontal-dejaria-hasta-31-milimetros-de-lluvia-este-viernes-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1098,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Operativo veterinario llegó a Paihuano y sectores rurales tras el temporal",
+    "enlace": "https://www.elpaihuanino.cl/2026/07/30/operativo-veterinario-llego-a-paihuano-y-sectores-rurales-tras-el-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Alcalde de Paihuano insiste en solución definitiva para socavón de Montegrande: “Llevamos más de tres años advirtiendo este riesgo”",
     "enlace": "https://www.elpaihuanino.cl/2026/07/28/alcalde-de-paihuano-insiste-en-solucion-definitiva-para-socavon-de-montegrande-llevamos-mas-de-tres-anos-advirtiendo-este-riesgo/",
     "descripcion": "",
@@ -1179,13 +1278,31 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Activación de quebradas y rodados marcan primeras horas del sistema frontal en Paihuano",
-    "enlace": "https://www.elpaihuanino.cl/2026/07/17/activacion-de-quebradas-y-rodados-marcan-primeras-horas-del-sistema-frontal-en-paihuano/",
+    "titulo": "Comunidad Diaguita presenta recurso contra la SMA por demoras en denuncias de Pascua Lama",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/30/comunidad-diaguita-presenta-recurso-contra-la-sma-por-demoras-en-denuncias-de-pascua-lama/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Rescate animal en Copiapó: salvan a tres cachorros abandonados en una cueva del Cerro Capi",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/30/rescate-animal-en-copiapo-salvan-a-tres-cachorros-abandonados-en-una-cueva-del-cerro-capi/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Pascua Lama 2.0: Tribunal exige informe de riesgos luego de que trabajadores quedaran atrapados",
+    "enlace": "https://www.atacamanoticias.cl/2026/07/30/pascua-lama-2-0-tribunal-exige-informe-de-riesgos-luego-de-que-trabajadores-quedaran-atrapados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "La comunidad académica reeligió a Forlin Aguilera como rector de la Universidad de Atacama para el período 2026-2030",
@@ -1244,33 +1361,6 @@
   {
     "titulo": "“Las próximas horas serán fundamentales”: piloto chileno que combate los incendios en España",
     "enlace": "https://www.atacamanoticias.cl/2026/07/29/las-proximas-horas-seran-fundamentales-piloto-chileno-que-combate-los-incendios-en-espana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "INDH presenta querella por presuntos apremios ilegítimos en la cárcel de Copiapó",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/29/indh-presenta-querella-por-presuntos-apremios-ilegitimos-en-la-carcel-de-copiapo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Lundin Mining Candelaria desplegó maquinaria, suministros y apoyo logístico en zonas afectadas por sistema frontal",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/29/lundin-mining-candelaria-desplego-maquinaria-suministros-y-apoyo-logistico-en-zonas-afectadas-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Codelco no se vende”: Comisión Política del Partido Socialista sale al paso de propuesta de Squella",
-    "enlace": "https://www.atacamanoticias.cl/2026/07/29/codelco-no-se-vende-comision-politica-del-partido-socialista-sale-al-paso-de-propuesta-de-squella/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1458,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Operativo de la PDI en Atacama deja 15 prófugos detenidos y 16 extranjeros denunciados por infracciones migratorias",
+    "enlace": "https://www.maray.cl/atacama/30/07/2026/operativo-de-la-pdi-en-atacama-deja-15-profugos-detenidos-y-16-extranjeros-denunciados-por-infracciones-migratorias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Julia Salas, Gerenta de Desempeño Social y Asuntos Externos, Lundin Mining Caserones invita a participar en fondo concursable “Juntos Crecemos 2026”",
+    "enlace": "https://www.maray.cl/atacama/30/07/2026/julia-salas-gerenta-de-desempeno-social-y-asuntos-externos-lundin-mining-caserones-invita-a-participar-en-fondo-concursable-juntos-crecemos-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "O’Higgins va por la hazaña ante Boca Juniors para avanzar a octavos de la Sudamericana",
     "enlace": "https://www.maray.cl/deportes/30/07/2026/ohiggins-va-por-la-hazana-ante-boca-juniors-para-avanzar-a-octavos-de-la-sudamericana/",
     "descripcion": "",
@@ -1395,8 +1503,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Joven muere al enfrentar con un bate a banda armada durante violento asalto en Huechuraba",
-    "enlace": "https://www.maray.cl/pais/30/07/2026/joven-muere-al-enfrentar-con-un-bate-a-banda-armada-durante-violento-asalto-en-huechuraba/",
+    "titulo": "Hospital refuerza llamado al autocuidado y al uso responsable de la red asistencial en medio de la emergencia",
+    "enlace": "https://www.maray.cl/atacama/30/07/2026/hospital-refuerza-llamado-al-autocuidado-y-al-uso-responsable-de-la-red-asistencial-en-medio-de-la-emergencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1404,8 +1512,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Julia Salas, Gerenta de Desempeño Social y Asuntos Externos, Lundin Mining Caserones invita a participar en fondo concursable “Juntos Crecemos 2026”",
-    "enlace": "https://www.maray.cl/atacama/30/07/2026/julia-salas-gerenta-de-desempeno-social-y-asuntos-externos-lundin-mining-caserones-invita-a-participar-en-fondo-concursable-juntos-crecemos-2026/",
+    "titulo": "Joven muere al enfrentar con un bate a banda armada durante violento asalto en Huechuraba",
+    "enlace": "https://www.maray.cl/pais/30/07/2026/joven-muere-al-enfrentar-con-un-bate-a-banda-armada-durante-violento-asalto-en-huechuraba/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1433,24 +1541,6 @@
   {
     "titulo": "Conductor muere baleado tras ataque a camión en la Ruta 5 a la altura de Paine",
     "enlace": "https://www.maray.cl/pais/30/07/2026/conductor-muere-baleado-tras-ataque-a-camion-en-la-ruta-5-a-la-altura-de-paine/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "70 mil deudores ya regularizaron el CAE: TGR recuerda pago de convenios para evitar acciones judiciales",
-    "enlace": "https://www.maray.cl/pais/29/07/2026/70-mil-deudores-ya-regularizaron-el-cae-tgr-recuerda-pago-de-convenios-para-evitar-acciones-judiciales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Seremi de Educación recorre zonas afectadas por las lluvias para constatar el estado de los establecimientos educacionales",
-    "enlace": "https://www.maray.cl/atacama/29/07/2026/seremi-de-educacion-recorre-zonas-afectadas-por-las-lluvias-para-constatar-el-estado-de-los-establecimientos-educacionales/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "27.° Juzgado Civil de Santiago ordena indemnizar a periodista detenido y torturado por la DINA en 1975",
-    "enlace": "https://g5noticias.cl/2026/07/30/27-juzgado-civil-de-santiago-ordena-indemnizar-a-periodista-detenido-y-torturado-por-la-dina-en-1975/",
+    "titulo": "Destacados referentes de la cocina coreana visitan Chile",
+    "enlace": "https://g5noticias.cl/2026/07/30/destacados-referentes-de-la-cocina-coreana-visitan-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Trabajar en PYMES: principales aspectos positivos. Por Juan Colihuil, jefe de Selección y Gestión de Personas de EASYJOBS – www.easyjobs.cl",
-    "enlace": "https://g5noticias.cl/2026/07/30/trabajar-en-pymes-principales-aspectos-positivos-por-juan-colihuil-jefe-de-seleccion-y-gestion-de-personas-de-easyjobs-www-easyjobs-cl/",
+    "titulo": "Desde La Pérgola de las Flores hasta talleres creativos: conoce los nuevos beneficios culturales para afiliados de Los Héroes",
+    "enlace": "https://g5noticias.cl/2026/07/30/desde-la-pergola-de-las-flores-hasta-talleres-creativos-conoce-los-nuevos-beneficios-culturales-para-afiliados-de-los-heroes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Fernando Zamorano (PPD) emplaza al Gobierno a aclarar su postura frente a proyecto de Ley «Escucha tu corazón»",
-    "enlace": "https://g5noticias.cl/2026/07/30/diputado-fernando-zamorano-ppd-emplaza-al-gobierno-a-aclarar-su-postura-frente-a-proyecto-de-ley-escucha-tu-corazon/",
+    "titulo": "Gracias a la gestión del Municipio de San Esteban, cuidadoras culminan exitoso ciclo de capacitaciones en enfermería práctica",
+    "enlace": "https://g5noticias.cl/2026/07/30/gracias-a-la-gestion-del-municipio-de-san-esteban-cuidadoras-culminan-exitoso-ciclo-de-capacitaciones-en-enfermeria-practica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Advierten que enfermedades propias de adultos aparecen a edades más tempranas –e incluso en niños– por alimentación",
-    "enlace": "https://g5noticias.cl/2026/07/30/advierten-que-enfermedades-propias-de-adultos-aparecen-a-edades-mas-tempranas-e-incluso-en-ninos-por-alimentacion/",
+    "titulo": "Municipalidad de La Calera invierte más de 18 millones de pesos en la entrega de la Beca Cultural 2026",
+    "enlace": "https://g5noticias.cl/2026/07/30/municipalidad-de-la-calera-invierte-mas-de-18-millones-de-pesos-en-la-entrega-de-la-beca-cultural-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cuerpo de Bomberos de Rinconada recibió oficialmente camión aljibe de gran caudal",
-    "enlace": "https://g5noticias.cl/2026/07/30/cuerpo-de-bomberos-de-rinconada-recibio-oficialmente-camion-aljibe-de-gran-caudal/",
+    "titulo": "Vinculan expansión portuaria con daño al patrimonio y a la actividad pesquera de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/07/30/vinculan-expansion-portuaria-con-dano-al-patrimonio-y-a-la-actividad-pesquera-de-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Apelaciones de Temuco confirma condena por homicidio en Victoria",
-    "enlace": "https://g5noticias.cl/2026/07/30/corte-de-apelaciones-de-temuco-confirma-condena-por-homicidio-en-victoria/",
+    "titulo": "Hantavirus: experta llama a reforzar las medidas preventivas y consultar precozmente ante síntomas compatibles",
+    "enlace": "https://g5noticias.cl/2026/07/30/hantavirus-experta-llama-a-reforzar-las-medidas-preventivas-y-consultar-precozmente-ante-sintomas-compatibles/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Serena: En juicio oral la Fiscalía acreditó homicidio y delitos de la ley de control de armas",
-    "enlace": "https://g5noticias.cl/2026/07/30/la-serena-en-juicio-oral-la-fiscalia-acredito-homicidio-y-delitos-de-la-ley-de-control-de-armas/",
+    "titulo": "Con más de 65 mil patrullajes y punto de seguridad en 14 norte municipio de Viña del Mar consolida su labor preventiva y operativa",
+    "enlace": "https://g5noticias.cl/2026/07/30/con-mas-de-65-mil-patrullajes-y-punto-de-seguridad-en-14-norte-municipio-de-vina-del-mar-consolida-su-labor-preventiva-y-operativa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los portales de pago ya no solo cobran: hoy venden experiencia",
-    "enlace": "https://g5noticias.cl/2026/07/30/los-portales-de-pago-ya-no-solo-cobran-hoy-venden-experiencia/",
+    "titulo": "Mes de la Reinserción Social: oportunidades que transforman vidas y fortalecen la seguridad de la Región de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/07/30/mes-de-la-reinsercion-social-oportunidades-que-transforman-vidas-y-fortalecen-la-seguridad-de-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cómo transferir tus datos de un dispositivo iOS a un nuevo smartphone Galaxy usando el nuevo Smart Switch",
-    "enlace": "https://g5noticias.cl/2026/07/30/como-transferir-tus-datos-de-un-dispositivo-ios-a-un-nuevo-smartphone-galaxy-usando-el-nuevo-smart-switch/",
+    "titulo": "Exportaciones no cobre no litio de Valparaíso alcanzan US$ 1.349 millones durante el primer semestre de 2026",
+    "enlace": "https://g5noticias.cl/2026/07/30/exportaciones-no-cobre-no-litio-de-valparaiso-alcanzan-us-1-349-millones-durante-el-primer-semestre-de-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tecnología chilena diseñada por el ITiSB de la UNAB: Sensores detectan caídas de adultos mayores, envían su ubicación por WhatsApp. y realizan llamada de voz automática",
-    "enlace": "https://g5noticias.cl/2026/07/30/tecnologia-chilena-disenada-por-el-itisb-de-la-unab-sensores-detectan-caidas-de-adultos-mayores-envian-su-ubicacion-por-whatsapp-y-realizan-llamada-de-voz-automatica/",
+    "titulo": "EFÍMERA entra en la recta final de su convocatoria con un llamado a nuevas miradas del cine latinoamericano",
+    "enlace": "https://g5noticias.cl/2026/07/30/efimera-entra-en-la-recta-final-de-su-convocatoria-con-un-llamado-a-nuevas-miradas-del-cine-latinoamericano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
