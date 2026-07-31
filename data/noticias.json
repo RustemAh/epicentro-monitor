@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "¿Cuántas veces se ha suspendido la Pampilla de Coquimbo en su historia?",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/30/cuantas-veces-se-ha-suspendido-la-pampilla-de-coquimbo-en-su-historia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Ex Concejal alerta que suspensión de La Pampilla 2026 afectará empleo, turismo y comercio regional",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/30/ex-concejal-alerta-que-suspension-de-la-pampilla-2026-afectara-empleo-turismo-y-comercio-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Alcalde Manouchehri anuncia suspensión de la Pampilla 2026 para redestinar recursos a la reconstrucción de la comuna",
     "enlace": "https://www.elcoquimbano.cl/2026/07/30/alcalde-manouchehri-anuncia-suspension-de-la-pampilla-2026-para-redestinar-recursos-a-la-reconstruccion-de-la-comuna/",
     "descripcion": "",
@@ -65,24 +83,6 @@
   {
     "titulo": "Nodo Océano ANID invita a participar en la validación de Hoja de Ruta a través de cuestionario abierto al público",
     "enlace": "https://www.elcoquimbano.cl/2026/07/29/nodo-oceano-anid-invita-a-participar-en-la-validacion-de-hoja-de-ruta-a-traves-de-cuestionario-abierto-al-publico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Municipio y Capitanía de Puerto, convocan a jornadas de limpieza para recuperar playas de Guanaqueros y Tongoy",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/29/municipio-y-capitania-de-puerto-convocan-a-jornadas-de-limpieza-para-recuperar-playas-de-guanaqueros-y-tongoy/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Este miércoles 14 colegios regresan a clases tras el temporal en Coquimbo y Andacollo: Pertenecen al SLEP Puerto Cordillera",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/28/este-miercoles-14-colegios-regresan-a-clases-tras-el-temporal-en-coquimbo-y-andacollo-pertenecen-al-slep-puerto-cordillera/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -176,6 +176,96 @@
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Teletón Coquimbo entrega ayuda a más de 70 familias afectadas por el sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/30/teleton-coquimbo-entrega-ayuda-a-mas-de-70-familias-afectadas-por-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "INDAP gestiona recursos de emergencia para la entrega de alimentación animal",
+    "enlace": "https://laserenaonline.cl/2026/07/30/indap-gestiona-recursos-de-emergencia-para-la-entrega-de-alimentacion-animal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Turismo consciente: Vicuña llama a visitar el Valle del Elqui con responsabilidad tras sistema frontal",
+    "enlace": "https://laserenaonline.cl/2026/07/30/turismo-consciente-vicuna-llama-a-visitar-el-valle-del-elqui-con-responsabilidad-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Recuperación laboral: SENCE llama a empresas de la Región de Coquimbo a utilizar el Subsidio a la Contratación para generar nuevos empleos",
+    "enlace": "https://laserenaonline.cl/2026/07/30/recuperacion-laboral-sence-llama-a-empresas-de-la-region-de-coquimbo-a-utilizar-el-subsidio-a-la-contratacion-para-generar-nuevos-empleos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Alcaldesa Norambuena presentó plan de Recuperación y reactivación al Ministro de Economía",
+    "enlace": "https://laserenaonline.cl/2026/07/30/alcaldesa-norambuena-presento-plan-de-recuperacion-y-reactivacion-al-ministro-de-economia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Emiten alerta preventiva por precipitaciones en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/07/30/emiten-alerta-preventiva-por-precipitaciones-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Más de 3 mil viviendas afectadas y 31 destruidas: Balance preliminar que deja el Sistema Frontal en La Serena",
+    "enlace": "https://laserenaonline.cl/2026/07/30/mas-de-3-mil-viviendas-afectadas-y-31-destruidas-balance-preliminar-que-deja-el-sistema-frontal-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Básicos para la temporada de invierno en Chile: qué no debería faltar en el clóset infantil",
+    "enlace": "https://laserenaonline.cl/2026/07/30/basicos-para-la-temporada-de-invierno-en-chile-que-no-deberia-faltar-en-el-closet-infantil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Aguas del Valle recupera el servicio para el 100% de clientes afectados por emergencia",
+    "enlace": "https://laserenaonline.cl/2026/07/30/aguas-del-valle-recupera-el-servicio-para-el-100-de-clientes-afectados-por-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Ovalle: Recuperan instrumentos musicales robados avaluados en $3 millones y detienen a sujeto",
+    "enlace": "https://laserenaonline.cl/2026/07/30/ovalle-recuperan-instrumentos-musicales-robados-avaluados-en-3-millones-y-detienen-a-sujeto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -1368,6 +1458,69 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Alcalde de Coquimbo anunció suspensión de Fiesta de la Pampilla: recursos irán a reconstrucción",
+    "enlace": "https://www.maray.cl/pais/30/07/2026/alcalde-de-coquimbo-anuncio-suspension-de-fiesta-de-la-pampilla-recursos-iran-a-reconstruccion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fin al sueño internacional: O’Higgins cayó ante Boca en penales y se despide de la Copa Sudamericana",
+    "enlace": "https://www.maray.cl/deportes/30/07/2026/fin-al-sueno-internacional-ohiggins-cayo-ante-boca-en-penales-y-se-despide-de-la-copa-sudamericana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "«No está caído»: en Colo Colo despejan dudas por Vozinha y explican retraso del arquero de Cabo Verde",
+    "enlace": "https://www.maray.cl/deportes/30/07/2026/no-esta-caido-en-colo-colo-despejan-dudas-por-vozinha-y-explican-retraso-del-arquero-de-cabo-verde/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Meloni evalúa cortar libre tránsito entre Italia y España por crisis de inmigración en Ceuta",
+    "enlace": "https://www.maray.cl/internacional/30/07/2026/meloni-evalua-cortar-libre-transito-entre-italia-y-espana-por-crisis-de-inmigracion-en-ceuta/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "SONAMI realizó networking para promover el desarrollo de la minería en Tarapacá",
+    "enlace": "https://www.maray.cl/mineria-economia/30/07/2026/sonami-realizo-networking-para-promover-el-desarrollo-de-la-mineria-en-tarapaca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Liceo Manuel Blanco Encalada de Caldera inauguró nueva sala de música con aportes de Lundin Mining Candelaria",
+    "enlace": "https://www.maray.cl/atacama/30/07/2026/liceo-manuel-blanco-encalada-de-caldera-inauguro-nueva-sala-de-musica-con-aportes-de-lundin-mining-candelaria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Nueva Atacama normaliza el suministro de agua potable en todo Huasco",
+    "enlace": "https://www.maray.cl/atacama/30/07/2026/nueva-atacama-normaliza-el-suministro-de-agua-potable-en-todo-huasco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "La Roja confirma amistoso con México y completa su gira por Norteamérica",
     "enlace": "https://www.maray.cl/deportes/30/07/2026/la-roja-confirma-amistoso-con-mexico-y-completa-su-gira-por-norteamerica/",
     "descripcion": "",
@@ -1388,69 +1541,6 @@
   {
     "titulo": "Bus vuelca en la Ruta 5 Norte y deja 15 lesionados en la Región de Antofagasta",
     "enlace": "https://www.maray.cl/pais/30/07/2026/bus-vuelca-en-la-ruta-5-norte-y-deja-15-lesionados-en-la-region-de-antofagasta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "ALERTA: Posible misil ruso impacta en Polonia y eleva la tensión entre la OTAN y Moscú",
-    "enlace": "https://www.maray.cl/internacional/30/07/2026/alerta-posible-misil-ruso-impacta-en-polonia-y-eleva-la-tension-entre-la-otan-y-moscu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Salud anuncia incorporación gradual de todos los tipos de cáncer al GES y plan de ahorro por sobregasto de $2,5 billones",
-    "enlace": "https://www.maray.cl/pais/30/07/2026/salud-anuncia-incorporacion-gradual-de-todos-los-tipos-de-cancer-al-ges-y-plan-de-ahorro-por-sobregasto-de-25-billones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Tarapacá, Antofagasta y Atacama: Emiten aviso por vientos de hasta 90 km/h y probables tormentas de arena",
-    "enlace": "https://www.maray.cl/atacama/30/07/2026/tarapaca-antofagasta-y-atacama-emiten-aviso-por-vientos-de-hasta-90-km-h-y-probables-tormentas-de-arena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Operativo de la PDI en Atacama deja 15 prófugos detenidos y 16 extranjeros denunciados por infracciones migratorias",
-    "enlace": "https://www.maray.cl/atacama/30/07/2026/operativo-de-la-pdi-en-atacama-deja-15-profugos-detenidos-y-16-extranjeros-denunciados-por-infracciones-migratorias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Julia Salas, Gerenta de Desempeño Social y Asuntos Externos, Lundin Mining Caserones invita a participar en fondo concursable “Juntos Crecemos 2026”",
-    "enlace": "https://www.maray.cl/atacama/30/07/2026/julia-salas-gerenta-de-desempeno-social-y-asuntos-externos-lundin-mining-caserones-invita-a-participar-en-fondo-concursable-juntos-crecemos-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "O’Higgins va por la hazaña ante Boca Juniors para avanzar a octavos de la Sudamericana",
-    "enlace": "https://www.maray.cl/deportes/30/07/2026/ohiggins-va-por-la-hazana-ante-boca-juniors-para-avanzar-a-octavos-de-la-sudamericana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Irán asegura haber destruido cazas F-35 de EE.UU. en Jordania, pero no existe confirmación oficial",
-    "enlace": "https://www.maray.cl/medio-oriente/30/07/2026/iran-asegura-haber-destruido-cazas-f-35-de-ee-uu-en-jordania-pero-no-existe-confirmacion-oficial/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1728,33 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "CRUCH inicia un nuevo ciclo de conducción con rector Osvaldo Corrales en la Vicepresidencia Ejecutiva",
+    "enlace": "https://g5noticias.cl/2026/07/30/cruch-inicia-un-nuevo-ciclo-de-conduccion-con-rector-osvaldo-corrales-en-la-vicepresidencia-ejecutiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Boca Juniors eliminó a O’Higgins desde la Copa Sudamericama tras ganar en la definición por penales, luego de caer 0-1 en el tiempo reglamentario",
+    "enlace": "https://g5noticias.cl/2026/07/30/boca-juniors-elimino-a-ohiggins-desde-la-copa-sudamericama-tras-ganar-en-la-definicion-por-penales-luego-de-caer-0-1-en-el-tiempo-reglamentario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Crédito hipotecario: Requisitos para calificar y qué cambia si es tu segunda vivienda",
+    "enlace": "https://g5noticias.cl/2026/07/30/credito-hipotecario-requisitos-para-calificar-y-que-cambia-si-es-tu-segunda-vivienda/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Municipio de Coquimbo suspende la Fiesta de la Pampilla 2026: reasignarán recursos para recuperar daños generados por los temporales",
     "enlace": "https://g5noticias.cl/2026/07/30/municipio-de-coquimbo-suspende-la-fiesta-de-la-pampilla-2026-reasignaran-recursos-para-recuperar-danos-generados-por-los-temporales/",
     "descripcion": "",
@@ -1694,33 +1811,6 @@
   {
     "titulo": "Tabilo se instala en cuartos de final del ATP 500 de Washington, algo que no lograba un jugador chileno desde Fernando González en el 2009",
     "enlace": "https://g5noticias.cl/2026/07/30/tabilo-se-instala-en-cuartos-de-final-del-atp-500-de-washington-algo-que-no-lograba-un-jugador-chileno-desde-fernando-gonzalez-en-el-2009/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Consejera regional Maricel Martínez, diputada Sofía González y senadora Karol Cariola se reunieron con personas cuidadoras de la Provincia de San Felipe de Aconcagua",
-    "enlace": "https://g5noticias.cl/2026/07/30/consejera-regional-maricel-martinez-diputada-sofia-gonzalez-y-senadora-karol-cariola-se-reunieron-con-personas-cuidadoras-de-la-provincia-de-san-felipe-de-aconcagua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Delegación Provincial de Punilla invierte más de $230 millones para atender emergencias por sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/07/30/delegacion-provincial-de-punilla-invierte-mas-de-230-millones-para-atender-emergencias-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "CNC, Sernac, Marcas del Retail y la Cámara de la Industria Cosmética hacen un llamado a los consumidores a comprar en el comercio formal para el Día del Niño",
-    "enlace": "https://g5noticias.cl/2026/07/30/cnc-sernac-marcas-del-retail-y-la-camara-de-la-industria-cosmetica-hacen-un-llamado-a-los-consumidores-a-comprar-en-el-comercio-formal-para-el-dia-del-nino/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
