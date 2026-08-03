@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "Remate. Inmueble correspondiente a parcela 129, Fundo Centro de Limarí, Ovalle",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/03/remate-inmueble-correspondiente-a-parcela-129-fundo-centro-de-limari-ovalle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
     "titulo": "PDI investiga violenta agresión que dejó a tres guardias heridos en el Casino Enjoy de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/08/03/pdi-investiga-violenta-agresion-que-dejo-a-tres-guardias-heridos-en-el-casino-enjoy-de-coquimbo/",
     "descripcion": "",
@@ -83,6 +74,15 @@
   {
     "titulo": "Educar no es someter",
     "enlace": "https://www.elcoquimbano.cl/2026/07/30/educar-no-es-someter/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Teletón Coquimbo entrega ayuda a más de 70 familias afectadas por el sistema frontal",
+    "enlace": "https://www.elcoquimbano.cl/2026/07/30/teleton-coquimbo-entrega-ayuda-a-mas-de-70-familias-afectadas-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Lactancia Materna: El primer alimento para la vida",
+    "enlace": "https://laserenaonline.cl/2026/08/03/lactancia-materna-el-primer-alimento-para-la-vida/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Tras sistemas frontales, hospitales del choapa refuerzan llamado a prevenir el hantavirus",
     "enlace": "https://laserenaonline.cl/2026/08/03/tras-sistemas-frontales-hospitales-del-choapa-refuerzan-llamado-a-prevenir-el-hantavirus/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Gobierno coordinó donación de Grupo FEMSA de 8 mil 500 artículos de higiene para reforzar apoyo a familias afectadas por el sistema frontal",
     "enlace": "https://laserenaonline.cl/2026/08/03/gobierno-coordino-donacion-de-grupo-femsa-de-8-mil-500-articulos-de-higiene-para-reforzar-apoyo-a-familias-afectadas-por-el-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Investigan agresión con arma cortante a tres guardias de seguridad de casino Enjoy",
-    "enlace": "https://laserenaonline.cl/2026/08/03/investigan-agresion-con-arma-cortante-a-tres-guardias-de-seguridad-de-casino-enjoy/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1188,6 +1188,51 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "¿Está el bótox mermando las actuaciones?: “Se les pide belleza y las actrices defienden su espacio”",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/03/esta-el-botox-mermando-las-actuaciones-se-les-pide-belleza-y-las-actrices-defienden-su-espacio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Manuel Monsalve vuelve a arresto domiciliario total tras revocarse rebaja de medida cautelar",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/03/manuel-monsalve-vuelve-a-arresto-domiciliario-total-tras-revocarse-rebaja-de-medida-cautelar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "“POV: Soltera, sin hijos ni amigos”: Los influencers de la soledad, antítesis del exceso de las redes",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/03/pov-soltera-sin-hijos-ni-amigos-los-influencers-de-la-soledad-antitesis-del-exceso-de-las-redes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno pide la renuncia a directores de los Servicios de Salud Metropolitano Sur y Magallanes",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/03/gobierno-pide-la-renuncia-a-directores-de-los-servicios-de-salud-metropolitano-sur-y-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Diego de Almagro celebra a lo grande: renovado Estadio La Antena abre sus puertas y comuna avanza hacia una Ciudad Deportiva",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/03/diego-de-almagro-celebra-a-lo-grande-renovado-estadio-la-antena-abre-sus-puertas-y-comuna-avanza-hacia-una-ciudad-deportiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Estudiantes copiapinos aprenden a valorar Bahía Chorrillos",
     "enlace": "https://www.atacamanoticias.cl/2026/08/03/estudiantes-copiapinos-aprenden-a-valorar-bahia-chorrillos/",
     "descripcion": "",
@@ -1226,51 +1271,6 @@
   {
     "titulo": "Copiapó: motociclista fallece tras colisión con vehículo menor en la Ruta C-35 a la altura de Paipote",
     "enlace": "https://www.atacamanoticias.cl/2026/08/03/copiapo-motociclista-fallece-tras-colision-con-vehiculo-menor-en-la-ruta-c-35-a-la-altura-de-paipote/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Vodanovic asegura que distribuir compensación vía Fondo Común beneficia al 75% de las comunas",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/03/vodanovic-asegura-que-distribuir-compensacion-via-fondo-comun-beneficia-al-75-de-las-comunas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cadem: 87% rechaza alza de aranceles de EE.UU. y mayoría pide fortalecer comercio con China",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/03/cadem-87-rechaza-alza-de-aranceles-de-ee-uu-y-mayoria-pide-fortalecer-comercio-con-china/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Trump anuncia negociaciones con Irán tras aplazar ataque militar: diálogo comienza este lunes",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/03/trump-anuncia-negociaciones-con-iran-tras-aplazar-ataque-militar-dialogo-comienza-este-lunes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Nicolás Grau arremete contra Ley de Reconstrucción: Favorece a los sectores de “más alto ingreso”",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/03/nicolas-grau-arremete-contra-ley-de-reconstruccion-favorece-a-los-sectores-de-mas-alto-ingreso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Dominga López gana Miss Universo Chile 2026: competirá en versión internacional",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/03/dominga-lopez-gana-miss-universo-chile-2026-competira-en-version-internacional/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Corte revoca rebaja de cautelar y Manuel Monsalve vuelve a cumplir arresto domiciliario total",
+    "enlace": "https://www.maray.cl/pais/03/08/2026/corte-revoca-rebaja-de-cautelar-y-manuel-monsalve-vuelve-a-cumplir-arresto-domiciliario-total/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Hasta 34°C en pleno invierno | Meteorología emite aviso por altas temperaturas en zonas de la región de Atacama",
     "enlace": "https://www.maray.cl/atacama/03/08/2026/hasta-34c-en-pleno-invierno-meteorologia-emite-aviso-por-altas-temperaturas-en-zonas-de-la-region-de-atacama/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "«Spider-Man: Un Nuevo Día» rompe récords y logra el segundo mejor estreno de la historia",
     "enlace": "https://www.maray.cl/internacional/03/08/2026/spider-man-un-nuevo-dia-rompe-records-y-logra-el-segundo-mejor-estreno-de-la-historia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Más de mil armas argentinas han sido incautadas en Chile desde 2022: al menos 40 pertenecían a policías y militares",
-    "enlace": "https://www.maray.cl/pais/03/08/2026/mas-de-mil-armas-argentinas-han-sido-incautadas-en-chile-desde-2022-al-menos-40-pertenecian-a-policias-y-militares/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,78 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Más de 113 mil juguetes falsificados fueron incautados por Aduanas en San Antonio previo al Día del Niño",
+    "enlace": "https://g5noticias.cl/2026/08/03/mas-de-113-mil-juguetes-falsificados-fueron-incautados-por-aduanas-en-san-antonio-previo-al-dia-del-nino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Corte de Santiago confirma absolución de Claudio Crespo por apremios ilegítimos causando lesiones graves gravísimas",
+    "enlace": "https://g5noticias.cl/2026/08/03/corte-de-santiago-confirma-absolucion-de-claudio-crespo-por-apremios-ilegitimos-causando-lesiones-graves-gravisimas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fiscalía de Arica obtuvo condena contra un acusado por el delito de violación reiterada en contra de su hijastra",
+    "enlace": "https://g5noticias.cl/2026/08/03/fiscalia-de-arica-obtuvo-condena-contra-un-acusado-por-el-delito-de-violacion-reiterada-en-contra-de-su-hijastra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Tripulación Paraíso se presenta este sábado 9 de agosto en la Plaza de Armas de Putaendo",
+    "enlace": "https://g5noticias.cl/2026/08/03/tripulacion-paraiso-se-presenta-este-sabado-9-de-agosto-en-la-plaza-de-armas-de-putaendo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Bachelet: «Necesitamos unas Naciones Unidas más eficaces y cercanas a las personas»",
+    "enlace": "https://g5noticias.cl/2026/08/03/bachelet-necesitamos-unas-naciones-unidas-mas-eficaces-y-cercanas-a-las-personas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Enap y Municipalidad de Concón inician operación de barredora para reforzar la limpieza de calles",
+    "enlace": "https://g5noticias.cl/2026/08/03/enap-y-municipalidad-de-concon-inician-operacion-de-barredora-para-reforzar-la-limpieza-de-calles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Solicitan la renuncia de dos directores de Servicios de Salud y también remueven al director del SSVQ-P",
+    "enlace": "https://g5noticias.cl/2026/08/03/solicitan-la-renuncia-de-dos-directos-de-servicios-de-salud-y-tambien-remueven-al-director-del-ssvq-p/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Sernatur inicia un nuevo ciclo de Turismo Connect para fortalecer la inteligencia de mercado de la industria turística",
+    "enlace": "https://g5noticias.cl/2026/08/03/sernatur-inicia-un-nuevo-ciclo-de-turismo-connect-para-fortalecer-la-inteligencia-de-mercado-de-la-industria-turistica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Diputados de la Comisión del Trabajo proponen agenda de incentivos y reactivación laboral para mayores de 50 años",
     "enlace": "https://g5noticias.cl/2026/08/03/diputados-de-la-comision-del-trabajo-proponen-agenda-de-incentivos-y-reactivacion-laboral-para-mayores-de-50-anos/",
     "descripcion": "",
@@ -1649,78 +1721,6 @@
   {
     "titulo": "Premio Regional Linterna de Papel 2026 abre convocatoria para reconocer trayectorias y aportes a las Culturas, las Artes y el Patrimonio de Antofagasta",
     "enlace": "https://g5noticias.cl/2026/08/03/premio-regional-linterna-de-papel-2026-abre-convocatoria-para-reconocer-trayectorias-y-aportes-a-las-culturas-las-artes-y-el-patrimonio-de-antofagasta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Pese a histórico temporal: Hospital de Constitución mantuvo la atención durante toda la emergencia",
-    "enlace": "https://g5noticias.cl/2026/08/03/pese-a-historico-temporal-hospital-de-constitucion-mantuvo-la-atencion-durante-toda-la-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Copiapó: Fiscalía ordena investigación luego de fatal accidente en que perdió la vida un motociclista",
-    "enlace": "https://g5noticias.cl/2026/08/03/copiapo-fiscalia-ordena-investigacion-luego-de-fatal-accidente-en-que-perdio-la-vida-un-motociclista/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "“Verdadero robo hormiga”: diputado Jaime Araya pide a directora nacional del SERNAC viajar a Antofagasta e iniciar demanda colectiva contra Bipay",
-    "enlace": "https://g5noticias.cl/2026/08/03/verdadero-robo-hormiga-diputado-jaime-araya-pide-a-directora-nacional-del-sernac-viajar-a-antofagasta-e-iniciar-demanda-colectiva-contra-bipay/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscalía de Arica obtuvo condena en contra de 17 imputados que integraban red de tráfico de ketamina",
-    "enlace": "https://g5noticias.cl/2026/08/03/fiscalia-de-arica-obtuvo-condena-en-contra-de-17-imputados-que-integraban-red-de-trafico-de-ketamina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Comenzó el plan piloto de Bus + Tren en San Pedro hasta Estación Limache",
-    "enlace": "https://g5noticias.cl/2026/08/03/comenzo-el-plan-piloto-de-bus-tren-en-san-pedro-hasta-estacion-limache/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "CONAF y el Municipio de Pinto rinden homenaje a guardaparques de la Reserva Nacional Ñuble",
-    "enlace": "https://g5noticias.cl/2026/08/03/conaf-y-el-municipio-de-pinto-rinden-homenaje-a-guardaparques-de-la-reserva-nacional-nuble/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "“El mejor truco de magia jamás visto” culmina destacada participación en el Festival Off Avignon 2026",
-    "enlace": "https://g5noticias.cl/2026/08/03/el-mejor-truco-de-magia-jamas-visto-culmina-destacada-participacion-en-el-festival-off-avignon-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscalía y OS7 desarticulan tres puntos de venta de drogas en Antofagasta",
-    "enlace": "https://g5noticias.cl/2026/08/03/fiscalia-y-os7-desarticulan-tres-puntos-de-venta-de-drogas-en-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1818,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Gobierno pide la renuncia de la directora del Servicio de Salud Magallanes por pérdida de confianza",
+    "enlace": "https://laprensaaustral.cl/2026/08/03/gobierno-pide-la-renuncia-de-la-directora-del-servicio-de-salud-magallanes-por-perdida-de-confianza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "“Vozinha ya es un Cacique más”, el mensaje de Colo-Colo a sus hinchas",
     "enlace": "https://laprensaaustral.cl/2026/08/03/vozinha-ya-es-un-cacique-mas-el-mensaje-de-colo-colo-a-sus-hinchas/",
     "descripcion": "",
@@ -1827,7 +1836,7 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Con un esquinazo, el Instituto Superior de Comercio dio inicio a la celebración de sus 89 años de historia",
+    "titulo": "Con un esquinazo, el Instituto Superior de Comercio dio inicio a la celebración de sus 90 años de historia",
     "enlace": "https://laprensaaustral.cl/2026/08/03/con-un-esquinazo-el-instituto-superior-de-comercio-dio-inicio-a-la-celebracion-de-sus-89-anos-de-historia/",
     "descripcion": "",
     "publicado": "",
@@ -1892,15 +1901,6 @@
   {
     "titulo": "Vozinha llegó al país para jugar por Colo Colo",
     "enlace": "https://laprensaaustral.cl/2026/08/03/vozinha-llego-al-pais-para-jugar-por-colo-colo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "La “U” es único escolta: venció 2-0 a Huachipato",
-    "enlace": "https://laprensaaustral.cl/2026/08/03/la-u-es-unico-escolta-vencio-2-0-a-huachipato/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
