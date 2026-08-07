@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Hospital de Ovalle promueve la leche materna como la primera protección del recién nacido",
+    "enlace": "https://laserenaonline.cl/2026/08/07/hospital-de-ovalle-promueve-la-leche-materna-como-la-primera-proteccion-del-recien-nacido/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Municipio de Coquimbo recupera más de 50 kilómetros de caminos y avanza en restablecer la conectividad",
     "enlace": "https://laserenaonline.cl/2026/08/07/municipio-de-coquimbo-recupera-mas-de-50-kilometros-de-caminos-y-avanza-en-restablecer-la-conectividad/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Coquimbo: Fiscalía formalizó a segundo sujeto imputado de robo con homicidio",
     "enlace": "https://laserenaonline.cl/2026/08/07/coquimbo-fiscalia-formalizo-a-segundo-sujeto-imputado-de-robo-con-homicidio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 7 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/07/el-tiempo-hoy-7-de-agosto-para-la-region-de-coquimbo-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1368,6 +1368,69 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Con probabilidad de Isoterma Cero alta | Anuncian pronostico de lluvia para Atacama",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/07/08/2026/con-probabilidad-de-isoterma-cero-alta-anuncian-pronostico-de-lluvia-para-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Ejes de Seguridad Pública del Gobierno",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/07/08/2026/ejes-de-seguridad-publica-del-gobierno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Avance en el recambio de veredas en Copiapó",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/07/08/2026/avance-en-el-recambio-de-veredas-en-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "SENAPRED: Emiten aviso por precipitaciones e isoterma cero alta para sectores cordilleranos de Atacama",
+    "enlace": "https://www.maray.cl/atacama/07/08/2026/senapred-emiten-aviso-por-precipitaciones-e-isoterma-cero-alta-para-sectores-cordilleranos-de-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Ciclistas de Tierra Amarilla clasifican a la final nacional de los Juegos Deportivos Escolares",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/07/08/2026/ciclistas-de-tierra-amarilla-clasifican-a-la-final-nacional-de-los-juegos-deportivos-escolares-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Programa de Integración Escolar alcanza cifra récord: más de 473 mil estudiantes reciben apoyos en Chile",
+    "enlace": "https://www.maray.cl/pais/07/08/2026/programa-de-integracion-escolar-alcanza-cifra-record-mas-de-473-mil-estudiantes-reciben-apoyos-en-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Kast afirma que solicitudes de indulto a uniformados serán evaluadas caso a caso",
+    "enlace": "https://www.maray.cl/pais/07/08/2026/kast-afirma-que-solicitudes-de-indulto-a-uniformados-seran-evaluadas-caso-a-caso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Este martes y miércoles retornarían las lluvias a la región de Atacama. Y con probabilidad de Isoterma Cero alta",
     "enlace": "https://www.maray.cl/atacama/07/08/2026/este-martes-y-miercoles-retornarian-las-lluvias-a-la-region-de-atacama-y-con-probabilidad-de-isoterma-cero-alta/",
     "descripcion": "",
@@ -1388,69 +1451,6 @@
   {
     "titulo": "Nelson Tapia resulta herido tras volcamiento en la Ruta 5 Sur",
     "enlace": "https://www.maray.cl/pais/07/08/2026/nelson-tapia-resulta-herido-tras-volcamiento-en-la-ruta-5-sur/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Deportes Copiapó recibe a San Luis en la fecha 19 del Ascenso: revisa la programación completa",
-    "enlace": "https://www.maray.cl/deportes/07/08/2026/deportes-copiapo-recibe-a-san-luis-en-la-fecha-19-del-ascenso-revisa-la-programacion-completa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Kast llega a Colombia para asistir al cambio de mando de Abelardo de la Espriella",
-    "enlace": "https://www.maray.cl/pais/07/08/2026/kast-llega-a-colombia-para-asistir-al-cambio-de-mando-de-abelardo-de-la-espriella/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Hombre de nacionalidad colombiana muere tras ser baleado en un cité de La Cisterna",
-    "enlace": "https://www.maray.cl/pais/07/08/2026/hombre-de-nacionalidad-colombiana-muere-tras-ser-baleado-en-un-cite-de-la-cisterna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "IPC de julio varió un 0,1%: bajan los combustibles, suben los alojamientos y el suministro eléctrico",
-    "enlace": "https://www.maray.cl/atacama/07/08/2026/ipc-de-julio-vario-un-01-bajan-los-combustibles-suben-los-alojamientos-y-el-suministro-electrico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Agosto, el mes del corazón: una oportunidad para construir salud cardiovascular ( Dra. Soledad Larraín Muñoz, médico miembro de la Sociedad Chilena de Medicina del Estilo de Vida.)",
-    "enlace": "https://www.maray.cl/opinion/06/08/2026/agosto-el-mes-del-corazon-una-oportunidad-para-construir-salud-cardiovascular-dra-soledad-larrain-munoz-medico-miembro-de-la-sociedad-chilena-de-medicina-del-estilo-de-vida/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El regalo que no se envuelve ( Carmen de la Maza, Directora ejecutiva de Fundación ALMA)",
-    "enlace": "https://www.maray.cl/opinion/06/08/2026/el-regalo-que-no-se-envuelve-carmen-de-la-maza-directora-ejecutiva-de-fundacion-alma/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Presidente de Asomico, Sergio Ghiglino, resaltó los anuncios para el sector del Biministro Daniel Mas",
-    "enlace": "https://www.maray.cl/atacama/06/08/2026/presidente-de-asomico-sergio-ghiglino-resalto-los-anuncios-para-el-sector-del-biministro-daniel-mas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,89 +1638,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "El mayor apagón de este viernes en Cuba dejará a la vez sin electricidad al 72 % del país",
+    "enlace": "https://g5noticias.cl/2026/08/07/el-mayor-apagon-de-este-viernes-en-cuba-dejara-a-la-vez-sin-electricidad-al-72-del-pais/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Tribunal frena las obras del Salón de Baile de Trump hasta que tenga permiso del Congreso",
+    "enlace": "https://g5noticias.cl/2026/08/07/tribunal-frena-las-obras-del-salon-de-baile-de-trump-hasta-que-tenga-permiso-del-congreso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Siete muertos, entre ellos tres profesores y tres estudiantes, además de 15 heridos tras tiroteo en Tailandia",
+    "enlace": "https://g5noticias.cl/2026/08/07/siete-muertos-entre-ellos-tres-profesores-y-tres-estudiantes-ademas-de-15-heridos-tras-tiroteo-en-tailandia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Presidente Kast destaca cooperación en seguridad tras reunión bilateral con el Presidente Electo de Colombia",
+    "enlace": "https://g5noticias.cl/2026/08/07/presidente-kast-destaca-cooperacion-en-seguridad-tras-reunion-bilateral-con-el-presidente-electo-de-colombia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Gobierno Regional de Valparaíso destinará $265 millones de pesos para apoyar a pequeños productores ganaderos afectados por los sistemas frontales",
+    "enlace": "https://g5noticias.cl/2026/08/07/gobierno-regional-de-valparaiso-destinara-265-millones-de-pesos-para-apoyar-a-pequenos-productores-ganaderos-afectados-por-los-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "MOP acelera el Embalse Zapallar: estudios arqueológicos avanzan para dar paso al inicio de las obras",
+    "enlace": "https://g5noticias.cl/2026/08/07/mop-acelera-el-embalse-zapallar-estudios-arqueologicos-avanzan-para-dar-paso-al-inicio-de-las-obras/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Ministro de las Culturas asiste a lanzamiento de programación especial para conmemorar el día del niño",
+    "enlace": "https://g5noticias.cl/2026/08/07/ministro-de-las-culturas-asiste-a-lanzamiento-de-programacion-especial-para-conmemorar-el-dia-del-nino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Inician obras de recuperación del Ex Hotel Colón y lanzan la campaña «Esta fachada cuenta algo» para poner en valor el patrimonio de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/08/07/inician-obras-de-recuperacion-del-ex-hotel-colon-y-lanzan-la-campana-esta-fachada-cuenta-algo-para-poner-en-valor-el-patrimonio-de-valparaiso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "RedQ inicia cuarta etapa de la Ruta de la Gestión Escolar en los Jardines Infantiles para fortalecer el aprendizaje en la primera infancia",
+    "enlace": "https://g5noticias.cl/2026/08/07/redq-inicia-cuarta-etapa-de-la-ruta-de-la-gestion-escolar-en-los-jardines-infantiles-para-fortalecer-el-aprendizaje-en-la-primera-infancia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Operación 3D: Juzgado de San Bernardo deja en prisión preventiva a imputados por asociación criminal y tráfico de armas prohibidas",
     "enlace": "https://g5noticias.cl/2026/08/07/operacion-3d-juzgado-de-san-bernardo-deja-en-prision-preventiva-a-imputados-por-asociacion-criminal-y-trafico-de-armas-prohibidas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Corte de Santiago confirma multa a canal de TV por emitir nota sensacionalista en horario de protección",
-    "enlace": "https://g5noticias.cl/2026/08/07/corte-de-santiago-confirma-multa-a-canal-de-tv-por-emitir-nota-sensacionalista-en-horario-de-proteccion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fundación Nuestros Hijos busca reunir a 1.000 voluntarios digitales para apoyar a niños, niñas y adolescentes con cáncer en todo Chile",
-    "enlace": "https://g5noticias.cl/2026/08/07/fundacion-nuestros-hijos-busca-reunir-a-1-000-voluntarios-digitales-para-apoyar-a-ninos-ninas-y-adolescentes-con-cancer-en-todo-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Lluvias subirán los precios: cómo afectarán el costo de los productos en Chile",
-    "enlace": "https://g5noticias.cl/2026/08/07/lluvias-subiran-los-precios-como-afectaran-el-costo-de-los-productos-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Día de la Niñez: Caja La Araucana reúne descuentos en panoramas y experiencias para celebrar en familia",
-    "enlace": "https://g5noticias.cl/2026/08/07/dia-de-la-ninez-caja-la-araucana-reune-descuentos-en-panoramas-y-experiencias-para-celebrar-en-familia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Antofagasta: Fiscales y abogados fortalecen capacidades en investigación de delitos violentos",
-    "enlace": "https://g5noticias.cl/2026/08/07/antofagasta-fiscales-y-abogados-fortalecen-capacidades-en-investigacion-de-delitos-violentos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputados del PDG piden a Subdere plan de emergencia para reparar infraestructura dañada por temporales",
-    "enlace": "https://g5noticias.cl/2026/08/07/diputados-del-pdg-piden-a-subdere-plan-de-emergencia-para-reparar-infraestructura-danada-por-temporales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Buenas señales inflacionarias tras el IPC de julio abren camino a la reactivación económica",
-    "enlace": "https://g5noticias.cl/2026/08/07/buenas-senales-inflacionarias-tras-el-ipc-de-julio-abren-camino-a-la-reactivacion-economica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "En la antesala de Fiestas Patrias diputado Mauro González (RN) solicita al Gobierno reforzar plan contra el abigeato para proteger a las familias del mundo rural",
-    "enlace": "https://g5noticias.cl/2026/08/07/en-la-antesala-de-fiestas-patrias-diputado-mauro-gonzalez-rn-solicita-al-gobierno-reforzar-plan-contra-el-abigeato-para-proteger-a-las-familias-del-mundo-rural/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado Teao ingresa reforma para que dieta de expresidentes se otorgue al jubilar: Afectaría a Boric",
-    "enlace": "https://g5noticias.cl/2026/08/07/diputado-teao-ingresa-reforma-para-que-dieta-de-expresidentes-se-otorgue-al-jubilar-afectaria-a-boric/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1818,24 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Presidente Kast descarta mezclar indultos con seguridad y apunta a acuerdos contra el crimen organizado",
+    "enlace": "https://laprensaaustral.cl/2026/08/07/presidente-kast-descarta-mezclar-indultos-con-seguridad-y-apunta-a-acuerdos-contra-el-crimen-organizado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Estudiantes del Liceo María Behety exigen devolución de terrenos usados por consultorio provisorio",
+    "enlace": "https://laprensaaustral.cl/2026/08/07/estudiantes-del-liceo-maria-behety-exigen-devolucion-de-terrenos-usados-por-consultorio-provisorio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Baby Master: sin novedades en lo alto de las tablas",
     "enlace": "https://laprensaaustral.cl/2026/08/07/baby-master-sin-novedades-en-lo-alto-de-las-tablas/",
     "descripcion": "",
@@ -1883,24 +1901,6 @@
   {
     "titulo": "Estuvo cuatro días en riesgo  vital: muere joven que participó  en pelea clandestina en Osorno",
     "enlace": "https://laprensaaustral.cl/2026/08/07/estuvo-cuatro-dias-en-riesgo-vital-muere-joven-que-participo-en-pelea-clandestina-en-osorno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Festival Folclórico en la Patagonia",
-    "enlace": "https://laprensaaustral.cl/2026/08/07/festival-folclorico-en-la-patagonia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Diputados presentaron proyecto para suspender por  cinco años la Ley Karin y reabrir debate sobre normas",
-    "enlace": "https://laprensaaustral.cl/2026/08/07/diputados-presentaron-proyecto-para-suspender-por-cinco-anos-la-ley-karin-y-reabrir-debate-sobre-normas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
