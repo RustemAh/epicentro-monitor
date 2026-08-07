@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Municipio de Coquimbo recupera más de 50 kilómetros de caminos y avanza en restablecer la conectividad",
+    "enlace": "https://laserenaonline.cl/2026/08/07/municipio-de-coquimbo-recupera-mas-de-50-kilometros-de-caminos-y-avanza-en-restablecer-la-conectividad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Precipitaciones retornarían a Coquimbo entre el martes 11 y el miércoles 12 de agosto",
     "enlace": "https://laserenaonline.cl/2026/08/07/precipitaciones-retornarian-a-coquimbo-entre-el-martes-11-y-el-miercoles-12-de-agosto/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "El tiempo hoy 7 de agosto para la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/08/07/el-tiempo-hoy-7-de-agosto-para-la-region-de-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Un tercio de los chilenos apoya prohibir las redes sociales a menores de 16 años",
-    "enlace": "https://laserenaonline.cl/2026/08/06/un-tercio-de-los-chilenos-apoya-prohibir-las-redes-sociales-a-menores-de-16-anos/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Médico APS se integra a Centro TEA Monte Patria para agilizar procesos diagnósticos en niños, niñas y adolescentes",
+    "enlace": "https://www.elmontepatrino.cl/2026/08/07/medico-aps-se-integra-a-centro-tea-monte-patria-para-agilizar-procesos-diagnosticos-en-ninos-ninas-y-adolescentes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Brigada de Aviación del Ejército entrega ayuda aérea a familias afectadas por las lluvias en Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/08/06/brigada-de-aviacion-del-ejercito-entrega-ayuda-aerea-a-familias-afectadas-por-las-lluvias-en-monte-patria/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "FACH traslada insumos de primera necesidad a comunidades aisladas de Monte Patria en el octavo puente aéreo",
     "enlace": "https://www.elmontepatrino.cl/2026/07/25/fach-traslada-insumos-de-primera-necesidad-a-comunidades-aisladas-de-monte-patria-en-el-octavo-puente-aereo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Monte Patria intensificó trabajos para recuperar la normalidad en sus valles con maquinaria pesada y Ficha FIBE",
-    "enlace": "https://www.elmontepatrino.cl/2026/07/23/monte-patria-intensifico-trabajos-para-recuperar-la-normalidad-en-sus-valles-con-maquinaria-pesada-y-ficha-fibe/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Inflación varió 0,1% en julio: ¿Qué contuvo los precios y dónde podrían venir nuevas alzas?",
-    "enlace": "https://g5noticias.cl/2026/08/07/inflacion-vario-01-en-julio-que-contuvo-los-precios-y-donde-podrian-venir-nuevas-alzas/",
+    "titulo": "Operación 3D: Juzgado de San Bernardo deja en prisión preventiva a imputados por asociación criminal y tráfico de armas prohibidas",
+    "enlace": "https://g5noticias.cl/2026/08/07/operacion-3d-juzgado-de-san-bernardo-deja-en-prision-preventiva-a-imputados-por-asociacion-criminal-y-trafico-de-armas-prohibidas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ciencia con sentido: desarrollan kit de entrenamiento sociolaboral inclusivo para estudiantes con discapacidad",
-    "enlace": "https://g5noticias.cl/2026/08/07/ciencia-con-sentido-desarrollan-kit-de-entrenamiento-sociolaboral-inclusivo-para-estudiantes-con-discapacidad/",
+    "titulo": "Corte de Santiago confirma multa a canal de TV por emitir nota sensacionalista en horario de protección",
+    "enlace": "https://g5noticias.cl/2026/08/07/corte-de-santiago-confirma-multa-a-canal-de-tv-por-emitir-nota-sensacionalista-en-horario-de-proteccion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Estudiantes de Antofagasta reciben por primera vez donaciones del programa Operation Warm que FedEx lleva adelante junto a Desafío Levantemos Chile",
-    "enlace": "https://g5noticias.cl/2026/08/07/estudiantes-de-antofagasta-reciben-por-primera-vez-donaciones-del-programa-operation-warm-que-fedex-lleva-adelante-junto-a-desafio-levantemos-chile/",
+    "titulo": "Fundación Nuestros Hijos busca reunir a 1.000 voluntarios digitales para apoyar a niños, niñas y adolescentes con cáncer en todo Chile",
+    "enlace": "https://g5noticias.cl/2026/08/07/fundacion-nuestros-hijos-busca-reunir-a-1-000-voluntarios-digitales-para-apoyar-a-ninos-ninas-y-adolescentes-con-cancer-en-todo-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La triatleta «Maca» Salazar será de la partida en la primera versión del Triatlón Topman Mejillones 2026 que reunirá a más de 300 triatletas en el norte de Chile",
-    "enlace": "https://g5noticias.cl/2026/08/07/la-triatleta-maca-salazar-sera-de-la-partida-en-la-primera-version-del-triatlon-topman-mejillones-2026-que-reunira-a-mas-de-300-triatletas-en-el-norte-de-chile/",
+    "titulo": "Lluvias subirán los precios: cómo afectarán el costo de los productos en Chile",
+    "enlace": "https://g5noticias.cl/2026/08/07/lluvias-subiran-los-precios-como-afectaran-el-costo-de-los-productos-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comienza el pago de compensaciones a beneficiarios del Programa Control Niño Sano tras acuerdo judicial entre el Sernac y Farmacias Ahumada por colusión de medicamentos",
-    "enlace": "https://g5noticias.cl/2026/08/07/comienza-el-pago-de-compensaciones-a-beneficiarios-del-programa-control-nino-sano-tras-acuerdo-judicial-entre-el-sernac-y-farmacias-ahumada-por-colusion-de-medicamentos/",
+    "titulo": "Día de la Niñez: Caja La Araucana reúne descuentos en panoramas y experiencias para celebrar en familia",
+    "enlace": "https://g5noticias.cl/2026/08/07/dia-de-la-ninez-caja-la-araucana-reune-descuentos-en-panoramas-y-experiencias-para-celebrar-en-familia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bancada UDI oficia al Servel y pide abrir procedimiento sancionatorio contra el PC tras viaje de directiva a Cuba por homenaje a Fidel Castro",
-    "enlace": "https://g5noticias.cl/2026/08/07/bancada-udi-oficia-al-servel-y-pide-abrir-procedimiento-sancionatorio-contra-el-pc-tras-viaje-de-directiva-a-cuba-por-homenaje-a-fidel-castro/",
+    "titulo": "Antofagasta: Fiscales y abogados fortalecen capacidades en investigación de delitos violentos",
+    "enlace": "https://g5noticias.cl/2026/08/07/antofagasta-fiscales-y-abogados-fortalecen-capacidades-en-investigacion-de-delitos-violentos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CONAF abre postulaciones para labores de combate de incendios forestales 2026-2027",
-    "enlace": "https://g5noticias.cl/2026/08/07/conaf-abre-postulaciones-para-labores-de-combate-de-incendios-forestales-2026-2027/",
+    "titulo": "Diputados del PDG piden a Subdere plan de emergencia para reparar infraestructura dañada por temporales",
+    "enlace": "https://g5noticias.cl/2026/08/07/diputados-del-pdg-piden-a-subdere-plan-de-emergencia-para-reparar-infraestructura-danada-por-temporales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nelson Tapia sufre accidente en la Ruta 5 Sur: alcotest marcó que conducía en estado de ebriedad",
-    "enlace": "https://g5noticias.cl/2026/08/07/nelson-tapia-sufre-accidente-en-la-ruta-5-sur-alcotest-marco-que-conducia-en-estado-de-ebriedad/",
+    "titulo": "Buenas señales inflacionarias tras el IPC de julio abren camino a la reactivación económica",
+    "enlace": "https://g5noticias.cl/2026/08/07/buenas-senales-inflacionarias-tras-el-ipc-de-julio-abren-camino-a-la-reactivacion-economica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Quilpué cuenta con la primera sala de lactancia del país para locatarias de Feria El Belloto",
-    "enlace": "https://g5noticias.cl/2026/08/07/quilpue-cuenta-con-la-primera-sala-de-lactancia-del-pais-para-locatarias-de-feria-el-belloto/",
+    "titulo": "En la antesala de Fiestas Patrias diputado Mauro González (RN) solicita al Gobierno reforzar plan contra el abigeato para proteger a las familias del mundo rural",
+    "enlace": "https://g5noticias.cl/2026/08/07/en-la-antesala-de-fiestas-patrias-diputado-mauro-gonzalez-rn-solicita-al-gobierno-reforzar-plan-contra-el-abigeato-para-proteger-a-las-familias-del-mundo-rural/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Mes de la Cerveza: La cerveza como motor de empleo y desarrollo",
-    "enlace": "https://g5noticias.cl/2026/08/07/mes-de-la-cerveza-la-cerveza-como-motor-de-empleo-y-desarrollo/",
+    "titulo": "Diputado Teao ingresa reforma para que dieta de expresidentes se otorgue al jubilar: Afectaría a Boric",
+    "enlace": "https://g5noticias.cl/2026/08/07/diputado-teao-ingresa-reforma-para-que-dieta-de-expresidentes-se-otorgue-al-jubilar-afectaria-a-boric/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
