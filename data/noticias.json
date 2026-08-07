@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "En el Parque O’Higgins de Coquimbo se realizará celebración del Día de la Niñez con enfoque solidario y familiar",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/07/en-el-parque-ohiggins-de-coquimbo-se-realizara-celebracion-del-dia-de-la-ninez-con-enfoque-solidario-y-familiar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "PDI detiene a imputado prófugo por homicidio ocurrido en Punta Mira e incauta armas, droga y munición",
     "enlace": "https://www.elcoquimbano.cl/2026/08/06/pdi-detiene-a-imputado-profugo-por-homicidio-ocurrido-en-punta-mira-e-incauta-armas-droga-y-municion/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Despliegan catastro de empresas afectadas para avanzar en plan de recuperación en la Región de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/07/31/despliegan-catastro-de-empresas-afectadas-para-avanzar-en-plan-de-recuperacion-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "CGE mantiene plan de preventivo ante nuevo sistema frontal que afecta a la región de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/31/cge-mantiene-plan-de-preventivo-ante-nuevo-sistema-frontal-que-afecta-a-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Proyecto que agiliza la reconstrucción de las familias afectadas por catástrofes avanza a la Sala de la Cámara de Diputados",
+    "enlace": "https://laserenaonline.cl/2026/08/07/proyecto-que-agiliza-la-reconstruccion-de-las-familias-afectadas-por-catastrofes-avanza-a-la-sala-de-la-camara-de-diputados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "En un Mundial ya nadie gana solo por ser favorito",
+    "enlace": "https://laserenaonline.cl/2026/08/07/en-un-mundial-ya-nadie-gana-solo-por-ser-favorito/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Hospital de Ovalle promueve la leche materna como la primera protección del recién nacido",
     "enlace": "https://laserenaonline.cl/2026/08/07/hospital-de-ovalle-promueve-la-leche-materna-como-la-primera-proteccion-del-recien-nacido/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Los Vilos: Conductor buscado por homicidio llevaba drogas y quedó en prisión preventiva",
     "enlace": "https://laserenaonline.cl/2026/08/07/los-vilos-conductor-buscado-por-homicidio-llevaba-drogas-y-quedo-en-prision-preventiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Sujetos formalizados por robo calificado a chofer de aplicación quedaron en prisión preventiva",
-    "enlace": "https://laserenaonline.cl/2026/08/07/la-serena-sujetos-formalizados-por-robo-calificado-a-chofer-de-aplicacion-quedaron-en-prision-preventiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Coquimbo: Fiscalía formalizó a segundo sujeto imputado de robo con homicidio",
-    "enlace": "https://laserenaonline.cl/2026/08/07/coquimbo-fiscalia-formalizo-a-segundo-sujeto-imputado-de-robo-con-homicidio/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Este sábado 8 de agosto se celebra el Día del Gato: El 57% de los hogares vive con uno",
+    "enlace": "https://ovallehoy.cl/este-sabado-8-de-agosto-se-celebra-el-dia-del-gato-el-57-de-los-hogares-vive-con-uno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Preocupación por el desempleo en Chile se dispara diez puntos en un año y alcanza el 46%",
     "enlace": "https://ovallehoy.cl/preocupacion-por-el-desempleo-en-chile-se-dispara-diez-puntos-en-un-ano-y-alcanza-el-46/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Reinserción Social Juvenil: inician proceso de acreditación de organismos para ejecutar programas de medio libre",
     "enlace": "https://ovallehoy.cl/reinsercion-social-juvenil-inician-proceso-de-acreditacion-de-organismos-para-ejecutar-programas-de-medio-libre/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Mujeres se capacitan y acceden a empleo en la construcción",
-    "enlace": "https://ovallehoy.cl/mujeres-se-capacitan-y-acceden-a-empleo-en-la-construccion/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1638,6 +1638,78 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "SLEP Aconcagua destaca la diversidad de su oferta educativa para el proceso de Admisión Escolar 2027",
+    "enlace": "https://g5noticias.cl/2026/08/07/slep-aconcagua-destaca-la-diversidad-de-su-oferta-educativa-para-el-proceso-de-admision-escolar-2027/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Puchuncaví pone en marcha tres nuevos camiones recolectores de residuos domiciliarios",
+    "enlace": "https://g5noticias.cl/2026/08/07/puchuncavi-pone-en-marcha-tres-nuevos-camiones-recolectores-de-residuos-domiciliarios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seremi de Salud despliega amplio operativo sanitario para resguardar el desarrollo del Campeonato Mundial de Vóleibol Femenino Sub-17 en Aconcagua",
+    "enlace": "https://g5noticias.cl/2026/08/07/seremi-de-salud-despliega-amplio-operativo-sanitario-para-resguardar-el-desarrollo-del-campeonato-mundial-de-voleibol-femenino-sub-17-en-aconcagua/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Concón responde a la crisis del desempleo: municipio reunió a 16 empresas y más de 200 vacantes en la 11ª Feria Laboral",
+    "enlace": "https://g5noticias.cl/2026/08/07/concon-responde-a-la-crisis-del-desempleo-municipio-reunio-a-16-empresas-y-mas-de-200-vacantes-en-la-11a-feria-laboral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Pieza por pieza: descubren esquema para “armar” en Chile miles de tintas y tóner falsificados",
+    "enlace": "https://g5noticias.cl/2026/08/07/pieza-por-pieza-descubren-esquema-para-armar-en-chile-miles-de-tintas-y-toner-falsificados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fiscalía obtiene veredicto condenatorio contra un adulto y dos adolescentes acusados de homicidio de hombre en San Carlos",
+    "enlace": "https://g5noticias.cl/2026/08/07/fiscalia-obtiene-veredicto-condenatorio-contra-un-adulto-y-dos-adolescentes-acusados-de-homicidio-de-hombre-en-san-carlos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fiscalía incauta 2,1 toneladas de drogas con diligencias que se extendieron hasta Lampa y San Bernardo",
+    "enlace": "https://g5noticias.cl/2026/08/07/fiscalia-incauta-21-toneladas-de-drogas-con-diligencias-que-se-extendieron-hasta-lampa-y-san-bernardo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fiscal Marcelo Soto logra condenar a presidio perpetuo calificado a autor de violación con femicidio",
+    "enlace": "https://g5noticias.cl/2026/08/07/fiscal-marcelo-soto-logra-condenar-a-presidio-perpetuo-calificado-a-autor-de-violacion-con-femicidio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "El mayor apagón de este viernes en Cuba dejará a la vez sin electricidad al 72 % del país",
     "enlace": "https://g5noticias.cl/2026/08/07/el-mayor-apagon-de-este-viernes-en-cuba-dejara-a-la-vez-sin-electricidad-al-72-del-pais/",
     "descripcion": "",
@@ -1649,78 +1721,6 @@
   {
     "titulo": "Tribunal frena las obras del Salón de Baile de Trump hasta que tenga permiso del Congreso",
     "enlace": "https://g5noticias.cl/2026/08/07/tribunal-frena-las-obras-del-salon-de-baile-de-trump-hasta-que-tenga-permiso-del-congreso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Siete muertos, entre ellos tres profesores y tres estudiantes, además de 15 heridos tras tiroteo en Tailandia",
-    "enlace": "https://g5noticias.cl/2026/08/07/siete-muertos-entre-ellos-tres-profesores-y-tres-estudiantes-ademas-de-15-heridos-tras-tiroteo-en-tailandia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Presidente Kast destaca cooperación en seguridad tras reunión bilateral con el Presidente Electo de Colombia",
-    "enlace": "https://g5noticias.cl/2026/08/07/presidente-kast-destaca-cooperacion-en-seguridad-tras-reunion-bilateral-con-el-presidente-electo-de-colombia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Gobierno Regional de Valparaíso destinará $265 millones de pesos para apoyar a pequeños productores ganaderos afectados por los sistemas frontales",
-    "enlace": "https://g5noticias.cl/2026/08/07/gobierno-regional-de-valparaiso-destinara-265-millones-de-pesos-para-apoyar-a-pequenos-productores-ganaderos-afectados-por-los-sistemas-frontales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "MOP acelera el Embalse Zapallar: estudios arqueológicos avanzan para dar paso al inicio de las obras",
-    "enlace": "https://g5noticias.cl/2026/08/07/mop-acelera-el-embalse-zapallar-estudios-arqueologicos-avanzan-para-dar-paso-al-inicio-de-las-obras/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ministro de las Culturas asiste a lanzamiento de programación especial para conmemorar el día del niño",
-    "enlace": "https://g5noticias.cl/2026/08/07/ministro-de-las-culturas-asiste-a-lanzamiento-de-programacion-especial-para-conmemorar-el-dia-del-nino/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Inician obras de recuperación del Ex Hotel Colón y lanzan la campaña «Esta fachada cuenta algo» para poner en valor el patrimonio de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/07/inician-obras-de-recuperacion-del-ex-hotel-colon-y-lanzan-la-campana-esta-fachada-cuenta-algo-para-poner-en-valor-el-patrimonio-de-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "RedQ inicia cuarta etapa de la Ruta de la Gestión Escolar en los Jardines Infantiles para fortalecer el aprendizaje en la primera infancia",
-    "enlace": "https://g5noticias.cl/2026/08/07/redq-inicia-cuarta-etapa-de-la-ruta-de-la-gestion-escolar-en-los-jardines-infantiles-para-fortalecer-el-aprendizaje-en-la-primera-infancia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Operación 3D: Juzgado de San Bernardo deja en prisión preventiva a imputados por asociación criminal y tráfico de armas prohibidas",
-    "enlace": "https://g5noticias.cl/2026/08/07/operacion-3d-juzgado-de-san-bernardo-deja-en-prision-preventiva-a-imputados-por-asociacion-criminal-y-trafico-de-armas-prohibidas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
