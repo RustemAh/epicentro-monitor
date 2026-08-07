@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Crianceros de Ovalle recibieron alimento para sus animales",
+    "enlace": "https://ovallehoy.cl/crianceros-de-ovalle-recibieron-alimento-para-sus-animales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Este sábado 8 de agosto se celebra el Día del Gato: El 57% de los hogares vive con uno",
     "enlace": "https://ovallehoy.cl/este-sabado-8-de-agosto-se-celebra-el-dia-del-gato-el-57-de-los-hogares-vive-con-uno/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Llaman a adquirir juguetes seguros y prevenir accidentes en el Día de la Niñez",
     "enlace": "https://ovallehoy.cl/llaman-a-adquirir-juguetes-seguros-y-prevenir-accidentes-en-el-dia-de-la-ninez/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Reinserción Social Juvenil: inician proceso de acreditación de organismos para ejecutar programas de medio libre",
-    "enlace": "https://ovallehoy.cl/reinsercion-social-juvenil-inician-proceso-de-acreditacion-de-organismos-para-ejecutar-programas-de-medio-libre/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Servel denuncia al Partido de la Gente ante Fiscalía por presuntas irregularidades en rendición de gastos",
+    "enlace": "https://www.maray.cl/pais/07/08/2026/servel-denuncia-al-partido-de-la-gente-ante-fiscalia-por-presuntas-irregularidades-en-rendicion-de-gastos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Copiapó: Fiscalía investiga accidente minero con resultado de muerte en faena de Tierra Amarilla",
+    "enlace": "https://www.maray.cl/atacama/07/08/2026/copiapo-fiscalia-investiga-accidente-minero-con-resultado-de-muerte-en-faena-de-tierra-amarilla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Con probabilidad de Isoterma Cero alta | Anuncian pronostico de lluvia para Atacama",
     "enlace": "https://www.maray.cl/podcast-de-noticias/07/08/2026/con-probabilidad-de-isoterma-cero-alta-anuncian-pronostico-de-lluvia-para-atacama/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "Este martes y miércoles retornarían las lluvias a la región de Atacama. Y con probabilidad de Isoterma Cero alta",
     "enlace": "https://www.maray.cl/atacama/07/08/2026/este-martes-y-miercoles-retornarian-las-lluvias-a-la-region-de-atacama-y-con-probabilidad-de-isoterma-cero-alta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Detienen en Copiapó a mujer acusada de vender cursos de conducir falsos para obtener licencias",
-    "enlace": "https://www.maray.cl/atacama/07/08/2026/detienen-en-copiapo-a-mujer-acusada-de-vender-cursos-de-conducir-falsos-para-obtener-licencias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Nelson Tapia resulta herido tras volcamiento en la Ruta 5 Sur",
-    "enlace": "https://www.maray.cl/pais/07/08/2026/nelson-tapia-resulta-herido-tras-volcamiento-en-la-ruta-5-sur/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,69 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "UDI entrega al Gobierno 20 propuestas para enfrentar la emergencia laboral y pide convertir el empleo en una prioridad nacional",
+    "enlace": "https://g5noticias.cl/2026/08/07/udi-entrega-al-gobierno-20-propuestas-para-enfrentar-la-emergencia-laboral-y-pide-convertir-el-empleo-en-una-prioridad-nacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Ministro Poduje encabeza Cuenta Pública 2026 anunciando un ministerio en terreno como enfoque de su gestión",
+    "enlace": "https://g5noticias.cl/2026/08/07/ministro-poduje-encabeza-cuenta-publica-2026-anunciando-un-ministerio-en-terreno-como-enfoque-de-su-gestion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "En solo seis días de trabajo, MOP y Ejército restablecen la conectividad entre Zapallar y Catapilco con puente mecano",
+    "enlace": "https://g5noticias.cl/2026/08/07/en-solo-seis-dias-de-trabajo-mop-y-ejercito-restablecen-la-conectividad-entre-zapallar-y-catapilco-con-puente-mecano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Niños en redes sociales: educar antes de limitar. Por Óscar Marcos Managing director de SOUL",
+    "enlace": "https://g5noticias.cl/2026/08/07/ninos-en-redes-sociales-educar-antes-de-limitar-por-oscar-marcos-managing-director-de-soul/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seremi de las Culturas invita a participar en concurso fotográfico para visibilizar la diversidad cultural en O’Higgins",
+    "enlace": "https://g5noticias.cl/2026/08/07/seremi-de-las-culturas-invita-a-participar-en-concurso-fotografico-para-visibilizar-la-diversidad-cultural-en-ohiggins/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "INJPL propone fortalecer el rol de los Juzgados de Policía Local en proyecto que sanciona la conducción temeraria",
+    "enlace": "https://g5noticias.cl/2026/08/07/injpl-propone-fortalecer-el-rol-de-los-juzgados-de-policia-local-en-proyecto-que-sanciona-la-conduccion-temeraria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Gestionan obras viales y conectividad para comunidades de Chanco y Cauquenes",
+    "enlace": "https://g5noticias.cl/2026/08/07/gestionan-obras-viales-y-conectividad-para-comunidades-de-chanco-y-cauquenes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "SLEP Aconcagua destaca la diversidad de su oferta educativa para el proceso de Admisión Escolar 2027",
     "enlace": "https://g5noticias.cl/2026/08/07/slep-aconcagua-destaca-la-diversidad-de-su-oferta-educativa-para-el-proceso-de-admision-escolar-2027/",
     "descripcion": "",
@@ -1658,69 +1721,6 @@
   {
     "titulo": "Seremi de Salud despliega amplio operativo sanitario para resguardar el desarrollo del Campeonato Mundial de Vóleibol Femenino Sub-17 en Aconcagua",
     "enlace": "https://g5noticias.cl/2026/08/07/seremi-de-salud-despliega-amplio-operativo-sanitario-para-resguardar-el-desarrollo-del-campeonato-mundial-de-voleibol-femenino-sub-17-en-aconcagua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Concón responde a la crisis del desempleo: municipio reunió a 16 empresas y más de 200 vacantes en la 11ª Feria Laboral",
-    "enlace": "https://g5noticias.cl/2026/08/07/concon-responde-a-la-crisis-del-desempleo-municipio-reunio-a-16-empresas-y-mas-de-200-vacantes-en-la-11a-feria-laboral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Pieza por pieza: descubren esquema para “armar” en Chile miles de tintas y tóner falsificados",
-    "enlace": "https://g5noticias.cl/2026/08/07/pieza-por-pieza-descubren-esquema-para-armar-en-chile-miles-de-tintas-y-toner-falsificados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscalía obtiene veredicto condenatorio contra un adulto y dos adolescentes acusados de homicidio de hombre en San Carlos",
-    "enlace": "https://g5noticias.cl/2026/08/07/fiscalia-obtiene-veredicto-condenatorio-contra-un-adulto-y-dos-adolescentes-acusados-de-homicidio-de-hombre-en-san-carlos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscalía incauta 2,1 toneladas de drogas con diligencias que se extendieron hasta Lampa y San Bernardo",
-    "enlace": "https://g5noticias.cl/2026/08/07/fiscalia-incauta-21-toneladas-de-drogas-con-diligencias-que-se-extendieron-hasta-lampa-y-san-bernardo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscal Marcelo Soto logra condenar a presidio perpetuo calificado a autor de violación con femicidio",
-    "enlace": "https://g5noticias.cl/2026/08/07/fiscal-marcelo-soto-logra-condenar-a-presidio-perpetuo-calificado-a-autor-de-violacion-con-femicidio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El mayor apagón de este viernes en Cuba dejará a la vez sin electricidad al 72 % del país",
-    "enlace": "https://g5noticias.cl/2026/08/07/el-mayor-apagon-de-este-viernes-en-cuba-dejara-a-la-vez-sin-electricidad-al-72-del-pais/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tribunal frena las obras del Salón de Baile de Trump hasta que tenga permiso del Congreso",
-    "enlace": "https://g5noticias.cl/2026/08/07/tribunal-frena-las-obras-del-salon-de-baile-de-trump-hasta-que-tenga-permiso-del-congreso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
