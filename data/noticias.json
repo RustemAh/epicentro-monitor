@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Precipitaciones retornarían a Coquimbo entre el martes 11 y el miércoles 12 de agosto",
+    "enlace": "https://laserenaonline.cl/2026/08/07/precipitaciones-retornarian-a-coquimbo-entre-el-martes-11-y-el-miercoles-12-de-agosto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Cómo elegir una piscina para el hogar: guía práctica para compradores primerizos",
+    "enlace": "https://laserenaonline.cl/2026/08/07/como-elegir-una-piscina-para-el-hogar-guia-practica-para-compradores-primerizos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Rinovirus y Virus Respiratorio Sincicial concentran la mayor circulación de virus respiratorios en la región",
+    "enlace": "https://laserenaonline.cl/2026/08/07/rinovirus-y-virus-respiratorio-sincicial-concentran-la-mayor-circulacion-de-virus-respiratorios-en-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "SLEP Elqui trabaja en dispositivo de agua para Escuela de Romero en La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/07/slep-elqui-trabaja-en-dispositivo-de-agua-para-escuela-de-romero-en-la-serena/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Un tercio de los chilenos apoya prohibir las redes sociales a menores de 16 años",
     "enlace": "https://laserenaonline.cl/2026/08/06/un-tercio-de-los-chilenos-apoya-prohibir-las-redes-sociales-a-menores-de-16-anos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Ley de Reconstrucción abre nuevas oportunidades para reactivar la economía de la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/06/ley-de-reconstruccion-abre-nuevas-oportunidades-para-reactivar-la-economia-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Nueva donación de órganos en La Serena: el segundo acto de amor en lo que va del año",
-    "enlace": "https://laserenaonline.cl/2026/08/06/nueva-donacion-de-organos-en-la-serena-el-segundo-acto-de-amor-en-lo-que-va-del-ano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Nueva maquinaria permitirá acelerar la limpieza y recuperación de La Serena tras el temporal",
-    "enlace": "https://laserenaonline.cl/2026/08/06/nueva-maquinaria-permitira-acelerar-la-limpieza-y-recuperacion-de-la-serena-tras-el-temporal/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Bienes Nacionales realizará atención de público en Illapel y Salamanca la próxima semana",
+    "enlace": "https://www.elillapelino.cl/2026/08/07/bienes-nacionales-realizara-atencion-de-publico-en-illapel-y-salamanca-la-proxima-semana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Tribunal Ambiental revisará aprobación del proyecto Minera Tres Valles tras reclamación de agricultores del Choapa",
     "enlace": "https://www.elillapelino.cl/2026/08/06/tribunal-ambiental-revisara-aprobacion-del-proyecto-minera-tres-valles-tras-reclamacion-de-agricultores-del-choapa/",
     "descripcion": "",
@@ -891,17 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Hospital de Illapel refuerza llamado a mantener actualizados los datos de contacto ante reprogramación de atenciones",
-    "enlace": "https://www.elillapelino.cl/2026/07/23/hospital-de-illapel-refuerza-llamado-a-mantener-actualizados-los-datos-de-contacto-ante-reprogramacion-de-atenciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Conductor fallece tras desbarrancamiento de camioneta en el sector Los Canelos de Canela",
-    "enlace": "https://veetv.cl/desbarrancamiento-canela-los-canelos/",
+    "titulo": "Autoridades detallan aplicación de la FEEC y coordinan apoyo para empresarios afectados por sistema frontal",
+    "enlace": "https://veetv.cl/autoridades-detallan-aplicacion-de-la-feec-y-coordinan-apoyo-para-empresarios-afectados-por-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Buscado por homicidio quedó en prisión preventiva tras ser detenido con casi 19 kilos de cannabis en Los Vilos",
-    "enlace": "https://veetv.cl/buscado-homicidio-prision-los-vilos/",
+    "titulo": "Conductor fallece tras desbarrancamiento de camioneta en el sector Los Canelos de Canela",
+    "enlace": "https://veetv.cl/desbarrancamiento-canela-los-canelos/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1548,6 +1548,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "Compañía Ziento un Cuento inicia temporada de formación 2026 con tres instancias gratuitas para mediadores y narradores orales",
+    "enlace": "https://diariolaquinta.cl/2026/08/07/compania-ziento-un-cuento-inicia-temporada-de-formacion-2026-con-tres-instancias-gratuitas-para-mediadores-y-narradores-orales/?utm_source=rss&utm_medium=rss&utm_campaign=compania-ziento-un-cuento-inicia-temporada-de-formacion-2026-con-tres-instancias-gratuitas-para-mediadores-y-narradores-orales",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Tribunal de Familia de San Antonio: Cuidado personal RIT C-650-2025 «Muñoz / Rojas»",
     "enlace": "https://diariolaquinta.cl/2026/08/07/notificacion-tribunal-de-familia-de-san-antonio-cuidado-personal-rit-c-650-2025-munoz-rojas-4/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-tribunal-de-familia-de-san-antonio-cuidado-personal-rit-c-650-2025-munoz-rojas-4",
     "descripcion": "",
@@ -1629,17 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Centex Valparaíso presenta ciclo teatral protagonizado por mujeres",
-    "enlace": "https://diariolaquinta.cl/2026/08/06/centex-valparaiso-presenta-ciclo-teatral-protagonizado-por-mujeres/?utm_source=rss&utm_medium=rss&utm_campaign=centex-valparaiso-presenta-ciclo-teatral-protagonizado-por-mujeres",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Chile inaugura el Mundial de Vóleibol Femenino Sub 17, el primero de la historia que se realiza en el país",
-    "enlace": "https://g5noticias.cl/2026/08/07/chile-inaugura-el-mundial-de-voleibol-femenino-sub-17-el-primero-de-la-historia-que-se-realiza-en-el-pais/",
+    "titulo": "Inflación varió 0,1% en julio: ¿Qué contuvo los precios y dónde podrían venir nuevas alzas?",
+    "enlace": "https://g5noticias.cl/2026/08/07/inflacion-vario-01-en-julio-que-contuvo-los-precios-y-donde-podrian-venir-nuevas-alzas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Asociación de funcionarias y funcionarios del Instituto Nacional de Derechos Humanos (AFFINDH) entregan una declaración pública",
-    "enlace": "https://g5noticias.cl/2026/08/07/asociacion-de-funcionarias-y-funcionarios-del-instituto-nacional-de-derechos-humanos-affindh-entregan-una-declaracion-publica/",
+    "titulo": "Ciencia con sentido: desarrollan kit de entrenamiento sociolaboral inclusivo para estudiantes con discapacidad",
+    "enlace": "https://g5noticias.cl/2026/08/07/ciencia-con-sentido-desarrollan-kit-de-entrenamiento-sociolaboral-inclusivo-para-estudiantes-con-discapacidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "UOH: 11 años creciendo junto a la Región de O’Higgins",
-    "enlace": "https://g5noticias.cl/2026/08/07/uoh-11-anos-creciendo-junto-a-la-region-de-ohiggins/",
+    "titulo": "Estudiantes de Antofagasta reciben por primera vez donaciones del programa Operation Warm que FedEx lleva adelante junto a Desafío Levantemos Chile",
+    "enlace": "https://g5noticias.cl/2026/08/07/estudiantes-de-antofagasta-reciben-por-primera-vez-donaciones-del-programa-operation-warm-que-fedex-lleva-adelante-junto-a-desafio-levantemos-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "A 35 años del Hudson: experto llama a fortalecer la cultura volcánica",
-    "enlace": "https://g5noticias.cl/2026/08/07/a-35-anos-del-hudson-experto-llama-a-fortalecer-la-cultura-volcanica/",
+    "titulo": "La triatleta «Maca» Salazar será de la partida en la primera versión del Triatlón Topman Mejillones 2026 que reunirá a más de 300 triatletas en el norte de Chile",
+    "enlace": "https://g5noticias.cl/2026/08/07/la-triatleta-maca-salazar-sera-de-la-partida-en-la-primera-version-del-triatlon-topman-mejillones-2026-que-reunira-a-mas-de-300-triatletas-en-el-norte-de-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sercotec destina $150 millones para fortalecer cooperativas de agua potable rural en Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/07/sercotec-destina-150-millones-para-fortalecer-cooperativas-de-agua-potable-rural-en-valparaiso-2/",
+    "titulo": "Comienza el pago de compensaciones a beneficiarios del Programa Control Niño Sano tras acuerdo judicial entre el Sernac y Farmacias Ahumada por colusión de medicamentos",
+    "enlace": "https://g5noticias.cl/2026/08/07/comienza-el-pago-de-compensaciones-a-beneficiarios-del-programa-control-nino-sano-tras-acuerdo-judicial-entre-el-sernac-y-farmacias-ahumada-por-colusion-de-medicamentos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Día Internacional del Gato, el bienestar también puede ronronear. Por María José Millán Monares, Académica de Psicología Universidad Andrés Bello",
-    "enlace": "https://g5noticias.cl/2026/08/07/dia-internacional-del-gato-el-bienestar-tambien-puede-ronronear-por-maria-jose-millan-monares-academica-de-psicologia-universidad-andres-bello/",
+    "titulo": "Bancada UDI oficia al Servel y pide abrir procedimiento sancionatorio contra el PC tras viaje de directiva a Cuba por homenaje a Fidel Castro",
+    "enlace": "https://g5noticias.cl/2026/08/07/bancada-udi-oficia-al-servel-y-pide-abrir-procedimiento-sancionatorio-contra-el-pc-tras-viaje-de-directiva-a-cuba-por-homenaje-a-fidel-castro/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nuevos rostros, viejos conocidos y el regreso de un clásico: estos son los primeros valientes que llegarán a «Coliseo»",
-    "enlace": "https://g5noticias.cl/2026/08/07/nuevos-rostros-viejos-conocidos-y-el-regreso-de-un-clasico-estos-son-los-primeros-valientes-que-llegaran-a-coliseo/",
+    "titulo": "CONAF abre postulaciones para labores de combate de incendios forestales 2026-2027",
+    "enlace": "https://g5noticias.cl/2026/08/07/conaf-abre-postulaciones-para-labores-de-combate-de-incendios-forestales-2026-2027/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Día del Niño: el mismo regalo puede costar hasta un 237% más según dónde se compre",
-    "enlace": "https://g5noticias.cl/2026/08/07/dia-del-nino-el-mismo-regalo-puede-costar-hasta-un-237-mas-segun-donde-se-compre/",
+    "titulo": "Nelson Tapia sufre accidente en la Ruta 5 Sur: alcotest marcó que conducía en estado de ebriedad",
+    "enlace": "https://g5noticias.cl/2026/08/07/nelson-tapia-sufre-accidente-en-la-ruta-5-sur-alcotest-marco-que-conducia-en-estado-de-ebriedad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los Jaivas celebrarán sus 63 años de historia con dos conciertos de la gira «45 años de Alturas de Macchu Picchu» en Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/08/07/los-jaivas-celebraran-sus-63-anos-de-historia-con-dos-conciertos-de-la-gira-45-anos-de-alturas-de-macchu-picchu-en-vina-del-mar/",
+    "titulo": "Quilpué cuenta con la primera sala de lactancia del país para locatarias de Feria El Belloto",
+    "enlace": "https://g5noticias.cl/2026/08/07/quilpue-cuenta-con-la-primera-sala-de-lactancia-del-pais-para-locatarias-de-feria-el-belloto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hyundai Camiones & Buses anunció el regreso de Solati en Expo Compras Públicas 2026",
-    "enlace": "https://g5noticias.cl/2026/08/07/hyundai-camiones-buses-anuncio-el-regreso-de-solati-en-expo-compras-publicas-2026/",
+    "titulo": "Mes de la Cerveza: La cerveza como motor de empleo y desarrollo",
+    "enlace": "https://g5noticias.cl/2026/08/07/mes-de-la-cerveza-la-cerveza-como-motor-de-empleo-y-desarrollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
