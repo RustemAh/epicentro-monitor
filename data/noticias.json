@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Clásico 130 termina en empate: Coquimbo Unido y Deportes La Serena igualan 1-1",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/08/clasico-130-termina-en-empate-coquimbo-unido-y-deportes-la-serena-igualan-1-1/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "En el Parque O’Higgins de Coquimbo se realizará celebración del Día de la Niñez con enfoque solidario y familiar",
     "enlace": "https://www.elcoquimbano.cl/2026/08/07/en-el-parque-ohiggins-de-coquimbo-se-realizara-celebracion-del-dia-de-la-ninez-con-enfoque-solidario-y-familiar/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Carabineros y Fiscalía investigan disparos contra el municipio de Coquimbo durante la madrugada",
     "enlace": "https://www.elcoquimbano.cl/2026/07/31/carabineros-y-fiscalia-investigan-disparos-contra-el-municipio-de-coquimbo-durante-la-madrugada/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Despliegan catastro de empresas afectadas para avanzar en plan de recuperación en la Región de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/07/31/despliegan-catastro-de-empresas-afectadas-para-avanzar-en-plan-de-recuperacion-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Emotivo rescate cordillerano: Salvan con vida a caballo que permaneció tres semanas atrapado en la nieve",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/08/emotivo-rescate-cordillerano-salvan-con-vida-a-caballo-que-permanecio-tres-semanas-atrapado-en-la-nieve/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Copiapó: Daños en histórica pileta de la Estación activan investigación y revisión patrimonial",
     "enlace": "https://www.atacamanoticias.cl/2026/08/08/copiapo-danos-en-historica-pileta-de-la-estacion-activan-investigacion-y-revision-patrimonial/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Senado de EEUU declara en desacato a Anthony Fauci, médico que lideró lucha contra la pandemia en 2020",
     "enlace": "https://www.atacamanoticias.cl/2026/08/07/senado-de-eeuu-declara-en-desacato-a-anthony-fauci-medico-que-lidero-lucha-contra-la-pandemia-en-2020/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Se viene el horario de verano 2026: revisa cuándo será el cambio de hora según nuevo decreto",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/07/se-viene-el-horario-de-verano-2026-revisa-cuando-sera-el-cambio-de-hora-segun-nuevo-decreto/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,8 +1638,71 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Chile cayó ante EE.UU. y sumó su tercera derrota en el Mundial de Vóleibol Femenino U17",
+    "enlace": "https://g5noticias.cl/2026/08/08/chile-cayo-ante-ee-uu-y-sumo-su-tercera-derrota-en-el-mundial-de-voleibol-femenino-u17/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Casi la mitad de los adultos ha sufrido abuso digital, pero la mayoría no sabe identificarlo: Kaspersky",
+    "enlace": "https://g5noticias.cl/2026/08/08/casi-la-mitad-de-los-adultos-ha-sufrido-abuso-digital-pero-la-mayoria-no-sabe-identificarlo-kaspersky/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "CNR abre concurso de emergencia con más de $6.500 millones para rehabilitar obras de riego afectadas por los temporales",
+    "enlace": "https://g5noticias.cl/2026/08/08/cnr-abre-concurso-de-emergencia-con-mas-de-6-500-millones-para-rehabilitar-obras-de-riego-afectadas-por-los-temporales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Corte de tránsito en Avenida España hacia Viña del Mar por derrumbe: desvíos se mantendrán hasta este domingo a las 14 horas",
+    "enlace": "https://g5noticias.cl/2026/08/08/corte-de-transito-en-avenida-espana-hacia-vina-del-mar-por-derrumbe-desvios-se-mantendran-hasta-este-domingo-a-las-14-horas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Sportiva Italiana se impone en el primer juego de las semifinales de la LNB2",
+    "enlace": "https://g5noticias.cl/2026/08/08/sportiva-italiana-se-impone-en-el-primer-juego-de-las-semifinales-de-la-lnb2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cobreloa empató en casa ante Deportes Iquique y se mantiene como líder exclusivo del Ascenso",
+    "enlace": "https://g5noticias.cl/2026/08/08/cobreloa-empato-en-casa-ante-deportes-iquique-y-se-mantiene-como-lider-exclusivo-del-ascenso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Minería: Por qué las empresas están priorizando la gestión de flotas con servicio integral",
     "enlace": "https://g5noticias.cl/2026/08/08/mineria-por-que-las-empresas-estan-priorizando-la-gestion-de-flotas-con-servicio-integral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Clásico intenso: Coquimbo Unido y Deportes La Serena empataron 1-1 en medio de goles polémicos y expulsiones",
+    "enlace": "https://g5noticias.cl/2026/08/08/clasico-intenso-coquimbo-unido-y-deportes-la-serena-empataron-1-1-en-medio-de-goles-polemicos-y-expulsiones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1658,69 +1721,6 @@
   {
     "titulo": "En el marco del Mes de la Lactancia Materna, una investigación revela que dos de cada cinco madres sienten que el día no les alcanza para criar a sus bebés",
     "enlace": "https://g5noticias.cl/2026/08/08/en-el-marco-del-mes-de-la-lactancia-materna-una-investigacion-revela-que-dos-de-cada-cinco-madres-sienten-que-el-dia-no-les-alcanza-para-criar-a-sus-bebes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Conductor de microbus fue detenido tras dar positivo por marihuana en operativo de Carabineros y Senda en Algarrobo",
-    "enlace": "https://g5noticias.cl/2026/08/08/conductor-de-microbus-fue-detenido-tras-dar-positivo-por-marihuana-en-operativo-de-carabineros-y-senda-en-algarrobo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Universidad del Alba fortalece la formación de sus estudiantes de Medicina mediante alianza con programa Conectados de Bagó",
-    "enlace": "https://g5noticias.cl/2026/08/08/universidad-del-alba-fortalece-la-formacion-de-sus-estudiantes-de-medicina-mediante-alianza-con-programa-conectados-de-bago/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "FOJI invita a compositores de todo chile a participar del VIII Concurso de Composición para Orquestas Infanto Juveniles “Jorge Peña Hen”",
-    "enlace": "https://g5noticias.cl/2026/08/08/foji-invita-a-compositores-de-todo-chile-a-participar-del-viii-concurso-de-composicion-para-orquestas-infanto-juveniles-jorge-pena-hen-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Mes de la Minería: Coyunturas globales ponen a prueba a la industria chilena",
-    "enlace": "https://g5noticias.cl/2026/08/08/mes-de-la-mineria-coyunturas-globales-ponen-a-prueba-a-la-industria-chilena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "No somos ingenuos: por qué caemos en las estafas por SMS, aunque las conozcamos. Por Edgardo Fuentes Cáceres, Director Ingeniería en Ciberseguridad UNAB",
-    "enlace": "https://g5noticias.cl/2026/08/08/no-somos-ingenuos-por-que-caemos-en-las-estafas-por-sms-aunque-las-conozcamos-por-edgardo-fuentes-caceres-director-ingenieria-en-ciberseguridad-unab/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Infraestructura hídrica frente a eventos extremos: ¿son los embalses la solución? Por Francisco Zambrano Académico investigador Facultad de Medicina Veterinaria y Agronomía Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/08/08/infraestructura-hidrica-frente-a-eventos-extremos-son-los-embalses-la-solucion-por-francisco-zambrano-academico-investigador-facultad-de-medicina-veterinaria-y-agronomia-universidad-de-las-ame/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Exposición “Campos materiales” inaugura los 70 años de Arquitectura UV en el Parque Cultural",
-    "enlace": "https://g5noticias.cl/2026/08/08/exposicion-campos-materiales-inaugura-los-70-anos-de-arquitectura-uv-en-el-parque-cultural/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
