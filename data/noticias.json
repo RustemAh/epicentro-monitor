@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "CGE y ALTO refuerzan su estrategia legal contra el hurto de energía: Cerca de 3.300 casos registrados entre 2025 y 2026",
+    "enlace": "https://www.elserenense.cl/regionales/2026/08/10/cge-y-alto-refuerzan-su-estrategia-legal-contra-el-hurto-de-energia-cerca-de-3-300-casos-registrados-entre-2025-y-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Carabineros despliega trabajo investigativo para esclarecer robo con violencia en Las Compañías",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/10/carabineros-despliega-trabajo-investigativo-para-esclarecer-robo-con-violencia-en-las-companias/",
     "descripcion": "",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Gobierno Regional baja el RallyMobil 2026 y prioriza la recuperación de las 15 comunas",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/06/gobierno-regional-baja-el-rallymobil-2026-y-prioriza-la-recuperacion-de-las-15-comunas/",
+    "titulo": "Gobierno responde a críticas por emergencia: “Decir que estuvimos ausentes no se sostiene frente a los hechos”",
+    "enlace": "https://laserenaonline.cl/2026/08/10/gobierno-responde-a-criticas-por-emergencia-decir-que-estuvimos-ausentes-no-se-sostiene-frente-a-los-hechos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Innovación tecnológica y el auge de la movilidad en el acceso a la información",
+    "enlace": "https://laserenaonline.cl/2026/08/10/innovacion-tecnologica-y-el-auge-de-la-movilidad-en-el-acceso-a-la-informacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Alerta amarilla para la Región de Coquimbo por evento meteorológico",
     "enlace": "https://laserenaonline.cl/2026/08/10/alerta-amarilla-para-la-region-de-coquimbo-por-evento-meteorologico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 10 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/10/el-tiempo-hoy-10-de-agosto-para-la-region-de-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "“Leche materna: El fluido vivo que se adapta cada día a las necesidades del bebé”",
-    "enlace": "https://laserenaonline.cl/2026/08/09/leche-materna-el-fluido-vivo-que-se-adapta-cada-dia-a-las-necesidades-del-bebe/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "SLEP Atacama decreta suspensión de clases en cinco comunas ante pronóstico de precipitaciones",
+    "enlace": "https://www.maray.cl/atacama/10/08/2026/slep-atacama-decreta-suspension-de-clases-en-cinco-comunas-ante-pronostico-de-precipitaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "SENAPRED: Alerta por probables tormentas eléctricas se extiende desde Arica hasta Coquimbo",
     "enlace": "https://www.maray.cl/pais/10/08/2026/senapred-alerta-por-probables-tormentas-electricas-se-extiende-desde-arica-hasta-coquimbo/",
     "descripcion": "",
@@ -1413,6 +1422,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Día del Minero: Subsecretario Álvaro González destaca a los trabajadores como “la columna vertebral” de la minería",
+    "enlace": "https://www.maray.cl/atacama/10/08/2026/dia-del-minero-subsecretario-alvaro-gonzalez-destaca-a-los-trabajadores-como-la-columna-vertebral-de-la-mineria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Día de la Minería: Lundin Mining proyecta su futuro con el impulso de su equipo de trabajo y el compromiso con Atacama",
     "enlace": "https://www.maray.cl/atacama/10/08/2026/dia-de-la-mineria-lundin-mining-proyecta-su-futuro-con-el-impulso-de-su-equipo-de-trabajo-y-el-compromiso-con-atacama/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "Kast ofrece apoyo de Chile a Colombia tras terremoto que deja víctimas fatales",
     "enlace": "https://www.maray.cl/pais/10/08/2026/kast-ofrece-apoyo-de-chile-a-colombia-tras-terremoto-que-deja-victimas-fatales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Presidente Kast puso en duda las cifras de pobreza de la Encuesta Casen 2024",
-    "enlace": "https://www.maray.cl/pais/10/08/2026/presidente-kast-puso-en-duda-las-cifras-de-pobreza-de-la-encuesta-casen-2024/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "¿Cuántas tazas de café son demasiadas? especialista advierte cuándo su consumo puede comenzar a afectar la salud",
-    "enlace": "https://www.maray.cl/vida-salud/10/08/2026/cuantas-tazas-de-cafe-son-demasiadas-especialista-advierte-cuando-su-consumo-puede-comenzar-a-afectar-la-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,89 +1638,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Charlas, podcasts y talleres: Congreso Jóvenes Futuro presenta su programación en formato “Dopamine Menu”",
+    "enlace": "https://g5noticias.cl/2026/08/10/charlas-podcasts-y-talleres-congreso-jovenes-futuro-presenta-su-programacion-en-formato-dopamine-menu/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Gobierno activa medidas preventivas en zonas críticas ante nuevas lluvias en la Región de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-activa-medidas-preventivas-en-zonas-criticas-ante-nuevas-lluvias-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Gobierno anuncia histórica decisión de capitalizar 100% de excedentes de Codelco: US$ 2.422 millones",
+    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-anuncia-historica-decision-de-capitalizar-100-de-excedentes-de-codelco-us-2-422-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Encuesta Attalus de julio de 2026: May Chomali alcanza el primer lugar del Pentágono Ministerial y encabeza los cinco atributos evaluados",
+    "enlace": "https://g5noticias.cl/2026/08/10/encuesta-attalus-de-julio-de-2026-may-chomali-alcanza-el-primer-lugar-del-pentagono-ministerial-y-encabeza-los-cinco-atributos-evaluados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Energía Ñuble monitorea estado de la red eléctrica y coordina apoyo a sectores afectados por sistema frontal en Cobquecura",
+    "enlace": "https://g5noticias.cl/2026/08/10/energia-nuble-monitorea-estado-de-la-red-electrica-y-coordina-apoyo-a-sectores-afectados-por-sistema-frontal-en-cobquecura/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seis ajedrecistas de Villa Alemana avanzan a la etapa regional de los Juegos Deportivos Escolares",
+    "enlace": "https://g5noticias.cl/2026/08/10/seis-ajedrecistas-de-villa-alemana-avanzan-a-la-etapa-regional-de-los-juegos-deportivos-escolares/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Trabajo coordinado entre Carabineros, municipio y vecinos de Quinta Normal permite capturar a un imputado con 16 detenciones por robo",
+    "enlace": "https://g5noticias.cl/2026/08/10/trabajo-coordinado-entre-carabineros-municipio-y-vecinos-de-quinta-normal-permite-capturar-a-un-imputado-con-16-detenciones-por-robo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Corte Suprema confirma multa a empresa de servicios por no otorgar beneficio de sala cuna",
+    "enlace": "https://g5noticias.cl/2026/08/10/corte-suprema-confirma-multa-a-empresa-de-servicios-por-no-otorgar-beneficio-de-sala-cuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seminario de la Fiscalía de Arica abordó la investigación de muertes violentas de mujeres por razones de género",
+    "enlace": "https://g5noticias.cl/2026/08/10/seminario-de-la-fiscalia-de-arica-abordo-la-investigacion-de-muertes-violentas-de-mujeres-por-razones-de-genero/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "SERNAC busca compensaciones tras falla operativa de Banco Ripley que provocó descuentos y saldos negativos en cuentas de clientes",
     "enlace": "https://g5noticias.cl/2026/08/10/sernac-busca-compensaciones-tras-falla-operativa-de-banco-ripley-que-provoco-descuentos-y-saldos-negativos-en-cuentas-de-clientes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Nuevas medidas se definieron en el Cogrid comunal para prevenir accidentes y abrir prontamente pista para la locomoción colectiva en la avenida España",
-    "enlace": "https://g5noticias.cl/2026/08/10/nuevas-medidas-se-definieron-en-el-cogrid-comunal-para-prevenir-accidentes-y-abrir-prontamente-pista-para-la-locomocion-colectiva-en-la-avenida-espana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputados de la Comisión de Economía piden un plan de contingencia tras 25 días de cierre del Paso Los Libertadores",
-    "enlace": "https://g5noticias.cl/2026/08/10/diputados-de-la-comision-de-economia-piden-un-plan-de-contingencia-tras-25-dias-de-cierre-del-paso-los-libertadores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Profesionales en protección de datos advierten riesgos de postergar la nueva ley y proponen un aplazamiento máximo de seis meses",
-    "enlace": "https://g5noticias.cl/2026/08/10/profesionales-en-proteccion-de-datos-advierten-riesgos-de-postergar-la-nueva-ley-y-proponen-un-aplazamiento-maximo-de-seis-meses/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Gobierno designa a Sebastián Vallebona como nuevo subsecretario de Hacienda",
-    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-designa-a-sebastian-vallebona-como-nuevo-subsecretario-de-hacienda/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "CONAF, Municipalidad de Puerto Varas y SBAP firman convenio para realizar Plan de Gestón de uso público en el Parque Nacional Vicente Pérez Rosales",
-    "enlace": "https://g5noticias.cl/2026/08/10/conaf-municipalidad-de-puerto-varas-y-sbap-firman-convenio-para-realizar-plan-de-geston-de-uso-publico-en-el-parque-nacional-vicente-perez-rosales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Codelco informa renuncia de su vicepresidente de Integración de Operaciones Andina",
-    "enlace": "https://g5noticias.cl/2026/08/10/codelco-informa-renuncia-de-su-vicepresidente-de-integracion-de-operaciones-andina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Corte de Santiago confirma multa aplicadas por la Inspección del Trabajo a empresa de retail, por no cambiar de funciones a trabajadora embarazada y hacerla trabajar horas extras",
-    "enlace": "https://g5noticias.cl/2026/08/10/corte-de-santiago-confirma-multa-aplicadas-por-la-inspeccion-del-trabajo-a-empresa-de-retail-por-no-cambiar-de-funciones-a-trabajadora-embarazada-y-hacerla-trabajar-horas-extras/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Gobierno de Colombia declara desastre nacional",
-    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-de-colombia-declara-desastre-nacional/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Sismo en Colombia deja al menos 71 muertos y un centenar de desaparecidos",
-    "enlace": "https://g5noticias.cl/2026/08/10/sismo-deja-al-menos-71-muertos-y-un-centenar-de-desaparecidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
