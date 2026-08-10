@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Pronostican precipitaciones para este martes y miércoles junto con isoterma alta en cordillera",
+    "enlace": "https://laserenaonline.cl/2026/08/10/pronostican-precipitaciones-para-este-martes-y-miercoles-junto-con-isoterma-alta-en-cordillera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Gobierno responde a críticas por emergencia: “Decir que estuvimos ausentes no se sostiene frente a los hechos”",
     "enlace": "https://laserenaonline.cl/2026/08/10/gobierno-responde-a-criticas-por-emergencia-decir-que-estuvimos-ausentes-no-se-sostiene-frente-a-los-hechos/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Familias serenenses disfrutaron del Día del Niño con actividades gratuitas en la Plaza de Armas",
     "enlace": "https://laserenaonline.cl/2026/08/10/familias-serenenses-disfrutaron-del-dia-del-nino-con-actividades-gratuitas-en-la-plaza-de-armas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Alerta amarilla para la Región de Coquimbo por evento meteorológico",
-    "enlace": "https://laserenaonline.cl/2026/08/10/alerta-amarilla-para-la-region-de-coquimbo-por-evento-meteorologico/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Operativo del Registro Civil permite regularizar documentación a jóvenes en proceso de reinserción",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/10/operativo-del-registro-civil-permite-regularizar-documentacion-a-jovenes-en-proceso-de-reinsercion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "IPS ChileAtiende despliega atención móvil para apoyar a familias afectadas por la emergencia",
     "enlace": "https://regiondecoquimbo.cl/2026/08/10/ips-chileatiende-despliega-atencion-movil-para-apoyar-a-familias-afectadas-por-la-emergencia/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Ley de Reconstrucción abre nuevas oportunidades para reactivar la economía de la Región de Coquimbo",
     "enlace": "https://regiondecoquimbo.cl/2026/08/05/ley-de-reconstruccion-abre-nuevas-oportunidades-para-reactivar-la-economia-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Delegación Presidencial Regional reconoce a Junta de Vecinos Villa Portal de Elqui con Fondo Presidente de la República",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/05/delegacion-presidencial-regional-reconoce-a-junta-de-vecinos-villa-portal-de-elqui-con-fondo-presidente-de-la-republica/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1008,6 +1008,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
+    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
+    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
+    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Alcalde Christian Gross por Infiernillos: “Hacemos un llamado a que las instituciones puedan estar presentes acá”",
+    "enlace": "https://losviloschile.cl/actualidad/alcalde-christian-gross-por-infiernillos-hacemos-un-llamado-a-que-las-instituciones-puedan-estar-presentes-aca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos licita instalación de 12 nuevas cámaras de seguridad por cerca de $150 millones",
+    "enlace": "https://losviloschile.cl/policial/los-vilos-licita-instalacion-de-12-nuevas-camaras-de-seguridad-por-cerca-de-150-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos refuerza medidas preventivas ante sistema frontal que dejaría más de 170 milímetros",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-refuerza-medidas-preventivas-ante-sistema-frontal-que-dejaria-mas-de-170-milimetros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Complejo Deportivo Carlos Salinas Altamirano de Los Vilos fue renovado con inversión superior a $650 millones",
+    "enlace": "https://losviloschile.cl/deportes/complejo-deportivo-carlos-salinas-altamirano-de-los-vilos-fue-renovado-con-inversion-superior-a-650-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Más de 25 juntas de vecinos participaron en encuentro comunitario en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/mas-de-25-juntas-de-vecinos-participaron-en-encuentro-comunitario-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "El refugio de los tricahues: La colonia que encontró hogar en los cerros de Andacollo al costado de la ruta D51",
     "enlace": "https://www.elandacollino.cl/2026/08/08/el-refugio-de-los-tricahues-la-colonia-que-encontro-hogar-en-los-cerros-de-andacollo-al-costado-de-la-ruta-d51/",
     "descripcion": "",
@@ -1368,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Colombia eleva a 111 los fallecidos tras terremoto de magnitud 7,4",
+    "enlace": "https://www.maray.cl/internacional/10/08/2026/colombia-eleva-a-111-los-fallecidos-tras-terremoto-de-magnitud-74/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "PDI detiene en Copiapó a sujeto acusado de disparar contra una persona en Paipote",
+    "enlace": "https://www.maray.cl/atacama/10/08/2026/pdi-detiene-en-copiapo-a-sujeto-acusado-de-disparar-contra-una-persona-en-paipote/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Oficialismo respalda que Gobierno priorice seguridad y economía por sobre agenda valórica",
+    "enlace": "https://www.maray.cl/pais/10/08/2026/oficialismo-respalda-que-gobierno-priorice-seguridad-y-economia-por-sobre-agenda-valorica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "SLEP Atacama decreta suspensión de clases en cinco comunas ante pronóstico de precipitaciones",
     "enlace": "https://www.maray.cl/atacama/10/08/2026/slep-atacama-decreta-suspension-de-clases-en-cinco-comunas-ante-pronostico-de-precipitaciones/",
     "descripcion": "",
@@ -1424,33 +1541,6 @@
   {
     "titulo": "Día del Minero: Subsecretario Álvaro González destaca a los trabajadores como “la columna vertebral” de la minería",
     "enlace": "https://www.maray.cl/atacama/10/08/2026/dia-del-minero-subsecretario-alvaro-gonzalez-destaca-a-los-trabajadores-como-la-columna-vertebral-de-la-mineria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Día de la Minería: Lundin Mining proyecta su futuro con el impulso de su equipo de trabajo y el compromiso con Atacama",
-    "enlace": "https://www.maray.cl/atacama/10/08/2026/dia-de-la-mineria-lundin-mining-proyecta-su-futuro-con-el-impulso-de-su-equipo-de-trabajo-y-el-compromiso-con-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Marc Cucurella se suma a Real Madrid tras conquistar el Mundial con España",
-    "enlace": "https://www.maray.cl/deportes/10/08/2026/marc-cucurella-se-suma-a-real-madrid-tras-conquistar-el-mundial-con-espana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Kast ofrece apoyo de Chile a Colombia tras terremoto que deja víctimas fatales",
-    "enlace": "https://www.maray.cl/pais/10/08/2026/kast-ofrece-apoyo-de-chile-a-colombia-tras-terremoto-que-deja-victimas-fatales/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Charlas, podcasts y talleres: Congreso Jóvenes Futuro presenta su programación en formato “Dopamine Menu”",
-    "enlace": "https://g5noticias.cl/2026/08/10/charlas-podcasts-y-talleres-congreso-jovenes-futuro-presenta-su-programacion-en-formato-dopamine-menu/",
+    "titulo": "Gobierno responde a críticas por emergencia: “Decir que estuvimos ausentes no se sostiene frente a los hechos”",
+    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-responde-a-criticas-por-emergencia-decir-que-estuvimos-ausentes-no-se-sostiene-frente-a-los-hechos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobierno activa medidas preventivas en zonas críticas ante nuevas lluvias en la Región de Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-activa-medidas-preventivas-en-zonas-criticas-ante-nuevas-lluvias-en-la-region-de-coquimbo/",
+    "titulo": "210 detenidos por Carabineros deja Ronda Preventiva Nacional en La Araucanía",
+    "enlace": "https://g5noticias.cl/2026/08/10/210-detenidos-por-carabineros-deja-ronda-preventiva-nacional-en-la-araucania/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobierno anuncia histórica decisión de capitalizar 100% de excedentes de Codelco: US$ 2.422 millones",
-    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-anuncia-historica-decision-de-capitalizar-100-de-excedentes-de-codelco-us-2-422-millones/",
+    "titulo": "Chilevisión define la fecha de estreno de su nuevo estelar “Fiebre de Canto”",
+    "enlace": "https://g5noticias.cl/2026/08/10/chilevision-define-la-fecha-de-estreno-de-su-nuevo-estelar-fiebre-de-canto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Encuesta Attalus de julio de 2026: May Chomali alcanza el primer lugar del Pentágono Ministerial y encabeza los cinco atributos evaluados",
-    "enlace": "https://g5noticias.cl/2026/08/10/encuesta-attalus-de-julio-de-2026-may-chomali-alcanza-el-primer-lugar-del-pentagono-ministerial-y-encabeza-los-cinco-atributos-evaluados/",
+    "titulo": "SAMU O’Higgins pondrá a prueba su capacidad de rescate y urgencia ante simulación de aluvión en Malloa",
+    "enlace": "https://g5noticias.cl/2026/08/10/samu-ohiggins-pondra-a-prueba-su-capacidad-de-rescate-y-urgencia-ante-simulacion-de-aluvion-en-malloa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Energía Ñuble monitorea estado de la red eléctrica y coordina apoyo a sectores afectados por sistema frontal en Cobquecura",
-    "enlace": "https://g5noticias.cl/2026/08/10/energia-nuble-monitorea-estado-de-la-red-electrica-y-coordina-apoyo-a-sectores-afectados-por-sistema-frontal-en-cobquecura/",
+    "titulo": "Seguridad: el desafío no es la Constitución. Por Jorge Astudillo, investigador y académico de Derecho, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/08/10/seguridad-el-desafio-no-es-la-constitucion-por-jorge-astudillo-investigador-y-academico-de-derecho-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seis ajedrecistas de Villa Alemana avanzan a la etapa regional de los Juegos Deportivos Escolares",
-    "enlace": "https://g5noticias.cl/2026/08/10/seis-ajedrecistas-de-villa-alemana-avanzan-a-la-etapa-regional-de-los-juegos-deportivos-escolares/",
+    "titulo": "Apoderados, docentes y autoridades exigen frenar el cierre del prekínder de la Escuela David Ben Gurión",
+    "enlace": "https://g5noticias.cl/2026/08/10/apoderados-docentes-y-autoridades-exigen-frenar-el-cierre-del-prekinder-de-la-escuela-david-ben-gurion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Trabajo coordinado entre Carabineros, municipio y vecinos de Quinta Normal permite capturar a un imputado con 16 detenciones por robo",
-    "enlace": "https://g5noticias.cl/2026/08/10/trabajo-coordinado-entre-carabineros-municipio-y-vecinos-de-quinta-normal-permite-capturar-a-un-imputado-con-16-detenciones-por-robo/",
+    "titulo": "CGE y ALTO refuerzan su estrategia legal contra el hurto de energía: Cerca de 3.300 casos registrados entre 2025 y 2026",
+    "enlace": "https://g5noticias.cl/2026/08/10/cge-y-alto-refuerzan-su-estrategia-legal-contra-el-hurto-de-energia-cerca-de-3-300-casos-registrados-entre-2025-y-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte Suprema confirma multa a empresa de servicios por no otorgar beneficio de sala cuna",
-    "enlace": "https://g5noticias.cl/2026/08/10/corte-suprema-confirma-multa-a-empresa-de-servicios-por-no-otorgar-beneficio-de-sala-cuna/",
+    "titulo": "Anticipan nuevo sistema frontal para este fin de semana",
+    "enlace": "https://g5noticias.cl/2026/08/10/anticipan-nuevo-sistema-frontal-para-este-fin-de-semana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seminario de la Fiscalía de Arica abordó la investigación de muertes violentas de mujeres por razones de género",
-    "enlace": "https://g5noticias.cl/2026/08/10/seminario-de-la-fiscalia-de-arica-abordo-la-investigacion-de-muertes-violentas-de-mujeres-por-razones-de-genero/",
+    "titulo": "Desempleo ilustrado: Bancada UDI solicita al Mineduc elaborar informe sobre empleabilidad y pide al Gobierno explorar modelo alemán de «formación dual»",
+    "enlace": "https://g5noticias.cl/2026/08/10/desempleo-ilustrado-bancada-udi-solicita-al-mineduc-elaborar-informe-sobre-empleabilidad-y-pide-al-gobierno-explorar-modelo-aleman-de-formacion-dual/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SERNAC busca compensaciones tras falla operativa de Banco Ripley que provocó descuentos y saldos negativos en cuentas de clientes",
-    "enlace": "https://g5noticias.cl/2026/08/10/sernac-busca-compensaciones-tras-falla-operativa-de-banco-ripley-que-provoco-descuentos-y-saldos-negativos-en-cuentas-de-clientes/",
+    "titulo": "El desafío de la minería chilena no está solo bajo tierra. Por Alejandra Molina, gerente general de Minnovex",
+    "enlace": "https://g5noticias.cl/2026/08/10/el-desafio-de-la-mineria-chilena-no-esta-solo-bajo-tierra-por-alejandra-molina-gerente-general-de-minnovex/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
