@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "En el Día de la Minería: Minera Los Pelambres destaca compromiso con la seguridad de las personas ante el evento climático más intenso de su historia",
+    "enlace": "https://laserenaonline.cl/2026/08/10/en-el-dia-de-la-mineria-minera-los-pelambres-destaca-compromiso-con-la-seguridad-de-las-personas-ante-el-evento-climatico-mas-intenso-de-su-historia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Comunidad de Rapel celebra presentación de escultura a escala real del vicealmirante Wenceslao Vargas Rojas",
     "enlace": "https://laserenaonline.cl/2026/08/10/comunidad-de-rapel-celebra-presentacion-de-escultura-a-escala-real-del-vicealmirante-wenceslao-vargas-rojas/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Profesionales de la educación y psicología se despliegan en terreno para ir en favor de niños afectados por la emergencia",
     "enlace": "https://laserenaonline.cl/2026/08/09/profesionales-de-la-educacion-y-psicologia-se-despliegan-en-terreno-para-ir-en-favor-de-ninos-afectados-por-la-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al mes de la Lactancia Materna",
-    "enlace": "https://laserenaonline.cl/2026/08/09/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1368,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Fraude telefónico: empresas buscan cambiar las reglas con un nuevo blindaje",
+    "enlace": "https://www.maray.cl/pais/10/08/2026/fraude-telefonico-empresas-buscan-cambiar-las-reglas-con-un-nuevo-blindaje/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Colombia eleva a 71 los fallecidos tras terremoto y decreta “desastre nacional”",
+    "enlace": "https://www.maray.cl/internacional/10/08/2026/colombia-eleva-a-71-los-fallecidos-tras-terremoto-y-decreta-desastre-nacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Antofagasta suspende las clases este martes ante alerta por precipitaciones",
+    "enlace": "https://www.maray.cl/pais/10/08/2026/antofagasta-suspende-las-clases-este-martes-ante-alerta-por-precipitaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Día de la Minería: Lundin Mining proyecta su futuro con el impulso de su equipo de trabajo y el compromiso con Atacama",
     "enlace": "https://www.maray.cl/atacama/10/08/2026/dia-de-la-mineria-lundin-mining-proyecta-su-futuro-con-el-impulso-de-su-equipo-de-trabajo-y-el-compromiso-con-atacama/",
     "descripcion": "",
@@ -1424,33 +1451,6 @@
   {
     "titulo": "Subsidio Eléctrico: este miércoles se conocen los resultados de la última convocatoria",
     "enlace": "https://www.maray.cl/pais/10/08/2026/subsidio-electrico-este-miercoles-se-conocen-los-resultados-de-la-ultima-convocatoria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Muere a los 84 años Ben Jones, recordado personaje de los “Dukes of Hazzard”",
-    "enlace": "https://www.maray.cl/internacional/10/08/2026/muere-a-los-84-anos-ben-jones-recordado-personaje-de-los-dukes-of-hazzard/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Delegada de Atacama activa coordinación con alcaldes y Senapred ante anuncios de nuevas lluvias",
-    "enlace": "https://www.maray.cl/atacama/10/08/2026/delegada-de-atacama-activa-coordinacion-con-alcaldes-y-senapred-ante-anuncios-de-nuevas-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Terremoto 7,4 sacude Colombia y destruye edificios: se sintió en Ecuador y Panamá",
-    "enlace": "https://www.maray.cl/internacional/10/08/2026/terremoto-74-sacude-colombia-y-destruye-edificios-se-sintio-en-ecuador-y-panama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,42 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Gobierno de Colombia declara desastre nacional",
+    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-de-colombia-declara-desastre-nacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Sismo en Colombia deja al menos 71 muertos y un centenar de desaparecidos",
+    "enlace": "https://g5noticias.cl/2026/08/10/sismo-deja-al-menos-71-muertos-y-un-centenar-de-desaparecidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Premio InspiraTEC extiende excepcionalmente su plazo de postulación",
+    "enlace": "https://g5noticias.cl/2026/08/10/premio-inspiratec-extiende-excepcionalmente-su-plazo-de-postulacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Alarma en RD del Congo: más de 1.900 muertos y al menos 4.200 contagios de ébola",
+    "enlace": "https://g5noticias.cl/2026/08/10/alarma-en-rd-del-congo-mas-de-1-900-muertos-y-al-menos-4-200-contagios-de-ebola/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "TOP de Coyhaique condena a 12 y 7 años de presidio a autor de homicidio consumado y frustrado en Villa Ortega",
     "enlace": "https://g5noticias.cl/2026/08/10/top-de-coyhaique-condena-a-12-y-7-anos-de-presidio-a-autor-de-homicidio-consumado-y-frustrado-en-villa-ortega/",
     "descripcion": "",
@@ -1685,42 +1721,6 @@
   {
     "titulo": "Agrícola Santa Sara lidera incorporación de almacenamiento energético verde en la agroindustria chilena",
     "enlace": "https://g5noticias.cl/2026/08/10/agricola-santa-sara-lidera-incorporacion-de-almacenamiento-energetico-verde-en-la-agroindustria-chilena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Reliquia de San Alberto Hurtado y la histórica camioneta verde congregaron a cientos de personas en Concepción",
-    "enlace": "https://g5noticias.cl/2026/08/10/reliquia-de-san-alberto-hurtado-y-la-historica-camioneta-verde-congregaron-a-cientos-de-personas-en-concepcion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Cabildo: Investigación de Carabineros deja dos detenidos y armamento incautado",
-    "enlace": "https://g5noticias.cl/2026/08/10/cabildo-investigacion-de-carabineros-deja-dos-detenidos-y-armamento-incautado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Cuántas tazas de café son demasiadas? Médica explica el límite diario y las señales de alerta",
-    "enlace": "https://g5noticias.cl/2026/08/10/cuantas-tazas-de-cafe-son-demasiadas-medica-explica-el-limite-diario-y-las-senales-de-alerta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Programa formativo potenciará la incidencia pública de jóvenes líderes de la Región de Antofagasta",
-    "enlace": "https://g5noticias.cl/2026/08/10/programa-formativo-potenciara-la-incidencia-publica-de-jovenes-lideres-de-la-region-de-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
