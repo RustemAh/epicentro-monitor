@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Ballet “Alas de Mi Patria” hace historia en Turquía con 27 presentaciones y más de 65 mil espectadores",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/10/ballet-alas-de-mi-patria-hace-historia-en-turquia-con-27-presentaciones-y-mas-de-65-mil-espectadores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Capacitan a recicladores de base y gestores de residuos en nuevas exigencias de la Ley REP y economía circular",
     "enlace": "https://www.elcoquimbano.cl/2026/08/10/capacitan-a-recicladores-de-base-y-gestores-de-residuos-en-nuevas-exigencias-de-la-ley-rep-y-economia-circular/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Rápida intervención de Seguridad Pública permitió detener a presunto agresor tras riña en el sector del Casino Enjoy",
     "enlace": "https://www.elcoquimbano.cl/2026/08/05/rapida-intervencion-de-seguridad-publica-permitio-detener-a-presunto-agresor-tras-rina-en-el-sector-del-casino-enjoy/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Estudiantes de la UCN crean aplicaciones para digitalizar procesos de Ultraport Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/04/estudiantes-de-la-ucn-crean-aplicaciones-para-digitalizar-procesos-de-ultraport-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Solo 4 de 15 comunas de la Región de Coquimbo cuentan con plan para reducir el riesgo de desastres",
+    "enlace": "https://laserenaonline.cl/2026/08/10/solo-4-de-15-comunas-de-la-region-de-coquimbo-cuentan-con-plan-para-reducir-el-riesgo-de-desastres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Pronostican precipitaciones para este martes y miércoles junto con isoterma alta en cordillera",
     "enlace": "https://laserenaonline.cl/2026/08/10/pronostican-precipitaciones-para-este-martes-y-miercoles-junto-con-isoterma-alta-en-cordillera/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Análisis de CEAZA retrata cómo las antiguas sociedades enfrentaron períodos de estrés ambiental en Chile",
     "enlace": "https://laserenaonline.cl/2026/08/10/analisis-de-ceaza-retrata-como-las-antiguas-sociedades-enfrentaron-periodos-de-estres-ambiental-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Familias serenenses disfrutaron del Día del Niño con actividades gratuitas en la Plaza de Armas",
-    "enlace": "https://laserenaonline.cl/2026/08/10/familias-serenenses-disfrutaron-del-dia-del-nino-con-actividades-gratuitas-en-la-plaza-de-armas/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,24 +900,6 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Detienen a mujer por tráfico de drogas en Illapel: incautan 1,5 kilos de cocaína base",
-    "enlace": "https://veetv.cl/trafico-drogas-illapel-mujer-detenida/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "Autoridades detallan aplicación de la FEEC y coordinan apoyo para empresarios afectados por sistema frontal",
-    "enlace": "https://veetv.cl/autoridades-detallan-aplicacion-de-la-feec-y-coordinan-apoyo-para-empresarios-afectados-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
     "titulo": "Minera Los Pelambres destaca compromiso con la seguridad de las personas ante el evento climático más intenso de su historia",
     "enlace": "https://www.elsalamanquino.cl/2026/08/10/minera-los-pelambres-destaca-compromiso-con-la-seguridad-de-las-personas-ante-el-evento-climatico-mas-intenso-de-su-historia/",
     "descripcion": "",
@@ -1098,6 +1080,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Clero de la Arquidiócesis de La Serena profundizó en los desafíos de la Inteligencia Artificial",
+    "enlace": "https://www.elandacollino.cl/2026/08/10/clero-de-la-arquidiocesis-de-la-serena-profundizo-en-los-desafios-de-la-inteligencia-artificial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "El refugio de los tricahues: La colonia que encontró hogar en los cerros de Andacollo al costado de la ruta D51",
     "enlace": "https://www.elandacollino.cl/2026/08/08/el-refugio-de-los-tricahues-la-colonia-que-encontro-hogar-en-los-cerros-de-andacollo-al-costado-de-la-ruta-d51/",
     "descripcion": "",
@@ -1172,15 +1163,6 @@
   {
     "titulo": "Alcalde de Andacollo lamenta falta de nuevos recursos tras reunión de emergencia con el Presidente Kast",
     "enlace": "https://www.elandacollino.cl/2026/07/30/alcalde-de-andacollo-lamenta-falta-de-nuevos-recursos-tras-reunion-de-emergencia-con-el-presidente-kast/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Preocupación en Andacollo por color verde y espuma en la quebrada central: Autoridad medioambiental llaman a evitar el contacto con esa agua",
-    "enlace": "https://www.elandacollino.cl/2026/07/29/preocupacion-en-andacollo-por-color-verde-y-espuma-en-la-quebrada-central-autoridad-medioambiental-llaman-a-evitar-el-contacto-con-esa-agua/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1638,6 +1620,33 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "Municipalidad de Valparaíso recupera Plaza Victoria con renovadas pileta, pérgola y baños",
+    "enlace": "https://diariolaquinta.cl/2026/08/10/municipalidad-de-valparaiso-recupera-plaza-victoria-con-renovadas-pileta-pergola-y-banos/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-valparaiso-recupera-plaza-victoria-con-renovadas-pileta-pergola-y-banos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Relato Digital: el disgusto ciudadano se consolida como la emoción dominante frente a la gestión del gobierno de Kast",
+    "enlace": "https://diariolaquinta.cl/2026/08/10/relato-digital-el-disgusto-ciudadano-se-consolida-como-la-emocion-dominante-frente-a-la-gestion-del-gobierno-de-kast/?utm_source=rss&utm_medium=rss&utm_campaign=relato-digital-el-disgusto-ciudadano-se-consolida-como-la-emocion-dominante-frente-a-la-gestion-del-gobierno-de-kast",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Valp-Horror: Valparaíso se sumerge en el misterio y el horror cósmico este 22 de agosto",
+    "enlace": "https://diariolaquinta.cl/2026/08/10/valp-horror-valparaiso-se-sumerge-en-el-misterio-y-el-horror-cosmico-este-22-de-agosto/?utm_source=rss&utm_medium=rss&utm_campaign=valp-horror-valparaiso-se-sumerge-en-el-misterio-y-el-horror-cosmico-este-22-de-agosto",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[REMATE] Valparaíso: Propiedad en cerro Barón – 10/SEP/2026",
     "enlace": "https://diariolaquinta.cl/2026/08/10/remate-valparaiso-propiedad-en-cerro-baron-10-sep-2026-4/?utm_source=rss&utm_medium=rss&utm_campaign=remate-valparaiso-propiedad-en-cerro-baron-10-sep-2026-4",
     "descripcion": "",
@@ -1701,35 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Posesión efectiva ROL V-109-2025 «Albornoz»",
-    "enlace": "https://diariolaquinta.cl/2026/08/09/notificacion-juzgado-de-letras-de-casablanca-posesion-efectiva-rol-v-109-2025-albornoz-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-posesion-efectiva-rol-v-109-2025-albornoz-3",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[REMATE] Valparaíso: Propiedad en cerro Barón – 10/SEP/2026",
-    "enlace": "https://diariolaquinta.cl/2026/08/09/remate-valparaiso-propiedad-en-cerro-baron-10-sep-2026-3/?utm_source=rss&utm_medium=rss&utm_campaign=remate-valparaiso-propiedad-en-cerro-baron-10-sep-2026-3",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Casablanca: Citación a Audiencia preparatoria RIT C-765-2026 «Cuevas / Barría»",
-    "enlace": "https://diariolaquinta.cl/2026/08/09/notificacion-juzgado-de-familia-de-casablanca-citacion-a-audiencia-preparatoria-rit-c-765-2026-cuevas-barria-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-casablanca-citacion-a-audiencia-preparatoria-rit-c-765-2026-cuevas-barria-3",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Gobierno responde a críticas por emergencia: “Decir que estuvimos ausentes no se sostiene frente a los hechos”",
-    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-responde-a-criticas-por-emergencia-decir-que-estuvimos-ausentes-no-se-sostiene-frente-a-los-hechos/",
+    "titulo": "Terremoto en Colombia deja al menos 111 muertos y 87 heridos, informó Abelardo de la Espriella",
+    "enlace": "https://g5noticias.cl/2026/08/10/terremoto-en-colombia-deja-al-menos-111-muertos-y-87-heridos-informo-abelardo-de-la-espriella/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "210 detenidos por Carabineros deja Ronda Preventiva Nacional en La Araucanía",
-    "enlace": "https://g5noticias.cl/2026/08/10/210-detenidos-por-carabineros-deja-ronda-preventiva-nacional-en-la-araucania/",
+    "titulo": "También en Colombia: Volcán Puracé aumentó energía sísmica y las emisiones de ceniza",
+    "enlace": "https://g5noticias.cl/2026/08/10/tambien-en-colombia-volcan-purace-aumento-energia-sismica-y-las-emisiones-de-ceniza/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chilevisión define la fecha de estreno de su nuevo estelar “Fiebre de Canto”",
-    "enlace": "https://g5noticias.cl/2026/08/10/chilevision-define-la-fecha-de-estreno-de-su-nuevo-estelar-fiebre-de-canto/",
+    "titulo": "Vicuña: Fiscalía y PDI investigan agresión contra mujer que perdió la vida. Imputado fue detenido por Carabineros",
+    "enlace": "https://g5noticias.cl/2026/08/10/vicuna-fiscalia-y-pdi-investigan-agresion-contra-mujer-que-perdio-la-vida-imputado-fue-detenido-por-carabineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SAMU O’Higgins pondrá a prueba su capacidad de rescate y urgencia ante simulación de aluvión en Malloa",
-    "enlace": "https://g5noticias.cl/2026/08/10/samu-ohiggins-pondra-a-prueba-su-capacidad-de-rescate-y-urgencia-ante-simulacion-de-aluvion-en-malloa/",
+    "titulo": "En la Corte de Apelaciones de Valparaíso se realizó el Primer Congreso Nacional de Juezas y Jueces Penales",
+    "enlace": "https://g5noticias.cl/2026/08/10/en-la-corte-de-apelaciones-de-valparaiso-se-realizo-el-primer-congreso-nacional-de-juezas-y-jueces-penales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seguridad: el desafío no es la Constitución. Por Jorge Astudillo, investigador y académico de Derecho, Universidad Andrés Bello",
-    "enlace": "https://g5noticias.cl/2026/08/10/seguridad-el-desafio-no-es-la-constitucion-por-jorge-astudillo-investigador-y-academico-de-derecho-universidad-andres-bello/",
+    "titulo": "Ministro Quiroz anuncia comisión para revisar cambios al Estatuto Administrativo",
+    "enlace": "https://g5noticias.cl/2026/08/10/ministro-quiroz-anuncia-comision-para-revisar-cambios-al-estatuto-administrativo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Apoderados, docentes y autoridades exigen frenar el cierre del prekínder de la Escuela David Ben Gurión",
-    "enlace": "https://g5noticias.cl/2026/08/10/apoderados-docentes-y-autoridades-exigen-frenar-el-cierre-del-prekinder-de-la-escuela-david-ben-gurion/",
+    "titulo": "Ministerio de Energía refuerza monitoreo del mercado del pellet y llama a realizar compras responsables",
+    "enlace": "https://g5noticias.cl/2026/08/10/ministerio-de-energia-refuerza-monitoreo-del-mercado-del-pellet-y-llama-a-realizar-compras-responsables/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CGE y ALTO refuerzan su estrategia legal contra el hurto de energía: Cerca de 3.300 casos registrados entre 2025 y 2026",
-    "enlace": "https://g5noticias.cl/2026/08/10/cge-y-alto-refuerzan-su-estrategia-legal-contra-el-hurto-de-energia-cerca-de-3-300-casos-registrados-entre-2025-y-2026/",
+    "titulo": "Fiscalía de Limache logra 12 años de pena efectiva para autor de homicidio ocurrido el 2025",
+    "enlace": "https://g5noticias.cl/2026/08/10/fiscalia-de-limache-logra-12-anos-de-pena-efectiva-para-autor-de-homicidio-ocurrido-el-2025/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Anticipan nuevo sistema frontal para este fin de semana",
-    "enlace": "https://g5noticias.cl/2026/08/10/anticipan-nuevo-sistema-frontal-para-este-fin-de-semana/",
+    "titulo": "Hospital Roberto del Río recibe a la ministra de Salud y subsecretarios en emotiva celebración del Mes de la Niñez",
+    "enlace": "https://g5noticias.cl/2026/08/10/hospital-roberto-del-rio-recibe-a-la-ministra-de-salud-y-subsecretarios-en-emotiva-celebracion-del-mes-de-la-ninez/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desempleo ilustrado: Bancada UDI solicita al Mineduc elaborar informe sobre empleabilidad y pide al Gobierno explorar modelo alemán de «formación dual»",
-    "enlace": "https://g5noticias.cl/2026/08/10/desempleo-ilustrado-bancada-udi-solicita-al-mineduc-elaborar-informe-sobre-empleabilidad-y-pide-al-gobierno-explorar-modelo-aleman-de-formacion-dual/",
+    "titulo": "Fiscalía de Chillán investiga dos accidentes de tránsito que dejan igual número de fallecidos en Ñuble",
+    "enlace": "https://g5noticias.cl/2026/08/10/fiscalia-de-chillan-investiga-dos-accidentes-de-transito-que-dejan-igual-numero-de-fallecidos-en-nuble/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El desafío de la minería chilena no está solo bajo tierra. Por Alejandra Molina, gerente general de Minnovex",
-    "enlace": "https://g5noticias.cl/2026/08/10/el-desafio-de-la-mineria-chilena-no-esta-solo-bajo-tierra-por-alejandra-molina-gerente-general-de-minnovex/",
+    "titulo": "Gobierno refuerza coordinación preventiva ante evento meteorológico en Región de Arica y Parinacota",
+    "enlace": "https://g5noticias.cl/2026/08/10/gobierno-refuerza-coordinacion-preventiva-ante-evento-meteorologico-en-region-de-arica-y-parinacota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
