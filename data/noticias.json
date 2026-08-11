@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "PDI Arica recuperó especies sustraídas a cadetes de Deportes La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/11/pdi-arica-recupero-especies-sustraidas-a-cadetes-de-deportes-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Exposición de Raúl Sotelo y 75 años del Circo Minero destacan en la cartelera cultural de agosto",
     "enlace": "https://www.elserenense.cl/tendencias/2026/08/11/exposicion-de-raul-sotelo-y-75-anos-del-circo-minero-destacan-en-la-cartelera-cultural-de-agosto/",
     "descripcion": "",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Red Feminista del Libro Región de Coquimbo conmemorará el centenario de Stella Díaz Varín con una programación regional de teatro y literatura",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/08/10/red-feminista-del-libro-region-de-coquimbo-conmemorara-el-centenario-de-stella-diaz-varin-con-una-programacion-regional-de-teatro-y-literatura/",
+    "titulo": "Alcalde Mario Aros y autoridades del MOP inspeccionan obras para recuperar conectividad en puente El Arrayán",
+    "enlace": "https://laserenaonline.cl/2026/08/11/alcalde-mario-aros-y-autoridades-del-mop-inspeccionan-obras-para-recuperar-conectividad-en-puente-el-arrayan/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Solo 4 de 15 comunas de la Región de Coquimbo cuentan con plan para reducir el riesgo de desastres",
     "enlace": "https://laserenaonline.cl/2026/08/10/solo-4-de-15-comunas-de-la-region-de-coquimbo-cuentan-con-plan-para-reducir-el-riesgo-de-desastres/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Pronostican precipitaciones para este martes y miércoles junto con isoterma alta en cordillera",
-    "enlace": "https://laserenaonline.cl/2026/08/10/pronostican-precipitaciones-para-este-martes-y-miercoles-junto-con-isoterma-alta-en-cordillera/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
+    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
+    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
+    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Alcalde Christian Gross por Infiernillos: “Hacemos un llamado a que las instituciones puedan estar presentes acá”",
+    "enlace": "https://losviloschile.cl/actualidad/alcalde-christian-gross-por-infiernillos-hacemos-un-llamado-a-que-las-instituciones-puedan-estar-presentes-aca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos licita instalación de 12 nuevas cámaras de seguridad por cerca de $150 millones",
+    "enlace": "https://losviloschile.cl/policial/los-vilos-licita-instalacion-de-12-nuevas-camaras-de-seguridad-por-cerca-de-150-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos refuerza medidas preventivas ante sistema frontal que dejaría más de 170 milímetros",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-refuerza-medidas-preventivas-ante-sistema-frontal-que-dejaria-mas-de-170-milimetros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Complejo Deportivo Carlos Salinas Altamirano de Los Vilos fue renovado con inversión superior a $650 millones",
+    "enlace": "https://losviloschile.cl/deportes/complejo-deportivo-carlos-salinas-altamirano-de-los-vilos-fue-renovado-con-inversion-superior-a-650-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Más de 25 juntas de vecinos participaron en encuentro comunitario en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/mas-de-25-juntas-de-vecinos-participaron-en-encuentro-comunitario-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Clero de la Arquidiócesis de La Serena profundizó en los desafíos de la Inteligencia Artificial",
     "enlace": "https://www.elandacollino.cl/2026/08/10/clero-de-la-arquidiocesis-de-la-serena-profundizo-en-los-desafios-de-la-inteligencia-artificial/",
     "descripcion": "",
@@ -1458,6 +1548,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Agricultores de la región acercaron el campo a la ciudad y fueron protagonistas en Cerro de Sabores 2026",
+    "enlace": "https://laliguanoticias.cl/2026/08/11/agricultores-de-la-region-acercaron-el-campo-a-la-ciudad-y-fueron-protagonistas-en-cerro-de-sabores-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "Cecrea La Ligua celebra 10 años con seminario sobre educación, creatividad y ciudadanía",
     "enlace": "https://laliguanoticias.cl/2026/08/10/cecrea-la-ligua-celebra-10-anos-con-seminario-sobre-educacion-creatividad-y-ciudadania/",
     "descripcion": "",
@@ -1532,15 +1631,6 @@
   {
     "titulo": "Sopraval da inicio a programa “Activamente” para promover el bienestar integral de personas mayores de La Calera",
     "enlace": "https://laliguanoticias.cl/2026/08/03/sopraval-da-inicio-a-programa-activamente-para-promover-el-bienestar-integral-de-personas-mayores-de-la-calera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputado Venegas y concejal Camilo Castillo exigen priorizar recuperación del Jardín Ovillito de Lana en La Ligua",
-    "enlace": "https://laliguanoticias.cl/2026/07/28/diputado-venegas-y-concejal-camilo-castillo-exigen-priorizar-recuperacion-del-jardin-ovillito-de-lana-en-la-ligua/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Parisi (PDG) afirma que feriado del 17 de septiembre cuenta con apoyo transversal y pide respaldo al Gobierno: “Es una señal importante”",
-    "enlace": "https://g5noticias.cl/2026/08/11/diputada-parisi-pdg-afirma-que-feriado-del-17-de-septiembre-cuenta-con-apoyo-transversal-y-pide-respaldo-al-gobierno-es-una-senal-importante/",
+    "titulo": "Otra Seremi menos: Minsal solicita renuncia de secretaria regional ministerial de Los Lagos en medio de denuncias por Ley Karin",
+    "enlace": "https://g5noticias.cl/2026/08/11/otra-seremi-menos-minsal-solicita-renuncia-de-secretaria-regional-ministerial-de-los-lagos-en-medio-de-denuncias-por-ley-karin/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministros Arrau, Parot y Wulf tienen la mejor percepción digital del gabinete en su quinto mes; Natalia Ducó, Fernando Barros y Jaime Campos encabezan el rechazo",
-    "enlace": "https://g5noticias.cl/2026/08/11/ministros-arrau-parot-y-wulf-tienen-la-mejor-percepcion-digital-del-gabinete-en-su-quinto-mes-natalia-duco-fernando-barros-y-jaime-campos-encabezan-el-rechazo/",
+    "titulo": "Presidente de la República se reúne con alcaldes de las regiones de Valparaíso, O’Higgins y Metropolitana para abordar agenda de seguridad",
+    "enlace": "https://g5noticias.cl/2026/08/11/presidente-de-la-republica-se-reune-con-alcaldes-de-las-regiones-de-valparaiso-ohiggins-y-metropolitana-para-abordar-agenda-de-seguridad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La LNB vive su última semana de fase regular en el torneo de Clausura con el clásico moderno y la lucha por el Big 8",
-    "enlace": "https://g5noticias.cl/2026/08/11/la-lnb-vive-su-ultima-semana-de-fase-regular-en-el-torneo-de-clausura-con-el-clasico-moderno-y-la-lucha-por-el-big-8/",
+    "titulo": "Sostenedores y equipos directivos participan en jornada sobre nueva Ley de Convivencia, Buen Trato y Bienestar",
+    "enlace": "https://g5noticias.cl/2026/08/11/sostenedores-y-equipos-directivos-participan-en-jornada-sobre-nueva-ley-de-convivencia-buen-trato-y-bienestar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gestión de talento: Los desafíos para un liderazgo exitoso",
-    "enlace": "https://g5noticias.cl/2026/08/11/gestion-de-talento-los-desafios-para-un-liderazgo-exitoso/",
+    "titulo": "Casa de Moneda de Chile rinde homenaje a Condorito con inédita edición conmemorativa",
+    "enlace": "https://g5noticias.cl/2026/08/11/casa-de-moneda-de-chile-rinde-homenaje-a-condorito-con-inedita-edicion-conmemorativa-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tragedia: niña de 9 años falleció tras ser atropellada esta mañana en Villa Alemana",
-    "enlace": "https://g5noticias.cl/2026/08/11/tragedia-nina-de-9-anos-fallecio-tras-ser-atropellada-esta-manana-en-villa-alemana/",
+    "titulo": "Gobierno Regional de Valparaíso reafirma su compromiso con el trabajo de detección temprana del cáncer en la región",
+    "enlace": "https://g5noticias.cl/2026/08/11/gobierno-regional-de-valparaiso-reafirma-su-compromiso-con-el-trabajo-de-deteccion-temprana-del-cancer-en-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "TOP de Concepción aplica legítima defensa incompleta a condenado por homicidio simple",
-    "enlace": "https://g5noticias.cl/2026/08/11/top-de-concepcion-aplica-legitima-defensa-incompleta-a-condenado-por-homicidio-simple/",
+    "titulo": "Cerca de mil estudiantes de la región de Valparaíso participan en “Tomasin@ x1 Día”",
+    "enlace": "https://g5noticias.cl/2026/08/11/cerca-de-mil-estudiantes-de-la-region-de-valparaiso-participan-en-tomasin-x1-dia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Climatóloga explica causas de “El Niño” y sus posibles efectos sobre el territorio nacional",
-    "enlace": "https://g5noticias.cl/2026/08/11/climatologa-explica-causas-de-el-nino-y-sus-posibles-efectos-sobre-el-territorio-nacional/",
+    "titulo": "Jimmy Walker, director del Hospital de Quilpué y futuro Hospital Marga Marga: “Creo que la innovación es el motor de los cambios en salud”",
+    "enlace": "https://g5noticias.cl/2026/08/11/jimmy-walker-director-del-hospital-de-quilpue-y-futuro-hospital-marga-marga-creo-que-la-innovacion-es-el-motor-de-los-cambios-en-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chañaral: Fiscalía formalizó grave delito de violencia de género y obtuvo prisión preventiva de imputado",
-    "enlace": "https://g5noticias.cl/2026/08/11/chanaral-fiscalia-formalizo-grave-delito-de-violencia-de-genero-y-obtuvo-prision-preventiva-de-imputado/",
+    "titulo": "Diputada Castillo y Consejo Regional Campesino exige ayuda urgente para el sector caprino tras graves daños provocados por el sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/08/11/diputada-castillo-y-consejo-regional-campesino-exige-ayuda-urgente-para-el-sector-caprino-tras-graves-danos-provocados-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SENCE Valparaíso y el CFT Estatal dan inicio a cursos de formación que apuntan a la continuidad de estudios",
-    "enlace": "https://g5noticias.cl/2026/08/11/sence-valparaiso-y-el-cft-estatal-dan-inicio-a-cursos-de-formacion-que-apuntan-a-la-continuidad-de-estudios/",
+    "titulo": "Ante la violencia escolar no todo es mano dura. Por Cristián Monckeberg, decano Facultad de Ciencias Sociales y Humanidades, Universidad del Alba.",
+    "enlace": "https://g5noticias.cl/2026/08/11/ante-la-violencia-escolar-no-todo-es-mano-dura-por-cristian-monckeberg-decano-facultad-de-ciencias-sociales-y-humanidades-universidad-del-alba/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Museo Universitario del Grabado UPLA inauguró exposición temporal “Carlos Donaire Escobar (1929-2020): Grabar la memoria”",
-    "enlace": "https://g5noticias.cl/2026/08/11/museo-universitario-del-grabado-upla-inauguro-exposicion-temporal-carlos-donaire-escobar-1929-2020-grabar-la-memoria/",
+    "titulo": "Autopista Nueva Aconcagua inauguró sistema Free Flow en peajes Las Vegas y Pichidangui",
+    "enlace": "https://g5noticias.cl/2026/08/11/autopista-nueva-aconcagua-inauguro-sistema-free-flow-en-peajes-las-vegas-y-pichidangui/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
