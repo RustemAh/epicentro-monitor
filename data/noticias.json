@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Desde este miércoles se conocerán los resultados del subsidio eléctrico",
+    "enlace": "https://laserenaonline.cl/2026/08/11/desde-este-miercoles-se-conoceran-los-resultados-del-subsidio-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Aguas del Valle suma nueva maquinaria y limpia más de 20 kilómetros de colectores ante nuevos sistemas frontales",
+    "enlace": "https://laserenaonline.cl/2026/08/11/aguas-del-valle-suma-nueva-maquinaria-y-limpia-mas-de-20-kilometros-de-colectores-ante-nuevos-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "IPS ChileAtiende despliega atención móvil para apoyar a familias afectadas por la emergencia",
     "enlace": "https://laserenaonline.cl/2026/08/11/ips-chileatiende-despliega-atencion-movil-para-apoyar-a-familias-afectadas-por-la-emergencia/",
     "descripcion": "",
@@ -65,24 +83,6 @@
   {
     "titulo": "Investigan homicidio de profesora en el Valle del Elqui",
     "enlace": "https://laserenaonline.cl/2026/08/11/investigan-homicidio-de-profesora-en-el-valle-del-elqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 11 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/11/el-tiempo-hoy-11-de-agosto-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Pymes acusan “retroceso injusto” y exigen al Congreso rechazar veto que elimina el pago oportuno a 30 días",
-    "enlace": "https://laserenaonline.cl/2026/08/10/pymes-acusan-retroceso-injusto-y-exigen-al-congreso-rechazar-veto-que-elimina-el-pago-oportuno-a-30-dias/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -270,6 +270,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Invitan a participar del festival cinematográfico escolar “Hazla Corta con un Corto”",
+    "enlace": "https://ovallehoy.cl/invitan-a-participar-del-festival-cinematografico-escolar-hazla-corta-con-un-corto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Desde este miércoles se conocerán los resultados del subsidio eléctrico",
+    "enlace": "https://ovallehoy.cl/desde-este-miercoles-se-conoceran-los-resultados-del-subsidio-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Fiscalización vehicular permite sacar de circulación arma artesanal y municiones en Cerrillos de Tamaya",
     "enlace": "https://ovallehoy.cl/fiscalizacion-vehicular-permite-sacar-de-circulacion-arma-artesanal-y-municiones-en-cerrillos-de-tamaya/",
     "descripcion": "",
@@ -342,22 +360,94 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "Ballet Folclórico «Alas de mi Patria» hace historia en Turquía",
-    "enlace": "https://ovallehoy.cl/ballet-folclorico-alas-de-mi-patria-hace-historia-en-turquia/",
+    "titulo": "Illapel suspende celebraciones y redestina $1.300 millones para enfrentar la emergencia",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-suspende-celebraciones-y-redestina-1-300-millones-para-enfrentar-la-emergencia/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Impulsan cinco estrategias en medio de la reconstrucción económica de la Región de Coquimbo",
-    "enlace": "https://ovallehoy.cl/impulsan-cinco-estrategias-en-medio-de-la-reconstruccion-economica-de-la-region-de-coquimbo/",
+    "titulo": "Donación de 488 juguetes beneficiará a estudiantes y párvulos afectados por el temporal en Illapel",
+    "enlace": "https://illapelchile.cl/social/donacion-de-488-juguetes-beneficiara-a-estudiantes-y-parvulos-afectados-por-el-temporal-en-illapel/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Illapel registra 46 emergencias y tres sectores aislados por nuevo sistema frontal",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-registra-46-emergencias-y-tres-sectores-aislados-por-nuevo-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Desborde del río Illapel obliga a evacuar familias en La Puntilla: Municipio reitera llamado a acatar las alertas de emergencia",
+    "enlace": "https://illapelchile.cl/actualidad/desborde-del-rio-illapel-obliga-a-evacuar-familias-en-la-puntilla-municipio-reitera-llamado-a-acatar-las-alertas-de-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Embalse El Bato se mantiene bajo su capacidad máxima y autoridades desmienten alerta de desborde",
+    "enlace": "https://illapelchile.cl/actualidad/embalse-el-bato-se-mantiene-bajo-su-capacidad-maxima-y-autoridades-desmienten-alerta-de-desborde/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Illapel atiende 38 emergencias durante primera jornada del sistema frontal",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-atiende-38-emergencias-durante-primera-jornada-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "COGRID Provincial coordina medidas preventivas ante sistema frontal de alta intensidad en Choapa",
+    "enlace": "https://illapelchile.cl/actualidad/cogrid-provincial-coordina-medidas-preventivas-ante-sistema-frontal-de-alta-intensidad-en-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "María Agustina Lara recibe aporte del Gobierno Regional para representar a Illapel en competencia internacional en Brasil",
+    "enlace": "https://illapelchile.cl/deportes/maria-agustina-lara-recibe-aporte-del-gobierno-regional-para-representar-a-illapel-en-competencia-internacional-en-brasil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Seminario en Illapel abordó prevención de la violencia y convivencia en comunidades educativas",
+    "enlace": "https://illapelchile.cl/educacion/seminario-en-illapel-abordo-prevencion-de-la-violencia-y-convivencia-en-comunidades-educativas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Illapel constituye COGRID y activa medidas preventivas ante próximo sistema frontal",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-constituye-cogrid-y-activa-medidas-preventivas-ante-proximo-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
   },
   {
     "titulo": "Detienen a mujer por tráfico de drogas en Illapel: incautan 1,5 kilos de cocaína base",
@@ -468,6 +558,132 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "El Noticiero del Huasco, martes 11 de agosto de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/el-noticiero-del-huasco-martes-11-de-agosto-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Lluvias ponen en alerta al Huasco: advierten alto riesgo de aluviones y derrumbes",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/lluvias-ponen-en-alerta-al-huasco-advierten-alto-riesgo-de-aluviones-y-derrumbes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Cuatro años de lluvia en pocos días: el monitoreo que permitió seguir uno de los eventos climáticos más intensos en Atacama",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/cuatro-anos-de-lluvia-en-pocos-dias-el-monitoreo-que-permitio-seguir-uno-de-los-eventos-climaticos-mas-intensos-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "MOP inicia instalación de puente mecano en Quebrada Alarcón y avanza en obras para segunda estructura en Los Loros",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/mop-inicia-instalacion-de-puente-mecano-en-quebrada-alarcon-y-avanza-en-obras-para-segunda-estructura-en-los-loros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Gobierno Regional e INDESPA abren postulación a concurso por más de $385 millones para fortalecer la pesca artesanal",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/gobierno-regional-e-indespa-abren-postulacion-a-concurso-por-mas-de-385-millones-para-fortalecer-la-pesca-artesanal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Carabineros ubican a cuatro personas que permanecían aisladas en sector precordillerano de Vallenar",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/carabineros-ubican-a-cuatro-personas-que-permanecian-aisladas-en-sector-precordillerano-de-vallenar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "El Noticiero del Huasco, lunes 10 de agosto de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/el-noticiero-del-huasco-lunes-10-de-agosto-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Estiman que las pérdidas en infraestructura de riego en la cuenca del Huasco son millonarias",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/estiman-que-las-perdidas-en-infraestructura-de-riego-en-la-cuenca-del-huasco-son-millonarias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "GORE Atacama y Corfo sellan convenio por $720 millones para la reactivación productiva de la región",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/gore-atacama-y-corfo-sellan-convenio-por-720-millones-para-la-reactivacion-productiva-de-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Atacama duplica su capacidad de almacenamiento energético y consolida su liderazgo en la transición energética",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/atacama-duplica-su-capacidad-de-almacenamiento-energetico-y-consolida-su-liderazgo-en-la-transicion-energetica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "A dos años de la Ley Karin, acoso laboral concentra ocho de cada diez atenciones psicológicas",
+    "enlace": "https://www.maray.cl/pais/11/08/2026/a-dos-anos-de-la-ley-karin-acoso-laboral-concentra-ocho-de-cada-diez-atenciones-psicologicas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Concesionaria Ruta del Elqui refuerza operativo preventivo ante nuevo evento meteorológico en Coquimbo",
+    "enlace": "https://www.maray.cl/pais/11/08/2026/concesionaria-ruta-del-elqui-refuerza-operativo-preventivo-ante-nuevo-evento-meteorologico-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Lucas Barrera aparece en el radar de Estudiantes, pero en la U no saben de un interés formal",
+    "enlace": "https://www.maray.cl/deportes/11/08/2026/lucas-barrera-aparece-en-el-radar-de-estudiantes-pero-en-la-u-no-saben-de-un-interes-formal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Aumenta el número de víctimas del terremoto en Colombia: ya son al menos 240 los fallecidos",
+    "enlace": "https://www.maray.cl/internacional/11/08/2026/aumenta-el-numero-de-victimas-del-terremoto-en-colombia-ya-son-al-menos-240-los-fallecidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "EXTRA | Baja segregada mantiene lluvias y actividad eléctrica en distintos sectores de Atacama",
     "enlace": "https://www.maray.cl/atacama/11/08/2026/extra-baja-segregada-mantiene-lluvias-y-actividad-electrica-en-distintos-sectores-de-atacama/",
     "descripcion": "",
@@ -504,8 +720,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Cochilco eleva proyección del cobre para 2026 y anticipa recuperación de la producción chilena",
-    "enlace": "https://www.maray.cl/atacama/11/08/2026/cochilco-eleva-proyeccion-del-cobre-para-2026-y-anticipa-recuperacion-de-la-produccion-chilena/",
+    "titulo": "CGE mantiene plan de preventivo ante nuevo sistema frontal que afecta a la región de Atacama",
+    "enlace": "https://www.maray.cl/atacama/11/08/2026/cge-mantiene-plan-de-preventivo-ante-nuevo-sistema-frontal-que-afecta-a-la-region-de-atacama-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -513,8 +729,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Seremi de Desarrollo Social y Familia despliega medidas preventivas ante nuevo sistema frontal en Atacama",
-    "enlace": "https://www.maray.cl/atacama/11/08/2026/seremi-de-desarrollo-social-y-familia-despliega-medidas-preventivas-ante-nuevo-sistema-frontal-en-atacama/",
+    "titulo": "PDI detiene a hombre acusado de amenazar de muerte a una persona con un hacha en Copiapó",
+    "enlace": "https://www.maray.cl/atacama/11/08/2026/pdi-detiene-a-hombre-acusado-de-amenazar-de-muerte-a-una-persona-con-un-hacha-en-copiapo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -522,40 +738,94 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Alumnas del Programa Relevos de Lundin Mining dan un nuevo paso e inician su entrenamiento en faena",
-    "enlace": "https://www.maray.cl/atacama/11/08/2026/alumnas-del-programa-relevos-de-lundin-mining-dan-un-nuevo-paso-e-inician-su-entrenamiento-en-faena/",
+    "titulo": "Agricultores de la región acercaron el campo a la ciudad y fueron protagonistas en Cerro de Sabores 2026",
+    "enlace": "https://laliguanoticias.cl/2026/08/11/agricultores-de-la-region-acercaron-el-campo-a-la-ciudad-y-fueron-protagonistas-en-cerro-de-sabores-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Se cumple el pronóstico: fuertes lluvias se registran en Copiapó y varios puntos de Atacama",
-    "enlace": "https://www.maray.cl/atacama/11/08/2026/se-cumple-el-pronostico-fuertes-lluvias-se-registran-en-varios-puntos-de-atacama/",
+    "titulo": "Cecrea La Ligua celebra 10 años con seminario sobre educación, creatividad y ciudadanía",
+    "enlace": "https://laliguanoticias.cl/2026/08/10/cecrea-la-ligua-celebra-10-anos-con-seminario-sobre-educacion-creatividad-y-ciudadania/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Lluvias, viento y tormentas eléctricas marcarán el tiempo en Antofagasta",
-    "enlace": "https://www.maray.cl/pais/11/08/2026/lluvias-viento-y-tormentas-electricas-marcaran-el-tiempo-en-antofagasta/",
+    "titulo": "Acercamiento de fármacos permite reducir tiempos de espera y evitar traslados innecesarios de pacientes de Cabildo",
+    "enlace": "https://laliguanoticias.cl/2026/08/10/acercamiento-de-farmacos-permite-reducir-tiempos-de-espera-evitar-traslados-innecesarios-de-pacientes-de-cabildo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Google anuncia nuevo cable submarino que conectará Chile con Panamá y República Dominicana",
-    "enlace": "https://www.maray.cl/pais/11/08/2026/google-anuncia-nuevo-cable-submarino-que-conectara-chile-con-panama-y-republica-dominicana/",
+    "titulo": "Avanza plan comunal para recuperar y mejorar su red de pasarelas rurales",
+    "enlace": "https://laliguanoticias.cl/2026/08/10/avanza-plan-comunal-para-recuperar-y-mejorar-su-red-de-pasarelas-rurales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Diputada Bello solicita recursos para reparar escuelas públicas afectadas por el sistema frontal en Provincia de Petorca",
+    "enlace": "https://laliguanoticias.cl/2026/08/05/diputada-bello-solicita-recursos-para-reparar-escuelas-publicas-afectadas-por-el-sistema-frontal-en-provincia-de-petorca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Destituyen al director de Obras Municipales de Petorca tras sumario que acreditó ocho faltas administrativas",
+    "enlace": "https://laliguanoticias.cl/2026/08/05/destituyen-al-director-de-obras-municipales-de-petorca-tras-sumario-que-acredito-ocho-faltas-administrativas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Más de 1.600 alumnos ya han sido parte del programa Súper Sano de Sopraval en lo que va del año",
+    "enlace": "https://laliguanoticias.cl/2026/08/04/mas-de-1-600-alumnos-ya-han-sido-parte-del-programa-super-sano-de-sopraval-en-lo-que-va-del-ano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Implementan censo social georreferenciado para anticipar la respuesta ante emergencias en Petorca",
+    "enlace": "https://laliguanoticias.cl/2026/08/04/implementan-censo-social-georreferenciado-para-anticipar-la-respuesta-ante-emergencias-en-petorca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Nueva Red Regional de Usuarios de Agua conectará a organizaciones y productores para fortalecer la gestión hídrica de Valparaíso",
+    "enlace": "https://laliguanoticias.cl/2026/08/03/nueva-red-regional-de-usuarios-de-agua-conectara-a-organizaciones-y-productores-para-fortalecer-la-gestion-hidrica-de-valparaiso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Sopraval da inicio a programa “Activamente” para promover el bienestar integral de personas mayores de La Calera",
+    "enlace": "https://laliguanoticias.cl/2026/08/03/sopraval-da-inicio-a-programa-activamente-para-promover-el-bienestar-integral-de-personas-mayores-de-la-calera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "[OPINIÓN] Luksic dice que seguirá pagando las contribuciones de su vivienda (Patricio Herman)",
@@ -646,6 +916,186 @@
     "medio": "Diario La Quinta",
     "zona": "Casablanca",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Ministro Rabat prepara reforma para fortalecer la fiscalización ética de las profesiones",
+    "enlace": "https://g5noticias.cl/2026/08/11/ministro-rabat-prepara-reforma-para-fortalecer-la-fiscalizacion-etica-de-las-profesiones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Nueva base SAMU SSVQP en el Hospital de Marga Marga reforzará la atención prehospitalaria en la Provincia",
+    "enlace": "https://g5noticias.cl/2026/08/11/nueva-base-samu-ssvqp-en-el-hospital-de-marga-marga-reforzara-la-atencion-prehospitalaria-en-la-provincia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seremi de Energía coordina certificación de instalaciones eléctricas en más de 200 viviendas de La Arboleda, Angol",
+    "enlace": "https://g5noticias.cl/2026/08/11/seremi-de-energia-coordina-certificacion-de-instalaciones-electricas-en-mas-de-200-viviendas-de-la-arboleda-angol/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Autoridades de Atacama impulsan campaña “Súbete al Buen Trato” para promover el respeto entre estudiantes y conductores del transporte público",
+    "enlace": "https://g5noticias.cl/2026/08/11/autoridades-de-atacama-impulsan-campana-subete-al-buen-trato-para-promover-el-respeto-entre-estudiantes-y-conductores-del-transporte-publico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Reconocen con Sello Calidad de Leña a productor de leña de Santa Cruz",
+    "enlace": "https://g5noticias.cl/2026/08/11/reconocen-con-sello-calidad-de-lena-a-productor-de-lena-de-santa-cruz/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Corte confirmó prisión preventiva para mujer detenida por estafa. Siguen apareciendo víctimas",
+    "enlace": "https://g5noticias.cl/2026/08/11/corte-confirmo-prision-preventiva-para-mujer-detenida-por-estafa-siguen-apareciendo-victimas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hospital de Quilpué fortalece su apuesta por la innovación con su incorporación a ECO-SD de CENS",
+    "enlace": "https://g5noticias.cl/2026/08/11/hospital-de-quilpue-fortalece-su-apuesta-por-la-innovacion-con-su-incorporacion-a-eco-sd-de-cens/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "EPV y Chilquinta firman alianza estratégica para impulsar la reconversión eléctrica del puerto de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/08/11/epv-y-chilquinta-firman-alianza-estrategica-para-impulsar-la-reconversion-electrica-del-puerto-de-valparaiso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "“Graves consecuencias económicas”: Diputado Venegas advierte aumento de precio de la carne para fiestas patrias por cierre de paso Los Libertadores",
+    "enlace": "https://g5noticias.cl/2026/08/11/graves-consecuencias-economicas-diputado-venegas-advierte-aumento-de-precio-de-la-carne-para-fiestas-patrias-por-cierre-de-paso-los-libertadores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Gratis y online: CONAF invita a participar en curso de Aprovechamiento Energético de la Biomasa",
+    "enlace": "https://g5noticias.cl/2026/08/11/gratis-y-online-conaf-invita-a-participar-en-curso-de-aprovechamiento-energetico-de-la-biomasa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Mas de 140 empresas turísticas recibieron el Sello Rally 2026 en el lanzamiento oficial",
+    "enlace": "https://araucovision.cl/mas-de-140-empresas-turisticas-recibieron-el-sello-rally-2026-en-el-lanzamiento-oficial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Se extiende el plazo: Premio InspiraTEC amplía su período de postulación",
+    "enlace": "https://araucovision.cl/se-extiende-el-plazo-premio-inspiratec-amplia-su-periodo-de-postulacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Tres avances concretos para mejorar el acceso a la información y proteger los derechos de los contribuyentes en materia de avalúos y contribuciones",
+    "enlace": "https://araucovision.cl/tres-avances-concretos-para-mejorar-el-acceso-a-la-informacion-y-proteger-los-derechos-de-los-contribuyentes-en-materia-de-avaluos-y-contribuciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "WRC Rally Chile Biobío presentó oficialmente su quinta edición y las novedades para este año 2026",
+    "enlace": "https://araucovision.cl/wrc-rally-chile-biobio-presento-oficialmente-su-quinta-edicion-y-las-novedades-para-este-ano-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "” Representar a Chile en un Mundial es la recompensa al esfuerzo de todos estos años”: Alonsa Estobar rumbo al mundial de Surf sub 16 de El Salvador",
+    "enlace": "https://araucovision.cl/representar-a-chile-en-un-mundial-es-la-recompensa-al-esfuerzo-de-todos-estos-anos-alonsa-estobar-rumbo-al-mundial-de-surf-sub-16-de-el-salvador/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "El Campanil tropieza en casa: Audax Italiano se queda con los tres puntos",
+    "enlace": "https://araucovision.cl/el-campanil-tropieza-en-casa-audax-italiano-se-queda-con-los-tres-puntos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Colegio Arauco se queda con el título provincial y avanza al Regional de Básquetbol Escolar IN",
+    "enlace": "https://araucovision.cl/colegio-arauco-se-queda-con-el-titulo-provincial-y-avanza-al-regional-de-basquetbol-escolar-in/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Fondo de Sercotec impulsará la creación de empresas innovadoras lideradas por mujeres",
+    "enlace": "https://araucovision.cl/fondo-de-sercotec-impulsara-la-creacion-de-empresas-innovadoras-lideradas-por-mujeres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Bioforest abre sus laboratorios para acercar la ciencia forestal a estudiantes",
+    "enlace": "https://araucovision.cl/bioforest-abre-sus-laboratorios-para-acercar-la-ciencia-forestal-a-estudiantes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Internos del CDP de Arauco emocionaron con la obra “La Leyenda de Llacolén”",
+    "enlace": "https://araucovision.cl/internos-del-cdp-de-arauco-emocionaron-con-la-obra-la-leyenda-de-llacolen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
     "titulo": "“Basket” federado completa el cuadro de semifinales",
