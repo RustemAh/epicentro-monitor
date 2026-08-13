@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Despliegue reforzado en Tierras Blancas deja diez detenidos y casi 500 fiscalizaciones",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/13/despliegue-reforzado-en-tierras-blancas-deja-diez-detenidos-y-casi-500-fiscalizaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo Unido rescata un agónico empate ante Platense y deja abierta la serie de octavos de final",
     "enlace": "https://www.elcoquimbano.cl/2026/08/12/coquimbo-unido-rescata-un-agonico-empate-ante-platense-y-deja-abierta-la-serie-de-octavos-de-final/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Remate. Departamento 302, edificio A y derecho de uso y goce de estacionamiento 84, Condominio Cumbres del Bosque, etapa II, Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/11/remate-departamento-302-edificio-a-y-derecho-de-uso-y-goce-de-estacionamiento-84-condominio-cumbres-del-bosque-etapa-ii-coquimbo-3/",
+    "titulo": "OSULS celebrará su 33° aniversario con conciertos gratuitos y el debut de Tatiana Pérez Hernández",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/08/13/osuls-celebrara-su-33-aniversario-con-conciertos-gratuitos-y-el-debut-de-tatiana-perez-hernandez/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Concejo Municipal de La Serena aprueba recursos para operación de futura Clínica Veterinaria Móvil",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "CRDP te invita a postular para ser parte del Catálogo de Productos Regionales 2026",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/11/crdp-te-invita-a-postular-para-ser-parte-del-catalogo-de-productos-regionales-2026/",
+    "titulo": "Exitoso rescate de familia atrapada en la quebrada El Palomo de Monte Patria",
+    "enlace": "https://laserenaonline.cl/2026/08/13/exitoso-rescate-de-familia-atrapada-en-la-quebrada-el-palomo-de-monte-patria/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Fiscalización carretera permite sacar de circulación más de 14 kilos de marihuana en Choapa",
+    "enlace": "https://laserenaonline.cl/2026/08/13/fiscalizacion-carretera-permite-sacar-de-circulacion-mas-de-14-kilos-de-marihuana-en-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Carabineros suma un refuerzo canino para La Serena: Uran realizó su primer patrullaje este miércoles",
+    "enlace": "https://laserenaonline.cl/2026/08/13/carabineros-suma-un-refuerzo-canino-para-la-serena-uran-realizo-su-primer-patrullaje-este-miercoles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "SEREMI de Energía y SEC verifican reposición del tendido eléctrico de transmisión afectado por lluvias",
     "enlace": "https://laserenaonline.cl/2026/08/12/seremi-de-energia-y-sec-verifican-reposicion-del-tendido-electrico-de-transmision-afectado-por-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Localidades aisladas de Monte Patria esperan respuesta estatal frente a pérdida por reconstrucción del Puente Huanilla – Tome Bajo",
-    "enlace": "https://laserenaonline.cl/2026/08/12/localidades-aisladas-de-monte-patria-esperan-respuesta-estatal-frente-a-perdida-por-reconstruccion-del-puente-huanilla-tome-bajo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos continúa entregando ayudas a vecinos afectados del sector rural",
-    "enlace": "https://laserenaonline.cl/2026/08/12/municipalidad-de-los-vilos-continua-entregando-ayudas-a-vecinos-afectados-del-sector-rural/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "CGE refuerza despliegue en la región de Coquimbo e instala generadores en las comunas de Río Hurtado, La Higuera y Monte Patria",
-    "enlace": "https://laserenaonline.cl/2026/08/12/cge-refuerza-despliegue-en-la-region-de-coquimbo-e-instala-generadores-en-las-comunas-de-rio-hurtado-la-higuera-y-monte-patria/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Programa PAR Explora cumple 31 años llevando la ciencia y la innovación a las aulas de la Región de Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/13/programa-par-explora-cumple-31-anos-llevando-la-ciencia-y-la-innovacion-a-las-aulas-de-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Fondos Cultura 2027 abren sus convocatorias con nuevas líneas para fortalecer el patrimonio, las culturas tradicionales y el turismo cultural",
     "enlace": "https://regiondecoquimbo.cl/2026/08/12/fondos-cultura-2027-abren-sus-convocatorias-con-nuevas-lineas-para-fortalecer-el-patrimonio-las-culturas-tradicionales-y-el-turismo-cultural/",
     "descripcion": "",
@@ -441,13 +450,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Gobierno activa medidas preventivas en zonas críticas ante nuevas lluvias en la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/11/gobierno-activa-medidas-preventivas-en-zonas-criticas-ante-nuevas-lluvias-en-la-region-de-coquimbo/",
+    "titulo": "ObituarioHOY del jueves 13 de agosto",
+    "enlace": "https://ovallehoy.cl/obituariohoy-del-jueves-13-de-agosto/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "«¡El agua es un derecho, no un parche!»: Vecinos de El Trapiche convocan a protesta tras casi un mes sin suministro",
@@ -524,15 +533,6 @@
   {
     "titulo": "Desde este miércoles se conocerán los resultados del subsidio eléctrico",
     "enlace": "https://ovallehoy.cl/desde-este-miercoles-se-conoceran-los-resultados-del-subsidio-electrico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Fiscalización vehicular permite sacar de circulación arma artesanal y municiones en Cerrillos de Tamaya",
-    "enlace": "https://ovallehoy.cl/fiscalizacion-vehicular-permite-sacar-de-circulacion-arma-artesanal-y-municiones-en-cerrillos-de-tamaya/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -630,6 +630,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Familias de Combarbalá reciben kits de emergencia para estar “Siempre Listos”",
+    "enlace": "https://www.elcombarbalino.cl/2026/08/13/familias-de-combarbala-reciben-kits-de-emergencia-para-estar-siempre-listos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Rescate en la cordillera: comunidad logra salvar 12 equinos tras casi 20 días desaparecidos por el temporal en Combarbalá",
     "enlace": "https://www.elcombarbalino.cl/2026/08/07/rescate-en-la-cordillera-comunidad-logra-salvar-12-equinos-tras-casi-20-dias-desaparecidos-por-el-temporal-en-combarbala/",
     "descripcion": "",
@@ -704,15 +713,6 @@
   {
     "titulo": "​Municipio de Combarbalá despliega operativo de emergencia tras intenso sistema frontal y actualiza catastro de afectaciones",
     "enlace": "https://www.elcombarbalino.cl/2026/07/21/municipio-de-combarbala-despliega-operativo-de-emergencia-tras-intenso-sistema-frontal-y-actualiza-catastro-de-afectaciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Combarbalá actualiza balance del sistema frontal este lunes: 46 localidades aisladas y más de 3.600 personas afectadas",
-    "enlace": "https://www.elcombarbalino.cl/2026/07/20/combarbala-actualiza-balance-del-sistema-frontal-este-lunes-46-localidades-aisladas-y-mas-de-3-600-personas-afectadas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -1368,8 +1368,8 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Sernapesca incauta carga de 17 toneladas de jurel sin acreditación de origen en Chañaral",
-    "enlace": "https://www.maray.cl/atacama/13/08/2026/sernapesca-incauta-carga-de-17-toneladas-de-jurel-sin-acreditacion-de-origen-en-chanaral/",
+    "titulo": "CGE informa estatus de suministro eléctrico en Alto del Carmen por sistema frontal",
+    "enlace": "https://www.maray.cl/atacama/13/08/2026/cge-informa-estatus-de-suministro-electrico-en-alto-del-carmen-por-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1377,8 +1377,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "MOP informa medidas preventivas ante intervención de infraestructura hidráulica en Tierra Amarill",
-    "enlace": "https://www.maray.cl/atacama/13/08/2026/mop-informa-medidas-preventivas-ante-intervencion-de-infraestructura-hidraulica-en-tierra-amarill/",
+    "titulo": "Empresas de telecomunicaciones aplicarán descuentos de hasta el 100% a clientes de Atacama afectados por interrupciones de servicio",
+    "enlace": "https://www.maray.cl/atacama/13/08/2026/empresas-de-telecomunicaciones-aplicaran-descuentos-de-hasta-el-100-a-clientes-de-atacama-afectados-por-interrupciones-de-servicio/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1386,8 +1386,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Coquimbo Unido rescata un merecido empate ante Platense y deja abierta la serie en ida de 8vos de Libertadores",
-    "enlace": "https://www.maray.cl/deportes/12/08/2026/coquimbo-unido-rescata-un-merecido-empate-ante-platense-y-deja-abierta-la-serie-en-ida-de-8vos-de-libertadores/",
+    "titulo": "Conoce la programación de la fecha 19 de la Liga de Primera",
+    "enlace": "https://www.maray.cl/deportes/13/08/2026/conoce-la-programacion-de-la-fecha-19-de-la-liga-de-primera/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1395,8 +1395,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Xavi Hernández toma el mando de Países Bajos con un desafío de largo plazo",
-    "enlace": "https://www.maray.cl/deportes/12/08/2026/xavi-hernandez-toma-el-mando-de-paises-bajos-con-un-desafio-de-largo-plazo/",
+    "titulo": "Chile enviará 20 toneladas de ayuda humanitaria a Colombia tras terremoto",
+    "enlace": "https://www.maray.cl/pais/13/08/2026/chile-enviara-20-toneladas-de-ayuda-humanitaria-a-colombia-tras-terremoto/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1404,8 +1404,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "PSG vuelve a celebrar y conquista por segundo año consecutivo la Supercopa de Europa",
-    "enlace": "https://www.maray.cl/deportes/12/08/2026/psg-vuelve-a-celebrar-y-conquista-por-segundo-ano-consecutivo-la-supercopa-de-europa/",
+    "titulo": "Carabinero resulta herido a balazos durante control antidrogas en Antofagasta",
+    "enlace": "https://www.maray.cl/pais/13/08/2026/carabinero-resulta-herido-a-balazos-durante-control-antidrogas-en-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1413,8 +1413,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Junaeb prepara el fin de la TNE física y avanza hacia un formato digital",
-    "enlace": "https://www.maray.cl/pais/12/08/2026/junaeb-prepara-el-fin-de-la-tne-fisica-y-avanza-hacia-un-formato-digital/",
+    "titulo": "Frei pide un gran acuerdo político para enfrentar el crimen organizado",
+    "enlace": "https://www.maray.cl/pais/13/08/2026/frei-pide-un-gran-acuerdo-politico-para-enfrentar-el-crimen-organizado/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1422,8 +1422,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Senado aprueba los tres vetos del Gobierno y despacha la megarreforma",
-    "enlace": "https://www.maray.cl/pais/12/08/2026/senado-aprueba-los-tres-vetos-del-gobierno-y-despacha-la-megarreforma/",
+    "titulo": "Putin visita las islas Kuriles y reaviva una disputa histórica con Japón",
+    "enlace": "https://www.maray.cl/internacional/13/08/2026/putin-visita-las-islas-kuriles-y-reaviva-una-disputa-historica-con-japon/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1431,8 +1431,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Municipio de Copiapó llama a extremar precauciones ante aumento del caudal del Río Copiapó",
-    "enlace": "https://www.maray.cl/atacama/12/08/2026/municipio-de-copiapo-llama-a-extremar-precauciones-ante-aumento-del-caudal-del-rio-copiapo/",
+    "titulo": "Igor Lichnovsky vuelve a Universidad de Chile tras 13 años en el extranjero",
+    "enlace": "https://www.maray.cl/deportes/13/08/2026/igor-lichnovsky-vuelve-a-universidad-de-chile-tras-13-anos-en-el-extranjero/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1440,8 +1440,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "SENAPRED emite Alerta SAE para Copiapó: Piden evitar la ribera de la Quebrada de Paipote por riesgo de crecida",
-    "enlace": "https://www.maray.cl/atacama/12/08/2026/senapred-emite-alerta-sae-para-copiapo-piden-evitar-la-ribera-de-la-quebrada-de-paipote-por-riesgo-de-crecida/",
+    "titulo": "Informe de Monitoreo Regional: Senapred mantiene alertas vigentes y reporta nuevas interrupciones de conectividad en Atacama",
+    "enlace": "https://www.maray.cl/atacama/13/08/2026/senapred-mantiene-alertas-vigentes-y-reporta-nuevas-interrupciones-de-conectividad-en-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1449,8 +1449,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "SONAMI entrega equipos Starlink a asociaciones mineras",
-    "enlace": "https://www.maray.cl/atacama/12/08/2026/sonami-entrega-equipos-starlink-a-asociaciones-mineras/",
+    "titulo": "Kinross presentó ante APRIMIN proyecto Lobo-Marte",
+    "enlace": "https://www.maray.cl/atacama/13/08/2026/kinross-presento-ante-aprimin-proyecto-lobo-marte/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Pasar agosto: la explicación médica detrás del dicho más repetido del invierno",
-    "enlace": "https://g5noticias.cl/2026/08/13/pasar-agosto-la-explicacion-medica-detras-del-dicho-mas-repetido-del-invierno/",
+    "titulo": "Carretera de la fruta: obras de rehabilitación mejorarán más de 50 kilómetros de pavimento",
+    "enlace": "https://g5noticias.cl/2026/08/13/carretera-de-la-fruta-obras-de-rehabilitacion-mejoraran-mas-de-50-kilometros-de-pavimento/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ventas minoristas de regiones marcaron débiles resultados en junio",
-    "enlace": "https://g5noticias.cl/2026/08/13/ventas-minoristas-de-regiones-marcaron-debiles-resultados-en-junio/",
+    "titulo": "Juzgado de Garantía de Arica condena a autores de conspiración terrorista",
+    "enlace": "https://g5noticias.cl/2026/08/13/juzgado-de-garantia-de-arica-condena-a-autores-de-conspiracion-terrorista/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Antofagasta: Fiscal preferente dirige investigación por ataque armado a funcionario de Carabineros",
-    "enlace": "https://g5noticias.cl/2026/08/13/antofagasta-fiscal-preferente-dirige-investigacion-por-ataque-armado-a-funcionario-de-carabineros/",
+    "titulo": "Municipio abre licitación para mejorar infraestructura y seguridad de la playa del deporte de Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/08/13/municipio-abre-licitacion-para-mejorar-infraestructura-y-seguridad-de-la-playa-del-deporte-de-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado José Antonio Rivas llama a destrabar Comisión Mixta de Incendios tras fallida constitución por falta de quórum",
-    "enlace": "https://g5noticias.cl/2026/08/13/diputado-jose-antonio-rivas-llama-a-destrabar-comision-mixta-de-incendios-tras-fallida-constitucion-por-falta-de-quorum/",
+    "titulo": "PDI Tarapacá expulsa a 3 extranjeros esta semana, uno de ellos cometió graves delitos en Iquique",
+    "enlace": "https://g5noticias.cl/2026/08/13/pdi-tarapaca-expulsa-a-3-extranjeros-esta-semana-uno-de-ellos-cometio-graves-delitos-en-iquique/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Qué conocimiento tiene valor?. Por Juan Carlos Arellano , Historiador y cientista político, Profesor titular del departamento de Sociología y Ciencia Política, Universidad Católica de Temuco",
-    "enlace": "https://g5noticias.cl/2026/08/13/que-conocimiento-tiene-valor-por-juan-carlos-arellano-historiador-y-cientista-politico-profesor-titular-del-departamento-de-sociologia-y-ciencia-politica-universidad-catolica-de-temuco/",
+    "titulo": "Gazmuri exige que empresa Oregón responda por deuda con exguardias y pide resguardar patrimonio municipal hasta las últimas instancias",
+    "enlace": "https://g5noticias.cl/2026/08/13/gazmuri-exige-que-empresa-oregon-responda-por-deuda-con-exguardias-y-pide-resguardar-patrimonio-municipal-hasta-las-ultimas-instancias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Qué hay detrás de una donación? Una red que trabaja todo el año por la protección de la niñez",
-    "enlace": "https://g5noticias.cl/2026/08/13/que-hay-detras-de-una-donacion-una-red-que-trabaja-todo-el-ano-por-la-proteccion-de-la-ninez/",
+    "titulo": "Seguridad hídrica: mucho más que embalses o desaladoras. Por Juan Pablo Negroni, Líder de Aguas de WSP.",
+    "enlace": "https://g5noticias.cl/2026/08/13/seguridad-hidrica-mucho-mas-que-embalses-o-desaladoras-por-juan-pablo-negroni-lider-de-aguas-de-wsp-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Escuela Pablo Neruda transforma el hito de aprender a leer en una experiencia de identidad: sus estudiantes escribieron y leyeron su propia historia escolar",
-    "enlace": "https://g5noticias.cl/2026/08/13/escuela-pablo-neruda-transforma-el-hito-de-aprender-a-leer-en-una-experiencia-de-identidad-sus-estudiantes-escribieron-y-leyeron-su-propia-historia-escolar/",
+    "titulo": "Presidente Kast supervisa en terreno masivo traslado de reclusos hasta la cárcel de Talca: son 700 reos de los cuales 37 integran grupos de crimen organizado y 154 de alta peligrosidad",
+    "enlace": "https://g5noticias.cl/2026/08/13/presidente-kast-supervisa-en-terreno-masivo-traslado-de-reclusos-hasta-la-carcel-de-talca-son-700-reos-de-los-cuales-37-integran-grupos-de-crimen-organizado-y-154-de-alta-peligrosidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Investigadores chilenos desarrollan innovador sistema biológico para extender la vida útil de la frutilla",
-    "enlace": "https://g5noticias.cl/2026/08/13/investigadores-chilenos-desarrollan-innovador-sistema-biologico-para-extender-la-vida-util-de-la-frutilla-2/",
+    "titulo": "Empresas cambian el foco de la inteligencia artificial: ya no basta con saber qué recomienda un algoritmo",
+    "enlace": "https://g5noticias.cl/2026/08/13/empresas-cambian-el-foco-de-la-inteligencia-artificial-ya-no-basta-con-saber-que-recomienda-un-algoritmo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "BYD Changzhou terminó descarga de 1.918 vehículos y zarpa hoy jueves desde DP World en San Antonio",
-    "enlace": "https://g5noticias.cl/2026/08/13/byd-changzhou-termino-descarga-de-1-918-vehiculos-y-zarpa-hoy-jueves-desde-dp-world-en-san-antonio/",
+    "titulo": "¿Duermes mal y no sabes por qué? Estos son los 5 errores cotidianos que podrían estar arruinando tu sueño",
+    "enlace": "https://g5noticias.cl/2026/08/13/duermes-mal-y-no-sabes-por-que-estos-son-los-5-errores-cotidianos-que-podrian-estar-arruinando-tu-sueno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los Andes analizará el futuro del principal corredor logístico terrestre entre Chile y Argentina",
-    "enlace": "https://g5noticias.cl/2026/08/13/los-andes-analizara-el-futuro-del-principal-corredor-logistico-terrestre-entre-chile-y-argentina/",
+    "titulo": "Programa PAR Explora cumple 31 años llevando la ciencia y la innovación a las aulas de la Región de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/08/13/programa-par-explora-cumple-31-anos-llevando-la-ciencia-y-la-innovacion-a-las-aulas-de-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
