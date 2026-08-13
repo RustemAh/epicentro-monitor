@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Ministerio de Agricultura inicia entrega de alimentación caprina para contribuir a la recuperación de productores afectados en Región de Coquimbo",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/13/ministerio-de-agricultura-inicia-entrega-de-alimentacion-caprina-para-contribuir-a-la-recuperacion-de-productores-afectados-en-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Gobierno gestiona apoyo aéreo de Carabineros para relevar a personal aislado en embalse La Laguna",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/13/gobierno-gestiona-apoyo-aereo-de-carabineros-para-relevar-a-personal-aislado-en-embalse-la-laguna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "“Mi Primera Cédula”: Registro Civil acerca identidad y educación cívica a niños y niñas",
     "enlace": "https://regiondecoquimbo.cl/2026/08/13/mi-primera-cedula-registro-civil-acerca-identidad-y-educacion-civica-a-ninos-y-ninas/",
     "descripcion": "",
@@ -425,24 +443,6 @@
   {
     "titulo": "Subtel revela resultados de fiscalizaciones y confirma descuentos de hasta 100% en comunas afectadas por el temporal",
     "enlace": "https://regiondecoquimbo.cl/2026/08/12/subtel-revela-resultados-de-fiscalizaciones-y-confirma-descuentos-de-hasta-100-en-comunas-afectadas-por-el-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Sector público, privado y sociedad civil sellan compromiso para ampliar oportunidades de reinserción juvenil en Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/11/sector-publico-privado-y-sociedad-civil-sellan-compromiso-para-ampliar-oportunidades-de-reinsercion-juvenil-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "9,5% de los adolescentes de la región declara consumir actualmente cigarrillos electrónicos",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/11/95-de-los-adolescentes-de-la-region-declara-consumir-actualmente-cigarrillos-electronicos/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "¿Estilo Bukele? Así es la megacárcel de Talca que hoy recibe a más de 600 internos peligrosos",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/13/estilo-bukele-asi-es-la-megacarcel-de-talca-que-hoy-recibe-a-mas-de-600-internos-peligrosos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Liceo José Antonio Carvajal de Copiapó recibirá moderna sala tecnológica tras ser seleccionado por la CChC",
     "enlace": "https://www.atacamanoticias.cl/2026/08/13/liceo-jose-antonio-carvajal-de-copiapo-recibira-moderna-sala-tecnologica-tras-ser-seleccionado-por-la-cchc/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "MOP responde a alcalde de Tierra Amarilla por fiscalización en el río Copiapó",
     "enlace": "https://www.atacamanoticias.cl/2026/08/13/mop-responde-a-alcalde-de-tierra-amarilla-por-fiscalizacion-en-el-rio-copiapo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Delegada Presidencial de Quillota es denunciada por maltrato laboral: serían al menos tres casos",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/13/delegada-presidencial-de-quillota-es-denunciada-por-maltrato-laboral-serian-al-menos-tres-casos/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,6 +1638,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Gobierno finaliza primer desalojo emblemático de su gestión y concretará entrega de terreno recuperado a su propietario en San Antonio",
+    "enlace": "https://g5noticias.cl/2026/08/13/gobierno-finaliza-primer-desalojo-emblematico-de-su-gestion-y-concretara-entrega-de-terreno-recuperado-a-su-propietario-en-san-antonio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Serviu O’Higgins fiscaliza correcto uso de viviendas sociales en conjunto habitacional Las Rosas de Peralillo",
+    "enlace": "https://g5noticias.cl/2026/08/13/serviu-ohiggins-fiscaliza-correcto-uso-de-viviendas-sociales-en-conjunto-habitacional-las-rosas-de-peralillo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "19 vecinas de Quintero reciben certificación en Masajes Integrales para fortalecer sus oportunidades laborales",
+    "enlace": "https://g5noticias.cl/2026/08/13/19-vecinas-de-quintero-reciben-certificacion-en-masajes-integrales-para-fortalecer-sus-oportunidades-laborales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seremi de Salud aborda riesgos del tabaco y vapeadores con estudiantes de carreras de Salud de la Universidad Santo Tomás",
+    "enlace": "https://g5noticias.cl/2026/08/13/seremi-de-salud-aborda-riesgos-del-tabaco-y-vapeadores-con-estudiantes-de-carreras-de-salud-de-la-universidad-santo-tomas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cartagena aprende y emprende: 19 emprendedores reciben certificación tras taller de administración",
+    "enlace": "https://g5noticias.cl/2026/08/13/cartagena-aprende-y-emprende-19-emprendedores-reciben-certificacion-tras-taller-de-administracion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con bandejas en alto y a toda velocidad: Concón coronó a su nuevo rey y reina de la 21° Carrera de Garzones 2026",
+    "enlace": "https://g5noticias.cl/2026/08/13/con-bandejas-en-alto-y-a-toda-velocidad-concon-corono-a-su-nuevo-rey-y-reina-de-la-21-carrera-de-garzones-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Diputado Cuello por participación de Chile en «Escudo de las Américas»: «Estamos a un paso de actuar como un protectorado de Estados Unidos»",
     "enlace": "https://g5noticias.cl/2026/08/13/diputado-cuello-por-participacion-de-chile-en-escudo-de-las-americas-estamos-a-un-paso-de-actuar-como-un-protectorado-de-estados-unidos/",
     "descripcion": "",
@@ -1667,60 +1721,6 @@
   {
     "titulo": "Carabineros de Liucura brindan apoyo y compañía a camioneros en paso fronterizo",
     "enlace": "https://g5noticias.cl/2026/08/13/carabineros-de-liucura-brindan-apoyo-y-compania-a-camioneros-en-paso-fronterizo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tras la ruta del dinero: Diputada Tamara Ramírez pide al Ministerio de Seguridad aclarar si el Tren de Aragua, el Clan Bang y Los Valencianos operan en Chile",
-    "enlace": "https://g5noticias.cl/2026/08/13/tras-la-ruta-del-dinero-diputada-tamara-ramirez-pide-al-ministerio-de-seguridad-aclarar-si-el-tren-de-aragua-el-clan-bang-y-los-valencianos-operan-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Crecer junto a la comunidad: la confianza se construye con excelencia clínica. Por Víctor Valle Rohde. Gerente General Clínica Ciudad del Mar",
-    "enlace": "https://g5noticias.cl/2026/08/13/crecer-junto-a-la-comunidad-la-confianza-se-construye-con-excelencia-clinica-por-victor-valle-rohde-gerente-general-clinica-ciudad-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Plan Minería en Marcha dispone más de $1.700 millones para la recuperación de la pequeña minería afectada por los temporales en Atacama y Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/08/13/plan-mineria-en-marcha-dispone-mas-de-1-700-millones-para-la-recuperacion-de-la-pequena-mineria-afectada-por-los-temporales-en-atacama-y-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Biministro Daniel Mas destaca nuevas medidas del gobierno en modernización regulatoria y exploración minera para incrementar producción de cobre",
-    "enlace": "https://g5noticias.cl/2026/08/13/biministro-daniel-mas-destaca-nuevas-medidas-del-gobierno-en-modernizacion-regulatoria-y-exploracion-minera-para-incrementar-produccion-de-cobre/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación presenta su Cuenta Pública Participativa 2026 en Punta Arenas",
-    "enlace": "https://g5noticias.cl/2026/08/13/ministerio-de-ciencia-tecnologia-conocimiento-e-innovacion-presenta-su-cuenta-publica-participativa-2026-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Una persona fallece en accidente de tránsito en San Antonio",
-    "enlace": "https://g5noticias.cl/2026/08/13/una-persona-fallece-en-accidente-de-transito-en-san-antonio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
