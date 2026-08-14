@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Plan Minería en Marcha dispone más de $1.700 millones para recuperación de la pequeña minería afectada por los temporales",
+    "enlace": "https://laserenaonline.cl/2026/08/14/plan-mineria-en-marcha-dispone-mas-de-1-700-millones-para-recuperacion-de-la-pequena-mineria-afectada-por-los-temporales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "¿Tienes un familiar con diagnóstico de Chagas? Hospital de Salamanca realizará operativo para facilitar su detección",
     "enlace": "https://laserenaonline.cl/2026/08/14/tienes-un-familiar-con-diagnostico-de-chagas-hospital-de-salamanca-realizara-operativo-para-facilitar-su-deteccion/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "En menos de 24 horas: Carabineros recupera dos vehículos robados y detiene a tres personas tras diligencias investigativas en terreno",
     "enlace": "https://laserenaonline.cl/2026/08/14/en-menos-de-24-horas-carabineros-recupera-dos-vehiculos-robados-y-detiene-a-tres-personas-tras-diligencias-investigativas-en-terreno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Sorprenden a sujetos que asaltaron a estudiante en Plaza de Armas de La Serena",
-    "enlace": "https://laserenaonline.cl/2026/08/14/sorprenden-a-sujetos-que-asaltaron-a-estudiante-en-plaza-de-armas-de-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "SALUD y JUNJI refuerzan medidas de higiene en salas cunas y jardines infantiles para prevenir enfermedades",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/14/salud-y-junji-refuerzan-medidas-de-higiene-en-salas-cunas-y-jardines-infantiles-para-prevenir-enfermedades/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Subsecretario Julio Montt visita hospital modular del Ejército en Ovalle y comprueba continuidad quirúrgica en la zona",
     "enlace": "https://regiondecoquimbo.cl/2026/08/14/subsecretario-julio-montt-visita-hospital-modular-del-ejercito-en-ovalle-y-comprueba-continuidad-quirurgica-en-la-zona/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Fondos Cultura 2027 abren sus convocatorias con nuevas líneas para fortalecer el patrimonio, las culturas tradicionales y el turismo cultural",
     "enlace": "https://regiondecoquimbo.cl/2026/08/12/fondos-cultura-2027-abren-sus-convocatorias-con-nuevas-lineas-para-fortalecer-el-patrimonio-las-culturas-tradicionales-y-el-turismo-cultural/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Autoridades se anticipan a temporada de deshielos ante importante acumulación de nieve en la cordillera del Elqui",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/12/autoridades-se-anticipan-a-temporada-de-deshielos-ante-importante-acumulacion-de-nieve-en-la-cordillera-del-elqui/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -918,6 +918,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
+    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
+    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
+    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
+    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
+    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Alcalde Christian Gross por Infiernillos: “Hacemos un llamado a que las instituciones puedan estar presentes acá”",
+    "enlace": "https://losviloschile.cl/actualidad/alcalde-christian-gross-por-infiernillos-hacemos-un-llamado-a-que-las-instituciones-puedan-estar-presentes-aca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos licita instalación de 12 nuevas cámaras de seguridad por cerca de $150 millones",
+    "enlace": "https://losviloschile.cl/policial/los-vilos-licita-instalacion-de-12-nuevas-camaras-de-seguridad-por-cerca-de-150-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos refuerza medidas preventivas ante sistema frontal que dejaría más de 170 milímetros",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-refuerza-medidas-preventivas-ante-sistema-frontal-que-dejaria-mas-de-170-milimetros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "SLEP Puerto Cordillera entrega detalles por accidente de bus en Andacollo: “Alumnos fueron evaluados en hospital  y bus tenía autorización”",
     "enlace": "https://www.elandacollino.cl/2026/08/14/slep-puerto-cordillera-entrega-detalles-por-accidente-de-bus-en-andacollo-alumnos-fueron-evaluados-en-hospital-y-bus-tenia-autorizacion/",
     "descripcion": "",
@@ -1188,6 +1278,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "NOAA eleva la alerta por El Niño y proyecta un posible evento histórico",
+    "enlace": "https://www.maray.cl/pais/14/08/2026/noaa-eleva-la-alerta-por-el-nino-y-proyecta-un-posible-evento-historico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Exportaciones nacionales superan US$70.000 millones en siete meses y anotan alza del 15%",
     "enlace": "https://www.maray.cl/pais/14/08/2026/exportaciones-nacionales-superan-us70-000-millones-en-siete-meses-y-anotan-alza-del-15/",
     "descripcion": "",
@@ -1262,15 +1361,6 @@
   {
     "titulo": "INDAP dispuso $250 millones para obras de riego ante la emergencia agrícola en Atacama.",
     "enlace": "https://www.maray.cl/atacama/14/08/2026/indap-dispuso-250-millones-para-obras-de-riego-ante-la-emergencia-agricola-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Racing Club homenajea a Marcelo Díaz y recuerda su gol histórico ante Independiente",
-    "enlace": "https://www.maray.cl/deportes/14/08/2026/racing-club-homenajea-a-marcelo-diaz-y-recuerda-su-gol-historico-ante-independiente/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
