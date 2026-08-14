@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Ministerio de Agricultura inicia entrega de alimentación caprina para contribuir a la recuperación de productores afectados en Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/08/14/ministerio-de-agricultura-inicia-entrega-de-alimentacion-caprina-para-contribuir-a-la-recuperacion-de-productores-afectados-en-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Plan Minería en Marcha dispone más de $1.700 millones para recuperación de la pequeña minería afectada por los temporales",
     "enlace": "https://laserenaonline.cl/2026/08/14/plan-mineria-en-marcha-dispone-mas-de-1-700-millones-para-recuperacion-de-la-pequena-mineria-afectada-por-los-temporales/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Alerta meteorológica por precipitaciones y posible tormenta eléctrica",
     "enlace": "https://laserenaonline.cl/2026/08/14/alerta-meteorologica-por-precipitaciones-y-posible-tormenta-electrica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "En menos de 24 horas: Carabineros recupera dos vehículos robados y detiene a tres personas tras diligencias investigativas en terreno",
-    "enlace": "https://laserenaonline.cl/2026/08/14/en-menos-de-24-horas-carabineros-recupera-dos-vehiculos-robados-y-detiene-a-tres-personas-tras-diligencias-investigativas-en-terreno/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Por quinta vez: millonario robo y destrozos dejan desconocidos en centro kinesiológico",
+    "enlace": "https://ovallehoy.cl/por-quinta-vez-millonario-robo-y-destrozos-dejan-desconocidos-en-centro-kinesiologico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Impulsan la conformación de una red regional por la equidad de género en el trabajo",
     "enlace": "https://ovallehoy.cl/impulsan-la-conformacion-de-una-red-regional-por-la-equidad-de-genero-en-el-trabajo/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Abren inscripciones para integrar talleres gratuitos de inglés",
     "enlace": "https://ovallehoy.cl/abren-inscripciones-para-integrar-talleres-gratuitos-de-ingles/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del jueves 13 de agosto",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-jueves-13-de-agosto/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -808,24 +808,6 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Nuevas lluvias llegan al Choapa: revisa con Veetv el pronóstico",
-    "enlace": "https://veetv.cl/nuevas-lluvias-choapa-pronostico-ceaza/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "Detienen a mujer por tráfico de drogas en Illapel: incautan 1,5 kilos de cocaína base",
-    "enlace": "https://veetv.cl/trafico-drogas-illapel-mujer-detenida/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Minera Tres Valles asegura normalidad de sus operaciones tras temporal en Salamanca",
@@ -1278,6 +1260,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "SENAPRED mantiene Alerta Amarilla en Atacama ante nuevas lluvias y fuertes vientos",
+    "enlace": "https://www.maray.cl/atacama/14/08/2026/senapred-mantiene-alerta-amarilla-en-atacama-ante-nuevas-lluvias-y-fuertes-vientos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "NOAA eleva la alerta por El Niño y proyecta un posible evento histórico",
     "enlace": "https://www.maray.cl/pais/14/08/2026/noaa-eleva-la-alerta-por-el-nino-y-proyecta-un-posible-evento-historico/",
     "descripcion": "",
@@ -1352,15 +1343,6 @@
   {
     "titulo": "Fonasa activa atención gratuita para damnificados por sistema frontal en Atacama y Coquimbo",
     "enlace": "https://www.maray.cl/podcast-de-noticias/14/08/2026/fonasa-activa-atencion-gratuita-para-damnificados-por-sistema-frontal-en-atacama-y-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "INDAP dispuso $250 millones para obras de riego ante la emergencia agrícola en Atacama.",
-    "enlace": "https://www.maray.cl/atacama/14/08/2026/indap-dispuso-250-millones-para-obras-de-riego-ante-la-emergencia-agricola-en-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
