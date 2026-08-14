@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "¿Tienes un familiar con diagnóstico de Chagas? Hospital de Salamanca realizará operativo para facilitar su detección",
+    "enlace": "https://laserenaonline.cl/2026/08/14/tienes-un-familiar-con-diagnostico-de-chagas-hospital-de-salamanca-realizara-operativo-para-facilitar-su-deteccion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "CORE aprueba suplemento para la compra de cuatro minibuses para la atención de salud de la población rural de La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/14/core-aprueba-suplemento-para-la-compra-de-cuatro-minibuses-para-la-atencion-de-salud-de-la-poblacion-rural-de-la-serena/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Sorprenden a sujetos que asaltaron a estudiante en Plaza de Armas de La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/14/sorprenden-a-sujetos-que-asaltaron-a-estudiante-en-plaza-de-armas-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Seguridad ciudadana reetuvo a sujeto que robó desde restaurante en Avenida del Mar",
-    "enlace": "https://laserenaonline.cl/2026/08/14/seguridad-ciudadana-reetuvo-a-sujeto-que-robo-desde-restaurante-en-avenida-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Subsecretario Julio Montt visita hospital modular del Ejército en Ovalle y comprueba continuidad quirúrgica en la zona",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/14/subsecretario-julio-montt-visita-hospital-modular-del-ejercito-en-ovalle-y-comprueba-continuidad-quirurgica-en-la-zona/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Bono de Recuperación: Más de 13 mil hogares de la región recibirán cerca de $10 mil millones por afectaciones del sistema frontal",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/14/bono-de-recuperacion-mas-de-13-mil-hogares-de-la-region-recibiran-cerca-de-10-mil-millones-por-afectaciones-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Alianza público-privada refuerza apoyo a familias ganaderas afectadas por el temporal",
     "enlace": "https://regiondecoquimbo.cl/2026/08/14/alianza-publico-privada-refuerza-apoyo-a-familias-ganaderas-afectadas-por-el-temporal/",
     "descripcion": "",
@@ -425,24 +443,6 @@
   {
     "titulo": "Autoridades se anticipan a temporada de deshielos ante importante acumulación de nieve en la cordillera del Elqui",
     "enlace": "https://regiondecoquimbo.cl/2026/08/12/autoridades-se-anticipan-a-temporada-de-deshielos-ante-importante-acumulacion-de-nieve-en-la-cordillera-del-elqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno junto a Hogar de Cristo refuerzan apoyo a personas en situación de calle ante pronóstico de precipitaciones",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/12/gobierno-junto-a-hogar-de-cristo-refuerzan-apoyo-a-personas-en-situacion-de-calle-ante-pronostico-de-precipitaciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno fortalece la implementación del Sistema Nacional de Apoyos y Cuidados",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/12/gobierno-fortalece-la-implementacion-del-sistema-nacional-de-apoyos-y-cuidados/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -810,6 +810,24 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Nuevas lluvias llegan al Choapa: revisa con Veetv el pronóstico",
+    "enlace": "https://veetv.cl/nuevas-lluvias-choapa-pronostico-ceaza/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Detienen a mujer por tráfico de drogas en Illapel: incautan 1,5 kilos de cocaína base",
+    "enlace": "https://veetv.cl/trafico-drogas-illapel-mujer-detenida/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
     "titulo": "Minera Tres Valles asegura normalidad de sus operaciones tras temporal en Salamanca",
     "enlace": "https://www.elsalamanquino.cl/2026/08/13/minera-tres-valles-asegura-normalidad-de-sus-operaciones-tras-temporal-en-salamanca/",
     "descripcion": "",
@@ -1080,6 +1098,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Presidente Kast designa a Francisco Riveros como nuevo ministro de Deportes",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/14/presidente-kast-designa-a-francisco-riveros-como-nuevo-ministro-de-deportes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Inconsistencias e “información proporcionada por seremi MOP”: Qué hay tras la fiscalización de la DGA a Obras preventivas en río de Tierra Amarilla",
     "enlace": "https://www.atacamanoticias.cl/2026/08/14/inconsistencias-e-informacion-proporcionada-por-seremi-mop-que-hay-tras-la-fiscalizacion-de-la-dga-a-obras-preventivas-en-rio-de-tierra-amarilla/",
     "descripcion": "",
@@ -1161,12 +1188,30 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Camilo Huerta es investigado por tráfico de drogas: está de viaje en EEUU",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/13/camilo-huerta-es-investigado-por-trafico-de-drogas-esta-de-viaje-en-eeuu/",
+    "titulo": "Exportaciones nacionales superan US$70.000 millones en siete meses y anotan alza del 15%",
+    "enlace": "https://www.maray.cl/pais/14/08/2026/exportaciones-nacionales-superan-us70-000-millones-en-siete-meses-y-anotan-alza-del-15/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "EE.UU. envía el portaaviones George Washington a Medio Oriente tras problemas en el USS Abraham Lincoln",
+    "enlace": "https://www.maray.cl/internacional/14/08/2026/ee-uu-envia-el-portaaviones-george-washington-a-medio-oriente-tras-problemas-en-el-uss-abraham-lincoln/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Descubre la tecnología de inspección robotizada con que Nueva Atacama monitorea sus redes",
+    "enlace": "https://www.maray.cl/atacama/14/08/2026/descubre-la-tecnologia-de-inspeccion-robotizada-con-que-nueva-atacama-monitorea-sus-redes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
@@ -1215,44 +1260,17 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "INDAP dispuso $250 millones para obras de riego ante la emergencia agrícola en Atacama.",
+    "enlace": "https://www.maray.cl/atacama/14/08/2026/indap-dispuso-250-millones-para-obras-de-riego-ante-la-emergencia-agricola-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Racing Club homenajea a Marcelo Díaz y recuerda su gol histórico ante Independiente",
     "enlace": "https://www.maray.cl/deportes/14/08/2026/racing-club-homenajea-a-marcelo-diaz-y-recuerda-su-gol-historico-ante-independiente/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "EE.UU. acusa a China de usar a Chile para desviar mercancías y evitar aranceles",
-    "enlace": "https://www.maray.cl/internacional/14/08/2026/ee-uu-acusa-a-china-de-usar-a-chile-para-desviar-mercancias-y-evitar-aranceles/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cobre bate un nuevo récord y roza los US$6,6 la libra ante señales de escasez",
-    "enlace": "https://www.maray.cl/atacama/14/08/2026/cobre-bate-un-nuevo-record-y-roza-los-us66-la-libra-ante-senales-de-escasez/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Delegada Sofía Cid y seremi del MOP supervisan limpieza y recuperación de badenes de diversos sectores en el río Copiapó",
-    "enlace": "https://www.maray.cl/atacama/14/08/2026/delegada-sofia-cid-y-seremi-del-mop-supervisan-limpieza-y-recuperacion-de-badenes-de-diversos-sectores-en-el-rio-copiapo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Copiapó: Fiscalía obtuvo prisión preventiva de conductor que causó la muerte de tres personas",
-    "enlace": "https://www.maray.cl/atacama/14/08/2026/copiapo-fiscalia-obtuvo-prision-preventiva-de-conductor-a-causo-la-muerte-de-tres-personas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
