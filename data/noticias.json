@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Biministro Mas expone plan de recuperación productiva para Coquimbo tras emergencia climática",
+    "enlace": "https://laserenaonline.cl/2026/08/15/biministro-mas-expone-plan-de-recuperacion-productiva-para-coquimbo-tras-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Alianza público-privada refuerza apoyo a familias ganaderas afectadas por el temporal",
     "enlace": "https://laserenaonline.cl/2026/08/15/alianza-publico-privada-refuerza-apoyo-a-familias-ganaderas-afectadas-por-el-temporal/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Reporte del tiempo hoy 15 de agosto para la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/08/15/reporte-del-tiempo-hoy-15-de-agosto-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Un terremoto distinto a los de siempre: ¿Cómo resistirían los edificios frente a la Falla de San Ramón?",
-    "enlace": "https://laserenaonline.cl/2026/08/14/un-terremoto-distinto-a-los-de-siempre-como-resistirian-los-edificios-frente-a-la-falla-de-san-ramon/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "PDI recupera vehículo robado tras diligencias investigativas en Illapel",
+    "enlace": "https://www.elillapelino.cl/2026/08/15/pdi-recupera-vehiculo-robado-tras-diligencias-investigativas-en-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Comisión de Minería del Senado sesiona en terreno junto a pequeños mineros y pirquineros del Choapa",
     "enlace": "https://www.elillapelino.cl/2026/08/14/comision-de-mineria-del-senado-sesiona-en-terreno-junto-a-pequenos-mineros-y-pirquineros-del-choapa/",
     "descripcion": "",
@@ -891,17 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "PDI detiene a mujer por tráfico de drogas e incauta más de 1,5 kilos de cocaína base en Illapel",
-    "enlace": "https://www.elillapelino.cl/2026/08/08/pdi-detiene-a-mujer-por-trafico-de-drogas-e-incauta-mas-de-15-kilos-de-cocaina-base-en-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Auto robado en Illapel fue encontrado abandonado en Villa San Rafael",
-    "enlace": "https://veetv.cl/auto-robado-illapel-villa-san-rafael/",
+    "titulo": "Víctima de robo entrega nuevos antecedentes a Veetv: cámaras registraron la sustracción y logró encontrar su vehículo horas después",
+    "enlace": "https://veetv.cl/vehiculo-robado-illapel-nuevos-antecedentes/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Nuevas lluvias llegan al Choapa: revisa con Veetv el pronóstico",
-    "enlace": "https://veetv.cl/nuevas-lluvias-choapa-pronostico-ceaza/",
+    "titulo": "Auto robado en Illapel fue encontrado abandonado en Villa San Rafael",
+    "enlace": "https://veetv.cl/auto-robado-illapel-villa-san-rafael/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
