@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Municipalidad de Los Vilos presenta querella criminal ante robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
+    "enlace": "https://laserenaonline.cl/2026/08/16/municipalidad-de-los-vilos-presenta-querella-criminal-ante-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "¡Orgullo regional: Deportistas de La Serena conquistan medallas en torneo internacional de Kyokushin en México!",
+    "enlace": "https://laserenaonline.cl/2026/08/16/orgullo-regional-deportistas-de-la-serena-conquistan-medallas-en-torneo-internacional-de-kyokushin-en-mexico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Previo a un nuevo sistema frontal: Delincuentes roban nuevamente casi 4 kilómetros de cable de cobre en Ovalle",
     "enlace": "https://laserenaonline.cl/2026/08/16/previo-a-un-nuevo-sistema-frontal-delincuentes-roban-nuevamente-casi-4-kilometros-de-cable-de-cobre-en-ovalle/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Gobierno refuerza despliegue preventivo ante lluvias y fortalece protección para personas en situación de calle con disponibilidad de albergues",
     "enlace": "https://laserenaonline.cl/2026/08/15/gobierno-refuerza-despliegue-preventivo-ante-lluvias-y-fortalece-proteccion-para-personas-en-situacion-de-calle-con-disponibilidad-de-albergues/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Biministro Mas expone plan de recuperación productiva para Coquimbo tras emergencia climática",
-    "enlace": "https://laserenaonline.cl/2026/08/15/biministro-mas-expone-plan-de-recuperacion-productiva-para-coquimbo-tras-emergencia-climatica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Alianza público-privada refuerza apoyo a familias ganaderas afectadas por el temporal",
-    "enlace": "https://laserenaonline.cl/2026/08/15/alianza-publico-privada-refuerza-apoyo-a-familias-ganaderas-afectadas-por-el-temporal/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1368,8 +1368,44 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Fundador de OpenAI anticipa el próximo salto de ChatGPT: una IA que sabrá absolutamente todo sobre tu vida",
+    "enlace": "https://www.maray.cl/internacional/16/08/2026/fundador-de-openai-anticipa-el-proximo-salto-de-chatgpt-una-ia-que-sabra-absolutamente-todo-sobre-tu-vida/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Terremoto de magnitud 7,7 deja 53 muertos y miles de evacuados en Indonesia",
+    "enlace": "https://www.maray.cl/internacional/16/08/2026/terremoto-de-magnitud-77-deja-53-muertos-y-miles-de-evacuados-en-indonesia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "MOP suspende tránsito en principal vía entre regiones de Tarapacá y Antofagasta por sistema fontal",
+    "enlace": "https://www.maray.cl/pais/16/08/2026/mop-suspende-transito-en-principal-via-entre-regiones-de-tarapaca-y-antofagasta-por-sistema-fontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Senapred: Roberto Muñoz confirma nuevas precipitaciones por baja segregada y fuertes vientos en Atacama",
     "enlace": "https://www.maray.cl/atacama/16/08/2026/senapred-roberto-munoz-confirma-nuevas-precipitaciones-por-baja-segregada-y-fuertes-vientos-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Con diez jugadores y un golazo, Everton rescata un empate ante Audax",
+    "enlace": "https://www.maray.cl/deportes/16/08/2026/con-diez-jugadores-y-un-golazo-everton-rescata-un-empate-ante-audax/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1415,42 +1451,6 @@
   {
     "titulo": "Sismo de menor intensidad se percibe en Atacama",
     "enlace": "https://www.maray.cl/atacama/15/08/2026/sismo-de-menor-intensidad-se-percibe-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno remueve a delegado provincial de Chañaral por ocupación ilegal de terreno fiscal",
-    "enlace": "https://www.maray.cl/atacama/15/08/2026/gobierno-remueve-a-delegado-provincial-de-chanaral-por-ocupacion-ilegal-de-terreno-fiscal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Conmebol designa árbitros para los partidos de UC y Coquimbo Unido en la Libertadores",
-    "enlace": "https://www.maray.cl/deportes/15/08/2026/conmebol-designa-arbitros-para-los-partidos-de-uc-y-coquimbo-unido-en-la-libertadores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Destacan resultados de plan “Empecemos por Casa” ante sistema frontal y reportan más del 99% de Atacama con suministro eléctrico",
-    "enlace": "https://www.maray.cl/atacama/15/08/2026/destacan-resultados-de-plan-empecemos-por-casa-ante-sistema-frontal-y-reportan-mas-del-99-de-atacama-con-suministro-electrico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Disney confirma el regreso de Miguel en Coco 2 con una nueva etapa en su vida",
-    "enlace": "https://www.maray.cl/magazine/15/08/2026/disney-confirma-el-regreso-de-miguel-en-coco-2-con-una-nueva-etapa-en-su-vida/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
