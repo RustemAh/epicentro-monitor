@@ -270,6 +270,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Tongoy. AHORA. Hombre es agredido con un cuchillo por la espalda",
+    "enlace": "https://serenaycoquimbo.cl/tongoy-ahora-hombre-es-agredido-con-un-cuchillo-por-la-espalda/?utm_source=rss&utm_medium=rss&utm_campaign=tongoy-ahora-hombre-es-agredido-con-un-cuchillo-por-la-espalda",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Región Coquimbo. Meteorólogo pronostica hasta 40 mm de agua lluvia en algunos sectores este lunes. Habrá rachas de vientos de hasta 40 km/Hr.",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-meteorologo-pronostica-hasta-40-mm-de-agua-lluvia-en-algunos-sectores-este-lunes-habra-rachas-de-vientos-de-hasta-40-km-hr/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-meteorologo-pronostica-hasta-40-mm-de-agua-lluvia-en-algunos-sectores-este-lunes-habra-rachas-de-vientos-de-hasta-40-km-hr",
     "descripcion": "",
@@ -344,15 +353,6 @@
   {
     "titulo": "Región Coquimbo. Senapred actualiza “alerta amarilla”. Hubo activación de 6 quebradas por lluvias en 4 comunas",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-senapred-actualiza-alerta-amarilla-hubo-activacion-de-6-quebradas-por-lluvias-en-4-comunas/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-senapred-actualiza-alerta-amarilla-hubo-activacion-de-6-quebradas-por-lluvias-en-4-comunas",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. Esta tarde, 1 fallecido y 1 herido grave tras grave accidente vehicular",
-    "enlace": "https://serenaycoquimbo.cl/nacional-esta-tarde-1-fallecido-y-herido-grave-tras-accidente-vehicular/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-tarde-1-fallecido-y-herido-grave-tras-accidente-vehicular",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1008,6 +1008,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
+    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
+    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
+    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
+    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
+    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Alcalde Christian Gross por Infiernillos: “Hacemos un llamado a que las instituciones puedan estar presentes acá”",
+    "enlace": "https://losviloschile.cl/actualidad/alcalde-christian-gross-por-infiernillos-hacemos-un-llamado-a-que-las-instituciones-puedan-estar-presentes-aca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos licita instalación de 12 nuevas cámaras de seguridad por cerca de $150 millones",
+    "enlace": "https://losviloschile.cl/policial/los-vilos-licita-instalacion-de-12-nuevas-camaras-de-seguridad-por-cerca-de-150-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos refuerza medidas preventivas ante sistema frontal que dejaría más de 170 milímetros",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-refuerza-medidas-preventivas-ante-sistema-frontal-que-dejaria-mas-de-170-milimetros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Escuela Luis Cruz Martínez de Andacollo se integra a la Red de Escuelas Líderes con innovador proyecto educativo",
     "enlace": "https://www.elandacollino.cl/2026/08/16/escuela-luis-cruz-martinez-de-andacollo-se-integra-a-la-red-de-escuelas-lideres-con-innovador-proyecto-educativo/",
     "descripcion": "",
@@ -1548,6 +1638,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[OPINIÓN] Cuando el puerto y la CAMPORT piden más, las ciudades terminan pagando (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/08/16/opinion-cuando-el-puerto-y-la-camport-piden-mas-las-ciudades-terminan-pagando-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-cuando-el-puerto-y-la-camport-piden-mas-las-ciudades-terminan-pagando-jorge-bustos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Primer Juzgado Civil de Viña del Mar: Posesión efectiva ROL V-283-2025 «Larraín / Zelada»",
     "enlace": "https://diariolaquinta.cl/2026/08/16/notificacion-primer-juzgado-civil-de-vina-del-mar-posesion-efectiva-rol-v-283-2025-larrain-zelada-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-primer-juzgado-civil-de-vina-del-mar-posesion-efectiva-rol-v-283-2025-larrain-zelada-3",
     "descripcion": "",
@@ -1629,12 +1728,12 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Región de Valparaíso ya tiene representante en la final nacional de El Placer de Oír Leer",
-    "enlace": "https://diariolaquinta.cl/2026/08/13/la-region-de-valparaiso-ya-tiene-representante-en-la-final-nacional-de-el-placer-de-oir-leer/?utm_source=rss&utm_medium=rss&utm_campaign=la-region-de-valparaiso-ya-tiene-representante-en-la-final-nacional-de-el-placer-de-oir-leer",
+    "titulo": "EE.UU. logró el título mundial de vóleibol femenino U17 Chile 2026, con un rendimiento perfecto, tras derrotar en la final a Turquía",
+    "enlace": "https://g5noticias.cl/2026/08/16/ee-uu-logro-el-titulo-mundial-de-voleibol-femenino-u17-chile-2026-con-un-rendimiento-perfecto-tras-derrotar-en-la-final-a-turquia/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
@@ -1658,6 +1757,15 @@
   {
     "titulo": "Frente Amplio: lista «Unidad para Avanzar» encabezada por Gael Yeomans celebra el triunfo",
     "enlace": "https://g5noticias.cl/2026/08/16/frente-amplio-lista-unidad-para-avanzar-encabezada-por-gael-yeomans-celebra-el-triunfo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Colo Colo empató con O’Higgins mientras los hinchas se preguntan si Vozinha debutará en el arco para el supérclásico contra la Universidad de Chile",
+    "enlace": "https://g5noticias.cl/2026/08/16/colo-colo-empato-con-ohiggins-mientras-los-hinchas-se-preguntan-si-vozinha-debutara-en-el-arco-para-el-superclasico-contra-la-universidad-de-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1703,24 +1811,6 @@
   {
     "titulo": "Ñublense derrotó a Unión La Calera y mantiene a los cementeros en el fondo de la tabla de la Liga de Primera",
     "enlace": "https://g5noticias.cl/2026/08/16/nublense-derroto-a-union-la-calera-y-mantiene-a-los-cementeros-en-el-fondo-de-la-tabla-de-la-liga-de-primera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputada Gazmuri sobre la regulación del uso medicinal de cannabis: ”Tanto el THC como el CBD están registrados en Chile como principios activos con usos terapéuticos, y los médicos los prescriben según necesidad de cada paciente”",
-    "enlace": "https://g5noticias.cl/2026/08/16/diputada-gazmuri-sobre-la-regulacion-del-uso-medicinal-de-cannabis-tanto-el-thc-como-el-cbd-estan-registrados-en-chile-como-principios-activos-con-usos-terapeuticos-y-los-medicos-los-prescr/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputados RN presentan proyecto que impediría a abogados defensores de imputados por asociación criminal ingresar a organismos públicos",
-    "enlace": "https://g5noticias.cl/2026/08/16/diputados-rn-presentan-proyecto-que-impediria-a-abogados-defensores-de-imputados-por-asociacion-criminal-ingresar-a-organismos-publicos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
