@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Este fin de semana artistas nacionales y regionales participarán de show solidario en Coquimbo para los afectados por las lluvias",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/17/este-fin-de-semana-artistas-nacionales-y-regionales-participaran-de-show-solidario-en-coquimbo-para-los-afectados-por-las-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Carabineros recupera vehículo robado y detiene a dos personas por receptación en Tierras Blancas",
     "enlace": "https://www.elcoquimbano.cl/2026/08/14/carabineros-recupera-vehiculo-robado-y-detiene-a-dos-personas-por-receptacion-en-tierras-blancas/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Hinchas de Coquimbo Unido este miércoles podrán vivir en pantalla gigante el histórico duelo ante Platense",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/11/hinchas-de-coquimbo-unido-este-miercoles-podran-vivir-en-pantalla-gigante-el-historico-duelo-ante-platense/",
+    "titulo": "El drama de una madre: su hija fue agredida en la micro y el Liceo Gabriela Mistral no la protegió",
+    "enlace": "https://www.elserenense.cl/educacion/2026/08/17/el-drama-de-una-madre-su-hija-fue-agredida-en-la-micro-y-el-liceo-gabriela-mistral-no-la-protegio/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Carabineros detiene a sujeto con cuatro órdenes vigentes: estaba prófugo desde 2025",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "OSULS celebrará su 33° aniversario con conciertos gratuitos y el debut de Tatiana Pérez Hernández",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/08/13/osuls-celebrara-su-33-aniversario-con-conciertos-gratuitos-y-el-debut-de-tatiana-perez-hernandez/",
+    "titulo": "Junta de Vigilencia del Río Choapa y la CNR siguen catastrando canales dañada por el temporal",
+    "enlace": "https://laserenaonline.cl/2026/08/17/junta-de-vigilencia-del-rio-choapa-y-la-cnr-siguen-catastrando-canales-danada-por-el-temporal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Programa PAR Explora cumple 31 años llevando la ciencia y la innovación a las aulas de la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/08/16/programa-par-explora-cumple-31-anos-llevando-la-ciencia-y-la-innovacion-a-las-aulas-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos formaliza comodato por 10 años con el Club Deportivo y Social Pingüinos",
-    "enlace": "https://laserenaonline.cl/2026/08/16/municipalidad-de-los-vilos-formaliza-comodato-por-10-anos-con-el-club-deportivo-y-social-pinguinos/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Productores caprinos y apícolas de Monte Patria reciben apoyo para enfrentar las consecuencias del sistema frontal",
+    "enlace": "https://ovallehoy.cl/productores-caprinos-y-apicolas-de-monte-patria-reciben-apoyo-para-enfrentar-las-consecuencias-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "CESFAM El Palqui lanzó programa que busca promover hábitos de vida saludable y cuidado de la salud mental",
     "enlace": "https://ovallehoy.cl/cesfam-el-palqui-lanzo-programa-que-busca-promover-habitos-de-vida-saludable-y-cuidado-de-la-salud-mental/",
     "descripcion": "",
@@ -470,6 +479,15 @@
   {
     "titulo": "Deportes Ovalle gana de visita y trepa en la tabla de posiciones",
     "enlace": "https://ovallehoy.cl/deportes-ovalle-gana-de-visita-y-trepa-en-la-tabla-de-posiciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "OpiniónHOY: Los cables sobre la ciudad, los riesgos que generan y por qué cuesta tanto retirarlos",
+    "enlace": "https://ovallehoy.cl/opinionhoy-los-cables-sobre-la-ciudad-los-riesgos-que-generan-y-por-que-cuesta-tanto-retirarlos/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -515,24 +533,6 @@
   {
     "titulo": "Mantienen Alerta Amarilla en la Región de Coquimbo por nuevo sistema frontal",
     "enlace": "https://ovallehoy.cl/mantienen-alerta-amarilla-en-la-region-de-coquimbo-por-nuevo-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del viernes 14 de agosto",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-viernes-14-de-agosto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Detienen a menor de 15 años armado con escopeta hechiza en Ovalle",
-    "enlace": "https://ovallehoy.cl/detienen-a-menor-de-15-anos-armado-con-escopeta-hechiza-en-ovalle/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "INDH presenta querella por presunta agresión de Gendarmería contra adolescente en centro de internación juvenil de Copiapó",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/17/indh-presenta-querella-por-presunta-agresion-de-gendarmeria-contra-adolescente-en-centro-de-internacion-juvenil-de-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "¡Explosión, cables y más de 30 mil reproducciones! El llamativo video del alcalde Maglio Cicardini para promocionar el Programa Cables Cero",
     "enlace": "https://www.atacamanoticias.cl/2026/08/16/explosion-cables-y-mas-de-30-mil-reproducciones-el-llamativo-video-del-alcalde-maglio-cicardini-para-promocionar-el-programa-cables-cero/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "EEUU dirige al portaaviones George Washington hacia Medio Oriente, ante caos en el USS Abraham Lincoln",
     "enlace": "https://www.atacamanoticias.cl/2026/08/14/eeuu-dirige-al-portaaviones-george-washington-hacia-medio-oriente-ante-caos-en-el-uss-abraham-lincoln/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Presidente Kast designa a Francisco Riveros como nuevo ministro de Deportes",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/14/presidente-kast-designa-a-francisco-riveros-como-nuevo-ministro-de-deportes/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Lluvias vuelven a Atacama y generan complicaciones en distintos sectores: Huasco llueve intensamente",
+    "enlace": "https://www.maray.cl/atacama/17/08/2026/lluvias-vuelven-a-atacama-y-generan-complicaciones-en-distintos-sectores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Cobre inicia la semana marcando un nuevo récord y refuerza su peso en la economía nacional",
+    "enlace": "https://www.maray.cl/atacama/17/08/2026/cobre-inicia-la-semana-marcando-un-nuevo-record-y-refuerza-su-peso-en-la-economia-nacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Las Diablas vuelven a caer y complican su avance en el Mundial",
+    "enlace": "https://www.maray.cl/deportes/17/08/2026/las-diablas-vuelven-a-caer-y-complican-su-avance-en-el-mundial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Intensas lluvias provocan aluviones y cortes de rutas en Tarapacá",
     "enlace": "https://www.maray.cl/pais/17/08/2026/intensas-lluvias-provocan-aluviones-y-cortes-de-rutas-en-tarapaca/",
     "descripcion": "",
@@ -1424,33 +1451,6 @@
   {
     "titulo": "Falleció Marcia Farah Said conocida farmacéutica copiapina .",
     "enlace": "https://www.maray.cl/atacama/16/08/2026/fallecio-marcia-farah-said-conocida-farmaceutica-copiapina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Colo Colo deja escapar el triunfo ante O’Higgins y llega con dudas al Superclásico",
-    "enlace": "https://www.maray.cl/deportes/16/08/2026/colo-colo-deja-escapar-el-triunfo-ante-ohiggins-y-llega-con-dudas-al-superclasico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Ñublense se acerca los primeros lugares del torneo y deja a Unión La Calera en una situación límite",
-    "enlace": "https://www.maray.cl/deportes/16/08/2026/nublense-se-acerca-los-primeros-lugares-del-torneo-y-deja-a-union-la-calera-en-una-situacion-limite/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cobresal cae ante Deportes Concepción y sigue en zona de descenso",
-    "enlace": "https://www.maray.cl/atacama/16/08/2026/cobresal-cae-ante-deportes-concepcion-y-sigue-en-zona-de-descenso/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,71 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Municipio invita al comercio gastronómico porteño a participar en el concurso “La Mejor Empanada de Valparaíso 2026”",
+    "enlace": "https://g5noticias.cl/2026/08/17/municipio-invita-al-comercio-gastronomico-porteno-a-participar-en-el-concurso-la-mejor-empanada-de-valparaiso-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Selección Chilena de hockey césped cayó en su segundo partido del Mundial ante Japón",
+    "enlace": "https://g5noticias.cl/2026/08/17/seleccion-chilena-de-hockey-cesped-cayo-en-su-segundo-partido-del-mundial-ante-japon/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Camilo Huerta volvió a Chile y fue detenido por su presunta participación en red de tráfico de drogas",
+    "enlace": "https://g5noticias.cl/2026/08/17/camilo-huerta-volvio-a-chile-y-fue-detenido-por-su-presunta-participacion-en-red-de-trafico-de-drogas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seremi Alejandra Avendaño revisa antecedentes de importante proyecto Híbrido para la Región de O’Higgins",
+    "enlace": "https://g5noticias.cl/2026/08/17/seremi-alejandra-avendano-revisa-antecedentes-de-importante-proyecto-hibrido-para-la-region-de-ohiggins/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Premios Regionales 2026: abierta la convocatoria para reconocer a artistas, cultores y agrupaciones de la RM",
+    "enlace": "https://g5noticias.cl/2026/08/17/premios-regionales-2026-abierta-la-convocatoria-para-reconocer-a-artistas-cultores-y-agrupaciones-de-la-rm/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Estudiantes conocieron sobre mitos y leyendas chilenas junto al escritor Francisco Ortega",
+    "enlace": "https://g5noticias.cl/2026/08/17/estudiantes-conocieron-sobre-mitos-y-leyendas-chilenas-junto-al-escritor-francisco-ortega/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Proyecto de Comunicación Digital Tren-Tierra avanza con la construcción de nueva estación repetidora",
     "enlace": "https://g5noticias.cl/2026/08/17/proyecto-de-comunicacion-digital-tren-tierra-avanza-con-la-construccion-de-nueva-estacion-repetidora/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cuarto TOP de Santiago condena a autor de robo, porte de arma adaptada y porte de municiones",
+    "enlace": "https://g5noticias.cl/2026/08/17/cuarto-top-de-santiago-condena-a-autor-de-robo-porte-de-arma-adaptada-y-porte-de-municiones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1658,69 +1721,6 @@
   {
     "titulo": "Orquesta Marga Marga se presenta en el Centro Cultural de La Calera",
     "enlace": "https://g5noticias.cl/2026/08/17/orquesta-marga-marga-se-presenta-en-el-centro-cultural-de-la-calera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Promesas Chile realizará captación de talentos en Taekwondo",
-    "enlace": "https://g5noticias.cl/2026/08/17/promesas-chile-realizara-captacion-de-talentos-en-taekwondo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Lasavia llevará su rock de raíz folk y progresivo a Argentina con una gira por Buenos Aires",
-    "enlace": "https://g5noticias.cl/2026/08/17/lasavia-llevara-su-rock-de-raiz-folk-y-progresivo-a-argentina-con-una-gira-por-buenos-aires/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Puede la IA acelerar la sostenibilidad en Chile?. Por Diego Clavería, Head of Digital Industries Siemens Chile",
-    "enlace": "https://g5noticias.cl/2026/08/17/puede-la-ia-acelerar-la-sostenibilidad-en-chile-por-diego-claveria-head-of-digital-industries-siemens-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Seremi del Medio Ambiente entrega certificación ambiental a municipalidad de Olmué en su Cuenta Pública  2025-2026",
-    "enlace": "https://g5noticias.cl/2026/08/17/seremi-del-medio-ambiente-entrega-certificacion-ambiental-a-municipalidad-de-olmue-en-su-cuenta-publica-2025-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Municipio lanza concurso “Jugar Valparaíso” para diseñar espacios públicos desde la mirada de la niñez",
-    "enlace": "https://g5noticias.cl/2026/08/17/municipio-lanza-concurso-jugar-valparaiso-para-disenar-espacios-publicos-desde-la-mirada-de-la-ninez/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Exitosa feria vocacional, laboral y de emprendimiento reunió a 300 participantes y 25 expositores en Limache",
-    "enlace": "https://g5noticias.cl/2026/08/17/exitosa-feria-vocacional-laboral-y-de-emprendimiento-reunio-a-300-participantes-y-25-expositores-en-limache/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Corazón y Omega-3: estudio asocia este nutriente con hasta un 30% menos de eventos cardiovasculares graves",
-    "enlace": "https://g5noticias.cl/2026/08/17/corazon-y-omega-3-estudio-asocia-este-nutriente-con-hasta-un-30-menos-de-eventos-cardiovasculares-graves/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1906,5 +1906,95 @@
     "medio": "La Prensa Austral",
     "zona": "Punta Arenas",
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "EPAustral lanza licitación pública",
+    "enlace": "https://elmagallanico.com/2026/08/12/epaustral-lanza-licitacion-publica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Cerca de 400 personas visitaron Enap Magallanes en el Día de la Niñez",
+    "enlace": "https://elmagallanico.com/2026/08/12/cerca-de-400-personas-visitaron-enap-magallanes-en-el-dia-de-la-ninez/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Aguas Magallanes invita a cuidar instalaciones sanitarias durante todo el año",
+    "enlace": "https://elmagallanico.com/2026/08/07/aguas-magallanes-invita-a-cuidar-instalaciones-sanitarias-durante-todo-el-ano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Enap será parte de la celebración del Día de la Niñez en Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/08/07/enap-sera-parte-de-la-celebracion-del-dia-de-la-ninez-en-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Capacitaciones impulsadas por Enap benefician a cerca de 150 personas en Magallanes",
+    "enlace": "https://elmagallanico.com/2026/08/05/capacitaciones-impulsadas-por-enap-benefician-a-cerca-de-150-personas-en-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Presentan plataforma que conecta la producción local con nuevas oportunidades de negocio",
+    "enlace": "https://elmagallanico.com/2026/07/31/presentan-plataforma-que-conecta-la-produccion-local-con-nuevas-oportunidades-de-negocio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Porvenir suma casi 1.200 metros cuadrados de invernaderos nuevos",
+    "enlace": "https://elmagallanico.com/2026/07/31/porvenir-suma-casi-1-200-metros-cuadrados-de-invernaderos-nuevos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Día Internacional del Guardaparques: Protectores de los territorios más prístinos de la Patagonia Austral",
+    "enlace": "https://elmagallanico.com/2026/07/31/dia-internacional-del-guardaparques-protectores-de-los-territorios-mas-pristinos-de-la-patagonia-austral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Municipio entrega $17 millones en subvenciones a 22 organizaciones sociales",
+    "enlace": "https://elmagallanico.com/2026/07/31/municipio-entrega-17-millones-en-subvenciones-a-22-organizaciones-sociales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Detenido por microtráfico tras ronda extraordinaria de Carabineros en el centro de Punta Arenas",
+    "enlace": "https://elmagallanico.com/2026/07/31/detenido-por-microtrafico-tras-ronda-extraordinaria-de-carabineros-en-el-centro-de-punta-arenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   }
 ]
