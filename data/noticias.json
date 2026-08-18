@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Dime cómo educas y sabré quién eres",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/17/dime-como-educas-y-sabre-quien-eres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Este fin de semana artistas nacionales y regionales participarán de show solidario en Coquimbo para los afectados por las lluvias",
     "enlace": "https://www.elcoquimbano.cl/2026/08/17/este-fin-de-semana-artistas-nacionales-y-regionales-participaran-de-show-solidario-en-coquimbo-para-los-afectados-por-las-lluvias/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Remate. Departamento 302, edificio A y derecho de uso y goce de estacionamiento 84, Condominio Cumbres del Bosque, etapa II, Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/12/remate-departamento-302-edificio-a-y-derecho-de-uso-y-goce-de-estacionamiento-84-condominio-cumbres-del-bosque-etapa-ii-coquimbo-4/",
+    "titulo": "La Serena realizó balance de las lluvias y mantiene despliegue preventivo en sectores urbanos y rurales",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/17/la-serena-realizo-balance-de-las-lluvias-y-mantiene-despliegue-preventivo-en-sectores-urbanos-y-rurales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Aguas del Valle activa tranque de respaldo y decreta alerta amarilla por extrema turbiedad en el río Elqui",
@@ -164,15 +173,6 @@
   {
     "titulo": "Alcaldesa de La Serena solicita puente mecano para recuperar conectividad con el Valle de Elqui",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/14/alcaldesa-de-la-serena-solicita-puente-mecano-para-recuperar-conectividad-con-el-valle-de-elqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El Maratón 42K La Serena 2026 se pospuso por el temporal y se correrá el próximo 6 de septiembre",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/14/el-maraton-42k-la-serena-2026-se-pospuso-por-el-temporal-y-se-correra-el-proximo-6-de-septiembre/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -1368,8 +1368,26 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Deportes Copiapó golea a Curicó Unido",
+    "titulo": "Funcionaria de la PDI fue arrastrada durante operativo y disparos terminaron con la vida sujeto en Colina",
+    "enlace": "https://www.maray.cl/pais/17/08/2026/funcionaria-de-la-pdi-fue-arrastrada-durante-operativo-y-disparos-terminaron-con-la-vida-sujeto-en-colina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Lluvia de Goles en el Luis Valenzuela Hermosilla: Copiapó le propinó 4 goles a Curicó Unido y se acerca a la zona de liguilla",
     "enlace": "https://www.maray.cl/atacama/17/08/2026/deportes-copiapo-golea-a-curico-unido/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "MOP Atacama mantiene desplegados equipos y maquinaria para resguardar la conectividad en sectores interiores de Tierra Amarilla",
+    "enlace": "https://www.maray.cl/atacama/17/08/2026/mop-atacama-mantiene-desplegados-equipos-y-maquinaria-para-resguardar-la-conectividad-en-sectores-interiores-de-tierra-amarilla/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1440,22 +1458,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Aguinaldo de Fiestas Patrias: revisa cuánto recibirán pensionados y trabajadores públicos",
-    "enlace": "https://www.maray.cl/pais/17/08/2026/aguinaldo-de-fiestas-patrias-revisa-cuanto-recibiran-pensionados-y-trabajadores-publicos/",
+    "titulo": "Denuncian afectación de bosque nativo en Cerro La Higuera: CONAF había constatado corta a tala rasa",
+    "enlace": "https://laliguanoticias.cl/2026/08/17/denuncian-afectacion-de-bosque-nativo-en-cerro-la-higuera-conaf-habia-constatado-corta-a-tala-rasa/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Lundin Mining lanza Portal de Proveedores Locales para fortalecer el desarrollo económico en Atacama",
-    "enlace": "https://www.maray.cl/atacama/17/08/2026/lundin-mining-lanza-portal-de-proveedores-locales-para-fortalecer-el-desarrollo-economico-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "Pescadores de Papudo solo pudieron trabajar tres días en julio y municipio pide apoyo extraordinario al GORE",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "Destituyen al director de Obras Municipales de Petorca tras sumario que acreditó ocho faltas administrativas",
     "enlace": "https://laliguanoticias.cl/2026/08/05/destituyen-al-director-de-obras-municipales-de-petorca-tras-sumario-que-acredito-ocho-faltas-administrativas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Más de 1.600 alumnos ya han sido parte del programa Súper Sano de Sopraval en lo que va del año",
-    "enlace": "https://laliguanoticias.cl/2026/08/04/mas-de-1-600-alumnos-ya-han-sido-parte-del-programa-super-sano-de-sopraval-en-lo-que-va-del-ano/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Junaeb Antofagasta se despliega en las zonas afectadas por el sistema frontal y entrega apoyo a familias damnificadas",
-    "enlace": "https://g5noticias.cl/2026/08/17/junaeb-antofagasta-se-despliega-en-las-zonas-afectadas-por-el-sistema-frontal-y-entrega-apoyo-a-familias-damnificadas/",
+    "titulo": "Análisis realizado por Fundación Eventuras: Denuncias por convivencia escolar suben 3% en el primer semestre y tres regiones logran bajarlas",
+    "enlace": "https://g5noticias.cl/2026/08/17/analisis-realizado-por-fundacion-eventuras-denuncias-por-convivencia-escolar-suben-3-en-el-primer-semestre-y-tres-regiones-logran-bajarlas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«La Baronesa» domina el rating en su estreno y «El jardín de Olivia» se despide como fenómeno de audiencia",
-    "enlace": "https://g5noticias.cl/2026/08/17/la-baronesa-domina-el-rating-en-su-estreno-y-el-jardin-de-olivia-se-despide-como-fenomeno-de-audiencia/",
+    "titulo": "5 de cada 10 trabajadores experimentó o presenció algún caso en el que el uso de redes personales tuvo consecuencias negativas en el ámbito laboral",
+    "enlace": "https://g5noticias.cl/2026/08/17/5-de-cada-10-trabajadores-experimento-o-presencio-algun-caso-en-el-que-el-uso-de-redes-personales-tuvo-consecuencias-negativas-en-el-ambito-laboral/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministerio de Ciencias y Universidad de Talca sostienen reunión estratégica para impulsar trabajo en la zona centro sur",
-    "enlace": "https://g5noticias.cl/2026/08/17/ministerio-de-ciencias-y-universidad-de-talca-sostienen-reunion-estrategica-para-impulsar-trabajo-en-la-zona-centro-sur/",
+    "titulo": "Lluvias que afectan al norte del país dejan su primera víctima fatal",
+    "enlace": "https://g5noticias.cl/2026/08/17/lluvias-que-afectan-al-norte-del-pais-dejan-su-primera-victima-fatal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desde 2028 habrá más mayores de 65 que menores de 15 en Chile: la urgencia de prepararnos para un país que envejece",
-    "enlace": "https://g5noticias.cl/2026/08/17/desde-2028-habra-mas-mayores-de-65-que-menores-de-15-en-chile-la-urgencia-de-prepararnos-para-un-pais-que-envejece/",
+    "titulo": "El desafío que nadie está mirando de la nueva Ley del Mono: ¿están preparadas las municipalidades para regularizar miles de viviendas?",
+    "enlace": "https://g5noticias.cl/2026/08/17/el-desafio-que-nadie-esta-mirando-de-la-nueva-ley-del-mono-estan-preparadas-las-municipalidades-para-regularizar-miles-de-viviendas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Artistas realizan charla sobre arte, memoria y diversidad funcional",
-    "enlace": "https://g5noticias.cl/2026/08/17/artistas-realizan-charla-sobre-arte-memoria-y-diversidad-funcional/",
+    "titulo": "Seminario EDF – UC aborda prioridades para avanzar hacia una matriz eléctrica más segura y competitiva",
+    "enlace": "https://g5noticias.cl/2026/08/17/seminario-edf-uc-aborda-prioridades-para-avanzar-hacia-una-matriz-electrica-mas-segura-y-competitiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«Que actúen con valentía y la presenten»: Bancada UDI emplaza a la oposición a ingresar AC contra Steinert tras constantes amenazas",
-    "enlace": "https://g5noticias.cl/2026/08/17/que-actuen-con-valentia-y-la-presenten-bancada-udi-emplaza-a-la-oposicion-a-ingresar-ac-contra-steinert-tras-constantes-amenazas/",
+    "titulo": "La suerte está en Casino MDS Calama: afortunada ganadora se llevó histórico premio de más $141 millones",
+    "enlace": "https://g5noticias.cl/2026/08/17/la-suerte-esta-en-casino-mds-calama-afortunada-ganadora-se-llevo-historico-premio-de-mas-141-millones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El Hoyo lanza disco de cuecas con canciones de rock y pop chileno: “Queremos que la cueca llegue a todos los hogares y nuevas generaciones”",
-    "enlace": "https://g5noticias.cl/2026/08/17/el-hoyo-lanza-disco-de-cuecas-con-canciones-de-rock-y-pop-chileno-queremos-que-la-cueca-llegue-a-todos-los-hogares-y-nuevas-generaciones/",
+    "titulo": "Canciller inicia gira por China, Vietnam y Japón: “Estamos abriendo oportunidades y fortaleciendo relaciones con una mirada de largo plazo”",
+    "enlace": "https://g5noticias.cl/2026/08/17/canciller-inicia-gira-por-china-vietnam-y-japon-estamos-abriendo-oportunidades-y-fortaleciendo-relaciones-con-una-mirada-de-largo-plazo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "DEDECON presenta aula virtual de educación tributaria a estudiantes de DUOC UC",
-    "enlace": "https://g5noticias.cl/2026/08/17/dedecon-presenta-aula-virtual-de-educacion-tributaria-a-estudiantes-de-duoc-uc/",
+    "titulo": "Senadora Gatica respalda reforma de seguridad de Kast: “Es una propuesta que venimos impulsando hace años”",
+    "enlace": "https://g5noticias.cl/2026/08/17/senadora-gatica-respalda-reforma-de-seguridad-de-kast-es-una-propuesta-que-venimos-impulsando-hace-anos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comisión de Evaluación Ambiental de la Región del Maule rechaza proyecto eléctrico en la cordillera",
-    "enlace": "https://g5noticias.cl/2026/08/17/comision-de-evaluacion-ambiental-de-la-region-del-maule-rechaza-proyecto-electrico-en-la-cordillera/",
+    "titulo": "Diputado Bernardo Salinas por reforma constitucional de seguridad: “Se está institucionalizando el autoritarismo”",
+    "enlace": "https://g5noticias.cl/2026/08/17/diputado-bernardo-salinas-por-reforma-constitucional-de-seguridad-se-esta-institucionalizando-el-autoritarismo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chile recicla poco pese a la intención ciudadana: menos del 10% de los residuos domiciliarios se recupera",
-    "enlace": "https://g5noticias.cl/2026/08/17/chile-recicla-poco-pese-a-la-intencion-ciudadana-menos-del-10-de-los-residuos-domiciliarios-se-recupera/",
+    "titulo": "Autoridades firman convenio que permitirá constituir una mesa nacional en contra del fraude financiero transnacional",
+    "enlace": "https://g5noticias.cl/2026/08/17/autoridades-firman-convenio-que-permitira-constituir-una-mesa-nacional-en-contra-del-fraude-financiero-transnacional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
