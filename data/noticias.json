@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Gobierno y municipio priorizan acciones para avanzar en la recuperación de La Serena tras temporal",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/18/gobierno-y-municipio-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo fortalece coordinación entre Gendarmería y Reinserción Juvenil para prevenir la reincidencia",
     "enlace": "https://regiondecoquimbo.cl/2026/08/17/coquimbo-fortalece-coordinacion-entre-gendarmeria-y-reinsercion-juvenil-para-prevenir-la-reincidencia/",
     "descripcion": "",
@@ -441,13 +450,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Familias de Monte Patria fortalecen su alimentación y economía familiar con apoyo del programa Seguridad Alimentaria",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/13/familias-de-monte-patria-fortalecen-su-alimentacion-y-economia-familiar-con-apoyo-del-programa-seguridad-alimentaria/",
+    "titulo": "RegiónHOY: priorizan acciones para avanzar en la recuperación de La Serena tras temporal",
+    "enlace": "https://ovallehoy.cl/regionhoy-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "4.600 millones para modernizar infraestructura y diversificar la pesca artesanal en la Región de Coquimbo",
@@ -531,12 +540,12 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "OpiniónHOY: Los cables sobre la ciudad, los riesgos que generan y por qué cuesta tanto retirarlos",
-    "enlace": "https://ovallehoy.cl/opinionhoy-los-cables-sobre-la-ciudad-los-riesgos-que-generan-y-por-que-cuesta-tanto-retirarlos/",
+    "titulo": "Ministerio de Energía anuncia que eliminará el cobro del horario de punta en septiembre",
+    "enlace": "https://www.elmontepatrino.cl/2026/08/18/ministerio-de-energia-anuncia-que-eliminara-el-cobro-del-horario-de-punta-en-septiembre/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
@@ -614,15 +623,6 @@
   {
     "titulo": "Comunidad de Rapel celebra presentación de escultura a escala real del vicealmirante Wenceslao Vargas Rojas",
     "enlace": "https://www.elmontepatrino.cl/2026/08/10/comunidad-de-rapel-celebra-presentacion-de-escultura-a-escala-real-del-vicealmirante-wenceslao-vargas-rojas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Cierre preventivo de puente provisorio en Tome Bajo tras desborde del río Huatulame este fin de semana",
-    "enlace": "https://www.elmontepatrino.cl/2026/08/08/cierre-preventivo-de-puente-provisorio-en-tome-bajo-tras-desborde-del-rio-huatulame-este-fin-de-semana/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1008,96 +1008,6 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
-    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos presenta querella criminal por robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
-    "enlace": "https://losviloschile.cl/sin-categoria/municipalidad-de-los-vilos-presenta-querella-criminal-por-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Pescadores de Los Vilos accedieron a 124 prestaciones de salud durante operativo en caleta San Pedro",
-    "enlace": "https://losviloschile.cl/actualidad/pescadores-de-los-vilos-accedieron-a-124-prestaciones-de-salud-durante-operativo-en-caleta-san-pedro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
-    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
-    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
-    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
-    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
-    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
-    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
-    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
     "titulo": "Banda de Guerra del Colegio Parroquial de Andacollo obtiene segundo lugar regional en concurso nacional de Carabineros",
     "enlace": "https://www.elandacollino.cl/2026/08/18/banda-de-guerra-del-colegio-parroquial-de-andacollo-obtiene-segundo-lugar-regional-en-concurso-nacional-de-carabineros/",
     "descripcion": "",
@@ -1116,7 +1026,7 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Escuela Luis Cruz Martínez de Andacollo se integra a la Red de Escuelas Líderes con innovador proyecto educativo",
+    "titulo": "Escuela Patricio Lynch de Andacollo se integra a la Red de Escuelas Líderes con innovador proyecto educativo",
     "enlace": "https://www.elandacollino.cl/2026/08/16/escuela-luis-cruz-martinez-de-andacollo-se-integra-a-la-red-de-escuelas-lideres-con-innovador-proyecto-educativo/",
     "descripcion": "",
     "publicado": "",
@@ -1458,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Declaran Alerta Roja para Antofagasta, Taltal, Mejillones y Tocopilla por sistema frontal",
+    "enlace": "https://www.maray.cl/pais/18/08/2026/declaran-alerta-roja-para-antofagasta-taltal-mejillones-y-tocopilla-por-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "PDI intensifica búsqueda de persona desaparecida en Calderilla",
+    "enlace": "https://www.maray.cl/atacama/18/08/2026/pdi-intensifica-busqueda-de-persona-desaparecida-en-calderilla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Alcalde de Alto Hospicio pide declarar estado de catástrofe en el Norte Grande",
+    "enlace": "https://www.maray.cl/pais/18/08/2026/alcalde-de-alto-hospicio-pide-declarar-estado-de-catastrofe-en-el-norte-grande/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Director Regional de Senapred | «La región de Atacama sigue con amenaza de baja segregada»",
     "enlace": "https://www.maray.cl/podcast-de-noticias/18/08/2026/director-regional-de-senapred-la-region-de-atacama-sigue-con-amenaza-de-baja-segregada/",
     "descripcion": "",
@@ -1514,33 +1451,6 @@
   {
     "titulo": "“Sonrisas que nos Unen” cerró su ciclo de atención dental con más de 300 personas beneficiadas en Paipote",
     "enlace": "https://www.maray.cl/atacama/18/08/2026/sonrisas-que-nos-unen-cerro-su-ciclo-de-atencion-dental-con-mas-de-300-personas-beneficiadas-en-paipote/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sernapesca incauta 35 toneladas de jurel fresco sin acreditación legal en Atacama",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/sernapesca-incauta-35-toneladas-de-jurel-fresco-sin-acreditacion-legal-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Seremi de Minería destaca nuevo avance del precio del cobre y sus positivas perspectivas para Chile y Atacama",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/seremi-de-mineria-destaca-nuevo-avance-del-precio-del-cobre-y-sus-positivas-perspectivas-para-chile-y-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno fortalece la implementación del Sistema Nacional de Apoyos y Cuidados en Atacama",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/gobierno-fortalece-la-implementacion-del-sistema-nacional-de-apoyos-y-cuidados-en-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Joanna Pérez valora eliminación del horario punta eléctrico para pymes: “Es una buena noticia para los electro dependientes, los gremios de la pesca, la agricultura y otros”",
-    "enlace": "https://g5noticias.cl/2026/08/18/diputada-joanna-perez-valora-eliminacion-del-horario-punta-electrico-para-pymes-es-una-buena-noticia-para-los-electro-dependientes-los-gremios-de-la-pesca-la-agricultura-y-otros/",
+    "titulo": "Tras los incendios del verano en el Biobío: RTA y grupo de familias empresarias entregan 14 viviendas definitivas a damnificados en Penco",
+    "enlace": "https://g5noticias.cl/2026/08/18/tras-los-incendios-del-verano-en-el-biobio-rta-y-grupo-de-familias-empresarias-entregan-14-viviendas-definitivas-a-damnificados-en-penco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Porteño sorprendió con donación de 100 juguetes en impresión 3D a niños en residencias de protección",
-    "enlace": "https://g5noticias.cl/2026/08/18/porteno-sorprendio-con-donacion-de-100-juguetes-en-impresion-3d-a-ninos-en-residencias-de-proteccion/",
+    "titulo": "Presidente de la República, José Antonio Kast, asiste a la ceremonia de conmemoración del Día Nacional de la Solidaridad, en memoria de San Alberto Hurtado",
+    "enlace": "https://g5noticias.cl/2026/08/18/presidente-de-la-republica-jose-antonio-kast-asiste-a-la-ceremonia-de-conmemoracion-del-dia-nacional-de-la-solidaridad-en-memoria-de-san-alberto-hurtado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Biministro Alvarado lidera reapertura del Paso Fronterizo Los Libertadores: «Estamos dando un paso importante en la regularización»",
-    "enlace": "https://g5noticias.cl/2026/08/18/biministro-alvarado-lidera-reapertura-del-paso-fronterizo-los-libertadores-estamos-dando-un-paso-importante-en-la-regularizacion/",
+    "titulo": "Caldera: Fiscalía y PDI realizan diligencias por personas desaparecida en sector costero",
+    "enlace": "https://g5noticias.cl/2026/08/18/caldera-fiscalia-y-pdi-realizan-diligencias-por-personas-desaparecida-en-sector-costero/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Brito cuestiona aprobación de proyecto inmobiliario en dunas de Concón ligado a hermano de ministro Quiroz",
-    "enlace": "https://g5noticias.cl/2026/08/18/diputado-brito-cuestiona-aprobacion-de-proyecto-inmobiliario-en-dunas-de-concon-ligado-a-hermano-de-ministro-quiroz/",
+    "titulo": "Chilevisión transmite hoy el partido de la UC como local frente a Estudiantes por Copa CONMEBOL Libertadores",
+    "enlace": "https://g5noticias.cl/2026/08/18/chilevision-transmite-hoy-el-partido-de-la-uc-como-local-frente-a-estudiantes-por-copa-conmebol-libertadores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Bernardo Salinas criticó ausencia de ex ministra Steinert a comisión investigadora por “motivos personales”",
-    "enlace": "https://g5noticias.cl/2026/08/18/diputado-bernardo-salinas-critico-ausencia-de-ex-ministra-steinert-a-comision-investigadora-por-motivos-personales/",
+    "titulo": "Teleseries de Mega son fenómenos de audiencia: “La Baronesa” y “Reunión de superados” lideran sus horarios y “El jardín de Olivia” se despidió batiendo su récord",
+    "enlace": "https://g5noticias.cl/2026/08/18/teleseries-de-mega-son-fenomenos-de-audiencia-la-baronesa-y-reunion-de-superados-lideran-sus-horarios-y-el-jardin-de-olivia-se-despidio-batiendo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gabriel Rodríguez es absuelto por unanimidad de acusación por tráfico de cannabis",
-    "enlace": "https://g5noticias.cl/2026/08/18/gabriel-rodriguez-es-absuelto-por-unanimidad-de-acusacion-por-trafico-de-cannabis/",
+    "titulo": "Gobierno y municipio priorizan acciones para avanzar en la recuperación de La Serena tras temporal",
+    "enlace": "https://g5noticias.cl/2026/08/18/gobierno-y-municipio-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "INDAP presentó su estrategia de desarrollo 2026-2030 a los países participantes de la REAF",
-    "enlace": "https://g5noticias.cl/2026/08/18/indap-presento-su-estrategia-de-desarrollo-2026-2030-a-los-paises-participantes-de-la-reaf/",
+    "titulo": "Desafío Levantemos Chile entrega vivienda definitiva en Punta Parra para familia afectada por incendios del Biobío",
+    "enlace": "https://g5noticias.cl/2026/08/18/desafio-levantemos-chile-entrega-vivienda-definitiva-en-punta-parra-para-familia-afectada-por-incendios-del-biobio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chilenos fueron protagonistas del Freeride Andes Mountain Week en El Colorado",
-    "enlace": "https://g5noticias.cl/2026/08/18/chilenos-fueron-protagonistas-del-freeride-andes-mountain-week-en-el-colorado/",
+    "titulo": "Corte de Apelaciones de Concepción ratifica facultad de TGR para cobrar deudas CAE y confirma su imprescriptibilidad",
+    "enlace": "https://g5noticias.cl/2026/08/18/corte-de-apelaciones-de-concepcion-ratifica-facultad-de-tgr-para-cobrar-deudas-cae-y-confirma-su-imprescriptibilidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "“Son unos autoritarios”: diputado Venegas (PS) fustiga al gobierno por reforma constitucional de seguridad",
-    "enlace": "https://g5noticias.cl/2026/08/18/son-unos-autoritarios-diputado-venegas-ps-fustiga-al-gobierno-por-reforma-constitucional-de-seguridad/",
+    "titulo": "Cámara aprueba proyecto de diputado Venegas que pide reactivar estudio del tren Valparaíso-Santiago vía Til Til",
+    "enlace": "https://g5noticias.cl/2026/08/18/camara-aprueba-proyecto-de-diputado-venegas-que-pide-reactivar-estudio-del-tren-valparaiso-santiago-via-til-til/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bienestar del Poder Judicial celebra el Día de la Niñez en la Corte de Apelaciones de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/18/bienestar-del-poder-judicial-celebra-el-dia-de-la-ninez-en-la-corte-de-apelaciones-de-valparaiso/",
+    "titulo": "Mineduc informa suspensión de clases para el miércoles 19 de agosto en las regiones de Arica y Parinacota, Tarapacá y Antofagasta",
+    "enlace": "https://g5noticias.cl/2026/08/18/mineduc-informa-suspension-de-clases-para-el-miercoles-19-de-agosto-en-las-regiones-de-arica-y-parinacota-tarapaca-y-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
