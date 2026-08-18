@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Perforadora de casi 100 toneladas arriba al Terminal Puerto Coquimbo para continuar su traslado hacia faena minera",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/17/perforadora-de-casi-100-toneladas-arriba-al-terminal-puerto-coquimbo-para-continuar-su-traslado-hacia-faena-minera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Dime cómo educas y sabré quién eres",
     "enlace": "https://www.elcoquimbano.cl/2026/08/17/dime-como-educas-y-sabre-quien-eres/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Aguas del Valle informa corte de emergencia acotado por rotura de matriz en Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/08/12/aguas-del-valle-informa-corte-de-emergencia-acotado-por-rotura-de-matriz-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "CGE activa plan de acción preventivo y despliega más de 190  brigadas en la región de Coquimbo ante nuevo sistema frontal",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/12/cge-activa-plan-de-accion-preventivo-y-despliega-mas-de-190-brigadas-en-la-region-de-coquimbo-ante-nuevo-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Nuevas lluvias dejan sectores aislados y graves daños en caminos de Illapel",
+    "enlace": "https://www.elillapelino.cl/2026/08/18/nuevas-lluvias-dejan-sectores-aislados-y-graves-danos-en-caminos-de-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "PDI recupera vehículo robado tras diligencias investigativas en Illapel",
     "enlace": "https://www.elillapelino.cl/2026/08/15/pdi-recupera-vehiculo-robado-tras-diligencias-investigativas-en-illapel/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "Remate. Inmueble resto del Lote 44 Manzana 7, Lote 1-B, Parcela 36, Proyecto de Parcelación Las Cañas, Illapel",
     "enlace": "https://www.elillapelino.cl/2026/08/11/remate-inmueble-resto-del-lote-44-manzana-7-lote-1-b-parcela-36-proyecto-de-parcelacion-las-canas-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "En Illapel impulsan brigadas comunitarias y  municipio equipa a 88 juntas de vecinos para el trabajo en equipo",
-    "enlace": "https://www.elillapelino.cl/2026/08/11/en-illapel-impulsan-brigadas-comunitarias-y-municipio-equipa-a-88-juntas-de-vecinos-para-el-trabajo-en-equipo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1638,6 +1638,69 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "En Los Ríos, una serie de audiorrelatos rescatará la memoria del terremoto de 1960",
+    "enlace": "https://g5noticias.cl/2026/08/18/en-los-rios-una-serie-de-audiorrelatos-rescatara-la-memoria-del-terremoto-de-1960-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hongos en el hogar: ¿cuándo pueden convertirse en un riesgo para la salud?",
+    "enlace": "https://g5noticias.cl/2026/08/18/hongos-en-el-hogar-cuando-pueden-convertirse-en-un-riesgo-para-la-salud/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Casas del Bosque refuerza su posicionamiento en Brasil con vinos y enoturismo",
+    "enlace": "https://g5noticias.cl/2026/08/18/casas-del-bosque-refuerza-su-posicionamiento-en-brasil-con-vinos-y-enoturismo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Violencia escolar: psicólogo advierte que “existe un deterioro importante de las habilidades socioemocionales de muchos estudiantes”",
+    "enlace": "https://g5noticias.cl/2026/08/18/violencia-escolar-psicologo-advierte-que-existe-un-deterioro-importante-de-las-habilidades-socioemocionales-de-muchos-estudiantes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "ProChile impulsa oportunidades de innovación y negocios para empresa de Los Lagos en Brasil",
+    "enlace": "https://g5noticias.cl/2026/08/18/prochile-impulsa-oportunidades-de-innovacion-y-negocios-para-empresa-de-los-lagos-en-brasil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "En su 40ª versión: Concurso CAP de Arquitectura recibe 48 proyectos de 18 universidades con propuestas para el desarrollo de centros de innovación",
+    "enlace": "https://g5noticias.cl/2026/08/17/en-su-40a-version-concurso-cap-de-arquitectura-recibe-48-proyectos-de-18-universidades-con-propuestas-para-el-desarrollo-de-centros-de-innovacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "¿Cuál es la situación de mujeres y niñas en Chile?: Red Chilena contra la Violencia hacia las Mujeres presenta Dossier Informativo 2025-2026",
+    "enlace": "https://g5noticias.cl/2026/08/17/cual-es-la-situacion-de-mujeres-y-ninas-en-chile-red-chilena-contra-la-violencia-hacia-las-mujeres-presenta-dossier-informativo-2025-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "UCT y SENAMA fortalecen el cuidado de las personas mayores con jornada regional para equipos de ELEAM",
     "enlace": "https://g5noticias.cl/2026/08/17/uct-y-senama-fortalecen-el-cuidado-de-las-personas-mayores-con-jornada-regional-para-equipos-de-eleam/",
     "descripcion": "",
@@ -1658,69 +1721,6 @@
   {
     "titulo": "Techos verdes y humedales urbanos: las medidas chilenas para aprovechar las lluvias",
     "enlace": "https://g5noticias.cl/2026/08/17/techos-verdes-y-humedales-urbanos-las-medidas-chilenas-para-aprovechar-las-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Inclusión laboral y emprendimiento local se unen en una nueva versión de El Clóset de Julieta",
-    "enlace": "https://g5noticias.cl/2026/08/17/inclusion-laboral-y-emprendimiento-local-se-unen-en-una-nueva-version-de-el-closet-de-julieta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Análisis realizado por Fundación Eventuras: Denuncias por convivencia escolar suben 3% en el primer semestre y tres regiones logran bajarlas",
-    "enlace": "https://g5noticias.cl/2026/08/17/analisis-realizado-por-fundacion-eventuras-denuncias-por-convivencia-escolar-suben-3-en-el-primer-semestre-y-tres-regiones-logran-bajarlas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "5 de cada 10 trabajadores experimentó o presenció algún caso en el que el uso de redes personales tuvo consecuencias negativas en el ámbito laboral",
-    "enlace": "https://g5noticias.cl/2026/08/17/5-de-cada-10-trabajadores-experimento-o-presencio-algun-caso-en-el-que-el-uso-de-redes-personales-tuvo-consecuencias-negativas-en-el-ambito-laboral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Lluvias que afectan al norte del país dejan su primera víctima fatal",
-    "enlace": "https://g5noticias.cl/2026/08/17/lluvias-que-afectan-al-norte-del-pais-dejan-su-primera-victima-fatal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El desafío que nadie está mirando de la nueva Ley del Mono: ¿están preparadas las municipalidades para regularizar miles de viviendas?",
-    "enlace": "https://g5noticias.cl/2026/08/17/el-desafio-que-nadie-esta-mirando-de-la-nueva-ley-del-mono-estan-preparadas-las-municipalidades-para-regularizar-miles-de-viviendas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Seminario EDF – UC aborda prioridades para avanzar hacia una matriz eléctrica más segura y competitiva",
-    "enlace": "https://g5noticias.cl/2026/08/17/seminario-edf-uc-aborda-prioridades-para-avanzar-hacia-una-matriz-electrica-mas-segura-y-competitiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "La suerte está en Casino MDS Calama: afortunada ganadora se llevó histórico premio de más $141 millones",
-    "enlace": "https://g5noticias.cl/2026/08/17/la-suerte-esta-en-casino-mds-calama-afortunada-ganadora-se-llevo-historico-premio-de-mas-141-millones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
