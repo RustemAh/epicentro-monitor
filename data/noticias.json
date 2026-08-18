@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Bibliomóvil Regional llegará a Tierras Blancas para fomentar la lectura y el acceso a la cultura",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/18/bibliomovil-regional-llegara-a-tierras-blancas-para-fomentar-la-lectura-y-el-acceso-a-la-cultura/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Red Comunales lanza su propia app para reunir las noticias locales en un solo lugar",
     "enlace": "https://www.elcoquimbano.cl/2026/08/18/red-comunales-lanza-su-propia-app-para-reunir-las-noticias-locales-en-un-solo-lugar/",
     "descripcion": "",
@@ -81,13 +90,22 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Coquimbo Unido rescata un agónico empate ante Platense y deja abierta la serie de octavos de final",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/12/coquimbo-unido-rescata-un-agonico-empate-ante-platense-y-deja-abierta-la-serie-de-octavos-de-final/",
+    "titulo": "Empresa Sanitaria retomó producción de agua potable desde el río Elqui: No hubo cortes gracias a estanques de respaldo",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/18/empresa-sanitaria-retomo-produccion-de-agua-potable-desde-el-rio-elqui-no-hubo-cortes-gracias-a-estanques-de-respaldo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "TeatroPuerto estrena obra de co-creación con una temporada de 8 funciones de entrada liberada",
+    "enlace": "https://www.elserenense.cl/tendencias/2026/08/18/teatropuerto-estrena-obra-de-co-creacion-con-una-temporada-de-8-funciones-de-entrada-liberada/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Cámara de Comercio y Turismo de La Serena pide regularizar a trabajadores extranjeros ante masivas fiscalizaciones de la PDI",
@@ -162,20 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Deportes La Serena cortó una racha de cinco partidos sin ganar tras el triunfo a la U de Concepción",
-    "enlace": "https://www.elserenense.cl/deportes/2026/08/15/deportes-la-serena-corto-una-racha-de-cinco-partidos-sin-ganar-tras-el-triunfo-a-la-u-de-concepcion/",
+    "titulo": "Alcalde de Los Vilos lleva emergencia del Valle de Pupío al Senado y exige fiscalización por situación de El Mauro",
+    "enlace": "https://laserenaonline.cl/2026/08/18/alcalde-de-los-vilos-lleva-emergencia-del-valle-de-pupio-al-senado-y-exige-fiscalizacion-por-situacion-de-el-mauro/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Detenido tras huir en auto y lanzarse al río Elqui: llevaba más de $1 millón en jarabes con codeína",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/14/detenido-tras-huir-en-auto-y-lanzarse-al-rio-elqui-llevaba-mas-de-1-millon-en-jarabes-con-codeina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Coquimbo: Corte de Apelaciones confirmó internación provisoria para adolescente investigado por la Fiscalía por robo con homicidio",
     "enlace": "https://laserenaonline.cl/2026/08/18/coquimbo-corte-de-apelaciones-confirmo-internacion-provisoria-para-adolescente-investigado-por-la-fiscalia-por-robo-con-homicidio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 18 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/18/el-tiempo-hoy-18-de-agosto-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "4.600 millones para modernizar infraestructura y diversificar la pesca artesanal en la Región de Coquimbo",
+    "enlace": "https://ovallehoy.cl/4-600-millones-para-modernizar-infraestructura-y-diversificar-la-pesca-artesanal-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Invitan a escritores emergentes a participar del Fondo Editorial «Víctor Domingo Silva» 2026",
     "enlace": "https://ovallehoy.cl/invitan-a-escritores-emergentes-a-participar-del-fondo-editorial-victor-domingo-silva-2026/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "OpiniónHOY: Los cables sobre la ciudad, los riesgos que generan y por qué cuesta tanto retirarlos",
     "enlace": "https://ovallehoy.cl/opinionhoy-los-cables-sobre-la-ciudad-los-riesgos-que-generan-y-por-que-cuesta-tanto-retirarlos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Por quinta vez: millonario robo y destrozos dejan desconocidos en centro kinesiológico",
-    "enlace": "https://ovallehoy.cl/por-quinta-vez-millonario-robo-y-destrozos-dejan-desconocidos-en-centro-kinesiologico/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Junta de Vigilancia del Río Choapa ajusta prorrata al 20% para facilitar limpieza de canales tras último temporal",
+    "enlace": "https://www.elsalamanquino.cl/2026/08/18/junta-de-vigilancia-del-rio-choapa-ajusta-prorrata-al-20-para-facilitar-limpieza-de-canales-tras-ultimo-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Empresas del Choapa culminan programa que fortalece su competitividad en licitaciones de Minera Los Pelambres",
     "enlace": "https://www.elsalamanquino.cl/2026/08/18/empresas-del-choapa-culminan-programa-que-fortalece-su-competitividad-en-licitaciones-de-minera-los-pelambres/",
     "descripcion": "",
@@ -992,15 +1001,6 @@
   {
     "titulo": "Minera Los Pelambres interviene en más de 130 puntos de la provincia del Choapa para recuperar la conectividad vial",
     "enlace": "https://www.elsalamanquino.cl/2026/08/03/minera-los-pelambres-interviene-en-mas-de-130-puntos-de-la-provincia-del-choapa-para-recuperar-la-conectividad-vial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Junta de Vigilancia del Río Choapa despliega plan de acción en tres frentes para enfrentar los daños provocados por el temporal",
-    "enlace": "https://www.elsalamanquino.cl/2026/07/28/junta-de-vigilancia-del-rio-choapa-despliega-plan-de-accion-en-tres-frentes-para-enfrentar-los-danos-provocados-por-el-temporal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subestación Bulí alcanza un 80% de avance y fortalecerá el desarrollo energético de Ñuble",
-    "enlace": "https://g5noticias.cl/2026/08/18/subestacion-buli-alcanza-un-80-de-avance-y-fortalecera-el-desarrollo-energetico-de-nuble-2/",
+    "titulo": "Presidente José Antonio Kast tras participar en traspaso de mando de la Federación de Medios de Comunicación Social: «Tengo un compromiso irrestricto con la libertad de expresión»",
+    "enlace": "https://g5noticias.cl/2026/08/18/presidente-jose-antonio-kast-tras-participar-en-traspaso-de-mando-de-la-federacion-de-medios-de-comunicacion-social-tengo-un-compromiso-irrestricto-con-la-libertad-de-expresion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chañaral: Cuatro imputados quedan en prisión preventiva por delitos de tráfico de droga",
-    "enlace": "https://g5noticias.cl/2026/08/18/chanaral-cuatro-imputados-quedan-en-prision-preventiva-por-delitos-de-trafico-de-droga/",
+    "titulo": "Confirman condena de 10 años y un día para autor de homicidio calificado frustrado en Calama",
+    "enlace": "https://g5noticias.cl/2026/08/18/confirman-condena-de-10-anos-y-un-dia-para-autor-de-homicidio-calificado-frustrado-en-calama/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputadas PDG acusan «amiguismo» en el Gobierno y exigen transparentar polémicos contratos de recién egresados",
-    "enlace": "https://g5noticias.cl/2026/08/18/diputadas-pdg-acusan-amiguismo-en-el-gobierno-y-exigen-transparentar-polemicos-contratos-de-recien-egresados/",
+    "titulo": "Entregan kits lúdicos a niños que permanecen en albergue por fuertes lluvias en Antofagasta",
+    "enlace": "https://g5noticias.cl/2026/08/18/entregan-kits-ludicos-a-ninos-que-permanecen-en-albergue-por-fuertes-lluvias-en-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Arica y Parinacota: CGR instruye sumario en Servicio de Salud y Delegación Presidencial por gestión de químicos peligrosos",
-    "enlace": "https://g5noticias.cl/2026/08/18/arica-y-parinacota-cgr-instruye-sumario-en-servicio-de-salud-y-delegacion-presidencial-por-gestion-de-quimicos-peligrosos/",
+    "titulo": "Aprueban en general propuesta para fortalecer seguridad y salud laboral",
+    "enlace": "https://g5noticias.cl/2026/08/18/aprueban-en-general-propuesta-para-fortalecer-seguridad-y-salud-laboral/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía imputa a alcalde de Coihueco que, aprovechando su cargo, cometió delitos de índole sexual contra funcionaria",
-    "enlace": "https://g5noticias.cl/2026/08/18/fiscalia-imputa-a-alcalde-de-coihueco-que-aprovechando-su-cargo-cometio-delitos-de-indole-sexual-contra-funcionaria/",
+    "titulo": "Análisis de huellas dactilares fue pieza clave para condenar a detenido a más de 15 años de cárcel",
+    "enlace": "https://g5noticias.cl/2026/08/18/analisis-de-huellas-dactilares-fue-pieza-clave-para-condenar-a-detenido-a-mas-de-15-anos-de-carcel/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputadas de la Comisión de Salud anuncian proyecto de ley para frenar narcotráfico camuflado como cannabis medicinal tras operativo «Imperio de Ámsterdam»",
-    "enlace": "https://g5noticias.cl/2026/08/18/diputadas-de-la-comision-de-salud-anuncian-proyecto-de-ley-para-frenar-narcotrafico-camuflado-como-cannabis-medicinal-tras-operativo-imperio-de-amsterdam/",
+    "titulo": "En operativo de película Carabineros OS9 detiene a autores de disparos a la Municipalidad de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/08/18/en-operativo-de-pelicula-carabineros-os9-detiene-a-autores-de-disparos-a-la-municipalidad-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Panorama viñamarino para este sábado 22/8: Día del Vinilo en la Quinta Vergara",
-    "enlace": "https://g5noticias.cl/2026/08/18/panorama-vinamarino-para-este-sabado-22-8-dia-del-vinilo-en-la-quinta-vergara/",
+    "titulo": "Bancada PPD-Independientes por reforma de seguridad: «siempre estamos abiertos a conversar pero vemos un riesgo para el futuro del país»",
+    "enlace": "https://g5noticias.cl/2026/08/18/bancada-ppd-independientes-por-reforma-de-seguridad-siempre-estamos-abiertos-a-conversar-pero-vemos-un-riesgo-para-el-futuro-del-pais/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Familias de Rauco recibieron ayuda social a través del Fondo Orasmi",
-    "enlace": "https://g5noticias.cl/2026/08/18/familias-de-rauco-recibieron-ayuda-social-a-traves-del-fondo-orasmi/",
+    "titulo": "Diputado Bassa oficia a organismos públicos por proyecto Alto Santorini y pide esclarecer eventuales conflictos de interés en su tramitación",
+    "enlace": "https://g5noticias.cl/2026/08/18/diputado-bassa-oficia-a-organismos-publicos-por-proyecto-alto-santorini-y-pide-esclarecer-eventuales-conflictos-de-interes-en-su-tramitacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremi de Energía destaca resultados de plan “Empecemos por Casa” ante sistema frontal y reporta más de 98% de Atacama con suministro eléctrico",
-    "enlace": "https://g5noticias.cl/2026/08/18/seremi-de-energia-destaca-resultados-de-plan-empecemos-por-casa-ante-sistema-frontal-y-reporta-mas-de-98-de-atacama-con-suministro-electrico/",
+    "titulo": "Bancada PDG respalda denuncia por presunta defraudación de $131 millones en Municipalidad de Olmué",
+    "enlace": "https://g5noticias.cl/2026/08/18/bancada-pdg-respalda-denuncia-por-presunta-defraudacion-de-131-millones-en-municipalidad-de-olmue/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PUCV Abierta 2026 ofrece más de 30 cursos gratuitos y online para todo público",
-    "enlace": "https://g5noticias.cl/2026/08/18/pucv-abierta-2026-ofrece-mas-de-30-cursos-gratuitos-y-online-para-todo-publico/",
+    "titulo": "EFE y Seremi de Seguridad fortalecen estrategias de seguridad en Tren Limache-Puerto",
+    "enlace": "https://g5noticias.cl/2026/08/18/efe-y-seremi-de-seguridad-fortalecen-estrategias-de-seguridad-en-tren-limache-puerto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
