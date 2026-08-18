@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "OS9 de Carabineros detuvo a autores de disparos a la Municipalidad de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/18/os9-de-carabineros-detuvo-a-autores-de-disparos-a-la-municipalidad-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Perforadora de casi 100 toneladas arriba al Terminal Puerto Coquimbo para continuar su traslado hacia faena minera",
     "enlace": "https://www.elcoquimbano.cl/2026/08/17/perforadora-de-casi-100-toneladas-arriba-al-terminal-puerto-coquimbo-para-continuar-su-traslado-hacia-faena-minera/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Bandita de León y Semillero de la Escuela David León Tapia de Tongoy serán protagonistas de serie infantil “Talentos” del CNTV",
     "enlace": "https://www.elcoquimbano.cl/2026/08/12/bandita-de-leon-y-semillero-de-la-escuela-david-leon-tapia-de-tongoy-seran-protagonistas-de-serie-infantil-talentos-del-cntv/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Aguas del Valle informa corte de emergencia acotado por rotura de matriz en Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/12/aguas-del-valle-informa-corte-de-emergencia-acotado-por-rotura-de-matriz-en-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Salamanca: Fiscalía formalizó a sujetos por robo con violencia",
+    "enlace": "https://laserenaonline.cl/2026/08/18/salamanca-fiscalia-formalizo-a-sujetos-por-robo-con-violencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "La Serena: Fiscalía formalizó investigación por femicidio íntimo en grado de frustrado",
     "enlace": "https://laserenaonline.cl/2026/08/18/la-serena-fiscalia-formalizo-investigacion-por-femicidio-intimo-en-grado-de-frustrado/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Seremi de Ciencia impulsa nuevas acciones para acercar el conocimiento científico a niñas, niños y jóvenes de la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/08/17/seremi-de-ciencia-impulsa-nuevas-acciones-para-acercar-el-conocimiento-cientifico-a-ninas-ninos-y-jovenes-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Humanización: el paradigma que se instala con fuerza y pone la dignidad al centro de la atención de salud",
-    "enlace": "https://laserenaonline.cl/2026/08/17/humanizacion-el-paradigma-que-se-instala-con-fuerza-y-pone-la-dignidad-al-centro-de-la-atencion-de-salud/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,96 +1008,6 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
-    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
-    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos presenta querella criminal por robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
-    "enlace": "https://losviloschile.cl/sin-categoria/municipalidad-de-los-vilos-presenta-querella-criminal-por-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Pescadores de Los Vilos accedieron a 124 prestaciones de salud durante operativo en caleta San Pedro",
-    "enlace": "https://losviloschile.cl/actualidad/pescadores-de-los-vilos-accedieron-a-124-prestaciones-de-salud-durante-operativo-en-caleta-san-pedro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
-    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
-    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
-    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
-    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
-    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
-    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
-    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
     "titulo": "Escuela Luis Cruz Martínez de Andacollo se integra a la Red de Escuelas Líderes con innovador proyecto educativo",
     "enlace": "https://www.elandacollino.cl/2026/08/16/escuela-luis-cruz-martinez-de-andacollo-se-integra-a-la-red-de-escuelas-lideres-con-innovador-proyecto-educativo/",
     "descripcion": "",
@@ -1458,6 +1368,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "La economía sigue golpeada: PIB de segundo trimestre cae 0,2% y Chile ya suma todo un semestre en rojo",
+    "enlace": "https://www.maray.cl/atacama/18/08/2026/la-economia-sigue-golpeada-pib-de-segundo-trimestre-cae-02-y-chile-ya-suma-todo-un-semestre-en-rojo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "“Sonrisas que nos Unen” cerró su ciclo de atención dental con más de 300 personas beneficiadas en Paipote",
     "enlace": "https://www.maray.cl/atacama/18/08/2026/sonrisas-que-nos-unen-cerro-su-ciclo-de-atencion-dental-con-mas-de-300-personas-beneficiadas-en-paipote/",
     "descripcion": "",
@@ -1532,15 +1451,6 @@
   {
     "titulo": "Disparos de Carabinero dejan a un fallecido durante procedimiento en Quilicura",
     "enlace": "https://www.maray.cl/pais/18/08/2026/disparos-de-carabinero-dejan-a-un-fallecido-durante-procedimiento-en-quilicura/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Palestino golea a Huachipato y se mete en la parte alta del Campeonato",
-    "enlace": "https://www.maray.cl/deportes/18/08/2026/palestino-golea-a-huachipato-y-se-mete-en-la-parte-alta-del-campeonato/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipio de Valparaíso avanza en la restauración de la Escuela Municipal de Bellas Artes con histórica inversión FNDR",
-    "enlace": "https://g5noticias.cl/2026/08/18/municipio-de-valparaiso-avanza-en-la-restauracion-de-la-escuela-municipal-de-bellas-artes-con-historica-inversion-fndr/",
+    "titulo": "Primera Dama, alcalde de Huechuraba y SEREMI de Desarrollo Social y Familia RM entregan donación de guitarras a personas mayores",
+    "enlace": "https://g5noticias.cl/2026/08/18/primera-dama-alcalde-de-huechuraba-y-seremi-de-desarrollo-social-y-familia-rm-entregan-donacion-de-guitarras-a-personas-mayores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Conoces la camioneta más potente de su categoría? SINOTRUK invita a descubrir su Bolden con test drives disponibles en todo Chile",
-    "enlace": "https://g5noticias.cl/2026/08/18/conoces-la-camioneta-mas-potente-de-su-categoria-sinotruk-invita-a-descubrir-su-bolden-con-test-drives-disponibles-en-todo-chile/",
+    "titulo": "Ejecutivo otorga suma urgencia a proyecto de Entornos Digitales Seguros y acelera acuerdo transversal por la infancia",
+    "enlace": "https://g5noticias.cl/2026/08/18/ejecutivo-otorga-suma-urgencia-a-proyecto-de-entornos-digitales-seguros-y-acelera-acuerdo-transversal-por-la-infancia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "En Nogales: Vecinos de El Garretón contarán con nueva sede social",
-    "enlace": "https://g5noticias.cl/2026/08/18/en-nogales-vecinos-de-el-garreton-contaran-con-nueva-sede-social/",
+    "titulo": "BAFONA anuncia presentaciones en regiones de Valparaíso, O’Higgins y Metropolitana durante agosto",
+    "enlace": "https://g5noticias.cl/2026/08/18/bafona-anuncia-presentaciones-en-regiones-de-valparaiso-ohiggins-y-metropolitana-durante-agosto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Y si no es falta de atención? Cinco señales que podrían revelar un problema de audición en niños",
-    "enlace": "https://g5noticias.cl/2026/08/18/y-si-no-es-falta-de-atencion-cinco-senales-que-podrian-revelar-un-problema-de-audicion-en-ninos/",
+    "titulo": "Diputado Cuello advierte que reforma de seguridad de Kast puede ser controlada por el Tribunal Constitucional",
+    "enlace": "https://g5noticias.cl/2026/08/18/diputado-cuello-advierte-que-reforma-de-seguridad-de-kast-puede-ser-controlada-por-el-tribunal-constitucional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiestas de fin de año: Empresas buscan experiencias para fortalecer a sus equipos y Mampato apuesta por celebraciones inolvidables",
-    "enlace": "https://g5noticias.cl/2026/08/18/fiestas-de-fin-de-ano-empresas-buscan-experiencias-para-fortalecer-a-sus-equipos-y-mampato-apuesta-por-celebraciones-inolvidables/",
+    "titulo": "El actual campeón mundial del freestyle estará en Quilpué en la segunda edición del Festival de Jóvenes",
+    "enlace": "https://g5noticias.cl/2026/08/18/el-actual-campeon-mundial-del-freestyle-estara-en-quilpue-en-la-segunda-edicion-del-festival-de-jovenes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Agosto, Mes del Corazón: el momento de escuchar sus latidos. Por Tania Bocaz Académica Escuela de Enfermería Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/08/18/agosto-mes-del-corazon-el-momento-de-escuchar-sus-latidos-por-tania-bocaz-academica-escuela-de-enfermeria-universidad-de-las-americas/",
+    "titulo": "200 dirigentes sociales de Limache fortalecen sus liderazgos en jornada de capacitación impulsada por la municipalidad",
+    "enlace": "https://g5noticias.cl/2026/08/18/200-dirigentes-sociales-de-limache-fortalecen-sus-liderazgos-en-jornada-de-capacitacion-impulsada-por-la-municipalidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ford integrará Apple Maps a su nueva plataforma de vehículos eléctricos desde 2027",
-    "enlace": "https://g5noticias.cl/2026/08/18/ford-integrara-apple-maps-a-su-nueva-plataforma-de-vehiculos-electricos-desde-2027-2/",
+    "titulo": "China alerta de que un fuerte fenómeno ‘El Niño’ agravará las lluvias y los riesgos sobre sus mares",
+    "enlace": "https://g5noticias.cl/2026/08/18/china-alerta-de-que-un-fuerte-fenomeno-el-nino-agravara-las-lluvias-y-los-riesgos-sobre-sus-mares/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SAC San Antonio logra histórico golpe al Crimen Organizado Transnacional: 10 detenidos y 396 kilos de droga incautados",
-    "enlace": "https://g5noticias.cl/2026/08/18/sac-san-antonio-logra-historico-golpe-al-crimen-organizado-transnacional-10-detenidos-y-396-kilos-de-droga-incautados/",
+    "titulo": "Trump amenaza con bombardear Omán tras acuerdo anunciado entre Teherán y Mascate sobre el estrecho de Ormuz",
+    "enlace": "https://g5noticias.cl/2026/08/18/trump-amenaza-con-bombardear-oman-tras-acuerdo-anunciado-entre-teheran-y-mascate-sobre-el-estrecho-de-ormuz/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ciberdelincuentes aprovechan Microsoft Authenticator para entrar a cuentas corporativas: Kaspersky",
-    "enlace": "https://g5noticias.cl/2026/08/18/ciberdelincuentes-aprovechan-microsoft-authenticator-para-entrar-a-cuentas-corporativas-kaspersky/",
+    "titulo": "PIB cae 0,2% en segundo trimestre y economía chilena completa primer semestre en terreno negativo",
+    "enlace": "https://g5noticias.cl/2026/08/18/pib-cae-02-en-segundo-trimestre-y-economia-chilena-completa-primer-semestre-en-terreno-negativo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desfile en Homenaje al Natalicio Bernardo O’Higgins en La Calera",
-    "enlace": "https://g5noticias.cl/2026/08/18/desfile-en-homenaje-al-natalicio-bernardo-ohiggins-en-la-calera/",
+    "titulo": "El motor invisible: la minería como impulso al desarrollo del transporte. Por Tomás Ramírez, Gerente Comercial y Flotas de Mitsubishi Motors Chile (Astara Chile)",
+    "enlace": "https://g5noticias.cl/2026/08/18/el-motor-invisible-la-mineria-como-impulso-al-desarrollo-del-transporte-por-tomas-ramirez-gerente-comercial-y-flotas-de-mitsubishi-motors-chile-astara-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
