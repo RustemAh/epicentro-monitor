@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Puestos, food trucks y baños químicos: La Pampilla 2026 abre sus inscripciones",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/18/puestos-food-trucks-y-banos-quimicos-la-pampilla-2026-abre-sus-inscripciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Bibliomóvil Regional llegará a Tierras Blancas para fomentar la lectura y el acceso a la cultura",
     "enlace": "https://www.elcoquimbano.cl/2026/08/18/bibliomovil-regional-llegara-a-tierras-blancas-para-fomentar-la-lectura-y-el-acceso-a-la-cultura/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Alcalde de Coquimbo anuncia  ahora la “Pampilla de la Gente” para el 18 de septiembre",
     "enlace": "https://www.elcoquimbano.cl/2026/08/13/alcalde-de-coquimbo-anuncia-ahora-la-pampilla-de-la-gente-para-el-18-de-septiembre/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Despliegue reforzado en Tierras Blancas deja diez detenidos y casi 500 fiscalizaciones",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/13/despliegue-reforzado-en-tierras-blancas-deja-diez-detenidos-y-casi-500-fiscalizaciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "“La Pampilla de la Gente” comienza a tomar forma y apuesta por la reactivación del comercio local",
+    "enlace": "https://laserenaonline.cl/2026/08/18/la-pampilla-de-la-gente-comienza-a-tomar-forma-y-apuesta-por-la-reactivacion-del-comercio-local/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Educación y desarrollo local: Más de 1.600 jóvenes del Choapa han recibido becas de Minera Los Pelambres para apoyar sus estudios superiores",
     "enlace": "https://laserenaonline.cl/2026/08/18/educacion-y-desarrollo-local-mas-de-1-600-jovenes-del-choapa-han-recibido-becas-de-minera-los-pelambres-para-apoyar-sus-estudios-superiores/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Coquimbo: Fiscalía formalizó hechos ocurridos en Pan de Azúcar",
     "enlace": "https://laserenaonline.cl/2026/08/18/coquimbo-fiscalia-formalizo-hechos-ocurridos-en-pan-de-azucar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Salamanca: Fiscalía formalizó a sujetos por robo con violencia",
-    "enlace": "https://laserenaonline.cl/2026/08/18/salamanca-fiscalia-formalizo-a-sujetos-por-robo-con-violencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1368,6 +1368,42 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "DICREP realizará remate online de vehículos y especies fiscales en Atacama",
+    "enlace": "https://www.maray.cl/atacama/18/08/2026/dicrep-realizara-remate-online-de-vehiculos-y-especies-fiscales-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "MinMichael Clark queda en prisión preventiva por el caso Sartor",
+    "enlace": "https://www.maray.cl/pais/18/08/2026/minmichael-clark-queda-en-prision-preventiva-por-el-caso-sartor/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Delegada Sofía Cid: “La respuesta en Atacama moviliza cerca de $24 mil millones y ya hemos entregado 9.911 bonos de recuperación”",
+    "enlace": "https://www.maray.cl/atacama/18/08/2026/delegada-sofia-cid-la-respuesta-en-atacama-moviliza-cerca-de-24-mil-millones-y-ya-hemos-entregado-9-911-bonos-de-recuperacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "SEREMI de Educación de Atacama informa que este miércoles se mantiene la suspensión de clases solo en comunas y sectores específicos",
+    "enlace": "https://www.maray.cl/atacama/18/08/2026/seremi-de-educacion-de-atacama-informa-que-este-miercoles-se-mantiene-la-suspension-de-clases-solo-en-comunas-y-sectores-especificos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Presidente Kast declara estado de excepción en Tocopilla tras emergencia por aluviones",
     "enlace": "https://www.maray.cl/atacama/18/08/2026/presidente-kast-declara-estado-de-excepcion-en-tocopilla-tras-emergencia-por-aluviones/",
     "descripcion": "",
@@ -1415,42 +1451,6 @@
   {
     "titulo": "Descubre la tecnología de inspección robotizada con que Nueva Atacama monitorea sus redes",
     "enlace": "https://www.maray.cl/podcast-de-noticias/18/08/2026/descubre-la-tecnologia-de-inspeccion-robotizada-con-que-nueva-atacama-monitorea-sus-redes-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sence Atacama llama a empresas a postular a subsidio que financia parte del sueldo mínimo",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/18/08/2026/sence-atacama-llama-a-empresas-a-postular-a-subsidio-que-financia-parte-del-sueldo-minimo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Lluvias dejan una oportunidad y nuevos desafíos para los olivares de Atacama",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/18/08/2026/lluvias-dejan-una-oportunidad-y-nuevos-desafios-para-los-olivares-de-atacama-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Autopsia preliminar descarta signos de violencia en muerte de Hayden Panettiere",
-    "enlace": "https://www.maray.cl/internacional/18/08/2026/autopsia-preliminar-descarta-signos-de-violencia-en-muerte-de-hayden-panettiere/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "La economía sigue golpeada: PIB de segundo trimestre cae 0,2% y Chile ya suma todo un semestre en rojo",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/la-economia-sigue-golpeada-pib-de-segundo-trimestre-cae-02-y-chile-ya-suma-todo-un-semestre-en-rojo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,78 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Puerto Valparaíso recibe a uno de los buques de mayor tamaño que han arribado al país",
+    "enlace": "https://g5noticias.cl/2026/08/18/puerto-valparaiso-recibe-a-uno-de-los-buques-de-mayor-tamano-que-han-arribado-al-pais/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputada Macarena Santelices reivindica a Sebastián Zamora tras salida de Ximena Chong de jefatura: “Al fin se hace justicia”",
+    "enlace": "https://g5noticias.cl/2026/08/18/diputada-macarena-santelices-reivindica-a-sebastian-zamora-tras-salida-de-ximena-chong-de-jefatura-al-fin-se-hace-justicia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "TOP de Iquique condena a militares por tráfico de migrantes en Colchane",
+    "enlace": "https://g5noticias.cl/2026/08/18/top-de-iquique-condena-a-militares-por-trafico-de-migrantes-en-colchane/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Quillota: Bomberos rescatan a perrito desde islote al interior del cauce del río Aconcagua",
+    "enlace": "https://g5noticias.cl/2026/08/18/quillota-bomberos-rescatan-a-perrito-desde-islote-al-interior-del-cauce-del-rio-aconcagua/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Caso Sartor: decretan prisión preventiva para Michael Clark, los hermanos Larraín y Sergio Yáñez",
+    "enlace": "https://g5noticias.cl/2026/08/18/caso-sartor-decretan-prision-preventiva-para-michael-clark-los-hermanos-larrain-y-sergio-yanez/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Villa Alemana certifica a más de 90 participantes en cursos de formación de árbitros y monitores de fútbol infantil",
+    "enlace": "https://g5noticias.cl/2026/08/18/municipalidad-de-villa-alemana-certifica-a-mas-de-90-participantes-en-cursos-de-formacion-de-arbitros-y-monitores-de-futbol-infantil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Carabineros detiene a sujeto por sustraer medidores de agua en La Reina",
+    "enlace": "https://g5noticias.cl/2026/08/18/carabineros-detiene-a-sujeto-por-sustraer-medidores-de-agua-en-la-reina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hospital Claudio Vicuña logró exitosa recuperación de paciente complejo tratado en la Unidad de Paciente Crítico",
+    "enlace": "https://g5noticias.cl/2026/08/18/hospital-claudio-vicuna-logro-exitosa-recuperacion-de-paciente-complejo-tratado-en-la-unidad-de-paciente-critico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Hasta el 25 de agosto se aplicará la Ficha de Afectación Silvoagropecuaria en la Región de Coquimbo",
     "enlace": "https://g5noticias.cl/2026/08/18/hasta-el-25-de-agosto-se-aplicara-la-ficha-de-afectacion-silvoagropecuaria-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -1649,78 +1721,6 @@
   {
     "titulo": "Diputado Andrés Celis por carreras de galgos: “Regularlas es darle apariencia de legalidad a un negocio construido sobre el sufrimiento”",
     "enlace": "https://g5noticias.cl/2026/08/18/diputado-andres-celis-por-carreras-de-galgos-regularlas-es-darle-apariencia-de-legalidad-a-un-negocio-construido-sobre-el-sufrimiento/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Caldera: Fiscalía y PDI realizan diligencias por personas desaparecida en sector costero",
-    "enlace": "https://g5noticias.cl/2026/08/18/caldera-fiscalia-y-pdi-realizan-diligencias-por-personas-desaparecida-en-sector-costero-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Corte de Valparaíso ordenó al IPS emitir pronunciamiento sobre 68 solicitudes de acceso a pensión garantizada universal",
-    "enlace": "https://g5noticias.cl/2026/08/18/corte-de-valparaiso-ordeno-al-ips-emitir-pronunciamiento-sobre-68-solicitudes-de-acceso-a-pension-garantizada-universal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Fiscalía de Los Andes logra condena para los dos acusados en el denominado caso “fosas”",
-    "enlace": "https://g5noticias.cl/2026/08/18/fiscalia-de-los-andes-logra-condena-para-los-dos-acusados-en-el-denominado-caso-fosas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Municipio de Valparaíso da el vamos a programa de reparación vial en el Plan, Placilla y Laguna Verde",
-    "enlace": "https://g5noticias.cl/2026/08/18/municipio-de-valparaiso-da-el-vamos-a-programa-de-reparacion-vial-en-el-plan-placilla-y-laguna-verde/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "PDI Valparaíso detiene a imputado que engañaba a jóvenes con falsas ofertas de trabajo para cometer delitos sexuales",
-    "enlace": "https://g5noticias.cl/2026/08/18/pdi-valparaiso-detiene-a-imputado-que-enganaba-a-jovenes-con-falsas-ofertas-de-trabajo-para-cometer-delitos-sexuales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Coro de Cámara UPLA se presentará en Espacio La Compañía en nueva temporada musical",
-    "enlace": "https://g5noticias.cl/2026/08/18/coro-de-camara-upla-se-presentara-en-espacio-la-compania-en-nueva-temporada-musical/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Municipio de Viña del Mar definió a sus representantes al Concurso Provincial de Cueca 2026 para personas mayores",
-    "enlace": "https://g5noticias.cl/2026/08/18/municipio-de-vina-del-mar-definio-a-sus-representantes-al-concurso-provincial-de-cueca-2026-para-personas-mayores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Cambios en Codelco: Gerente General de División Ventanas es nombrado para dirigir Chuquicamata",
-    "enlace": "https://g5noticias.cl/2026/08/18/cambios-en-codelco-gerente-general-de-division-ventanas-es-nombrado-para-dirigir-chuquicamata/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
