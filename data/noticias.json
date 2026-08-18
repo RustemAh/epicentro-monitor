@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Cámara de Comercio y Turismo de La Serena pide regularizar a trabajadores extranjeros ante masivas fiscalizaciones de la PDI",
+    "enlace": "https://www.elserenense.cl/regionales/2026/08/18/camara-de-comercio-y-turismo-de-la-serena-pide-regularizar-a-trabajadores-extranjeros-ante-masivas-fiscalizaciones-de-la-pdi/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "La Serena realizó balance de las lluvias y mantiene despliegue preventivo en sectores urbanos y rurales",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/17/la-serena-realizo-balance-de-las-lluvias-y-mantiene-despliegue-preventivo-en-sectores-urbanos-y-rurales/",
     "descripcion": "",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Alcaldesa de La Serena solicita puente mecano para recuperar conectividad con el Valle de Elqui",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/14/alcaldesa-de-la-serena-solicita-puente-mecano-para-recuperar-conectividad-con-el-valle-de-elqui/",
+    "titulo": "Coquimbo: Fiscalía formalizó hechos ocurridos en Pan de Azúcar",
+    "enlace": "https://laserenaonline.cl/2026/08/18/coquimbo-fiscalia-formalizo-hechos-ocurridos-en-pan-de-azucar/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Municipio de La Serena activa COGRID comunal en Altovalsol ante nuevas lluvias",
     "enlace": "https://laserenaonline.cl/2026/08/17/municipio-de-la-serena-activa-cogrid-comunal-en-altovalsol-ante-nuevas-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Seremi de Ciencia impulsa nuevas acciones para acercar el conocimiento científico a niñas, niños y jóvenes de la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/17/seremi-de-ciencia-impulsa-nuevas-acciones-para-acercar-el-conocimiento-cientifico-a-ninas-ninos-y-jovenes-de-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Más de 1.600 jóvenes del Choapa han recibido becas de Minera Los Pelambres para apoyar sus estudios superiores",
+    "enlace": "https://www.elillapelino.cl/2026/08/18/mas-de-1-600-jovenes-del-choapa-han-recibido-becas-de-minera-los-pelambres-para-apoyar-sus-estudios-superiores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Nuevas lluvias dejan sectores aislados y graves daños en caminos de Illapel",
     "enlace": "https://www.elillapelino.cl/2026/08/18/nuevas-lluvias-dejan-sectores-aislados-y-graves-danos-en-caminos-de-illapel/",
     "descripcion": "",
@@ -891,17 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Remate. Inmueble resto del Lote 44 Manzana 7, Lote 1-B, Parcela 36, Proyecto de Parcelación Las Cañas, Illapel",
-    "enlace": "https://www.elillapelino.cl/2026/08/11/remate-inmueble-resto-del-lote-44-manzana-7-lote-1-b-parcela-36-proyecto-de-parcelacion-las-canas-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Excarabinero acusa golpes tras detención en Illapel y Carabineros sostiene que estaba ebrio",
-    "enlace": "https://veetv.cl/excarabinero-denuncia-golpes-detencion-illapel/",
+    "titulo": "AHORA: Trabajadores paralizan obras del nuevo Hospital de Illapel por pagos pendientes",
+    "enlace": "https://veetv.cl/trabajadores-paralizan-obras-hospital-illapel-pagos-pendientes/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Desaprobación de Kast sube tres puntos y alcanza el 55% en encuesta Criteria",
-    "enlace": "https://veetv.cl/desaprobacion-kast-sube-55-criteria/",
+    "titulo": "Excarabinero acusa golpes tras detención en Illapel y Carabineros sostiene que estaba ebrio",
+    "enlace": "https://veetv.cl/excarabinero-denuncia-golpes-detencion-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1006,6 +1006,96 @@
     "medio": "El Salamanquino",
     "zona": "Salamanca",
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
+    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos presenta querella criminal por robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
+    "enlace": "https://losviloschile.cl/sin-categoria/municipalidad-de-los-vilos-presenta-querella-criminal-por-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Pescadores de Los Vilos accedieron a 124 prestaciones de salud durante operativo en caleta San Pedro",
+    "enlace": "https://losviloschile.cl/actualidad/pescadores-de-los-vilos-accedieron-a-124-prestaciones-de-salud-durante-operativo-en-caleta-san-pedro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
+    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
+    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
+    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
+    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
+    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Escuela Luis Cruz Martínez de Andacollo se integra a la Red de Escuelas Líderes con innovador proyecto educativo",
@@ -1188,6 +1278,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Academia Parlamentaria convoca a estudiantes de enseñanza media al XII Concurso Nacional de Ensayos sobre ciudadanía digital y democracia",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/academia-parlamentaria-convoca-a-estudiantes-de-ensenanza-media-al-xii-concurso-nacional-de-ensayos-sobre-ciudadania-digital-y-democracia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Chañaral: Cuatro imputados quedan en prisión preventiva por delitos de tráfico de droga",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/chanaral-cuatro-imputados-quedan-en-prision-preventiva-por-delitos-de-trafico-de-droga/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "“Sonrisas que nos Unen” cerró su ciclo de atención dental con más de 300 personas beneficiadas en Paipote",
     "enlace": "https://www.atacamanoticias.cl/2026/08/18/sonrisas-que-nos-unen-cerro-su-ciclo-de-atencion-dental-con-mas-de-300-personas-beneficiadas-en-paipote/",
     "descripcion": "",
@@ -1253,24 +1361,6 @@
   {
     "titulo": "El nuevo viaje que Javier Milei alista para EEUU, esta vez para hacer campaña por Trump",
     "enlace": "https://www.atacamanoticias.cl/2026/08/17/el-nuevo-viaje-que-javier-milei-alista-para-eeuu-esta-vez-para-hacer-campana-por-trump/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno extiende Emergencia Preventiva entre regiones de Arica y Coquimbo por sistema frontal",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/17/gobierno-extiende-emergencia-preventiva-entre-regiones-de-arica-y-coquimbo-por-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Exconcejala de Graneros desaparecida fue hallada en situación de calle en el centro de Santiago",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/17/exconcejala-de-graneros-desaparecida-fue-hallada-en-situacion-de-calle-en-el-centro-de-santiago/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1458,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Autopsia preliminar descarta signos de violencia en muerte de Hayden Panettiere",
+    "enlace": "https://www.maray.cl/internacional/18/08/2026/autopsia-preliminar-descarta-signos-de-violencia-en-muerte-de-hayden-panettiere/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "La economía sigue golpeada: PIB de segundo trimestre cae 0,2% y Chile ya suma todo un semestre en rojo",
     "enlace": "https://www.maray.cl/atacama/18/08/2026/la-economia-sigue-golpeada-pib-de-segundo-trimestre-cae-02-y-chile-ya-suma-todo-un-semestre-en-rojo/",
     "descripcion": "",
@@ -1442,15 +1541,6 @@
   {
     "titulo": "Universidad Católica va por una clasificación histórica ante Estudiantes",
     "enlace": "https://www.maray.cl/deportes/18/08/2026/universidad-catolica-va-por-una-clasificacion-historica-ante-estudiantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Disparos de Carabinero dejan a un fallecido durante procedimiento en Quilicura",
-    "enlace": "https://www.maray.cl/pais/18/08/2026/disparos-de-carabinero-dejan-a-un-fallecido-durante-procedimiento-en-quilicura/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Primera Dama, alcalde de Huechuraba y SEREMI de Desarrollo Social y Familia RM entregan donación de guitarras a personas mayores",
-    "enlace": "https://g5noticias.cl/2026/08/18/primera-dama-alcalde-de-huechuraba-y-seremi-de-desarrollo-social-y-familia-rm-entregan-donacion-de-guitarras-a-personas-mayores/",
+    "titulo": "Centro Cultural de Quillota presenta variada cartelera artística y multidisciplinaria para esta semana",
+    "enlace": "https://g5noticias.cl/2026/08/18/centro-cultural-de-quillota-presenta-variada-cartelera-artistica-y-multidisciplinaria-para-esta-semana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ejecutivo otorga suma urgencia a proyecto de Entornos Digitales Seguros y acelera acuerdo transversal por la infancia",
-    "enlace": "https://g5noticias.cl/2026/08/18/ejecutivo-otorga-suma-urgencia-a-proyecto-de-entornos-digitales-seguros-y-acelera-acuerdo-transversal-por-la-infancia/",
+    "titulo": "CGE refuerza protocolo de identificación de personal de terreno y contratistas",
+    "enlace": "https://g5noticias.cl/2026/08/18/cge-refuerza-protocolo-de-identificacion-de-personal-de-terreno-y-contratistas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "BAFONA anuncia presentaciones en regiones de Valparaíso, O’Higgins y Metropolitana durante agosto",
-    "enlace": "https://g5noticias.cl/2026/08/18/bafona-anuncia-presentaciones-en-regiones-de-valparaiso-ohiggins-y-metropolitana-durante-agosto/",
+    "titulo": "Diputada Ximena Naranjo pide al presidente kast decretar estado de catástrofe en Tarapacá ante escenario climático y riesgo para las familias",
+    "enlace": "https://g5noticias.cl/2026/08/18/diputada-ximena-naranjo-pide-al-presidente-kast-decretar-estado-de-catastrofe-en-tarapaca-ante-escenario-climatico-y-riesgo-para-las-familias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Cuello advierte que reforma de seguridad de Kast puede ser controlada por el Tribunal Constitucional",
-    "enlace": "https://g5noticias.cl/2026/08/18/diputado-cuello-advierte-que-reforma-de-seguridad-de-kast-puede-ser-controlada-por-el-tribunal-constitucional/",
+    "titulo": "Descubren nubes de silicato en la atmósfera diurna del único Neptuno ultra-caliente",
+    "enlace": "https://g5noticias.cl/2026/08/18/descubren-nubes-de-silicato-en-la-atmosfera-diurna-del-unico-neptuno-ultra-caliente/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El actual campeón mundial del freestyle estará en Quilpué en la segunda edición del Festival de Jóvenes",
-    "enlace": "https://g5noticias.cl/2026/08/18/el-actual-campeon-mundial-del-freestyle-estara-en-quilpue-en-la-segunda-edicion-del-festival-de-jovenes/",
+    "titulo": "¿Cuántas papas fritas se comen en Chile? G&N Brands celebra con semana dedicada a este clásico",
+    "enlace": "https://g5noticias.cl/2026/08/18/cuantas-papas-fritas-se-comen-en-chile-gn-brands-celebra-con-semana-dedicada-a-este-clasico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "200 dirigentes sociales de Limache fortalecen sus liderazgos en jornada de capacitación impulsada por la municipalidad",
-    "enlace": "https://g5noticias.cl/2026/08/18/200-dirigentes-sociales-de-limache-fortalecen-sus-liderazgos-en-jornada-de-capacitacion-impulsada-por-la-municipalidad/",
+    "titulo": "El fenómeno televisivo y musical “Caleuchístico” llega a Teatro CA660",
+    "enlace": "https://g5noticias.cl/2026/08/18/el-fenomeno-televisivo-y-musical-caleuchistico-llega-a-teatro-ca660/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "China alerta de que un fuerte fenómeno ‘El Niño’ agravará las lluvias y los riesgos sobre sus mares",
-    "enlace": "https://g5noticias.cl/2026/08/18/china-alerta-de-que-un-fuerte-fenomeno-el-nino-agravara-las-lluvias-y-los-riesgos-sobre-sus-mares/",
+    "titulo": "MINVU concreta respuesta habitacional en el Aconcagua con entrega de viviendas para familias de San Esteban",
+    "enlace": "https://g5noticias.cl/2026/08/18/minvu-concreta-respuesta-habitacional-en-el-aconcagua-con-entrega-de-viviendas-para-familias-de-san-esteban/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Trump amenaza con bombardear Omán tras acuerdo anunciado entre Teherán y Mascate sobre el estrecho de Ormuz",
-    "enlace": "https://g5noticias.cl/2026/08/18/trump-amenaza-con-bombardear-oman-tras-acuerdo-anunciado-entre-teheran-y-mascate-sobre-el-estrecho-de-ormuz/",
+    "titulo": "Presentan proyecto de Ley para sancionar la incitación al odio con hasta 5 años de cárcel y multa de más de $28 millones",
+    "enlace": "https://g5noticias.cl/2026/08/18/presentan-proyecto-de-ley-para-sancionar-la-incitacion-al-odio-con-hasta-5-anos-de-carcel-y-multa-de-mas-de-28-millones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PIB cae 0,2% en segundo trimestre y economía chilena completa primer semestre en terreno negativo",
-    "enlace": "https://g5noticias.cl/2026/08/18/pib-cae-02-en-segundo-trimestre-y-economia-chilena-completa-primer-semestre-en-terreno-negativo/",
+    "titulo": "Por qué Bet7k se ha convertido en el nuevo casino más buscado de Chile",
+    "enlace": "https://g5noticias.cl/2026/08/18/por-que-bet7k-se-ha-convertido-en-el-nuevo-casino-mas-buscado-de-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El motor invisible: la minería como impulso al desarrollo del transporte. Por Tomás Ramírez, Gerente Comercial y Flotas de Mitsubishi Motors Chile (Astara Chile)",
-    "enlace": "https://g5noticias.cl/2026/08/18/el-motor-invisible-la-mineria-como-impulso-al-desarrollo-del-transporte-por-tomas-ramirez-gerente-comercial-y-flotas-de-mitsubishi-motors-chile-astara-chile/",
+    "titulo": "La discapacidad nunca fue un impedimento: Equipo chileno de Fútbol Adaptado de Puente Alto hace historia y se corona campeón de la Genuine Cup 2026 en Estados Unidos",
+    "enlace": "https://g5noticias.cl/2026/08/18/la-discapacidad-nunca-fue-un-impedimento-equipo-chileno-de-futbol-adaptado-de-puente-alto-hace-historia-y-se-corona-campeon-de-la-genuine-cup-2026-en-estados-unidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
