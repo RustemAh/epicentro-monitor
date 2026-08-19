@@ -270,6 +270,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Más de 1.600 jóvenes del Choapa han recibido becas de Minera Los Pelambres para apoyar sus estudios superiores",
+    "enlace": "https://serenaycoquimbo.cl/mas-de-1-600-jovenes-del-choapa-han-recibido-becas-de-minera-los-pelambres-para-apoyar-sus-estudios-superiores/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-1-600-jovenes-del-choapa-han-recibido-becas-de-minera-los-pelambres-para-apoyar-sus-estudios-superiores",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Gobierno y municipio priorizan acciones para avanzar en la recuperación de La Serena tras temporal.",
+    "enlace": "https://serenaycoquimbo.cl/gobierno-y-municipio-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-y-municipio-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Control policial en Tierras Blancas termina con detenido y decomiso de municiones, droga y un arma blanca",
     "enlace": "https://serenaycoquimbo.cl/control-policial-en-tierras-blancas-termina-con-detenido-y-decomiso-de-municiones-droga-y-un-arma-blanca/?utm_source=rss&utm_medium=rss&utm_campaign=control-policial-en-tierras-blancas-termina-con-detenido-y-decomiso-de-municiones-droga-y-un-arma-blanca",
     "descripcion": "",
@@ -335,24 +353,6 @@
   {
     "titulo": "Nacional. Esta noche, hallan cadáver de hombre con disparo en la cabeza",
     "enlace": "https://serenaycoquimbo.cl/nacional-esta-noche-hallan-cadaver-de-hombre-con-disparo-en-la-cabeza/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-noche-hallan-cadaver-de-hombre-con-disparo-en-la-cabeza",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. Hombre muere tras ser atacado con un hacha",
-    "enlace": "https://serenaycoquimbo.cl/nacional-hombre-muere-tras-ser-atacado-con-un-hacha/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-hombre-muere-tras-ser-atacado-con-un-hacha",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Aguas del Valle activa tranque de respaldo y decreta alerta amarilla por extrema turbiedad en el río Elqui",
-    "enlace": "https://serenaycoquimbo.cl/aguas-del-valle-activa-tranque-de-respaldo-y-decreta-alerta-amarilla-por-extrema-turbiedad-en-el-rio-elqui/?utm_source=rss&utm_medium=rss&utm_campaign=aguas-del-valle-activa-tranque-de-respaldo-y-decreta-alerta-amarilla-por-extrema-turbiedad-en-el-rio-elqui",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Informe de la Dirección General de Aguas confirma grave contaminación hídrica por derrame de Minera Tres Valles en Choapa",
+    "enlace": "https://www.elillapelino.cl/2026/08/19/informe-de-la-direccion-general-de-aguas-confirma-grave-contaminacion-hidrica-por-derrame-de-minera-tres-valles-en-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Más de 1.600 jóvenes del Choapa han recibido becas de Minera Los Pelambres para apoyar sus estudios superiores",
     "enlace": "https://www.elillapelino.cl/2026/08/18/mas-de-1-600-jovenes-del-choapa-han-recibido-becas-de-minera-los-pelambres-para-apoyar-sus-estudios-superiores/",
     "descripcion": "",
@@ -884,15 +893,6 @@
   {
     "titulo": "Remate. Inmueble resto del Lote 44 Manzana 7, Lote 1-B, Parcela 36, Proyecto de Parcelación Las Cañas, Illapel",
     "enlace": "https://www.elillapelino.cl/2026/08/12/remate-inmueble-resto-del-lote-44-manzana-7-lote-1-b-parcela-36-proyecto-de-parcelacion-las-canas-illapel-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "IPS ChileAtiende despliega atención móvil para apoyar a familias afectadas por la emergencia",
-    "enlace": "https://www.elillapelino.cl/2026/08/11/ips-chileatiende-despliega-atencion-movil-para-apoyar-a-familias-afectadas-por-la-emergencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Illapelino",
@@ -1188,6 +1188,60 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Más de 100 mil personas despiden a reconocido influencer con progeria: Era el más longevo del mundo",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/mas-de-100-mil-personas-despiden-a-reconocido-influencer-con-progeria-era-el-mas-longevo-del-mundo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Se viene el 18 y el aguinaldo de Fiestas Patrias para el sector público: revisa cuánto recibirán",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/se-viene-el-18-y-el-aguinaldo-de-fiestas-patrias-para-el-sector-publico-revisa-cuanto-recibiran/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fin al sueño cruzado: la UC no supo jugar sin Zampedri y fue goleada por Estudiantes en Libertadores",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/fin-al-sueno-cruzado-la-uc-no-supo-jugar-sin-zampedri-y-fue-goleada-por-estudiantes-en-libertadores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Proyecto que extiende retención de extranjeros hasta 180 días será votado en septiembre por Diputados",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/proyecto-que-extiende-retencion-de-extranjeros-hasta-180-dias-sera-votado-en-septiembre-por-diputados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "“No conocen el funcionamiento del Estado”: ANEF cuestiona comisión revisora de estatuto administrativo",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/no-conocen-el-funcionamiento-del-estado-anef-cuestiona-comision-revisora-de-estatuto-administrativo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "TC admite requerimiento del Gobierno por norma que obliga a reconectar gratis servicios en emergencias",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/18/tc-admite-requerimiento-del-gobierno-por-norma-que-obliga-a-reconectar-gratis-servicios-en-emergencias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Academia Parlamentaria convoca a estudiantes de enseñanza media al XII Concurso Nacional de Ensayos sobre ciudadanía digital y democracia",
     "enlace": "https://www.atacamanoticias.cl/2026/08/18/academia-parlamentaria-convoca-a-estudiantes-de-ensenanza-media-al-xii-concurso-nacional-de-ensayos-sobre-ciudadania-digital-y-democracia/",
     "descripcion": "",
@@ -1217,60 +1271,6 @@
   {
     "titulo": "Lundin Mining lanza Portal de Proveedores Locales para fortalecer el desarrollo económico en Atacama",
     "enlace": "https://www.atacamanoticias.cl/2026/08/18/lundin-mining-lanza-portal-de-proveedores-locales-para-fortalecer-el-desarrollo-economico-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "MOP Atacama mantiene desplegados equipos y maquinaria para resguardar la conectividad en sectores interiores de Tierra Amarilla",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/18/mop-atacama-mantiene-desplegados-equipos-y-maquinaria-para-resguardar-la-conectividad-en-sectores-interiores-de-tierra-amarilla/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "INIA Intihuasi entrega recomendaciones para el manejo de frutales tras las intensas lluvias",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/18/inia-intihuasi-entrega-recomendaciones-para-el-manejo-de-frutales-tras-las-intensas-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno Regional concreta firma de tres convenios FRIL por más de $870 millones para nuevas obras en Alto del Carmen",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/18/gobierno-regional-concreta-firma-de-tres-convenios-fril-por-mas-de-870-millones-para-nuevas-obras-en-alto-del-carmen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cayó el Nº 3 de la FIFA: Kevin Lamour fue despedido tras criticar el fracasado plan de Infantino",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/17/cayo-el-no-3-de-la-fifa-kevin-lamour-fue-despedido-tras-criticar-el-fracasado-plan-de-infantino/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Farmear aura”: Qué significan los nuevos memes y virales de la generación Z y Alfa",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/17/farmear-aura-que-significan-los-nuevos-memes-y-virales-de-la-generacion-z-y-alfa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El nuevo viaje que Javier Milei alista para EEUU, esta vez para hacer campaña por Trump",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/17/el-nuevo-viaje-que-javier-milei-alista-para-eeuu-esta-vez-para-hacer-campana-por-trump/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,6 +1638,15 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Los Lagos, Biobío y O´Higgins, las regiones que más tardan en aprobar nuevos permisos de edificación",
+    "enlace": "https://g5noticias.cl/2026/08/18/los-lagos-biobio-y-ohiggins-las-regiones-que-mas-tardan-en-aprobar-nuevos-permisos-de-edificacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Capacitación realizada por ProChile y CREAS apoyó a nueve empresas en su proceso de internacionalización",
     "enlace": "https://g5noticias.cl/2026/08/18/capacitacion-realizada-por-prochile-y-creas-apoyo-a-nueve-empresas-en-su-proceso-de-internacionalizacion/",
     "descripcion": "",
@@ -1712,15 +1721,6 @@
   {
     "titulo": "Por primera vez desde que existen registros: Julio cierra sin episodios críticos de contaminación del aire en la Región Metropolitana",
     "enlace": "https://g5noticias.cl/2026/08/18/por-primera-vez-desde-que-existen-registros-julio-cierra-sin-episodios-criticos-de-contaminacion-del-aire-en-la-region-metropolitana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Emprendimiento chileno que disrumpe el mercado del lujo con joyería 100% ética, sustentable y trazable",
-    "enlace": "https://g5noticias.cl/2026/08/18/emprendimiento-chileno-que-disrumpe-el-mercado-del-lujo-con-joyeria-100-etica-sustentable-y-trazable/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
