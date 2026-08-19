@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "La música y la comunidad comienzan a soñar el futuro centro comunitario artístico de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/19/la-musica-y-la-comunidad-comienzan-a-sonar-el-futuro-centro-comunitario-artistico-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo Unido va por una noche histórica ante Platense y los cuartos de final de la Copa Libertadores",
     "enlace": "https://www.elcoquimbano.cl/2026/08/18/coquimbo-unido-va-por-una-noche-historica-ante-platense-y-los-cuartos-de-final-de-la-copa-libertadores/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Carabineros recupera vehículo robado y detiene a dos personas por receptación en Tierras Blancas",
     "enlace": "https://www.elcoquimbano.cl/2026/08/14/carabineros-recupera-vehiculo-robado-y-detiene-a-dos-personas-por-receptacion-en-tierras-blancas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Coquimbo será sede del Primer Congreso Zona Norte en Manejo Avanzado de Heridas",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/14/coquimbo-sera-sede-del-primer-congreso-zona-norte-en-manejo-avanzado-de-heridas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "SAN valora eliminación del horario de control de punta en septiembre y pide revisar el mecanismo",
+    "enlace": "https://laserenaonline.cl/2026/08/19/san-valora-eliminacion-del-horario-de-control-de-punta-en-septiembre-y-pide-revisar-el-mecanismo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Escuela para padres fortalece herramientas de familias con hijos neurodivergentes en La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/19/escuela-para-padres-fortalece-herramientas-de-familias-con-hijos-neurodivergentes-en-la-serena/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Reporte del tiempo hoy 19 de agosto para la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/08/19/reporte-del-tiempo-hoy-19-de-agosto-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "“La Pampilla de la Gente” comienza a tomar forma y apuesta por la reactivación del comercio local",
-    "enlace": "https://laserenaonline.cl/2026/08/18/la-pampilla-de-la-gente-comienza-a-tomar-forma-y-apuesta-por-la-reactivacion-del-comercio-local/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,15 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Restauración de maderas en las bases de los pilares de la Basílica de Andacollo revela secretos de construcción tras 133 años",
+    "enlace": "https://www.elandacollino.cl/2026/08/19/restauracion-de-maderas-en-las-bases-de-los-pilares-de-la-basilica-de-andacollo-revela-secretos-de-construccion-tras-133-anos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Accidente de alta energía deja cinco personas lesionadas en avenida Beltrán Amenábar de Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/08/19/accidente-de-alta-energia-deja-cinco-personas-lesionadas-en-avenida-beltran-amenabar-de-andacollo/",
     "descripcion": "",
@@ -1082,15 +1091,6 @@
   {
     "titulo": "Comunidad claretiana de Andacollo recibió visita canónica del Padre Henry Omonisaye",
     "enlace": "https://www.elandacollino.cl/2026/08/13/comunidad-claretiana-de-andacollo-recibio-visita-canonica-del-padre-henry-omonisaye/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Accidente deja a una persona grave tras volcamiento en la Ruta D-51 en Andacollo",
-    "enlace": "https://www.elandacollino.cl/2026/08/12/accidente-deja-a-una-persona-grave-tras-volcamiento-en-la-ruta-d-51-en-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1368,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Liceo José Antonio Carvajal de Copiapó se adjudica sala tecnológica de la CChC en el marco de sus 75 años",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/08/2026/liceo-jose-antonio-carvajal-de-copiapo-se-adjudica-sala-tecnologica-de-la-cchc-en-el-marco-de-sus-75-anos-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Evacuan comisaría: Activan protocolo sanitario tras detectar tuberculosis en detenida en La Serena",
+    "enlace": "https://www.maray.cl/pais/19/08/2026/evacuan-comisaria-activan-protocolo-sanitario-tras-detectar-tuberculosis-en-detenida-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "PDI detuvo a dos extranjeros en Copiapó e incautó cannabis y ketamina",
+    "enlace": "https://www.maray.cl/atacama/19/08/2026/pdi-detuvo-a-dos-extranjeros-en-copiapo-e-incauto-cannabis-y-ketamina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "MOP inspecciona avance de dos puentes mecano que se instalan en Freirina tras últimas lluvias",
     "enlace": "https://www.maray.cl/atacama/19/08/2026/mop-inspecciona-avance-de-dos-puentes-mecano-que-se-instalan-en-freirina-tras-ultimas-lluvias/",
     "descripcion": "",
@@ -1431,31 +1458,40 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Universidad Católica se despide de la Libertadores tras dura caída ante Estudiantes",
-    "enlace": "https://www.maray.cl/deportes/19/08/2026/universidad-catolica-se-despide-de-la-libertadores-tras-dura-caida-ante-estudiantes/",
+    "titulo": "Jardín Infantil “Bosque Encantado” impulsa primer encuentro comunal y reúne a 15 unidades educativas en La Ligua",
+    "enlace": "https://laliguanoticias.cl/2026/08/19/jardin-infantil-bosque-encantado-impulsa-primer-encuentro-comunal-y-reune-a-15-unidades-educativas-en-la-ligua/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Hallan osamentas humanas al interior de obra en construcción en San Miguel",
-    "enlace": "https://www.maray.cl/pais/19/08/2026/hallan-osamentas-humanas-al-interior-de-obra-en-construccion-en-san-miguel/",
+    "titulo": "Buscan incorporar nuevo programa de seguridad alimentaria para apoyar a familias y fortalecer emprendimientos locales de Zapallar",
+    "enlace": "https://laliguanoticias.cl/2026/08/19/buscan-incorporar-nuevo-programa-de-seguridad-alimentaria-para-apoyar-a-familias-y-fortalecer-emprendimientos-locales-de-zapallar/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Cámara declara admisibles proyectos para hacer feriado el 17 de septiembre",
-    "enlace": "https://www.maray.cl/pais/18/08/2026/camara-declara-admisibles-proyectos-para-hacer-feriado-el-17-de-septiembre/",
+    "titulo": "Hospital Biprovincial capacita a personal de Urgencias ante alerta internacional por Ébola",
+    "enlace": "https://laliguanoticias.cl/2026/08/19/hospital-biprovincial-capacita-a-personal-de-urgencias-ante-alerta-internacional-por-ebola/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Seremi de Salud descarta contaminación minera en aguas de tres sistemas rurales de la zona de influencia del río La Ligua",
+    "enlace": "https://laliguanoticias.cl/2026/08/19/seremi-de-salud-descarta-contaminacion-minera-en-aguas-de-tres-sistemas-rurales-de-la-zona-de-influencia-del-rio-la-ligua/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "COLUN dona 200 sacos de sustituto lácteo para crianceros de la comuna de Petorca",
@@ -1505,42 +1541,6 @@
   {
     "titulo": "Agricultores de la región acercaron el campo a la ciudad y fueron protagonistas en Cerro de Sabores 2026",
     "enlace": "https://laliguanoticias.cl/2026/08/11/agricultores-de-la-region-acercaron-el-campo-a-la-ciudad-y-fueron-protagonistas-en-cerro-de-sabores-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Cecrea La Ligua celebra 10 años con seminario sobre educación, creatividad y ciudadanía",
-    "enlace": "https://laliguanoticias.cl/2026/08/10/cecrea-la-ligua-celebra-10-anos-con-seminario-sobre-educacion-creatividad-y-ciudadania/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Acercamiento de fármacos permite reducir tiempos de espera y evitar traslados innecesarios de pacientes de Cabildo",
-    "enlace": "https://laliguanoticias.cl/2026/08/10/acercamiento-de-farmacos-permite-reducir-tiempos-de-espera-evitar-traslados-innecesarios-de-pacientes-de-cabildo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Avanza plan comunal para recuperar y mejorar su red de pasarelas rurales",
-    "enlace": "https://laliguanoticias.cl/2026/08/10/avanza-plan-comunal-para-recuperar-y-mejorar-su-red-de-pasarelas-rurales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputada Bello solicita recursos para reparar escuelas públicas afectadas por el sistema frontal en Provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/08/05/diputada-bello-solicita-recursos-para-reparar-escuelas-publicas-afectadas-por-el-sistema-frontal-en-provincia-de-petorca/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "EE.UU. alerta sobre ciberataques a empresas chilenas: las 5 nuevas formas de engaño que ponen en riesgo sus datos",
-    "enlace": "https://g5noticias.cl/2026/08/19/ee-uu-alerta-sobre-ciberataques-a-empresas-chilenas-las-5-nuevas-formas-de-engano-que-ponen-en-riesgo-sus-datos/",
+    "titulo": "Presidente José Antonio Kast encabeza en Antofagasta coordinación en terreno por efectos del sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/08/19/presidente-jose-antonio-kast-encabeza-en-antofagasta-coordinacion-en-terreno-por-efectos-del-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Helicóptero de Carabineros despliega operativo para rescatar a personas aisladas en Ruta 1",
-    "enlace": "https://g5noticias.cl/2026/08/19/helicoptero-de-carabineros-despliega-operativo-para-rescatar-a-personas-aisladas-en-ruta-1/",
+    "titulo": "Cerca de 400 personas repletaron la avant premier de «Sagrado Corazón», que este jueves llega a los cines chilenos",
+    "enlace": "https://g5noticias.cl/2026/08/19/cerca-de-400-personas-repletaron-la-avant-premier-de-sagrado-corazon-que-este-jueves-llega-a-los-cines-chilenos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros detiene a dos antisociales y recupera vehículo sustraído tras persecución policial en Maipú",
-    "enlace": "https://g5noticias.cl/2026/08/19/carabineros-detiene-a-dos-antisociales-y-recupera-vehiculo-sustraido-tras-persecucion-policial-en-maipu/",
+    "titulo": "“En mi libro planteo que la economía recibió tres shocks”, destaca ex ministro de Hacienda Mario Marcel",
+    "enlace": "https://g5noticias.cl/2026/08/19/en-mi-libro-planteo-que-la-economia-recibio-tres-shocks-destaca-ex-ministro-de-hacienda-mario-marcel/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Neurocientífica de la UV obtiene máxima distinción en curso de ilustración botánica en el Royal Botanic Garden Edinburgh",
-    "enlace": "https://g5noticias.cl/2026/08/19/neurocientifica-de-la-uv-obtiene-maxima-distincion-en-curso-de-ilustracion-botanica-en-el-royal-botanic-garden-edinburgh/",
+    "titulo": "Se acercan las Fiestas Patrias: ¿Cómo, cuándo y dónde será la primera fonda de septiembre en Santiago?",
+    "enlace": "https://g5noticias.cl/2026/08/19/se-acercan-las-fiestas-patrias-como-cuando-y-donde-sera-la-primera-fonda-de-septiembre-en-santiago/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Suspender o modificar la Ley Karin?. Por Dr. Boris Fiegelist Venturelli, Director Carrera de Derecho, Universidad Andrés Bello, Concepción",
-    "enlace": "https://g5noticias.cl/2026/08/19/suspender-o-modificar-la-ley-karin-por-dr-boris-fiegelist-venturelli-director-carrera-de-derecho-universidad-andres-bello-concepcion/",
+    "titulo": "Museo Fonck invita a participar en taller familiar inspirado en representaciones Selk’nam",
+    "enlace": "https://g5noticias.cl/2026/08/19/museo-fonck-invita-a-participar-en-taller-familiar-inspirado-en-representaciones-selknam-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "AGRUMIN llama a eliminar trabas que frenan la reactivación y crecimiento de la pequeña minería",
-    "enlace": "https://g5noticias.cl/2026/08/19/agrumin-llama-a-eliminar-trabas-que-frenan-la-reactivacion-y-crecimiento-de-la-pequena-mineria/",
+    "titulo": "Hospital Biprovincial capacita a personal de Urgencias ante alerta internacional por Ébola",
+    "enlace": "https://g5noticias.cl/2026/08/19/hospital-biprovincial-capacita-a-personal-de-urgencias-ante-alerta-internacional-por-ebola/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Lo Barnechea celebra el mes de la infancia con concierto de banda nacional “Otra Otra”",
-    "enlace": "https://g5noticias.cl/2026/08/19/lo-barnechea-celebra-el-mes-de-la-infancia-con-concierto-de-banda-nacional-otra-otra/",
+    "titulo": "Trasladaron a 198 reclusos desde el Complejo Penitenciario de Valparaíso a la nueva cárcel de Talca",
+    "enlace": "https://g5noticias.cl/2026/08/19/trasladaron-a-198-reclusos-desde-el-complejo-penitenciario-de-valparaiso-a-la-nueva-carcel-de-talca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sector forestal reúne a autoridades y gremios productivos en lanzamiento de ExpoCorma 2026",
-    "enlace": "https://g5noticias.cl/2026/08/19/sector-forestal-reune-a-autoridades-y-gremios-productivos-en-lanzamiento-de-expocorma-2026/",
+    "titulo": "Zapallar busca incorporar nuevo programa de seguridad alimentaria para apoyar a familias y fortalecer emprendimientos locales",
+    "enlace": "https://g5noticias.cl/2026/08/19/zapallar-busca-incorporar-nuevo-programa-de-seguridad-alimentaria-para-apoyar-a-familias-y-fortalecer-emprendimientos-locales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministro de economía resaltó certezas que entrega Concón para la inversión privada",
-    "enlace": "https://g5noticias.cl/2026/08/19/ministro-de-economia-resalto-certezas-que-entrega-concon-para-la-inversion-privada/",
+    "titulo": "Colegio de Profesores advierte: «Con el pretexto de pausar los Slep se busca detener el fortalecimiento de la educación pública por razones ideológicas»",
+    "enlace": "https://g5noticias.cl/2026/08/19/colegio-de-profesores-advierte-con-el-pretexto-de-pausar-los-slep-se-busca-detener-el-fortalecimiento-de-la-educacion-publica-por-razones-ideologicas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Electrocardiogramas a costo $0: beneficio busca reforzar la prevención cardiovascular durante agosto y septiembre",
-    "enlace": "https://g5noticias.cl/2026/08/19/electrocardiogramas-a-costo-0-beneficio-busca-reforzar-la-prevencion-cardiovascular-durante-agosto-y-septiembre/",
+    "titulo": "Ministro del Deporte Francisco Riveros fortalece trabajo en terreno y se reúne con destacados deportistas en Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/08/19/ministro-del-deporte-francisco-riveros-fortalece-trabajo-en-terreno-y-se-reune-con-destacados-deportistas-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1818,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Corte de Apelaciones confirmó condena por darse a la fuga del lugar de accidente en que se causó muerte",
+    "enlace": "https://laprensaaustral.cl/2026/08/19/corte-de-apelaciones-confirmo-condena-por-darse-a-la-fuga-del-lugar-de-accidente-en-que-se-causo-muerte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Baby Master se pone al día",
     "enlace": "https://laprensaaustral.cl/2026/08/19/baby-master-se-pone-al-dia/",
     "descripcion": "",
@@ -1892,15 +1901,6 @@
   {
     "titulo": "Kast viajará este miércoles a Antofagasta tras aluvión que dejó a Tocopilla aislada y en estado de excepción",
     "enlace": "https://laprensaaustral.cl/2026/08/19/kast-viajara-este-miercoles-a-antofagasta-tras-aluvion-que-dejo-a-tocopilla-aislada-y-en-estado-de-excepcion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Auto conducido por venezolano  terminó en el estrecho de Magallanes",
-    "enlace": "https://laprensaaustral.cl/2026/08/19/auto-conducido-por-venezolano-termino-en-el-estrecho-de-magallanes/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
