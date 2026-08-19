@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "En Punitaqui INDAP entrega alimentación caprina para contribuir a la rehabilitación productiva de sus usuarios",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/19/en-punitaqui-indap-entrega-alimentacion-caprina-para-contribuir-a-la-rehabilitacion-productiva-de-sus-usuarios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Gobierno entrega cajas de alimentos a familias y artesanos de Coquimbo afectados por el sistema frontal",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/19/gobierno-entrega-cajas-de-alimentos-a-familias-y-artesanos-de-coquimbo-afectados-por-el-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Seremi de la Mujer aborda necesidades de mujeres de la pesca artesanal tras emergencia climática",
     "enlace": "https://regiondecoquimbo.cl/2026/08/19/seremi-de-la-mujer-aborda-necesidades-de-mujeres-de-la-pesca-artesanal-tras-emergencia-climatica/",
     "descripcion": "",
@@ -425,24 +443,6 @@
   {
     "titulo": "Familias de Monte Patria fortalecen su alimentación y economía familiar con apoyo del programa Seguridad Alimentaria",
     "enlace": "https://regiondecoquimbo.cl/2026/08/14/familias-de-monte-patria-fortalecen-su-alimentacion-y-economia-familiar-con-apoyo-del-programa-seguridad-alimentaria-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno refuerza despliegue preventivo ante lluvias y fortalece protección para personas en situación de calle con disponibilidad de albergues",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/14/gobierno-refuerza-despliegue-preventivo-ante-lluvias-y-fortalece-proteccion-para-personas-en-situacion-de-calle-con-disponibilidad-de-albergues/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "SALUD y JUNJI refuerzan medidas de higiene en salas cunas y jardines infantiles para prevenir enfermedades",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/14/salud-y-junji-refuerzan-medidas-de-higiene-en-salas-cunas-y-jardines-infantiles-para-prevenir-enfermedades/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1368,6 +1368,42 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Tras las lluvias, anuncian altas temperaturas para Tarapacá, Antofagasta y Atacama",
+    "enlace": "https://www.maray.cl/atacama/19/08/2026/tras-las-lluvias-anuncian-altas-temperaturas-para-tarapaca-antofagasta-y-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Embalses de Coquimbo duplican sus reservas de agua tras lluvias de invierno: Alcanzan 672 millones de metros cúbicos",
+    "enlace": "https://www.maray.cl/pais/19/08/2026/embalses-de-coquimbo-duplican-sus-reservas-de-agua-tras-lluvias-de-invierno-alcanzan-672-millones-de-metros-cubicos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "PDI detuvo en Vallenar a hombre que almacenaba explosivos de forma ilegal",
+    "enlace": "https://www.maray.cl/atacama/19/08/2026/pdi-detuvo-en-vallenar-a-hombre-que-almacenaba-explosivos-de-forma-ilegal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Más de 9 mil familias en Atacama se recuperan con apoyo del gobierno tras emergencia climática",
+    "enlace": "https://www.maray.cl/atacama/19/08/2026/mas-de-9-mil-familias-en-atacama-se-recuperan-con-apoyo-del-gobierno-tras-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Rector de la UDA | «La Universidad de Atacama es la que menos aporte fiscal director recibe en el país»",
     "enlace": "https://www.maray.cl/podcast-de-noticias/19/08/2026/rector-de-la-uda-la-universidad-de-atacama-es-la-que-menos-aporte-fiscal-director-recibe-en-el-pais/",
     "descripcion": "",
@@ -1415,42 +1451,6 @@
   {
     "titulo": "PDI detuvo a dos extranjeros en Copiapó e incautó cannabis y ketamina",
     "enlace": "https://www.maray.cl/atacama/19/08/2026/pdi-detuvo-a-dos-extranjeros-en-copiapo-e-incauto-cannabis-y-ketamina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "MOP inspecciona avance de dos puentes mecano que se instalan en Freirina tras últimas lluvias",
-    "enlace": "https://www.maray.cl/atacama/19/08/2026/mop-inspecciona-avance-de-dos-puentes-mecano-que-se-instalan-en-freirina-tras-ultimas-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Irán evalúa atacar objetivos militares de EE.UU. en Europa ante una nueva escalada",
-    "enlace": "https://www.maray.cl/internacional/19/08/2026/iran-evalua-atacar-objetivos-militares-de-ee-uu-en-europa-ante-una-nueva-escalada/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Suboficial mayor de Carabineros dispara contra delincuentes que asaltaban a su hijo en Puente Alto",
-    "enlace": "https://www.maray.cl/pais/19/08/2026/suboficial-mayor-de-carabineros-dispara-contra-delincuentes-que-asaltaban-a-su-hijo-en-puente-alto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Turba atacó a trabajadores de servicentro y dejó a uno grave en La Cisterna",
-    "enlace": "https://www.maray.cl/pais/19/08/2026/turba-ataco-a-trabajadores-de-servicentro-y-dejo-a-uno-grave-en-la-cisterna/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros detiene a mujer e incauta drogas, armas y cigarrillos de contrabando en San Antonio",
-    "enlace": "https://g5noticias.cl/2026/08/19/carabineros-detiene-a-mujer-e-incauta-drogas-armas-y-cigarrillos-de-contrabando-en-san-antonio/",
+    "titulo": "Detenido por porte ilegal de arma de fuego y munición en comuna de Lo Espejo",
+    "enlace": "https://g5noticias.cl/2026/08/19/detenido-por-porte-ilegal-de-arma-de-fuego-y-municion-en-comuna-de-lo-espejo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobierno entrega cajas de alimentos a familias y artesanos de Coquimbo afectados por el sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/08/19/gobierno-entrega-cajas-de-alimentos-a-familias-y-artesanos-de-coquimbo-afectados-por-el-sistema-frontal/",
+    "titulo": "Villa Alemana lanza séptimo concurso “La Mejor Empanada de Pino” y anuncia gran jornada final en el Parque Cívico Belén",
+    "enlace": "https://g5noticias.cl/2026/08/19/villa-alemana-lanza-septimo-concurso-la-mejor-empanada-de-pino-y-anuncia-gran-jornada-final-en-el-parque-civico-belen/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Con sueldos de hasta $ 2 millones: Yapo.cl ofrecerá más de 3 mil oportunidades laborales en su 12.° Feria Laboral en Santiago",
-    "enlace": "https://g5noticias.cl/2026/08/19/con-sueldos-de-hasta-2-millones-yapo-cl-ofrecera-mas-de-3-mil-oportunidades-laborales-en-su-12-feria-laboral-en-santiago/",
+    "titulo": "Música Ensamble: Orquesta inclusiva quillotana se presentará en Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/08/19/musica-ensamble-orquesta-inclusiva-quillotana-se-presentara-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Carabineros detiene a sujeto por robo por sorpresa en Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/19/carabineros-detiene-a-sujeto-por-robo-por-sorpresa-en-valparaiso/",
+    "titulo": "Kit de Acción Climática Municipal por el Agua: lanzan herramienta para que municipios fortalezcan la adaptación hídrica frente al cambio climático",
+    "enlace": "https://g5noticias.cl/2026/08/19/kit-de-accion-climatica-municipal-por-el-agua-lanzan-herramienta-para-que-municipios-fortalezcan-la-adaptacion-hidrica-frente-al-cambio-climatico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Construcción de Túnel Lo Ruiz que va a descongestionar el Nudo Quilicura ya tiene un 20% de avance",
-    "enlace": "https://g5noticias.cl/2026/08/19/construccion-de-tunel-lo-ruiz-que-va-a-descongestionar-el-nudo-quilicura-ya-tiene-un-20-de-avance/",
+    "titulo": "Corte de Antofagasta ordena a municipio y Seremi de Salud coordinar acciones para erradicar foco de insalubridad",
+    "enlace": "https://g5noticias.cl/2026/08/19/corte-de-antofagasta-ordena-a-municipio-y-seremi-de-salud-coordinar-acciones-para-erradicar-foco-de-insalubridad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sarcopenia: la pérdida silenciosa de masa muscular en las personas mayores",
-    "enlace": "https://g5noticias.cl/2026/08/19/sarcopenia-la-perdida-silenciosa-de-masa-muscular-en-las-personas-mayores/",
+    "titulo": "UVM conmemoró Día Mundial de la Fotografía con conversatorio sobre ciudad, territorio y memoria visual",
+    "enlace": "https://g5noticias.cl/2026/08/19/uvm-conmemoro-dia-mundial-de-la-fotografia-con-conversatorio-sobre-ciudad-territorio-y-memoria-visual/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La posible ampliación de la Ley del Mono enfrenta un desafío inesperado: ¿están preparadas las municipalidades para recibir miles de solicitudes?",
-    "enlace": "https://g5noticias.cl/2026/08/19/la-posible-ampliacion-de-la-ley-del-mono-enfrenta-un-desafio-inesperado-estan-preparadas-las-municipalidades-para-recibir-miles-de-solicitudes/",
+    "titulo": "Fiscalía Regional Valparaíso y Unidad de Género capacitan a policías en muertes violentas de mujeres",
+    "enlace": "https://g5noticias.cl/2026/08/19/fiscalia-regional-valparaiso-y-unidad-de-genero-capacitan-a-policias-en-muertes-violentas-de-mujeres/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comité de Diputados y diputadas PC e independientes anunciaron que defenderán artículo impugnado por el gobierno ante el Tribunal Constitucional",
-    "enlace": "https://g5noticias.cl/2026/08/19/comite-de-diputados-y-diputadas-pc-e-independientes-anunciaron-que-defenderan-articulo-impugnado-por-el-gobierno-ante-el-tribunal-constitucional/",
+    "titulo": "Alcalde de San Bernardo, Christopher White: “Es inexplicable que todavía no sepamos qué va a pasar con el Parque Chena»",
+    "enlace": "https://g5noticias.cl/2026/08/19/alcalde-de-san-bernardo-christopher-white-es-inexplicable-que-todavia-no-sepamos-que-va-a-pasar-con-el-parque-chena/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en caleta El Soldado",
-    "enlace": "https://g5noticias.cl/2026/08/19/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-caleta-el-soldado/",
+    "titulo": "Operación Cancerbero: Senadora Camila Flores respalda traslado de 198 reos y pide separar a internos de alta peligrosidad",
+    "enlace": "https://g5noticias.cl/2026/08/19/operacion-cancerbero-senadora-camila-flores-respalda-traslado-de-198-reos-y-pide-separar-a-internos-de-alta-peligrosidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "De la prevención al apoyo en terreno: Carabineros continúa desplegado junto a los vecinos de Tocopilla",
-    "enlace": "https://g5noticias.cl/2026/08/19/de-la-prevencion-al-apoyo-en-terreno-carabineros-continua-desplegado-junto-a-los-vecinos-de-tocopilla/",
+    "titulo": "Diputado Santana presentará la “Ley del Primer Pie” para convertir parte del arriendo en ahorro para la casa propia",
+    "enlace": "https://g5noticias.cl/2026/08/19/diputado-santana-presentara-la-ley-del-primer-pie-para-convertir-parte-del-arriendo-en-ahorro-para-la-casa-propia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
