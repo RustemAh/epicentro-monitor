@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Fundación CorpArtes entrega reconocimiento a la Filarmónica Antena por su triunfo en Australia",
+    "enlace": "https://laserenaonline.cl/2026/08/19/fundacion-corpartes-entrega-reconocimiento-a-la-filarmonica-antena-por-su-triunfo-en-australia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "SAN valora eliminación del horario de control de punta en septiembre y pide revisar el mecanismo",
     "enlace": "https://laserenaonline.cl/2026/08/19/san-valora-eliminacion-del-horario-de-control-de-punta-en-septiembre-y-pide-revisar-el-mecanismo/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Registro de precipitaciones para la Región de Coquimbo ¿Cuánta agua cayó?",
     "enlace": "https://laserenaonline.cl/2026/08/19/registro-de-precipitaciones-para-la-region-de-coquimbo-cuanta-agua-cayo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 19 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/19/reporte-del-tiempo-hoy-19-de-agosto-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Habilitan nuevo Certificado Digital que acredita si personas extranjeras pueden trabajar legalmente en Chile",
+    "enlace": "https://ovallehoy.cl/habilitan-nuevo-certificado-digital-que-acredita-si-personas-extranjeras-pueden-trabajar-legalmente-en-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Hasta el 25 de agosto se aplicará la Ficha de Afectación Silvoagropecuaria en la Región de Coquimbo",
     "enlace": "https://ovallehoy.cl/hasta-el-25-de-agosto-se-aplicara-la-ficha-de-afectacion-silvoagropecuaria-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Gobierno ha gestionado más de $3.700 millones de apoyo para Limarí por emergencia",
     "enlace": "https://ovallehoy.cl/gobierno-ha-gestionado-mas-de-3-700-millones-de-apoyo-para-limari-por-emergencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Detienen a cuatro personas tras persecución policial por sectores rurales de Ovalle",
-    "enlace": "https://ovallehoy.cl/detienen-a-cuatro-personas-tras-persecucion-policial-por-sectores-rurales-de-ovalle/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1368,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Rector de la UDA | «La Universidad de Atacama es la que menos aporte fiscal director recibe en el país»",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/08/2026/rector-de-la-uda-la-universidad-de-atacama-es-la-que-menos-aporte-fiscal-director-recibe-en-el-pais/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Pilares del Plan «Minería en marcha» en busca de la reactivación minera en Atacama",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/08/2026/pilares-del-plan-mineria-en-marcha-en-busca-de-la-reactivacion-minera-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Alcalde de Diego de Almagro | «Estuvimos a punto de colapsar»",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/19/08/2026/alcalde-de-diego-de-almagro-estuvimos-a-punto-de-colapsar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Liceo José Antonio Carvajal de Copiapó se adjudica sala tecnológica de la CChC en el marco de sus 75 años",
     "enlace": "https://www.maray.cl/podcast-de-noticias/19/08/2026/liceo-jose-antonio-carvajal-de-copiapo-se-adjudica-sala-tecnologica-de-la-cchc-en-el-marco-de-sus-75-anos-2/",
     "descripcion": "",
@@ -1424,33 +1451,6 @@
   {
     "titulo": "Turba atacó a trabajadores de servicentro y dejó a uno grave en La Cisterna",
     "enlace": "https://www.maray.cl/pais/19/08/2026/turba-ataco-a-trabajadores-de-servicentro-y-dejo-a-uno-grave-en-la-cisterna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Hospital Regional de Copiapó supera las 550 atenciones en operativos oncológicos",
-    "enlace": "https://www.maray.cl/atacama/19/08/2026/hospital-regional-de-copiapo-supera-las-550-atenciones-en-operativos-oncologicos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Por 80 votos a favor: Cámara de Diputados aprueba en general proyecto que prohíbe carreras de perros galgos en Chile",
-    "enlace": "https://www.maray.cl/pais/19/08/2026/por-80-votos-a-favor-camara-de-diputados-aprueba-en-general-proyecto-que-prohibe-carreras-de-perros-galgos-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Garnero lamentó las bajas de la UC tras eliminación ante Estudiantes",
-    "enlace": "https://www.maray.cl/deportes/19/08/2026/garnero-lamento-las-bajas-de-la-uc-tras-eliminacion-ante-estudiantes/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,78 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "De la prevención al apoyo en terreno: Carabineros continúa desplegado junto a los vecinos de Tocopilla",
+    "enlace": "https://g5noticias.cl/2026/08/19/de-la-prevencion-al-apoyo-en-terreno-carabineros-continua-desplegado-junto-a-los-vecinos-de-tocopilla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Informe de Contraloría revela falencias en el cuidado de menores de la Casa Nacional del Niño",
+    "enlace": "https://g5noticias.cl/2026/08/19/informe-de-contraloria-revela-falencias-en-el-cuidado-de-menores-de-la-casa-nacional-del-nino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "INDAP Metropolitano entregó $79 millones a microproductores de San Pedro para asegurar la producción agrícola regional",
+    "enlace": "https://g5noticias.cl/2026/08/19/indap-metropolitano-entrego-79-millones-a-microproductores-de-san-pedro-para-asegurar-la-produccion-agricola-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Nuevamente cayeron integrantes de la “Jauría de Franklin”: Carabineros de la SIP los detuvo justo cuando robaban teléfonos celulares a conductores que pasaban por el sector",
+    "enlace": "https://g5noticias.cl/2026/08/19/nuevamente-cayeron-integrantes-de-la-jauria-de-franklin-carabineros-de-la-sip-los-detuvo-justo-cuando-robaban-telefonos-celulares-a-conductores-que-pasaban-por-el-sector/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputado Jaime Bassa presenta proyecto para prohibir collares eléctricos en mascotas: «el maltrato no puede ser una herramienta de adiestramiento»",
+    "enlace": "https://g5noticias.cl/2026/08/19/diputado-jaime-bassa-presenta-proyecto-para-prohibir-collares-electricos-en-mascotas-el-maltrato-no-puede-ser-una-herramienta-de-adiestramiento/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputado Luis Cuello advierte que reforma de seguridad concentra poder en el Presidente y puede ser revisada por el TC",
+    "enlace": "https://g5noticias.cl/2026/08/19/diputado-luis-cuello-advierte-que-reforma-de-seguridad-concentra-poder-en-el-presidente-y-puede-ser-revisada-por-el-tc/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "2.° TOP de Santiago condena a autor de robo con violencia a repartidor de pizzas y porte de arma",
+    "enlace": "https://g5noticias.cl/2026/08/19/2-top-de-santiago-condena-a-autor-de-robo-con-violencia-a-repartidor-de-pizzas-y-porte-de-arma/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fiscalía de Arica obtuvo condenas por millonario fraude en la emisión y cobro de boletas por servicios médicos no realizados",
+    "enlace": "https://g5noticias.cl/2026/08/19/fiscalia-de-arica-obtuvo-condenas-por-millonario-fraude-en-la-emision-y-cobro-de-boletas-por-servicios-medicos-no-realizados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Presidente José Antonio Kast encabeza en Antofagasta coordinación en terreno por efectos del sistema frontal",
     "enlace": "https://g5noticias.cl/2026/08/19/presidente-jose-antonio-kast-encabeza-en-antofagasta-coordinacion-en-terreno-por-efectos-del-sistema-frontal/",
     "descripcion": "",
@@ -1649,78 +1721,6 @@
   {
     "titulo": "Cerca de 400 personas repletaron la avant premier de «Sagrado Corazón», que este jueves llega a los cines chilenos",
     "enlace": "https://g5noticias.cl/2026/08/19/cerca-de-400-personas-repletaron-la-avant-premier-de-sagrado-corazon-que-este-jueves-llega-a-los-cines-chilenos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "“En mi libro planteo que la economía recibió tres shocks”, destaca ex ministro de Hacienda Mario Marcel",
-    "enlace": "https://g5noticias.cl/2026/08/19/en-mi-libro-planteo-que-la-economia-recibio-tres-shocks-destaca-ex-ministro-de-hacienda-mario-marcel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Se acercan las Fiestas Patrias: ¿Cómo, cuándo y dónde será la primera fonda de septiembre en Santiago?",
-    "enlace": "https://g5noticias.cl/2026/08/19/se-acercan-las-fiestas-patrias-como-cuando-y-donde-sera-la-primera-fonda-de-septiembre-en-santiago/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Museo Fonck invita a participar en taller familiar inspirado en representaciones Selk’nam",
-    "enlace": "https://g5noticias.cl/2026/08/19/museo-fonck-invita-a-participar-en-taller-familiar-inspirado-en-representaciones-selknam-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Hospital Biprovincial capacita a personal de Urgencias ante alerta internacional por Ébola",
-    "enlace": "https://g5noticias.cl/2026/08/19/hospital-biprovincial-capacita-a-personal-de-urgencias-ante-alerta-internacional-por-ebola/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Trasladaron a 198 reclusos desde el Complejo Penitenciario de Valparaíso a la nueva cárcel de Talca",
-    "enlace": "https://g5noticias.cl/2026/08/19/trasladaron-a-198-reclusos-desde-el-complejo-penitenciario-de-valparaiso-a-la-nueva-carcel-de-talca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Zapallar busca incorporar nuevo programa de seguridad alimentaria para apoyar a familias y fortalecer emprendimientos locales",
-    "enlace": "https://g5noticias.cl/2026/08/19/zapallar-busca-incorporar-nuevo-programa-de-seguridad-alimentaria-para-apoyar-a-familias-y-fortalecer-emprendimientos-locales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Colegio de Profesores advierte: «Con el pretexto de pausar los Slep se busca detener el fortalecimiento de la educación pública por razones ideológicas»",
-    "enlace": "https://g5noticias.cl/2026/08/19/colegio-de-profesores-advierte-con-el-pretexto-de-pausar-los-slep-se-busca-detener-el-fortalecimiento-de-la-educacion-publica-por-razones-ideologicas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ministro del Deporte Francisco Riveros fortalece trabajo en terreno y se reúne con destacados deportistas en Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/19/ministro-del-deporte-francisco-riveros-fortalece-trabajo-en-terreno-y-se-reune-con-destacados-deportistas-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
