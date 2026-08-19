@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "¿Cómo se encuentran los embalses en la Región de Coquimbo?",
+    "enlace": "https://laserenaonline.cl/2026/08/19/como-se-encuentran-los-embalses-en-la-region-de-coquimbo-9/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Detienen a sujeto y recuperean bicicleta sustraída desde el Hospital de La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/19/detienen-a-sujeto-y-recuperean-bicicleta-sustraida-desde-el-hospital-de-la-serena/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Alcalde de Monte Patria solicita eliminar la hora punta en las cuentas de luz",
     "enlace": "https://laserenaonline.cl/2026/08/18/alcalde-de-monte-patria-solicita-eliminar-la-hora-punta-en-las-cuentas-de-luz/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Operativo de película: Carabineros OS9 detiene a autores de disparos a la Municipalidad de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/18/operativo-de-pelicula-carabineros-os9-detiene-a-autores-de-disparos-a-la-municipalidad-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Detienen a tres reincidentes por tráfico de drogas tras allanamientos en el sector Los Leíces",
+    "enlace": "https://ovallehoy.cl/detienen-a-tres-reincidentes-por-trafico-de-drogas-tras-allanamientos-en-el-sector-los-leices/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "RegiónHOY: priorizan acciones para avanzar en la recuperación de La Serena tras temporal",
     "enlace": "https://ovallehoy.cl/regionhoy-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Ovalle alista una Pampilla Solidaria para ir en ayuda de comerciantes y del Cuerpo de Bomberos",
     "enlace": "https://ovallehoy.cl/ovalle-alista-una-pampilla-solidaria-para-ir-en-ayuda-de-comerciantes-y-del-cuerpo-de-bomberos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Deportes Ovalle gana de visita y trepa en la tabla de posiciones",
-    "enlace": "https://ovallehoy.cl/deportes-ovalle-gana-de-visita-y-trepa-en-la-tabla-de-posiciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Sífilis alcanza récord en Chile: tasa entre mujeres mayores de 60 años se duplicó en cuatro años",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/19/sifilis-alcanza-record-en-chile-tasa-entre-mujeres-mayores-de-60-anos-se-duplico-en-cuatro-anos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Nuevos controles en la región de Atacama suman 35 toneladas de jurel ilegal",
     "enlace": "https://www.atacamanoticias.cl/2026/08/19/nuevos-controles-en-la-region-de-atacama-suman-35-toneladas-de-jurel-ilegal/",
     "descripcion": "",
@@ -1269,13 +1278,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Indagan a exasesor de Milei y “colaborador” de presidente de Bolivia por ’sicariato’ contra expareja",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/19/indagan-a-exasesor-de-milei-y-colaborador-de-presidente-de-bolivia-por-sicariato-contra-expareja/",
+    "titulo": "El Noticiero del Huasco, miércoles 19 de agosto de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/08/el-noticiero-del-huasco-miercoles-19-de-agosto-de-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
     "titulo": "Hospital suspende de sus funciones a médico investigado por presuntos delitos de abuso sexual",
@@ -1359,13 +1368,76 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Seremi de Educación informa suspensión de clases en la Región de Atacama por sistema frontal",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/seremi-de-educacion-informa-suspension-de-clases-en-la-region-de-atacama-por-sistema-frontal/",
+    "titulo": "Irán evalúa atacar objetivos militares de EE.UU. en Europa ante una nueva escalada",
+    "enlace": "https://www.maray.cl/internacional/19/08/2026/iran-evalua-atacar-objetivos-militares-de-ee-uu-en-europa-ante-una-nueva-escalada/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Suboficial mayor de Carabineros dispara contra delincuentes que asaltaban a su hijo en Puente Alto",
+    "enlace": "https://www.maray.cl/pais/19/08/2026/suboficial-mayor-de-carabineros-dispara-contra-delincuentes-que-asaltaban-a-su-hijo-en-puente-alto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Turba atacó a trabajadores de servicentro y dejó a uno grave en La Cisterna",
+    "enlace": "https://www.maray.cl/pais/19/08/2026/turba-ataco-a-trabajadores-de-servicentro-y-dejo-a-uno-grave-en-la-cisterna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Hospital Regional de Copiapó supera las 550 atenciones en operativos oncológicos",
+    "enlace": "https://www.maray.cl/atacama/19/08/2026/hospital-regional-de-copiapo-supera-las-550-atenciones-en-operativos-oncologicos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Por 80 votos a favor: Cámara de Diputados aprueba en general proyecto que prohíbe carreras de perros galgos en Chile",
+    "enlace": "https://www.maray.cl/pais/19/08/2026/por-80-votos-a-favor-camara-de-diputados-aprueba-en-general-proyecto-que-prohibe-carreras-de-perros-galgos-en-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Garnero lamentó las bajas de la UC tras eliminación ante Estudiantes",
+    "enlace": "https://www.maray.cl/deportes/19/08/2026/garnero-lamento-las-bajas-de-la-uc-tras-eliminacion-ante-estudiantes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Universidad Católica se despide de la Libertadores tras dura caída ante Estudiantes",
+    "enlace": "https://www.maray.cl/deportes/19/08/2026/universidad-catolica-se-despide-de-la-libertadores-tras-dura-caida-ante-estudiantes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Hallan osamentas humanas al interior de obra en construcción en San Miguel",
+    "enlace": "https://www.maray.cl/pais/19/08/2026/hallan-osamentas-humanas-al-interior-de-obra-en-construccion-en-san-miguel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "Cámara declara admisibles proyectos para hacer feriado el 17 de septiembre",
@@ -1379,78 +1451,6 @@
   {
     "titulo": "Presidente Kast viajará a Antofagasta por emergencia provocada por las lluvias",
     "enlace": "https://www.maray.cl/atacama/18/08/2026/presidente-kast-viajara-a-antofagasta-por-emergencia-provocada-por-las-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Tierra Amarilla: Nueva Atacama anuncia obras de mejoramiento para este jueves 20 de agosto",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/tierra-amarilla-nueva-atacama-anuncia-obras-de-mejoramiento-para-este-jueves-20-de-agosto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "DICREP realizará remate online de vehículos y especies fiscales en Atacama",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/dicrep-realizara-remate-online-de-vehiculos-y-especies-fiscales-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "MinMichael Clark queda en prisión preventiva por el caso Sartor",
-    "enlace": "https://www.maray.cl/pais/18/08/2026/minmichael-clark-queda-en-prision-preventiva-por-el-caso-sartor/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Delegada Sofía Cid: “La respuesta en Atacama moviliza cerca de $24 mil millones y ya hemos entregado 9.911 bonos de recuperación”",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/delegada-sofia-cid-la-respuesta-en-atacama-moviliza-cerca-de-24-mil-millones-y-ya-hemos-entregado-9-911-bonos-de-recuperacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno despliega ayuda para crianceros afectados por sistema frontal: recursos superan los $2.000 millones",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/gobierno-despliega-ayuda-para-crianceros-afectados-por-sistema-frontal-recursos-superan-los-2-000-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "SEREMI de Educación de Atacama informa que este miércoles se mantiene la suspensión de clases solo en comunas y sectores específicos",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/seremi-de-educacion-de-atacama-informa-que-este-miercoles-se-mantiene-la-suspension-de-clases-solo-en-comunas-y-sectores-especificos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Seremi del Medio Ambiente valoró inició de la revisión de la norma de calidad del aire para material particulado respirable (MP10) en Atacama",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/seremi-del-medio-ambiente-valoro-inicio-de-la-revision-de-la-norma-de-calidad-del-aire-para-material-particulado-respirable-mp10-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "FOSIS y AIEP lanzan curso gratuito para cinco mil personas cuidadoras de personas mayores",
-    "enlace": "https://www.maray.cl/atacama/18/08/2026/fosis-y-aiep-lanzan-curso-gratuito-para-cinco-mil-personas-cuidadoras-de-personas-mayores/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,42 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "VI edición se realizará los días 5 y 6 de septiembre: El Día del Vino llega al MUT con más de 40 viñas de todo el país y preventa especial de copas para degustaciones",
+    "enlace": "https://g5noticias.cl/2026/08/19/vi-edicion-se-realizara-los-dias-5-y-6-de-septiembre-el-dia-del-vino-llega-al-mut-con-mas-de-40-vinas-de-todo-el-pais-y-preventa-especial-de-copas-para-degustaciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Para el segundo semestre de 2026: 7 tendencias que marcarán las ventas de las pymes chilenas",
+    "enlace": "https://g5noticias.cl/2026/08/19/para-el-segundo-semestre-de-2026-7-tendencias-que-marcaran-las-ventas-de-las-pymes-chilenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Compartir sin verificar también alimenta las fake news: Kaspersky",
+    "enlace": "https://g5noticias.cl/2026/08/19/compartir-sin-verificar-tambien-alimenta-las-fake-news-kaspersky/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Volver a comer pan. Por Marcela Moreno, Ingeniera en alimentos de Kingsbury",
+    "enlace": "https://g5noticias.cl/2026/08/19/volver-a-comer-pan-por-marcela-moreno-ingeniera-en-alimentos-de-kingsbury/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Fundación Plagio abre el segundo semestre con nuevo Club de Lectura junto a destacados autores nacionales: Alejandra Costamagna, Alberto Fuguet, Álvaro Bisama y Nona Fernández",
     "enlace": "https://g5noticias.cl/2026/08/19/fundacion-plagio-abre-el-segundo-semestre-con-nuevo-club-de-lectura-junto-a-destacados-autores-nacionales-alejandra-costamagna-alberto-fuguet-alvaro-bisama-y-nona-fernandez/",
     "descripcion": "",
@@ -1685,42 +1721,6 @@
   {
     "titulo": "Combustible, café y comida: la apuesta de Mastercard para hacer rendir más las compras cotidianas",
     "enlace": "https://g5noticias.cl/2026/08/19/combustible-cafe-y-comida-la-apuesta-de-mastercard-para-hacer-rendir-mas-las-compras-cotidianas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Más allá de la velocidad: El rol de la tecnología en la seguridad vial",
-    "enlace": "https://g5noticias.cl/2026/08/19/mas-alla-de-la-velocidad-el-rol-de-la-tecnologia-en-la-seguridad-vial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Responden las ticketeras por la suspensión de conciertos o eventos similares?. Por Macarena Díaz de Valdés, académica de Derecho UNAB",
-    "enlace": "https://g5noticias.cl/2026/08/19/responden-las-ticketeras-por-la-suspension-de-conciertos-o-eventos-similares-por-macarena-diaz-de-valdes-academica-de-derecho-unab/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Teatro popular, música y memoria llegan a Valparaíso con Las Palomas de Choferillo",
-    "enlace": "https://g5noticias.cl/2026/08/19/teatro-popular-musica-y-memoria-llegan-a-valparaiso-con-las-palomas-de-choferillo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "FEXMIN 2026: Es un aporte para aumentar la producción minera",
-    "enlace": "https://g5noticias.cl/2026/08/19/fexmin-2026-es-un-aporte-para-aumentar-la-produccion-minera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
