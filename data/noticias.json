@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Dojo La Serena logró destacados resultados en torneo internacional de Karate kyokushin disputado en México",
+    "enlace": "https://www.elserenense.cl/deportes/2026/08/20/dojo-la-serena-logro-destacados-resultados-en-torneo-internacional-de-karate-kyokushin-disputado-en-mexico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Circo Minero conmemorará su 75º aniversario con una serie de funciones en el mes de agosto",
     "enlace": "https://www.elserenense.cl/tendencias/2026/08/20/circo-minero-conmemorara-su-75o-aniversario-con-una-serie-de-funciones-en-el-mes-de-agosto/",
     "descripcion": "",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Aguas del Valle activa tranque de respaldo y decreta alerta amarilla por extrema turbiedad en el río Elqui",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/17/aguas-del-valle-activa-tranque-de-respaldo-y-decreta-alerta-amarilla-por-extrema-turbiedad-en-el-rio-elqui/",
+    "titulo": "400 sacos de forraje serán destinados a familias crianceras de La Serena y La Higuera",
+    "enlace": "https://laserenaonline.cl/2026/08/20/400-sacos-de-forraje-seran-destinados-a-familias-crianceras-de-la-serena-y-la-higuera/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Embalses de la Región de Coquimbo almacenan más del doble de agua que en agosto de 2025",
+    "enlace": "https://laserenaonline.cl/2026/08/20/embalses-de-la-region-de-coquimbo-almacenan-mas-del-doble-de-agua-que-en-agosto-de-2025/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Fundación CorpArtes entrega reconocimiento a la Filarmónica Antena por su triunfo en Australia",
     "enlace": "https://laserenaonline.cl/2026/08/19/fundacion-corpartes-entrega-reconocimiento-a-la-filarmonica-antena-por-su-triunfo-en-australia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "SAN valora eliminación del horario de control de punta en septiembre y pide revisar el mecanismo",
-    "enlace": "https://laserenaonline.cl/2026/08/19/san-valora-eliminacion-del-horario-de-control-de-punta-en-septiembre-y-pide-revisar-el-mecanismo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Escuela para padres fortalece herramientas de familias con hijos neurodivergentes en La Serena",
-    "enlace": "https://laserenaonline.cl/2026/08/19/escuela-para-padres-fortalece-herramientas-de-familias-con-hijos-neurodivergentes-en-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,33 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Abordan necesidades de mujeres de la pesca artesanal tras emergencia climática",
+    "enlace": "https://ovallehoy.cl/abordan-necesidades-de-mujeres-de-la-pesca-artesanal-tras-emergencia-climatica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Entregan más de 26 mil kilos de alimento caprino para crianceros de Punitaqui tras el temporal",
+    "enlace": "https://ovallehoy.cl/entregan-mas-de-26-mil-kilos-de-alimento-caprino-para-crianceros-de-punitaqui-tras-el-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Bernardo O’Higgins cumple 248 años: Las historias desconocidas detrás del Padre de la Patria",
+    "enlace": "https://ovallehoy.cl/bernardo-ohiggins-cumple-248-anos-las-historias-desconocidas-detras-del-padre-de-la-patria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "20 ovallinas concluyen formación administrativa para hacer frente al desempleo e informalidad laboral",
     "enlace": "https://ovallehoy.cl/20-ovallinas-concluyen-formacion-administrativa-para-hacer-frente-al-desempleo-e-informalidad-laboral/",
     "descripcion": "",
@@ -506,33 +533,6 @@
   {
     "titulo": "El próximo 31 de agosto vence el plazo para pagar la segunda cuota del permiso de circulación en Ovalle",
     "enlace": "https://ovallehoy.cl/el-proximo-31-de-agosto-vence-el-plazo-para-pagar-la-segunda-cuota-del-permiso-de-circulacion-en-ovalle/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Detienen a tres reincidentes por tráfico de drogas tras allanamientos en el sector Los Leíces",
-    "enlace": "https://ovallehoy.cl/detienen-a-tres-reincidentes-por-trafico-de-drogas-tras-allanamientos-en-el-sector-los-leices/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "RegiónHOY: priorizan acciones para avanzar en la recuperación de La Serena tras temporal",
-    "enlace": "https://ovallehoy.cl/regionhoy-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "4.600 millones para modernizar infraestructura y diversificar la pesca artesanal en la Región de Coquimbo",
-    "enlace": "https://ovallehoy.cl/4-600-millones-para-modernizar-infraestructura-y-diversificar-la-pesca-artesanal-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1377,6 +1377,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Muere Luis Tirado Picarte, figura histórica de la música y fundador de «Los Cumaná»",
+    "enlace": "https://www.maray.cl/magazine/20/08/2026/muere-luis-tirado-picarte-figura-historica-de-la-musica-y-fundador-de-los-cumana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Chañaral: Fiscalía y PDI desarrollaron procedimiento por punto de venta de droga",
     "enlace": "https://www.maray.cl/atacama/20/08/2026/chanaral-fiscalia-y-pdi-desarrollaron-procedimiento-por-punto-de-venta-de-droga/",
     "descripcion": "",
@@ -1388,15 +1397,6 @@
   {
     "titulo": "Ataque ruso contra Kiev deja al menos 12 muertos y 34 heridos",
     "enlace": "https://www.maray.cl/internacional/20/08/2026/ataque-ruso-contra-kiev-deja-al-menos-12-muertos-y-34-heridos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Muere Luis Tirado Picarte, figura histórica de la música y fundador de «Los Cumaná»",
-    "enlace": "https://www.maray.cl/magazine/20/08/2026/muere-luis-tirado-picarte-figura-historica-de-la-musica-y-fundador-de-los-cumana/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscales de Atacama participaron en Jornada de Formación en delitos de Violencia Sexual",
-    "enlace": "https://g5noticias.cl/2026/08/20/fiscales-de-atacama-participaron-en-jornada-de-formacion-en-delitos-de-violencia-sexual/",
+    "titulo": "Fiscalía y PDI realizan allanamientos simultáneos en Junaeb y oficinas del Congreso por investigación de presuntas coimas",
+    "enlace": "https://g5noticias.cl/2026/08/20/fiscalia-y-pdi-realizan-allanamientos-simultaneos-en-junaeb-y-oficinas-del-congreso-por-investigacion-de-presuntas-coimas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Día Mundial de la Papa Frita: 93% de los chilenos las consume y el sabor clásico lidera las preferencias",
-    "enlace": "https://g5noticias.cl/2026/08/20/dia-mundial-de-la-papa-frita-93-de-los-chilenos-las-consume-y-el-sabor-clasico-lidera-las-preferencias/",
+    "titulo": "Senador Miguel Becker cuestiona informe de comisión investigadora del estallido y defiende legado democrático de Sebastián Piñera",
+    "enlace": "https://g5noticias.cl/2026/08/20/senador-miguel-becker-cuestiona-informe-de-comision-investigadora-del-estallido-y-defiende-legado-democratico-de-sebastian-pinera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chañaral: Fiscalía y PDI desarticulan punto de venta de droga en las inmediaciones de un recinto educacional",
-    "enlace": "https://g5noticias.cl/2026/08/20/chanaral-fiscalia-y-pdi-desarticulan-punto-de-venta-de-droga-en-las-inmediaciones-de-un-recinto-educacional/",
+    "titulo": "Senador Flores exige explicaciones al MOP por nueva postergación de doble vía a Valdivia: “No queremos seguir contando muertos”",
+    "enlace": "https://g5noticias.cl/2026/08/20/senador-flores-exige-explicaciones-al-mop-por-nueva-postergacion-de-doble-via-a-valdivia-no-queremos-seguir-contando-muertos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDC Quilpué celebra junta comunal y 69 años de la Democracia Cristiana, junto a su presidente nacional, el diputado Álvaro Ortiz",
-    "enlace": "https://g5noticias.cl/2026/08/20/pdc-quilpue-celebra-junta-comunal-y-69-anos-de-la-democracia-cristiana-junto-a-su-presidente-nacional-el-diputado-alvaro-ortiz/",
+    "titulo": "Senador Longton y diputado González respaldan agenda de seguridad tras reunión con ministro Arrau",
+    "enlace": "https://g5noticias.cl/2026/08/20/senador-longton-y-diputado-gonzalez-respaldan-agenda-de-seguridad-tras-reunion-con-ministro-arrau/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Realizan intervención sobre 51 bebés que buscan familia en la Región de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/20/realizan-intervencion-sobre-51-bebes-que-buscan-familia-en-la-region-de-valparaiso/",
+    "titulo": "Oficinas Locales de Niñez del Valle de Aconcagua se capacitan en Familias de Acogida",
+    "enlace": "https://g5noticias.cl/2026/08/20/oficinas-locales-de-ninez-del-valle-de-aconcagua-se-capacitan-en-familias-de-acogida/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Antes de aprender a leer, hay que aprender a conversar. Paulina Pizarro Académica investigadora Facultad de Educación Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/08/20/antes-de-aprender-a-leer-hay-que-aprender-a-conversar-paulina-pizarro-academica-investigadora-facultad-de-educacion-universidad-de-las-americas/",
+    "titulo": "Estudiantes del Liceo Comercial darán vida a mural junto al destacado artista Seco Sánchez",
+    "enlace": "https://g5noticias.cl/2026/08/20/estudiantes-del-liceo-comercial-daran-vida-a-mural-junto-al-destacado-artista-seco-sanchez/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "“Una amenaza natural se convierte en un desastre cuando se encuentra con una sociedad vulnerable”",
-    "enlace": "https://g5noticias.cl/2026/08/20/una-amenaza-natural-se-convierte-en-un-desastre-cuando-se-encuentra-con-una-sociedad-vulnerable/",
+    "titulo": "Código Modelo Sísmico fija nuevas metas regionales y confirma a Chile como sede de su 10ª Jornada en 2027",
+    "enlace": "https://g5noticias.cl/2026/08/20/codigo-modelo-sismico-fija-nuevas-metas-regionales-y-confirma-a-chile-como-sede-de-su-10a-jornada-en-2027/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Inteligencia artificial para pymes: qué automatizar y qué mantener en manos humana",
-    "enlace": "https://g5noticias.cl/2026/08/20/inteligencia-artificial-para-pymes-que-automatizar-y-que-mantener-en-manos-humana/",
+    "titulo": "Marga Marga da vida a red de escuelas rurales para dialogar y trabajar en conjunto por la educación pública del territorio",
+    "enlace": "https://g5noticias.cl/2026/08/20/marga-marga-da-vida-a-red-de-escuelas-rurales-para-dialogar-y-trabajar-en-conjunto-por-la-educacion-publica-del-territorio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía de Calama logró condena de 26 años de cárcel contra imputados venezolanos por robo con violación y retención",
-    "enlace": "https://g5noticias.cl/2026/08/20/fiscalia-de-calama-logro-condena-de-26-anos-de-carcel-contra-imputados-venezolanos-por-robo-con-violacion-y-retencion/",
+    "titulo": "Gobierno Regional inauguró importantes obras que cuentan con una inversión de más de 1.600 millones de pesos en la comuna de Quilpué",
+    "enlace": "https://g5noticias.cl/2026/08/20/gobierno-regional-inauguro-importantes-obras-que-cuentan-con-una-inversion-de-mas-de-1-600-millones-de-pesos-en-la-comuna-de-quilpue/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Proyecto B lanza colecta nacional para implementar programas de prevención temprana de la violencia en adolescentes",
-    "enlace": "https://g5noticias.cl/2026/08/20/proyecto-b-lanza-colecta-nacional-para-implementar-programas-de-prevencion-temprana-de-la-violencia-en-adolescentes/",
+    "titulo": "“The Dark Side Of The Sur” regresa con nuevas sesiones de invierno en Aysén",
+    "enlace": "https://g5noticias.cl/2026/08/20/the-dark-side-of-the-sur-regresa-con-nuevas-sesiones-de-invierno-en-aysen/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Cormag e IST impulsan el bienestar y la empleabilidad de personas en búsqueda de empleo",
+    "enlace": "https://elmagallanico.com/2026/08/20/cormag-e-ist-impulsan-el-bienestar-y-la-empleabilidad-de-personas-en-busqueda-de-empleo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Inicia retiro de invitaciones para “Eduardo Manos de Tijera”",
     "enlace": "https://elmagallanico.com/2026/08/20/inicia-retiro-de-invitaciones-para-eduardo-manos-de-tijera/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Enap será parte de la celebración del Día de la Niñez en Punta Arenas",
     "enlace": "https://elmagallanico.com/2026/08/07/enap-sera-parte-de-la-celebracion-del-dia-de-la-ninez-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Capacitaciones impulsadas por Enap benefician a cerca de 150 personas en Magallanes",
-    "enlace": "https://elmagallanico.com/2026/08/05/capacitaciones-impulsadas-por-enap-benefician-a-cerca-de-150-personas-en-magallanes/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
