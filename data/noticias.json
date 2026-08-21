@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Sindicato de Jugadoras de Fútbol Profesional realiza primera visita al equipo femenino de Coquimbo Unido",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/20/sindicato-de-jugadoras-de-futbol-profesional-realiza-primera-visita-al-equipo-femenino-de-coquimbo-unido/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Cuatro postes con 20 cámaras reforzarán el monitoreo y la seguridad de la Pampilla de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/08/20/cuatro-postes-con-20-camaras-reforzaran-el-monitoreo-y-la-seguridad-de-la-pampilla-de-coquimbo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Bibliomóvil Regional llegará a Tierras Blancas para fomentar la lectura y el acceso a la cultura",
     "enlace": "https://www.elcoquimbano.cl/2026/08/18/bibliomovil-regional-llegara-a-tierras-blancas-para-fomentar-la-lectura-y-el-acceso-a-la-cultura/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Red Comunales lanza su propia app para reunir las noticias locales en un solo lugar",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/18/red-comunales-lanza-su-propia-app-para-reunir-las-noticias-locales-en-un-solo-lugar/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -270,6 +270,69 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "CMP es distinguida por cuarto año consecutivo entre las mejores empresas pagadoras del país",
+    "enlace": "https://serenaycoquimbo.cl/cmp-es-distinguida-por-cuarto-ano-consecutivo-entre-las-mejores-empresas-pagadoras-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=cmp-es-distinguida-por-cuarto-ano-consecutivo-entre-las-mejores-empresas-pagadoras-del-pais",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Pescadores y acuicultores artesanales afectados por sistemas frontales ya pueden postular a fondo de reactivación económica",
+    "enlace": "https://serenaycoquimbo.cl/pescadores-y-acuicultores-artesanales-afectados-por-sistemas-frontales-ya-pueden-postular-a-fondo-de-reactivacion-economica/?utm_source=rss&utm_medium=rss&utm_campaign=pescadores-y-acuicultores-artesanales-afectados-por-sistemas-frontales-ya-pueden-postular-a-fondo-de-reactivacion-economica",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Senador Núñez pide a ministro Quiroz más recursos para emergencias en Coquimbo",
+    "enlace": "https://serenaycoquimbo.cl/senador-nunez-pide-a-ministro-quiroz-mas-recursos-para-emergencias-en-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=senador-nunez-pide-a-ministro-quiroz-mas-recursos-para-emergencias-en-coquimbo",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Vicuña: Personas damnificadas podrán acceder gratuitamente a atenciones de salud",
+    "enlace": "https://serenaycoquimbo.cl/vicuna-personas-damnificadas-podran-acceder-gratuitamente-a-atenciones-de-salud/?utm_source=rss&utm_medium=rss&utm_campaign=vicuna-personas-damnificadas-podran-acceder-gratuitamente-a-atenciones-de-salud",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Municipalidad de Monte Patria reorienta recursos para apoyar a crianceras y crianceros afectados por el sistema frontal",
+    "enlace": "https://serenaycoquimbo.cl/municipalidad-de-monte-patria-reorienta-recursos-para-apoyar-a-crianceras-y-crianceros-afectados-por-el-sistema-frontal/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-monte-patria-reorienta-recursos-para-apoyar-a-crianceras-y-crianceros-afectados-por-el-sistema-frontal",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Pacientes del Hospital de Ovalle reciben donación de mantas tejidas",
+    "enlace": "https://serenaycoquimbo.cl/pacientes-del-hospital-de-ovalle-reciben-donacion-de-mantas-tejidas/?utm_source=rss&utm_medium=rss&utm_campaign=pacientes-del-hospital-de-ovalle-reciben-donacion-de-mantas-tejidas",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "En Canela INDAP fortalece la rehabilitación productiva de sus usuarios con la entrega de alimentación animal",
+    "enlace": "https://serenaycoquimbo.cl/en-canela-indap-fortalece-la-rehabilitacion-productiva-de-sus-usuarios-con-la-entrega-de-alimentacion-animal/?utm_source=rss&utm_medium=rss&utm_campaign=en-canela-indap-fortalece-la-rehabilitacion-productiva-de-sus-usuarios-con-la-entrega-de-alimentacion-animal",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Región Coquimbo. 6 temblores de diferentes magnitudes ocurrieron hoy miércoles. ¿Sentiste alguno?",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-6-temblores-de-diferentes-magnitudes-ocurrieron-hoy-miercoles-sentiste-alguno/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-6-temblores-de-diferentes-magnitudes-ocurrieron-hoy-miercoles-sentiste-alguno",
     "descripcion": "",
@@ -290,69 +353,6 @@
   {
     "titulo": "Región Coquimbo: Tres reincidentes caen por tráfico de drogas tras operativo del OS7",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-tres-reincidentes-caen-por-trafico-de-drogas-tras-operativo-del-os7/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-tres-reincidentes-caen-por-trafico-de-drogas-tras-operativo-del-os7",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "PDI recupera vehículo avaluado en 11 millones de pesos",
-    "enlace": "https://serenaycoquimbo.cl/pdi-recupera-vehiculo-avaluado-en-11-millones-de-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=pdi-recupera-vehiculo-avaluado-en-11-millones-de-pesos",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. “bala loca” atravesó el techo de casa y lesionó en el cuello a joven de 18 años que estaba descansando",
-    "enlace": "https://serenaycoquimbo.cl/nacional-bala-loca-atraveso-el-techo-de-casa-y-lesiono-en-el-cuello-a-joven-de-18-anos-que-estaba-descansando/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-bala-loca-atraveso-el-techo-de-casa-y-lesiono-en-el-cuello-a-joven-de-18-anos-que-estaba-descansando",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "SLEP Elqui inició programa “A Convivir Se Aprende” para fortalecer la convivencia educativa",
-    "enlace": "https://serenaycoquimbo.cl/slep-elqui-inicio-programa-a-convivir-se-aprende-para-fortalecer-la-convivencia-educativa/?utm_source=rss&utm_medium=rss&utm_campaign=slep-elqui-inicio-programa-a-convivir-se-aprende-para-fortalecer-la-convivencia-educativa",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Más de 1.600 jóvenes del Choapa han recibido becas de Minera Los Pelambres para apoyar sus estudios superiores",
-    "enlace": "https://serenaycoquimbo.cl/mas-de-1-600-jovenes-del-choapa-han-recibido-becas-de-minera-los-pelambres-para-apoyar-sus-estudios-superiores/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-1-600-jovenes-del-choapa-han-recibido-becas-de-minera-los-pelambres-para-apoyar-sus-estudios-superiores",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno y municipio priorizan acciones para avanzar en la recuperación de La Serena tras temporal.",
-    "enlace": "https://serenaycoquimbo.cl/gobierno-y-municipio-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-y-municipio-priorizan-acciones-para-avanzar-en-la-recuperacion-de-la-serena-tras-temporal",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Control policial en Tierras Blancas termina con detenido y decomiso de municiones, droga y un arma blanca",
-    "enlace": "https://serenaycoquimbo.cl/control-policial-en-tierras-blancas-termina-con-detenido-y-decomiso-de-municiones-droga-y-un-arma-blanca/?utm_source=rss&utm_medium=rss&utm_campaign=control-policial-en-tierras-blancas-termina-con-detenido-y-decomiso-de-municiones-droga-y-un-arma-blanca",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. Intensa búsqueda en el mar y costa de persona desaparecida",
-    "enlace": "https://serenaycoquimbo.cl/nacional-intensa-busqueda-en-el-mar-y-costa-de-persona-desaparecida/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-intensa-busqueda-en-el-mar-y-costa-de-persona-desaparecida",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1638,6 +1638,51 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Cardenal Chomalí y la inteligencia artificial: «El gran dilema es si vamos a ser libres o esclavos»",
+    "enlace": "https://g5noticias.cl/2026/08/20/cardenal-chomali-y-la-inteligencia-artificial-el-gran-dilema-es-si-vamos-a-ser-libres-o-esclavos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "UDD Ventures obtiene el primer lugar en ranking de incubadoras realizado por Corfo",
+    "enlace": "https://g5noticias.cl/2026/08/20/udd-ventures-obtiene-el-primer-lugar-en-ranking-de-incubadoras-realizado-por-corfo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Providencia y Senior Suites impulsan la primera Escuela de Cuidados para apoyar a personas cuidadoras",
+    "enlace": "https://g5noticias.cl/2026/08/20/municipalidad-de-providencia-y-senior-suites-impulsan-la-primera-escuela-de-cuidados-para-apoyar-a-personas-cuidadoras/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Walmart Chile reúne a más de 1.200 proveedores y anuncia la llegada de su e-commerce a Coyhaique",
+    "enlace": "https://g5noticias.cl/2026/08/20/walmart-chile-reune-a-mas-de-1-200-proveedores-y-anuncia-la-llegada-de-su-e-commerce-a-coyhaique/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con los aportes de Polla Chilena de Beneficencia: renuevan canchas deportivas para más de 2.600 estudiantes de la Protectora de la Infancia",
+    "enlace": "https://g5noticias.cl/2026/08/20/con-los-aportes-de-polla-chilena-de-beneficencia-renuevan-canchas-deportivas-para-mas-de-2-600-estudiantes-de-la-protectora-de-la-infancia-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "¿Comprar ahora para el 18? Las claves para congelar la carne y anticipar el gasto de Fiestas Patrias",
     "enlace": "https://g5noticias.cl/2026/08/20/comprar-ahora-para-el-18-las-claves-para-congelar-la-carne-y-anticipar-el-gasto-de-fiestas-patrias/",
     "descripcion": "",
@@ -1676,51 +1721,6 @@
   {
     "titulo": "Seguridad municipal: un nuevo paso para fortalecer la prevención y la gestión de seguridad en las comunas. Por Hernán Silva Llagostera, Seremi de Seguridad Pública Región de Valparaíso",
     "enlace": "https://g5noticias.cl/2026/08/20/seguridad-municipal-un-nuevo-paso-para-fortalecer-la-prevencion-y-la-gestion-de-seguridad-en-las-comunas-por-hernan-silva-llagostera-seremi-de-seguridad-publica-region-de-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Casa común: la exposición que pone a Chile a pensar en sus próximos cien años de conservación ambiental",
-    "enlace": "https://g5noticias.cl/2026/08/20/casa-comun-la-exposicion-que-pone-a-chile-a-pensar-en-sus-proximos-cien-anos-de-conservacion-ambiental/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Chile ya tiene Día Nacional de la Reinserción Social: decreto fue publicado en el Diario Oficial",
-    "enlace": "https://g5noticias.cl/2026/08/20/chile-ya-tiene-dia-nacional-de-la-reinsercion-social-decreto-fue-publicado-en-el-diario-oficial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Comandante en Jefe de la Armada visita Sala Histórica Arturo Prat en San Carlos",
-    "enlace": "https://g5noticias.cl/2026/08/20/comandante-en-jefe-de-la-armada-visita-sala-historica-arturo-prat-en-san-carlos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Proyectos impulsados por vecinos de Bajos de Mena obtienen financiamiento para transformar sus comunidades",
-    "enlace": "https://g5noticias.cl/2026/08/20/proyectos-impulsados-por-vecinos-de-bajos-de-mena-obtienen-financiamiento-para-transformar-sus-comunidades/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Conductores de buses vivieron en primera persona las barreras que enfrentan personas con discapacidad en el transporte público",
-    "enlace": "https://g5noticias.cl/2026/08/20/conductores-de-buses-vivieron-en-primera-persona-las-barreras-que-enfrentan-personas-con-discapacidad-en-el-transporte-publico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
