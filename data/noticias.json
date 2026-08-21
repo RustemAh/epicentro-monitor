@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "PDI investiga homicidio con arma de fuego ocurrido en Coquimbo: Hombre falleció tras llegar al Hospital",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/21/pdi-investiga-homicidio-con-arma-de-fuego-ocurrido-en-coquimbo-hombre-fallecio-tras-llegar-al-hospital/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Hospital de Coquimbo cumple 20 años transformando la donación en nuevas oportunidades de vida",
     "enlace": "https://www.elcoquimbano.cl/2026/08/21/hospital-de-coquimbo-cumple-20-anos-transformando-la-donacion-en-nuevas-oportunidades-de-vida/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Coquimbo Unido va por una noche histórica ante Platense y los cuartos de final de la Copa Libertadores",
     "enlace": "https://www.elcoquimbano.cl/2026/08/18/coquimbo-unido-va-por-una-noche-historica-ante-platense-y-los-cuartos-de-final-de-la-copa-libertadores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Puestos, food trucks y baños químicos: La Pampilla 2026 abre sus inscripciones",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/18/puestos-food-trucks-y-banos-quimicos-la-pampilla-2026-abre-sus-inscripciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Estudios técnicos determinarán la mejor solución para casas con afloramiento de agua en Monte Patria",
+    "enlace": "https://laserenaonline.cl/2026/08/21/estudios-tecnicos-determinaran-la-mejor-solucion-para-casas-con-afloramiento-de-agua-en-monte-patria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Avanza reparación de “eventos” causados por lluvias en La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/21/avanza-reparacion-de-eventos-causados-por-lluvias-en-la-serena/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Lanzan nuevo ciclo de worshops gratuitos para emprendedores de La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/20/lanzan-nuevo-ciclo-de-worshops-gratuitos-para-emprendedores-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Cambio climático: Punitaqui prepara 18 medidas para proteger su territorio y comunidades",
-    "enlace": "https://laserenaonline.cl/2026/08/20/cambio-climatico-punitaqui-prepara-18-medidas-para-proteger-su-territorio-y-comunidades/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Adultos mayores de La Higuera recibieron en sus casas sus títulos de dominio",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/21/adultos-mayores-de-la-higuera-recibieron-en-sus-casas-sus-titulos-de-dominio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "En Canela INDAP fortalece la rehabilitación productiva de sus usuarios con la entrega de alimentación animal",
     "enlace": "https://regiondecoquimbo.cl/2026/08/21/en-canela-indap-fortalece-la-rehabilitacion-productiva-de-sus-usuarios-con-la-entrega-de-alimentacion-animal/",
     "descripcion": "",
@@ -441,13 +450,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "En Punitaqui INDAP entrega alimentación caprina para contribuir a la rehabilitación productiva de sus usuarios",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/19/en-punitaqui-indap-entrega-alimentacion-caprina-para-contribuir-a-la-rehabilitacion-productiva-de-sus-usuarios/",
+    "titulo": "Incendio estructural consume por completo vivienda en el casco antiguo de Las Mollacas – Monte Patria",
+    "enlace": "https://ovallehoy.cl/incendio-estructural-consume-por-completo-vivienda-en-el-casco-antiguo-de-las-mollacas-monte-patria/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "Investigan el homicidio de un adulto mayor en la comuna de Salamanca",
@@ -524,15 +533,6 @@
   {
     "titulo": "20 ovallinas concluyen formación administrativa para hacer frente al desempleo e informalidad laboral",
     "enlace": "https://ovallehoy.cl/20-ovallinas-concluyen-formacion-administrativa-para-hacer-frente-al-desempleo-e-informalidad-laboral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "RegiónHOY: Refuerzan apoyo para recuperación y aseguran continuidad de proyectos en Andacollo",
-    "enlace": "https://ovallehoy.cl/regionhoy-refuerzan-apoyo-para-recuperacion-y-aseguran-continuidad-de-proyectos-en-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Lundin Mining desplegó apoyo preventivo y de emergencia ante nuevo sistema frontal en Atacama",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/21/lundin-mining-desplego-apoyo-preventivo-y-de-emergencia-ante-nuevo-sistema-frontal-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "El informe que todos quieren: ENAP bajo investigación por datos de azufre y eventuales delitos",
     "enlace": "https://www.atacamanoticias.cl/2026/08/21/el-informe-que-todos-quieren-enap-bajo-investigacion-por-datos-de-azufre-y-eventuales-delitos/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Bebidas, chocolates, postres y más: Cómo podría notarse en Chile el alza mundial del precio del azúcar",
     "enlace": "https://www.atacamanoticias.cl/2026/08/20/bebidas-chocolates-postres-y-mas-como-podria-notarse-en-chile-el-alza-mundial-del-precio-del-azucar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Terremoto de magnitud 7,2 sacude el sur de Perú: descartan riesgo de tsunami para Chile",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/20/terremoto-de-magnitud-72-sacude-el-sur-de-peru-descartan-riesgo-de-tsunami-para-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Lundin Mining desplegó apoyo preventivo y de emergencia ante nuevo sistema frontal en Atacama",
+    "enlace": "https://www.maray.cl/atacama/21/08/2026/lundin-mining-desplego-apoyo-preventivo-y-de-emergencia-ante-nuevo-sistema-frontal-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Seremi de Educación llama a las familias de Atacama a postular al Sistema de Admisión Escolar 2027",
+    "enlace": "https://www.maray.cl/atacama/21/08/2026/seremi-de-educacion-llama-a-las-familias-de-atacama-a-postular-al-sistema-de-admision-escolar-2027/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Atacama vivirá este domingo la Fecha Única del Circuito Regional de Escalada 2026",
     "enlace": "https://www.maray.cl/atacama/21/08/2026/atacama-vivira-este-domingo-la-fecha-unica-del-circuito-regional-de-escalada-2026/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "Seremis destacan discusión legislativa contra el crimen organizado y despliegue de seguridad en Atacama",
     "enlace": "https://www.maray.cl/atacama/21/08/2026/seremis-destacan-discusion-legislativa-contra-el-crimen-organizado-y-despliegue-de-seguridad-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Registro Civil Atacama ha emitido 10.166 documentos apostillados",
-    "enlace": "https://www.maray.cl/atacama/21/08/2026/registro-civil-atacama-ha-emitido-10-166-documentos-apostillados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno llama a pescadores y acuicultores de Atacama a postular a concurso de reactivación económica",
-    "enlace": "https://www.maray.cl/atacama/21/08/2026/gobierno-llama-a-pescadores-y-acuicultores-de-atacama-a-postular-a-concurso-de-reactivacion-economica/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,89 +1638,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Diputado Schalper (RN) oficia al SII por pagos de IVA de casas de apuestas online y exige aclarar eventuales",
+    "enlace": "https://g5noticias.cl/2026/08/21/diputado-schalper-rn-oficia-al-sii-por-pagos-de-iva-de-casas-de-apuestas-online-y-exige-aclarar-eventuales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Indra Group presentó en ENLOCE 2026 sus soluciones para avanzar hacia puertos más inteligentes, seguros y conectados",
+    "enlace": "https://g5noticias.cl/2026/08/21/indra-group-presento-en-enloce-2026-sus-soluciones-para-avanzar-hacia-puertos-mas-inteligentes-seguros-y-conectados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Yungay vuelve a activarse: Mercado Colores reunirá a 70 emprendimientos y espacios culturales en una gran jornada de invierno",
+    "enlace": "https://g5noticias.cl/2026/08/21/yungay-vuelve-a-activarse-mercado-colores-reunira-a-70-emprendimientos-y-espacios-culturales-en-una-gran-jornada-de-invierno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "La Araucana premia con $7,5 millones a cinco proyectos de pensionados en Re Emprende tu Vida 2026",
+    "enlace": "https://g5noticias.cl/2026/08/21/la-araucana-premia-con-75-millones-a-cinco-proyectos-de-pensionados-en-re-emprende-tu-vida-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Región de Valparaíso promedió cerca de 5 accidentes de trayecto en bicicleta por semana en los primeros cuatro meses del año",
+    "enlace": "https://g5noticias.cl/2026/08/21/region-de-valparaiso-promedio-cerca-de-5-accidentes-de-trayecto-en-bicicleta-por-semana-en-los-primeros-cuatro-meses-del-ano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "¿Qué hacer ante una quemadura? COANIQUEM ofrece orientación gratuita por WhatsApp las 24 horas",
+    "enlace": "https://g5noticias.cl/2026/08/21/que-hacer-ante-una-quemadura-coaniquem-ofrece-orientacion-gratuita-por-whatsapp-las-24-horas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Municipio de Viña del Mar celebrará el Día del Vinilo en la explanada de la Quinta Vergara",
+    "enlace": "https://g5noticias.cl/2026/08/21/municipio-de-vina-del-mar-celebrara-el-dia-del-vinilo-en-la-explanada-de-la-quinta-vergara/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Carabineros recupera especies robadas desde el Colegio Ítalo Composto de Villa Alemana",
+    "enlace": "https://g5noticias.cl/2026/08/21/carabineros-recupera-especies-robadas-desde-el-colegio-italo-composto-de-villa-alemana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Inician obras de gran infraestructura urbana y habitacional clave para La Calera",
+    "enlace": "https://g5noticias.cl/2026/08/21/inician-obras-de-gran-infraestructura-urbana-y-habitacional-clave-para-la-calera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Científicos chilenos avanzan en la creación de una vacuna contra una de las principales causas de muerte del salmón",
     "enlace": "https://g5noticias.cl/2026/08/21/cientificos-chilenos-avanzan-en-la-creacion-de-una-vacuna-contra-una-de-las-principales-causas-de-muerte-del-salmon/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Jetour casi duplica sus ventas en Chile y escala nueve posiciones en el mercado automotor",
-    "enlace": "https://g5noticias.cl/2026/08/21/jetour-casi-duplica-sus-ventas-en-chile-y-escala-nueve-posiciones-en-el-mercado-automotor/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Esval supera el 80% de ejecución de proyecto que beneficiará a más de 4.000 hogares de San Antonio",
-    "enlace": "https://g5noticias.cl/2026/08/21/esval-supera-el-80-de-ejecucion-de-proyecto-que-beneficiara-a-mas-de-4-000-hogares-de-san-antonio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Programa Ilumina de CGE realiza aporte de libros a Colegio PuenteMaipo en Puente Alto",
-    "enlace": "https://g5noticias.cl/2026/08/21/programa-ilumina-de-cge-realiza-aporte-de-libros-a-colegio-puentemaipo-en-puente-alto/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Según encuesta de Robert Half: Aguinaldo de Fiestas Patrias: festejos y pago de deudas serán sus principales usos",
-    "enlace": "https://g5noticias.cl/2026/08/21/segun-encuesta-de-robert-half-aguinaldo-de-fiestas-patrias-festejos-y-pago-de-deudas-seran-sus-principales-usos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Plaza Vega de Cerro Barón será completamente renovada con luminarias, áreas de juegos y deportes",
-    "enlace": "https://g5noticias.cl/2026/08/21/plaza-vega-de-cerro-baron-sera-completamente-renovada-con-luminarias-areas-de-juegos-y-deportes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ley corta de Seguridad Municipal: proyecto que facilita su implementación avanza al Senado",
-    "enlace": "https://g5noticias.cl/2026/08/21/ley-corta-de-seguridad-municipal-proyecto-que-facilita-su-implementacion-avanza-al-senado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Villa Alemana recupera tradicional desfile por el natalicio de Bernardo O’Higgins en sector El Peumo",
-    "enlace": "https://g5noticias.cl/2026/08/21/villa-alemana-recupera-tradicional-desfile-por-el-natalicio-de-bernardo-ohiggins-en-sector-el-peumo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Minvu anuncia la próxima apertura del llamado de 2026 al Subsidio de Arriendo para Personas Mayores y Personas con Discapacidad",
-    "enlace": "https://g5noticias.cl/2026/08/21/minvu-anuncia-la-proxima-apertura-del-llamado-de-2026-al-subsidio-de-arriendo-para-personas-mayores-y-personas-con-discapacidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "La espera y el susurro en salud. Por Nicolás Saá Muñoz, Académico del Instituto de Bioética de la Facultad de Medicina de la Universidad Católica de la Santísima Concepción (UCSC)",
-    "enlace": "https://g5noticias.cl/2026/08/21/la-espera-y-el-susurro-en-salud-por-nicolas-saa-munoz-academico-del-instituto-de-bioetica-de-la-facultad-de-medicina-de-la-universidad-catolica-de-la-santisima-concepcion-ucsc/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "EDELMAG realiza trabajos preventivos de poda junto a SEC y Seremi de Energía",
+    "enlace": "https://elmagallanico.com/2026/08/21/edelmag-realiza-trabajos-preventivos-de-poda-junto-a-sec-y-seremi-de-energia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Gran Plaza Ciudadana celebrará el Día del Niño con deportes, servicios y diversión en el Gimnasio Fiscal",
     "enlace": "https://elmagallanico.com/2026/08/21/gran-plaza-ciudadana-celebrara-el-dia-del-nino-con-deportes-servicios-y-diversion-en-el-gimnasio-fiscal/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Dicrep Magallanes realizará nuevo remate online de alhajas y objetos varios",
     "enlace": "https://elmagallanico.com/2026/08/20/dicrep-magallanes-realizara-nuevo-remate-online-de-alhajas-y-objetos-varios/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Cormag e IST impulsan el bienestar y la empleabilidad de personas en búsqueda de empleo",
-    "enlace": "https://elmagallanico.com/2026/08/20/cormag-e-ist-impulsan-el-bienestar-y-la-empleabilidad-de-personas-en-busqueda-de-empleo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
