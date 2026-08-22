@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Destacan a estudiantes de Canela que llevarán el talento científico de Coquimbo a la Feria Antártica Escolar 2026",
+    "enlace": "https://laserenaonline.cl/2026/08/22/destacan-a-estudiantes-de-canela-que-llevaran-el-talento-cientifico-de-coquimbo-a-la-feria-antartica-escolar-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Achs se une a iniciativa público-privada para entregar servicios gratuitos a afectados en Atacama y Coquimbo por las lluvias",
     "enlace": "https://laserenaonline.cl/2026/08/22/achs-se-une-a-iniciativa-publico-privada-para-entregar-servicios-gratuitos-a-afectados-en-atacama-y-coquimbo-por-las-lluvias/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Sujeto fue detenido con curioso equipaje: trasladaba más de cuatro kilos de droga de Coquimbo a La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/22/sujeto-fue-detenido-con-curioso-equipaje-trasladaba-mas-de-cuatro-kilos-de-droga-de-coquimbo-a-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Coquimbo: Fiscalía ECOH y PDI investigan homicidio en la Parte Alta",
-    "enlace": "https://laserenaonline.cl/2026/08/22/coquimbo-fiscalia-ecoh-y-pdi-investigan-homicidio-en-la-parte-alta/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1008,6 +1008,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos presenta querella criminal por robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
+    "enlace": "https://losviloschile.cl/sin-categoria/municipalidad-de-los-vilos-presenta-querella-criminal-por-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Pescadores de Los Vilos accedieron a 124 prestaciones de salud durante operativo en caleta San Pedro",
+    "enlace": "https://losviloschile.cl/actualidad/pescadores-de-los-vilos-accedieron-a-124-prestaciones-de-salud-durante-operativo-en-caleta-san-pedro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
+    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
+    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
+    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
+    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospitales de Salamanca y Los Vilos refuerzan prevención del hantavirus tras sistemas frontales",
+    "enlace": "https://losviloschile.cl/salud/hospitales-de-salamanca-y-los-vilos-refuerzan-prevencion-del-hantavirus-tras-sistemas-frontales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vecinos de Tierras Nuevas plantean problemas de seguridad en diálogo con policías y autoridades en Los Vilos",
+    "enlace": "https://losviloschile.cl/social/vecinos-de-tierras-nuevas-plantean-problemas-de-seguridad-en-dialogo-con-policias-y-autoridades-en-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos gestiona aerorescates para llegar a familias aisladas tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/municipalidad-de-los-vilos-gestiona-aerorescates-para-llegar-a-familias-aisladas-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Andacollo abre inscripciones para el XII Concurso Comunal de Plato Típico en Fiestas Patrias 2026",
     "enlace": "https://www.elandacollino.cl/2026/08/21/andacollo-abre-inscripciones-para-el-xii-concurso-comunal-de-plato-tipico-en-fiestas-patrias-2026/",
     "descripcion": "",
@@ -1458,6 +1548,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "“Wanaku me permitió perfeccionar mi oficio y enseñar lo que aprendí durante toda mi vida”",
+    "enlace": "https://laliguanoticias.cl/2026/08/22/wanaku-me-permitio-perfeccionar-mi-oficio-y-ensenar-lo-que-aprendi-durante-toda-mi-vida/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "Delegación Presidencial de Petorca conmemorará el Día del Dirigente Social con jornada de liderazgo comunitario",
     "enlace": "https://laliguanoticias.cl/2026/08/21/delegacion-presidencial-de-petorca-conmemorara-el-dia-del-dirigente-social-con-jornada-de-liderazgo-comunitario/",
     "descripcion": "",
@@ -1532,15 +1631,6 @@
   {
     "titulo": "Seremi de Salud descarta contaminación minera en aguas de tres sistemas rurales de la zona de influencia del río La Ligua",
     "enlace": "https://laliguanoticias.cl/2026/08/19/seremi-de-salud-descarta-contaminacion-minera-en-aguas-de-tres-sistemas-rurales-de-la-zona-de-influencia-del-rio-la-ligua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "COLUN dona 200 sacos de sustituto lácteo para crianceros de la comuna de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/08/17/colun-dona-200-sacos-de-sustituto-lacteo-para-crianceros-de-la-comuna-de-petorca/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,89 +1728,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Movilidad infantil en riesgo. Por Paula Deimel, Especialista en seguridad vial infantil Mini Nuts",
+    "enlace": "https://g5noticias.cl/2026/08/22/movilidad-infantil-en-riesgo-por-paula-deimel-especialista-en-seguridad-vial-infantil-mini-nuts/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Niñas y niños de La Pintana vivieron una mágica experiencia socioafectiva y musical en el cierre del Proyecto “Arrullo” 2026",
+    "enlace": "https://g5noticias.cl/2026/08/22/ninas-y-ninos-de-la-pintana-vivieron-una-magica-experiencia-socioafectiva-y-musical-en-el-cierre-del-proyecto-arrullo-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Demanda de oficinas por mineras y proveedores relacionados ha crecido un 200% en el último año",
+    "enlace": "https://g5noticias.cl/2026/08/22/demanda-de-oficinas-por-mineras-y-proveedores-relacionados-ha-crecido-un-200-en-el-ultimo-ano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Tecnología e inclusión para acercar la justicia a la Comunidad Sorda",
+    "enlace": "https://g5noticias.cl/2026/08/22/tecnologia-e-inclusion-para-acercar-la-justicia-a-la-comunidad-sorda-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "PUCV recibe reconocimiento por su innovación en educación emprendedora",
+    "enlace": "https://g5noticias.cl/2026/08/22/pucv-recibe-reconocimiento-por-su-innovacion-en-educacion-emprendedora/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Correos Chile inmortaliza a los títeres de 31 Minutos: ahora son estampillas",
+    "enlace": "https://g5noticias.cl/2026/08/22/correos-chile-inmortaliza-a-los-titeres-de-31-minutos-ahora-son-estampillas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Programa Becas Acceso TIC del MINEDUC, a través de JUNAEB: 162 estudiantes de la Educación Pública de Vicuña reciben computadores con conexión a internet",
+    "enlace": "https://g5noticias.cl/2026/08/22/programa-becas-acceso-tic-del-mineduc-a-traves-de-junaeb-162-estudiantes-de-la-educacion-publica-de-vicuna-reciben-computadores-con-conexion-a-internet/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Médicos refuerzan llamado a la vacunación: 70% de fallecidos por influenza no estaba inmunizado",
+    "enlace": "https://g5noticias.cl/2026/08/22/medicos-refuerzan-llamado-a-la-vacunacion-70-de-fallecidos-por-influenza-no-estaba-inmunizado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cuentacuentos en el Fonck: “La leyenda de Make Make, el Dios creador”",
+    "enlace": "https://g5noticias.cl/2026/08/22/cuentacuentos-en-el-fonck-la-leyenda-de-make-make-el-dios-creador/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Mes del Corazón: SSVSA llama a realizar controles preventivos para detectar a tiempo factores de riesgo cardiovascular",
     "enlace": "https://g5noticias.cl/2026/08/22/mes-del-corazon-ssvsa-llama-a-realizar-controles-preventivos-para-detectar-a-tiempo-factores-de-riesgo-cardiovascular/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Región de Valparaíso: invitan a postular al Fondart Regional 2027",
-    "enlace": "https://g5noticias.cl/2026/08/22/region-de-valparaiso-invitan-a-postular-al-fondart-regional-2027-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "La autoevaluación como chispa del aprendizaje en Educación Física. Por Adolfo Rocuant Académico investigador Escuela de Pedagogía en Educación Física Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/08/22/la-autoevaluacion-como-chispa-del-aprendizaje-en-educacion-fisica-por-adolfo-rocuant-academico-investigador-escuela-de-pedagogia-en-educacion-fisica-universidad-de-las-americas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Justicia decreta sobreseimiento definitivo de alcalde Maglio Cicardini y jefe de Gabinete: no existió delito",
-    "enlace": "https://g5noticias.cl/2026/08/22/justicia-decreta-sobreseimiento-definitivo-de-alcalde-maglio-cicardini-y-jefe-de-gabinete-no-existio-delito/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "En Villa Alemana se llevó a cabo el Campeonato Provincial de Cueca del Adulto Mayor 2026",
-    "enlace": "https://g5noticias.cl/2026/08/22/en-villa-alemana-se-llevo-a-cabo-el-campeonato-provincial-de-cueca-del-adulto-mayor-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "En prisión preventiva quedó un integrante de la banda que secuestró y provocó serias lesiones a una persona en Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/22/en-prision-preventiva-quedo-un-integrante-de-la-banda-que-secuestro-y-provoco-serias-lesiones-a-una-persona-en-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Una persona que llegó con heridas cortopunzantes al SAR Oriente de Rancagua falleció debido a la gravedad de sus heridas",
-    "enlace": "https://g5noticias.cl/2026/08/22/una-persona-que-llego-con-heridas-cortopunzantes-al-sar-oriente-de-rancagua-fallecio-debido-a-la-gravedad-de-sus-heridas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado Jofré pide fiscalizar eventuales matrimonios y AUC utilizados para obtener beneficios migratorios",
-    "enlace": "https://g5noticias.cl/2026/08/22/diputado-jofre-pide-fiscalizar-eventuales-matrimonios-y-auc-utilizados-para-obtener-beneficios-migratorios/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Seremi de Desarrollo Social y Familia refuerza medidas preventivas en albergues y residencias ante nuevo sistema frontal",
-    "enlace": "https://g5noticias.cl/2026/08/22/seremi-de-desarrollo-social-y-familia-refuerza-medidas-preventivas-en-albergues-y-residencias-ante-nuevo-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputada Coca Ñanco oficia por funeral de Gabriel Utreras y pide explicar por qué fue calificado de alto riesgo",
-    "enlace": "https://g5noticias.cl/2026/08/22/diputada-coca-nanco-oficia-por-funeral-de-gabriel-utreras-y-pide-explicar-por-que-fue-calificado-de-alto-riesgo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
