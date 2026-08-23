@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Pumas Vóleibol Illapel representa al Choapa en la tercera fecha de la LINAME Sub12 Damas",
-    "enlace": "https://veetv.cl/pumas-voleibol-illapel-representa-al-choapa-en-la-tercera-fecha-de-la-liname-sub12-damas/",
+    "titulo": "Lluvias y nevadas marcarán la última semana de agosto en el Choapa",
+    "enlace": "https://veetv.cl/lluvias-nevadas-choapa-ultima-semana-agosto/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Sergio Gahona y Junaeb: diligencias alcanzan al senador que una década atrás denunciaba irregularidades",
-    "enlace": "https://veetv.cl/sergio-gahona-junaeb-diligencias-investigacion/",
+    "titulo": "Pumas Vóleibol Illapel representa al Choapa en la tercera fecha de la LINAME Sub12 Damas",
+    "enlace": "https://veetv.cl/pumas-voleibol-illapel-representa-al-choapa-en-la-tercera-fecha-de-la-liname-sub12-damas/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Vecinos de Barranquilla denuncian grave falta de conectividad telefónica y exigen una solución",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/23/vecinos-de-barranquilla-denuncian-grave-falta-de-conectividad-telefonica-y-exigen-una-solucion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Encuesta Criteria: Aprobación de Kast estancada en 35% y 48% cree que la megarreforma será negativa",
     "enlace": "https://www.atacamanoticias.cl/2026/08/23/encuesta-criteria-aprobacion-de-kast-estancada-en-35-y-48-cree-que-la-megarreforma-sera-negativa/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Tras 34 días, 2.600 camiones entraron a Chile por Paso Los Libertadores y reabriría este fin de semana",
     "enlace": "https://www.atacamanoticias.cl/2026/08/21/tras-34-dias-2-600-camiones-entraron-a-chile-por-paso-los-libertadores-y-reabriria-este-fin-de-semana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Municipalidad de Copiapó inaugura nuevo sistema de iluminación y equipamiento de la Cancha de Fútbol El Pretil",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/21/municipalidad-de-copiapo-inaugura-nuevo-sistema-de-iluminacion-y-equipamiento-de-la-cancha-de-futbol-el-pretil/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Filtrador de GTA VI amenaza con liberar una supuesta versión jugable",
+    "enlace": "https://www.maray.cl/internacional/23/08/2026/filtrador-de-gta-vi-amenaza-con-liberar-una-supuesta-version-jugable/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Operativo de Carabineros deja tres detenidos durante servicios por aniversario de El Salado",
     "enlace": "https://www.maray.cl/atacama/23/08/2026/operativo-de-carabineros-deja-tres-detenidos-durante-servicios-por-aniversario-de-el-salado/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "Sismo de magnitud 4,6 se registra en la Región de Ñuble",
     "enlace": "https://www.maray.cl/pais/23/08/2026/sismo-de-magnitud-46-se-registra-en-la-region-de-nuble/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Dos menores mueren en Gaza y Cisjordania tras ataques israelíes",
-    "enlace": "https://www.maray.cl/internacional/23/08/2026/dos-menores-mueren-en-gaza-y-cisjordania-tras-ataques-israelies/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,15 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Denuncian que joven que trabaja en delivery fue atropellada por sujeto que se dio a la fuga en Viña del Mar. Auto pertenecería a funcionario activo de la Armada",
+    "enlace": "https://g5noticias.cl/2026/08/23/denuncian-que-joven-que-trabaja-en-delivery-fue-atropellada-por-sujeto-que-se-dio-a-la-fuga-auto-perteneceria-a-funcionario-activo-de-la-armada/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Colo Colo se quedó con la versión 200 del Superclásico tras derrotar por 2-1 a la U en el estadio Nacional",
     "enlace": "https://g5noticias.cl/2026/08/23/colo-colo-se-quedo-con-la-version-200-del-superclasico-tras-derrotar-por-2-1-a-la-u-en-el-estadio-nacional/",
     "descripcion": "",
@@ -1712,15 +1721,6 @@
   {
     "titulo": "PDI investiga violento asalto a joyería que se produjo ayer en plena avenida Valparaíso de Viña del Mar. Avalúo de especies y dinero en efectivo robado es de 75 millones de pesos",
     "enlace": "https://g5noticias.cl/2026/08/23/violento-asalto-a-joyeria-se-produjo-esta-tarde-en-plena-avenida-valparaiso-de-vina-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Más sueldo o más beneficios? Las empresas cambian la fórmula para retener a sus trabajadores",
-    "enlace": "https://g5noticias.cl/2026/08/23/mas-sueldo-o-mas-beneficios-las-empresas-cambian-la-formula-para-retener-a-sus-trabajadores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
