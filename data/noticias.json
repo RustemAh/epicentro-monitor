@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Secuestrado, golpeado y con fracturas: Fiscalía logra condena por violento ataque en el pueblo de Islón",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/22/secuestrado-golpeado-y-con-fracturas-fiscalia-logra-condena-por-violento-ataque-en-el-pueblo-de-islon/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "44.578 extranjeros y 52 mil solicitudes de residencia: Las cifras regionales según el Servicio Nacional de Migraciones",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/21/44-578-extranjeros-y-52-mil-solicitudes-de-residencia-las-cifras-regionales-segun-el-servicio-nacional-de-migraciones/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Empresa Sanitaria retomó producción de agua potable desde el río Elqui: No hubo cortes gracias a estanques de respaldo",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/18/empresa-sanitaria-retomo-produccion-de-agua-potable-desde-el-rio-elqui-no-hubo-cortes-gracias-a-estanques-de-respaldo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "TeatroPuerto estrena obra de co-creación con una temporada de 8 funciones de entrada liberada",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/08/18/teatropuerto-estrena-obra-de-co-creacion-con-una-temporada-de-8-funciones-de-entrada-liberada/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -1368,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Carros de Bomberos podrán transitar sin pagar peaje en carreteras concesionadas",
+    "enlace": "https://www.maray.cl/atacama/22/08/2026/carros-de-bomberos-podran-transitar-sin-pagar-peaje-en-carreteras-concesionadas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Unión Española sorprende a Cobreloa en Calama y aprieta la lucha por el liderato",
+    "enlace": "https://www.maray.cl/deportes/22/08/2026/union-espanola-sorprende-a-cobreloa-en-calama-y-aprieta-la-lucha-por-el-liderato/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Deportes Limache golpea a Huachipato y se mete en la pelea de arriba",
+    "enlace": "https://www.maray.cl/deportes/22/08/2026/deportes-limache-golpea-a-huachipato-y-se-mete-en-la-pelea-de-arriba/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Chile cerrará su embajada en Irán por razones operativas y de seguridad",
     "enlace": "https://www.maray.cl/pais/22/08/2026/chile-cerrara-su-embajada-en-iran-por-razones-operativas-y-de-seguridad/",
     "descripcion": "",
@@ -1424,33 +1451,6 @@
   {
     "titulo": "Niñas de Renca desaparecidas desde el jueves fueron halladas en Maipú",
     "enlace": "https://www.maray.cl/pais/22/08/2026/ninas-de-renca-desaparecidas-desde-el-jueves-fueron-halladas-en-maipu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Dos homicidios movilizan a la PDI en distintos puntos de la Región de Coquimbo",
-    "enlace": "https://www.maray.cl/pais/22/08/2026/dos-homicidios-movilizan-a-la-pdi-en-distintos-puntos-de-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Perú acelera su modernización militar con nuevos cazas y tanques",
-    "enlace": "https://www.maray.cl/internacional/22/08/2026/peru-acelera-su-modernizacion-militar-con-nuevos-cazas-y-tanques/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El avión de EEUU que libra una guerra invisible «electrónica» contra las defensas de Irán",
-    "enlace": "https://www.maray.cl/internacional/22/08/2026/el-avion-de-eeuu-que-libra-una-guerra-invisible-electronica-contra-las-defensas-de-iran/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Violento asalto a joyería se produjo esta tarde en plena avenida Valparaíso de Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/08/22/violento-asalto-a-joyeria-se-produjo-esta-tarde-en-plena-avenida-valparaiso-de-vina-del-mar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "El italiano Andrea Verona triunfa en la Sprint Cup de moto enduro y Benjamín Herrera remató segundo",
+    "enlace": "https://g5noticias.cl/2026/08/22/el-italiano-andrea-verona-triunfa-en-la-sprint-cup-de-moto-enduro-y-benjamin-herrera-remato-segundo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Colegios del Aconcagua dominaron en regionales escolares de voleibol",
+    "enlace": "https://g5noticias.cl/2026/08/22/colegios-del-aconcagua-dominaron-en-regionales-escolares-de-voleibol/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "¿Cómo elegir el extractor de leche adecuado?",
+    "enlace": "https://g5noticias.cl/2026/08/22/como-elegir-el-extractor-de-leche-adecuado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Deportes Limache se lució en el sur y ganó como visitante por 3-1 a un Huachipato que se complica en la tabla",
+    "enlace": "https://g5noticias.cl/2026/08/22/deportes-limache-se-lucio-en-el-sur-y-gano-como-visitante-por-3-1-a-un-huachipato-que-se-complica-en-la-tabla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Liga de Ascenso: Unión Española sorprendió a Cobreloa en Calama y logró una valiosa victoria por la cuenta mínima en el norte",
+    "enlace": "https://g5noticias.cl/2026/08/22/liga-de-ascenso-union-espanola-sorprendio-a-cobreloa-en-calama-y-logro-una-valiosa-victoria-por-la-cuenta-minima-en-el-norte/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Silencio Blanco celebra el Día Nacional del Títere y la Marioneta en Casa OANI con su primera creación: “DE PAPEL”",
     "enlace": "https://g5noticias.cl/2026/08/22/silencio-blanco-celebra-el-dia-nacional-del-titere-y-la-marioneta-en-casa-oani-con-su-primera-creacion-de-papel/",
     "descripcion": "",
@@ -1667,60 +1721,6 @@
   {
     "titulo": "Movilidad infantil en riesgo. Por Paula Deimel, Especialista en seguridad vial infantil Mini Nuts",
     "enlace": "https://g5noticias.cl/2026/08/22/movilidad-infantil-en-riesgo-por-paula-deimel-especialista-en-seguridad-vial-infantil-mini-nuts/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Niñas y niños de La Pintana vivieron una mágica experiencia socioafectiva y musical en el cierre del Proyecto “Arrullo” 2026",
-    "enlace": "https://g5noticias.cl/2026/08/22/ninas-y-ninos-de-la-pintana-vivieron-una-magica-experiencia-socioafectiva-y-musical-en-el-cierre-del-proyecto-arrullo-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Demanda de oficinas por mineras y proveedores relacionados ha crecido un 200% en el último año",
-    "enlace": "https://g5noticias.cl/2026/08/22/demanda-de-oficinas-por-mineras-y-proveedores-relacionados-ha-crecido-un-200-en-el-ultimo-ano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Tecnología e inclusión para acercar la justicia a la Comunidad Sorda",
-    "enlace": "https://g5noticias.cl/2026/08/22/tecnologia-e-inclusion-para-acercar-la-justicia-a-la-comunidad-sorda-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "PUCV recibe reconocimiento por su innovación en educación emprendedora",
-    "enlace": "https://g5noticias.cl/2026/08/22/pucv-recibe-reconocimiento-por-su-innovacion-en-educacion-emprendedora/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Correos Chile inmortaliza a los títeres de 31 Minutos: ahora son estampillas",
-    "enlace": "https://g5noticias.cl/2026/08/22/correos-chile-inmortaliza-a-los-titeres-de-31-minutos-ahora-son-estampillas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Programa Becas Acceso TIC del MINEDUC, a través de JUNAEB: 162 estudiantes de la Educación Pública de Vicuña reciben computadores con conexión a internet",
-    "enlace": "https://g5noticias.cl/2026/08/22/programa-becas-acceso-tic-del-mineduc-a-traves-de-junaeb-162-estudiantes-de-la-educacion-publica-de-vicuna-reciben-computadores-con-conexion-a-internet/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
