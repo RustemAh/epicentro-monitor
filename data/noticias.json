@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Oportunidad para emprendedores: abren convocatoria para impulsar proyectos innovadores en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/08/23/oportunidad-para-emprendedores-abren-convocatoria-para-impulsar-proyectos-innovadores-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "CORE aprueba recursos por $445 millones del 2% de Emergencia para acelerar el despeje de caminos dañados por el temporal",
     "enlace": "https://laserenaonline.cl/2026/08/23/core-aprueba-recursos-por-445-millones-del-2-de-emergencia-para-acelerar-el-despeje-de-caminos-danados-por-el-temporal/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Ciclista chileno de 11 años se consagra en Crankworx Whistler 2026, el festival de mountain bike más importante del mundo",
     "enlace": "https://laserenaonline.cl/2026/08/22/ciclista-chileno-de-11-anos-se-consagra-en-crankworx-whistler-2026-el-festival-de-mountain-bike-mas-importante-del-mundo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Destacan a estudiantes de Canela que llevarán el talento científico de Coquimbo a la Feria Antártica Escolar 2026",
-    "enlace": "https://laserenaonline.cl/2026/08/22/destacan-a-estudiantes-de-canela-que-llevaran-el-talento-cientifico-de-coquimbo-a-la-feria-antartica-escolar-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Encuesta Criteria: Aprobación de Kast estancada en 35% y 48% cree que la megarreforma será negativa",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/23/encuesta-criteria-aprobacion-de-kast-estancada-en-35-y-48-cree-que-la-megarreforma-sera-negativa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Caldera: Joven fallece mientras practicaba caza submarina en Caleta Barranquilla",
     "enlace": "https://www.atacamanoticias.cl/2026/08/23/joven-fallece-mientras-practicaba-caza-submarina-en-caleta-barranquilla/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Municipalidad de Copiapó inaugura nuevo sistema de iluminación y equipamiento de la Cancha de Fútbol El Pretil",
     "enlace": "https://www.atacamanoticias.cl/2026/08/21/municipalidad-de-copiapo-inaugura-nuevo-sistema-de-iluminacion-y-equipamiento-de-la-cancha-de-futbol-el-pretil/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Atacama prepara una gran temporada del Desierto Florido 2026 con coordinación regional, promoción turística y puntos de avistamiento",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/21/atacama-prepara-una-gran-temporada-del-desierto-florido-2026-con-coordinacion-regional-promocion-turistica-y-puntos-de-avistamiento/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,6 +1638,24 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Santiago: un detenido por infracción a la Ley de Control de Armas y Explosivos",
+    "enlace": "https://g5noticias.cl/2026/08/23/santiago-un-detenido-por-infraccion-a-la-ley-de-control-de-armas-y-explosivos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Coquimbo Unido iguala 1-1 con Deportes Concepción en el sur, mientras La Serena empató en casa contra Cobresal en una guerra de goles: 3 a 3",
+    "enlace": "https://g5noticias.cl/2026/08/23/coquimbo-unido-iguala-1-1-con-deportes-concepcion-en-el-sur-mientras-la-serena-empato-en-casa-contra-cobresal-en-una-guerra-de-goles-3-a-3/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Las señales que indican que una pyme necesita financiamiento antes de enfrentar una crisis",
     "enlace": "https://g5noticias.cl/2026/08/23/las-senales-que-indican-que-una-pyme-necesita-financiamiento-antes-de-enfrentar-una-crisis/",
     "descripcion": "",
@@ -1703,24 +1721,6 @@
   {
     "titulo": "Diputado Jaime Araya emplaza al Jefe de Asesores de Kast a aclarar vínculos con Fernando Cerimedo, exasesor de Milei imputado por presunto sicariato en Bolivia",
     "enlace": "https://g5noticias.cl/2026/08/23/diputado-jaime-araya-emplaza-al-jefe-de-asesores-de-kast-a-aclarar-vinculos-con-fernando-cerimedo-exasesor-de-milei-imputado-por-presunto-sicariato-en-bolivia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Día del Lomito: chilenos ya consumen más de 20 kilos de carne de cerdo por persona al año",
-    "enlace": "https://g5noticias.cl/2026/08/23/dia-del-lomito-chilenos-ya-consumen-mas-de-20-kilos-de-carne-de-cerdo-por-persona-al-ano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Cirugía de estimulación cerebral profunda del Hospital Clínico U de Chile mejora la calidad de vida de personas con Párkinson",
-    "enlace": "https://g5noticias.cl/2026/08/23/cirugia-de-estimulacion-cerebral-profunda-del-hospital-clinico-u-de-chile-mejora-la-calidad-de-vida-de-personas-con-parkinson/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
