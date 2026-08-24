@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Pacientes del Hospital de Ovalle reciben donación de mantas tejidas",
+    "enlace": "https://laserenaonline.cl/2026/08/24/pacientes-del-hospital-de-ovalle-reciben-donacion-de-mantas-tejidas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Aviso meteorológico por precipitaciones en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/08/24/aviso-meteorologico-por-precipitaciones-en-la-region-de-coquimbo-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Coquimbo recuperará tres inmuebles históricos y le da nueva vida al patrimonio",
     "enlace": "https://laserenaonline.cl/2026/08/24/coquimbo-recuperara-tres-inmuebles-historicos-y-le-da-nueva-vida-al-patrimonio/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "Correos de Chile inmortaliza a los títeres de 31 minutos: ahora son estampillas",
     "enlace": "https://laserenaonline.cl/2026/08/23/correos-de-chile-inmortaliza-a-los-titeres-de-31-minutos-ahora-son-estampillas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Andacollino campeón nacional de fisicoculturismo Diego Ortega entrega recomendaciones clave",
-    "enlace": "https://laserenaonline.cl/2026/08/23/andacollino-campeon-nacional-de-fisicoculturismo-diego-ortega-entrega-recomendaciones-clave/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Higuera: Centro Gastronómico y Artesanal Cruz Grande-Chungungo reabre sus puertas y vuelve a recibir a turistas y visitantes",
-    "enlace": "https://laserenaonline.cl/2026/08/23/la-higuera-centro-gastronomico-y-artesanal-cruz-grande-chungungo-reabre-sus-puertas-y-vuelve-a-recibir-a-turistas-y-visitantes/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "En Río Hurtado: Quiso hacer pasar droga por ropa de trabajo y transportaba más de $25 millones en marihuana",
+    "enlace": "https://ovallehoy.cl/en-rio-hurtado-quiso-hacer-pasar-droga-por-ropa-de-trabajo-y-transportaba-mas-de-25-millones-en-marihuana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Aclaradas las dudas: El Parque Recreacional Los Peñones será la locación definitiva de la Fonda Solidaria en Ovalle",
     "enlace": "https://ovallehoy.cl/aclaradas-las-dudas-el-parque-recreacional-los-penones-sera-la-locacion-definitiva-de-la-fonda-solidaria-en-ovalle/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Comunicadores abordan desafíos vinculados a la seguridad pública",
     "enlace": "https://ovallehoy.cl/comunicadores-abordan-desafios-vinculados-a-la-seguridad-publica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Monte Patria reorienta recursos para apoyar a crianceras y crianceros afectados por el sistema frontal",
-    "enlace": "https://ovallehoy.cl/monte-patria-reorienta-recursos-para-apoyar-a-crianceras-y-crianceros-afectados-por-el-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -630,6 +630,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Combarbalá lideró compras de emergencia en la región según informe del Consejo para la Transparencia que analizó año 2024",
+    "enlace": "https://www.elcombarbalino.cl/2026/08/24/combarbala-lidero-compras-de-emergencia-en-la-region-segun-informe-del-consejo-para-la-transparencia-que-analizo-ano-2024/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Fortalecen la ganadería caprina en Combarbalá con entrega de 27 mil kilos de alimento para enfrentar la crisis post emergencia",
     "enlace": "https://www.elcombarbalino.cl/2026/08/24/fortalecen-la-ganaderia-caprina-en-combarbala-con-entrega-de-27-mil-kilos-de-alimento-para-enfrentar-la-crisis-post-emergencia/",
     "descripcion": "",
@@ -704,15 +713,6 @@
   {
     "titulo": "Concejo Municipal de Antofagasta aprueba traspaso de $30 millones a Combarbalá para apoyar a damnificados",
     "enlace": "https://www.elcombarbalino.cl/2026/07/29/concejo-municipal-de-antofagasta-aprueba-traspaso-de-30-millones-a-combarbala-para-apoyar-a-damnificados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Familias de Combarbalá esperan la solidaridad de Antofagasta",
-    "enlace": "https://www.elcombarbalino.cl/2026/07/24/familias-de-combarbala-esperan-la-solidaridad-de-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -1368,6 +1368,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Moderna anuncia gran avance de vacuna contra el cáncer: Con resultados positivos en su ensayo clínico",
+    "enlace": "https://www.maray.cl/vida-salud/24/08/2026/moderna-anuncia-gran-avance-de-vacuna-contra-el-cancer-con-resultados-positivos-en-su-ensayo-clinico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Minsal alerta por detección de maní contaminado con aflatoxinas: éste es el producto que la autoridad llama a no consumir",
+    "enlace": "https://www.maray.cl/pais/24/08/2026/minsal-alerta-por-deteccion-de-mani-contaminado-con-aflatoxinas-este-es-el-producto-que-la-autoridad-llama-a-no-consumir/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "La electromovilidad se dispara en Chile: venta de autos 100% eléctricos crece 114% en el primer semestre de 2026",
+    "enlace": "https://www.maray.cl/pais/24/08/2026/la-electromovilidad-se-dispara-en-chile-venta-de-autos-100-electricos-crece-114-en-el-primer-semestre-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "PDI detiene a hombre vinculado a cinco delitos y recupera especies por $50 millones en Copiapó",
     "enlace": "https://www.maray.cl/atacama/24/08/2026/pdi-detiene-a-hombre-vinculado-a-cinco-delitos-y-recupera-especies-por-50-millones-en-copiapo/",
     "descripcion": "",
@@ -1424,33 +1451,6 @@
   {
     "titulo": "Criteria: 62% está de acuerdo con realizar cambios a la Constitución para reforzar seguridad",
     "enlace": "https://www.maray.cl/pais/23/08/2026/criteria-62-esta-de-acuerdo-con-realizar-cambios-a-la-constitucion-para-reforzar-seguridad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Filtrador de GTA VI amenaza con liberar una supuesta versión jugable",
-    "enlace": "https://www.maray.cl/internacional/23/08/2026/filtrador-de-gta-vi-amenaza-con-liberar-una-supuesta-version-jugable/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Operativo de Carabineros deja tres detenidos durante servicios por aniversario de El Salado",
-    "enlace": "https://www.maray.cl/atacama/23/08/2026/operativo-de-carabineros-deja-tres-detenidos-durante-servicios-por-aniversario-de-el-salado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Colo Colo se queda con el Superclásico 200 y amplía su ventaja sobre La U",
-    "enlace": "https://www.maray.cl/deportes/23/08/2026/colo-colo-se-queda-con-el-superclasico-200-y-amplia-su-ventaja-sobre-la-u/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,78 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Actualizar los datos para entender mejor las ciudades: Wemaps inicia una nueva etapa con nueva identidad y sitio web",
+    "enlace": "https://g5noticias.cl/2026/08/24/actualizar-los-datos-para-entender-mejor-las-ciudades-wemaps-inicia-una-nueva-etapa-con-nueva-identidad-y-sitio-web/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputados del PDG exigen flexibilizar tarifas del TAG y peajes urbanos para aliviar el bolsillo de la clase media",
+    "enlace": "https://g5noticias.cl/2026/08/24/diputados-del-pdg-exigen-flexibilizar-tarifas-del-tag-y-peajes-urbanos-para-aliviar-el-bolsillo-de-la-clase-media/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "70% de los hogares gasta al menos $30 mil mensuales en medicamentos",
+    "enlace": "https://g5noticias.cl/2026/08/24/70-de-los-hogares-gasta-al-menos-30-mil-mensuales-en-medicamentos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputados discrepan por impacto de retiro de respaldo del Gobierno a Bachelet en carrera por la ONU",
+    "enlace": "https://g5noticias.cl/2026/08/24/diputados-discrepan-por-impacto-de-retiro-de-respaldo-del-gobierno-a-bachelet-en-carrera-por-la-onu/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Senador Ivàn Flores por propuesta de senadores Squella y Longton: “No mueve la aguja; el gobierno debiera retirar la reforma y agilizar los proyectos pendientes”",
+    "enlace": "https://g5noticias.cl/2026/08/24/senador-ivan-flores-por-propuesta-de-senadores-squella-y-longton-no-mueve-la-aguja-el-gobierno-debiera-retirar-la-reforma-y-agilizar-los-proyectos-pendientes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "“El Estado debe llegar antes de la emergencia”: Diputada Lilian Betancurt pide acciones preventivas ante inminente sistema frontal en Biobío y Arauco",
+    "enlace": "https://g5noticias.cl/2026/08/24/el-estado-debe-llegar-antes-de-la-emergencia-diputada-lilian-betancurt-pide-acciones-preventivas-ante-inminente-sistema-frontal-en-biobio-y-arauco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "CONAF y Maipú fortalecen el arbolado urbano con la creación de un cerco vivo en la Piscina Municipal",
+    "enlace": "https://g5noticias.cl/2026/08/24/conaf-y-maipu-fortalecen-el-arbolado-urbano-con-la-creacion-de-un-cerco-vivo-en-la-piscina-municipal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Juzgado de Letras y Garantía de Quintero deja con arraigo nacional y firma mensual a imputado por cuasidelito de homicidio",
+    "enlace": "https://g5noticias.cl/2026/08/24/juzgado-de-letras-y-garantia-de-quintero-deja-con-arraigo-nacional-y-firma-mensual-a-imputado-por-cuasidelito-de-homicidio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Detienen a funcionario de tribunal acusado de filtrar información reservada a organización criminal",
     "enlace": "https://g5noticias.cl/2026/08/24/detienen-a-funcionario-de-tribunal-acusado-de-filtrar-informacion-reservada-a-organizacion-criminal/",
     "descripcion": "",
@@ -1656,76 +1728,31 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Segundo TOP de Santiago condena a efectivos de la PDI por apremios ilegítimos en Quilicura",
-    "enlace": "https://g5noticias.cl/2026/08/24/segundo-top-de-santiago-condena-a-efectivos-de-la-pdi-por-apremios-ilegitimos-en-quilicura/",
+    "titulo": "Pueden postular hasta este jueves 27 de agosto  Seremi de Educación del Biobío recuerda los plazos del proceso de postulación al Sistema de Admisión Escolar (SAE) 2027",
+    "enlace": "https://araucovision.cl/pueden-postular-hasta-este-jueves-27-de-agosto-seremi-de-educacion-del-biobio-recuerda-los-plazos-del-proceso-de-postulacion-al-sistema-de-admision-escolar-sae-2027/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "Gobierno se abre a reducir urgencia de reforma constitucional de seguridad",
-    "enlace": "https://g5noticias.cl/2026/08/24/gobierno-se-abre-a-reducir-urgencia-de-reforma-constitucional-de-seguridad/",
+    "titulo": "Frontel invita a emprendedoras del Biobío a postular a la 12ª Academia “Mujeres con Energía”",
+    "enlace": "https://araucovision.cl/frontel-invita-a-emprendedoras-del-biobio-a-postular-a-la-12a-academia-mujeres-con-energia/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
-    "titulo": "CONAF entrega boro a productores forestales de Quirihue para potenciar desarrollo de plantaciones jóvenes",
-    "enlace": "https://g5noticias.cl/2026/08/24/conaf-entrega-boro-a-productores-forestales-de-quirihue-para-potenciar-desarrollo-de-plantaciones-jovenes/",
+    "titulo": "Todo lo que debes saber: Revelan las rutas del rally chile Biobío 2026",
+    "enlace": "https://araucovision.cl/todo-lo-que-debes-saber-revelan-las-rutas-del-rally-chile-biobio-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Flamenco, memoria y fantasmas: «El Amor BrujA» alista su gran estreno en el Teatro Municipal de Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/08/24/flamenco-memoria-y-fantasmas-el-amor-bruja-alista-su-gran-estreno-en-el-teatro-municipal-de-vina-del-mar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "110 millones de pesos y 90 instituciones beneficiadas: Municipio de Limache entrega recursos a organizaciones sociales y comunitarias",
-    "enlace": "https://g5noticias.cl/2026/08/24/110-millones-de-pesos-y-90-instituciones-beneficiadas-municipio-de-limache-entrega-recursos-a-organizaciones-sociales-y-comunitarias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Estudiantes participa en jornada de restauración ecológica en la Reserva de la Biosfera Fray Jorge",
-    "enlace": "https://g5noticias.cl/2026/08/24/estudiantes-participa-en-jornada-de-restauracion-ecologica-en-la-reserva-de-la-biosfera-fray-jorge/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Inversiones energéticas continúan dinamizando el desarrollo del país y consolidan oportunidades para Ñuble",
-    "enlace": "https://g5noticias.cl/2026/08/24/inversiones-energeticas-continuan-dinamizando-el-desarrollo-del-pais-y-consolidan-oportunidades-para-nuble/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado Jaime Araya exige determinar sanciones contra ministro Arrau por vulnerar facultades fiscalizadoras de la Cámara: “¿Cómo va a exigir que otros cumplan la Constitución si él no lo hace?”",
-    "enlace": "https://g5noticias.cl/2026/08/24/diputado-jaime-araya-exige-determinar-sanciones-contra-ministro-arrau-por-vulnerar-facultades-fiscalizadoras-de-la-camara-como-va-a-exigir-que-otros-cumplan-la-constitucion-si-el-no-lo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
   },
   {
     "titulo": "Ciclismo de Biobío estará en los Juegos Olímpicos de la Juventud",
@@ -1784,33 +1811,6 @@
   {
     "titulo": "Se extiende el plazo: Premio InspiraTEC amplía su período de postulación",
     "enlace": "https://araucovision.cl/se-extiende-el-plazo-premio-inspiratec-amplia-su-periodo-de-postulacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "Tres avances concretos para mejorar el acceso a la información y proteger los derechos de los contribuyentes en materia de avalúos y contribuciones",
-    "enlace": "https://araucovision.cl/tres-avances-concretos-para-mejorar-el-acceso-a-la-informacion-y-proteger-los-derechos-de-los-contribuyentes-en-materia-de-avaluos-y-contribuciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "WRC Rally Chile Biobío presentó oficialmente su quinta edición y las novedades para este año 2026",
-    "enlace": "https://araucovision.cl/wrc-rally-chile-biobio-presento-oficialmente-su-quinta-edicion-y-las-novedades-para-este-ano-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Araucovisión",
-    "zona": "Arauco",
-    "cobertura_radio": "Arauco 99.1 FM"
-  },
-  {
-    "titulo": "” Representar a Chile en un Mundial es la recompensa al esfuerzo de todos estos años”: Alonsa Estobar rumbo al mundial de Surf sub 16 de El Salvador",
-    "enlace": "https://araucovision.cl/representar-a-chile-en-un-mundial-es-la-recompensa-al-esfuerzo-de-todos-estos-anos-alonsa-estobar-rumbo-al-mundial-de-surf-sub-16-de-el-salvador/",
     "descripcion": "",
     "publicado": "",
     "medio": "Araucovisión",
@@ -1899,6 +1899,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Municipio de Natales destina terreno para el nuevo Cesfam y lidera plan integral de salud mental",
+    "enlace": "https://elmagallanico.com/2026/08/24/municipio-de-natales-destina-terreno-para-el-nuevo-cesfam-y-lidera-plan-integral-de-salud-mental/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Gobierno releva logros de jóvenes deportistas",
     "enlace": "https://elmagallanico.com/2026/08/24/gobierno-releva-logros-de-jovenes-deportistas/",
     "descripcion": "",
@@ -1973,15 +1982,6 @@
   {
     "titulo": "Concurso de cuentos breves presenta recorrido gratuito por el Museo de Historia Natural de Río Seco",
     "enlace": "https://elmagallanico.com/2026/08/21/concurso-de-cuentos-breves-presenta-recorrido-gratuito-por-el-museo-de-historia-natural-de-rio-seco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Cómo la mecánica de riesgo en Chicken Road obliga al jugador a elegir entre continuar y salir",
-    "enlace": "https://elmagallanico.com/2026/08/21/como-la-mecanica-de-riesgo-en-chicken-road-obliga-al-jugador-a-elegir-entre-continuar-y-salir/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
