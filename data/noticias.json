@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Celebran tradicional misa por el aniversario 482 de La Serena en la iglesia Catedral",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/24/celebran-tradicional-misa-por-el-aniversario-482-de-la-serena-en-la-iglesia-catedral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Verbena solidaria de La Serena invita a apoyar a las familias afectadas por el temporal y conmemorar un nuevo aniversario",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/24/verbena-solidaria-de-la-serena-invita-a-apoyar-a-las-familias-afectadas-por-el-temporal-y-conmemorar-un-nuevo-aniversario/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Proyecciones del CEAZA señalan “El Niño” podría extender la temporada de lluvias hasta el 2027 en la región",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/19/proyecciones-del-ceaza-senalan-el-nino-podria-extender-la-temporada-de-lluvias-hasta-el-2027-en-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "$49 mil millones y 182 puntos críticos: La Serena define prioridades para enfrentar la reconstrucción",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/18/49-mil-millones-y-182-puntos-criticos-la-serena-define-prioridades-para-enfrentar-la-reconstruccion/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Corporación Cultural Municipal de Vicuña presenta nueva fecha de “Sesiones Sónicas” este viernes",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/24/corporacion-cultural-municipal-de-vicuna-presenta-nueva-fecha-de-sesiones-sonicas-este-viernes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Estudiantes de Canela llevarán el talento científico de Coquimbo a la Feria Antártica Escolar 2026",
     "enlace": "https://regiondecoquimbo.cl/2026/08/24/estudiantes-de-canela-llevaran-el-talento-cientifico-de-coquimbo-a-la-feria-antartica-escolar-2026/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Día de la Solidaridad: autoridades regionales conmemoran la jornada junto a personas mayores de Punitaqui",
     "enlace": "https://regiondecoquimbo.cl/2026/08/20/dia-de-la-solidaridad-autoridades-regionales-conmemoran-la-jornada-junto-a-personas-mayores-de-punitaqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Cuatro proyectos del Fondo Recuperando Chile fortalecerán el bienestar y la inclusión en la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/20/cuatro-proyectos-del-fondo-recuperando-chile-fortaleceran-el-bienestar-y-la-inclusion-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1006,6 +1006,96 @@
     "medio": "El Salamanquino",
     "zona": "Salamanca",
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
+    "titulo": "Estudiantes de Canela clasifican entre los 15 proyectos de la Feria Antártica Escolar 2026",
+    "enlace": "https://losviloschile.cl/canela/estudiantes-de-canela-clasifican-entre-los-15-proyectos-de-la-feria-antartica-escolar-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos lleva situación del Valle de Pupío al Senado y pide fiscalización de El Mauro",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-lleva-situacion-del-valle-de-pupio-al-senado-y-pide-fiscalizacion-de-el-mauro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos construirá 30 nichos de emergencia ante falta de espacio en cementerio municipal",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-construira-30-nichos-de-emergencia-ante-falta-de-espacio-en-cementerio-municipal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos presenta querella criminal por robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
+    "enlace": "https://losviloschile.cl/sin-categoria/municipalidad-de-los-vilos-presenta-querella-criminal-por-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Pescadores de Los Vilos accedieron a 124 prestaciones de salud durante operativo en caleta San Pedro",
+    "enlace": "https://losviloschile.cl/actualidad/pescadores-de-los-vilos-accedieron-a-124-prestaciones-de-salud-durante-operativo-en-caleta-san-pedro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
+    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
+    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
+    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
+    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Patrullaje preventivo permitió detener a banda adolescente en Andacollo: Llevaban un arma y droga",
@@ -1638,6 +1728,51 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Clima laboral: la salud mental no es lo único en juego. Por María Soledad Gaytán Hernández, médica miembro de la Sociedad Chilena de Medicina del Trabajo (SOCHMET)",
+    "enlace": "https://g5noticias.cl/2026/08/24/clima-laboral-la-salud-mental-no-es-lo-unico-en-juego-por-maria-soledad-gaytan-hernandez-medica-miembro-de-la-sociedad-chilena-de-medicina-del-trabajo-sochmet/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Delegación Presidencial realiza nuevo Cogrid Provincial en Curicó previo a la llegada de un nuevo sistema frontal",
+    "enlace": "https://g5noticias.cl/2026/08/24/delegacion-presidencial-realiza-nuevo-cogrid-provincial-en-curico-previo-a-la-llegada-de-un-nuevo-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Seremi de Salud intensifica fiscalizaciones y acciones preventivas previo a Fiestas Patrias",
+    "enlace": "https://g5noticias.cl/2026/08/24/seremi-de-salud-intensifica-fiscalizaciones-y-acciones-preventivas-previo-a-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Comienza la cuenta regresiva: Lanzan los Juegos Mundiales de Olimpiadas Especiales Santiago 2027",
+    "enlace": "https://g5noticias.cl/2026/08/24/comienza-la-cuenta-regresiva-lanzan-los-juegos-mundiales-de-olimpiadas-especiales-santiago-2027/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputada Tello pide al Gobierno transparentar qué activos fiscales venderá para financiar reconstrucción de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/08/24/diputada-tello-pide-al-gobierno-transparentar-que-activos-fiscales-vendera-para-financiar-reconstruccion-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Expo Mujer llevará a la Plaza de Llolleo el trabajo de mujeres de la comuna",
     "enlace": "https://g5noticias.cl/2026/08/24/expo-mujer-llevara-a-la-plaza-de-llolleo-el-trabajo-de-mujeres-de-la-comuna/",
     "descripcion": "",
@@ -1676,51 +1811,6 @@
   {
     "titulo": "Profesor José Luis Brito volvió a trabajar al Museo de San Antonio tras ilegal destitución por parte de anterior administración",
     "enlace": "https://g5noticias.cl/2026/08/24/profesor-jose-luis-brito-volvio-a-trabajar-al-museo-de-san-antonio-tras-ilegal-destitucion-por-parte-de-anterior-administracion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Villa Alemana presenta su Preuniversitario Municipal y potencia el apoyo a jóvenes de la comuna para acceder a la Educación Superior",
-    "enlace": "https://g5noticias.cl/2026/08/24/villa-alemana-presenta-su-preuniversitario-municipal-y-potencia-el-apoyo-a-jovenes-de-la-comuna-para-acceder-a-la-educacion-superior/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "“Situación de máxima complejidad”: diputado Venegas (PS) cuestiona ausencia del canciller en negociaciones arancelarias con EE.UU.",
-    "enlace": "https://g5noticias.cl/2026/08/24/situacion-de-maxima-complejidad-diputado-venegas-ps-cuestiona-ausencia-del-canciller-en-negociaciones-arancelarias-con-ee-uu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "MINVU anuncia puesta en marcha de programa de mejoramiento de viviendas y barrios que proyecta la creación de casi 20 mil empleos",
-    "enlace": "https://g5noticias.cl/2026/08/24/minvu-anuncia-puesta-en-marcha-de-programa-de-mejoramiento-de-viviendas-y-barrios-que-proyecta-la-creacion-de-casi-20-mil-empleos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Selección chilena de hockey inclusivo cierra su histórica participación en el mundial de parahockey de la FIH",
-    "enlace": "https://g5noticias.cl/2026/08/24/seleccion-chilena-de-hockey-inclusivo-cierra-su-historica-participacion-en-el-mundial-de-parahockey-de-la-fih/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Bafona y orquestas regionales se presentan este fin de semana en O’Higgins",
-    "enlace": "https://g5noticias.cl/2026/08/24/bafona-y-orquestas-regionales-se-presentan-este-fin-de-semana-en-ohiggins/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
