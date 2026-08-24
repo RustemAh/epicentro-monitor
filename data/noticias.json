@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Con nota 6,6 evalúan las familias el servicio brindado en salas cuna y jardines infantiles de Integra",
+    "enlace": "https://laserenaonline.cl/2026/08/24/con-nota-66-evaluan-las-familias-el-servicio-brindado-en-salas-cuna-y-jardines-infantiles-de-integra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Monte Patria elige a sus representantes en Muestra Comunal de Cueca Escolar",
     "enlace": "https://laserenaonline.cl/2026/08/24/monte-patria-elige-a-sus-representantes-en-muestra-comunal-de-cueca-escolar/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Salamanca: Amplían detención de mujer que será formalizada por homicidio",
     "enlace": "https://laserenaonline.cl/2026/08/24/salamanca-amplian-detencion-de-mujer-que-sera-formalizada-por-homicidio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 24 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/24/el-tiempo-hoy-24-de-agosto-para-la-region-de-coquimbo-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Estudiantes de Canela llevarán el talento científico de Coquimbo a la Feria Antártica Escolar 2026",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/24/estudiantes-de-canela-llevaran-el-talento-cientifico-de-coquimbo-a-la-feria-antartica-escolar-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Niños y niñas de Tierras Blancas fueron protagonistas de nueva jornada de contención cultural",
     "enlace": "https://regiondecoquimbo.cl/2026/08/21/ninos-y-ninas-de-tierras-blancas-fueron-protagonistas-de-nueva-jornada-de-contencion-cultural/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Cuatro proyectos del Fondo Recuperando Chile fortalecerán el bienestar y la inclusión en la Región de Coquimbo",
     "enlace": "https://regiondecoquimbo.cl/2026/08/20/cuatro-proyectos-del-fondo-recuperando-chile-fortaleceran-el-bienestar-y-la-inclusion-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Tras sistema frontal: Seremi de Culturas impulsa circuito de contención para acompañar a comunidades",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/20/tras-sistema-frontal-seremi-de-culturas-impulsa-circuito-de-contencion-para-acompanar-a-comunidades/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Lluvias y nevadas marcarán la última semana de agosto en el Choapa",
-    "enlace": "https://veetv.cl/lluvias-nevadas-choapa-ultima-semana-agosto/",
+    "titulo": "Lluvias y nieve en el Choapa: actualización de CEAZA prevé 23 mm en Salamanca y 12 mm en Illapel",
+    "enlace": "https://veetv.cl/lluvias-nieve-choapa-ceaza-23-mm-salamanca-12-mm-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Pumas Vóleibol Illapel representa al Choapa en la tercera fecha de la LINAME Sub12 Damas",
-    "enlace": "https://veetv.cl/pumas-voleibol-illapel-representa-al-choapa-en-la-tercera-fecha-de-la-liname-sub12-damas/",
+    "titulo": "Lluvias y nevadas marcarán la última semana de agosto en el Choapa",
+    "enlace": "https://veetv.cl/lluvias-nevadas-choapa-ultima-semana-agosto/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Funcionario judicial es detenido por presunta colaboración con banda dedicada al narcotráfico",
+    "enlace": "https://www.maray.cl/pais/24/08/2026/funcionario-judicial-es-detenido-por-presunta-colaboracion-con-banda-dedicada-al-narcotrafico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "INDAP entrega estanques móviles por emergencia agrícola a crianceros de Vallenar",
+    "enlace": "https://www.maray.cl/atacama/24/08/2026/indap-entrega-estanques-moviles-por-emergencia-agricola-a-crianceros-de-vallenar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Moderna anuncia gran avance de vacuna contra el cáncer: Con resultados positivos en su ensayo clínico",
     "enlace": "https://www.maray.cl/vida-salud/24/08/2026/moderna-anuncia-gran-avance-de-vacuna-contra-el-cancer-con-resultados-positivos-en-su-ensayo-clinico/",
     "descripcion": "",
@@ -1440,22 +1458,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Palestino superó a O’Higgins en el cierre y trepó al podio en la Liga de Primera",
-    "enlace": "https://www.maray.cl/deportes/23/08/2026/palestino-supero-a-ohiggins-en-el-cierre-y-trepo-al-podio-en-la-liga-de-primera/",
+    "titulo": "Entregan 3.000 fardos de pasto a crianceros de la Comuna de La Ligua afectados por los temporales",
+    "enlace": "https://laliguanoticias.cl/2026/08/24/entregan-3-000-fardos-de-pasto-a-crianceros-de-la-comuna-de-la-ligua-afectados-por-los-temporales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Criteria: 62% está de acuerdo con realizar cambios a la Constitución para reforzar seguridad",
-    "enlace": "https://www.maray.cl/pais/23/08/2026/criteria-62-esta-de-acuerdo-con-realizar-cambios-a-la-constitucion-para-reforzar-seguridad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "ASOGICH solicita a Diputado Mella declarar patrimonio vivo a la Gallina Mapuche",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "Buscan incorporar nuevo programa de seguridad alimentaria para apoyar a familias y fortalecer emprendimientos locales de Zapallar",
     "enlace": "https://laliguanoticias.cl/2026/08/19/buscan-incorporar-nuevo-programa-de-seguridad-alimentaria-para-apoyar-a-familias-y-fortalecer-emprendimientos-locales-de-zapallar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Hospital Biprovincial capacita a personal de Urgencias ante alerta internacional por Ébola",
-    "enlace": "https://laliguanoticias.cl/2026/08/19/hospital-biprovincial-capacita-a-personal-de-urgencias-ante-alerta-internacional-por-ebola/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía formalizó a conductor de taxibús por fatal atropello de joven en Antofagasta",
-    "enlace": "https://g5noticias.cl/2026/08/24/fiscalia-formalizo-a-conductor-de-taxibus-por-fatal-atropello-de-joven-en-antofagasta/",
+    "titulo": "Premios Fedetur 2026 reconocerán el valor de una industria que se desarrolla en el territorio a través de su gente",
+    "enlace": "https://g5noticias.cl/2026/08/24/premios-fedetur-2026-reconoceran-el-valor-de-una-industria-que-se-desarrolla-en-el-territorio-a-traves-de-su-gente/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Subsidio a la contratación alcanza el 47,5% de postulaciones en la Región de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/24/subsidio-a-la-contratacion-alcanza-el-475-de-postulaciones-en-la-region-de-valparaiso/",
+    "titulo": "Diputada Francesca Muñoz pide a Cancillería enviar nota de protesta a Argentina por dichos de jefe de la Fuerza Aérea: “El Estrecho de Magallanes es chileno”",
+    "enlace": "https://g5noticias.cl/2026/08/24/diputada-francesca-munoz-pide-a-cancilleria-enviar-nota-de-protesta-a-argentina-por-dichos-de-jefe-de-la-fuerza-aerea-el-estrecho-de-magallanes-es-chileno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Gustavo Gatica destaca lanzamiento de Santiago 2027 como un paso esencial hacia una verdadera inclusión",
-    "enlace": "https://g5noticias.cl/2026/08/24/diputado-gustavo-gatica-destaca-lanzamiento-de-santiago-2027-como-un-paso-esencial-hacia-una-verdadera-inclusion/",
+    "titulo": "Mulet oficia a cancillería y pide aclarar si hubo autorización del Presidente Kast en declaración contra carteles firmada junto a EEUU",
+    "enlace": "https://g5noticias.cl/2026/08/24/mulet-oficia-a-cancilleria-y-pide-aclarar-si-hubo-autorizacion-del-presidente-kast-en-declaracion-contra-carteles-firmada-junto-a-eeuu/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CGR en terreno: equipo fiscalizó condiciones de seguridad en el Aeropuerto de Santiago",
-    "enlace": "https://g5noticias.cl/2026/08/24/cgr-en-terreno-equipo-fiscalizo-condiciones-de-seguridad-en-el-aeropuerto-de-santiago/",
+    "titulo": "Diputado Alejandro Riquelme pide a Cancillería nota de protesta tras dichos de jefe de Fuerza Aérea Argentina sobre Magallanes",
+    "enlace": "https://g5noticias.cl/2026/08/24/diputado-alejandro-riquelme-pide-a-cancilleria-nota-de-protesta-tras-dichos-de-jefe-de-fuerza-aerea-argentina-sobre-magallanes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senadores Cariola y Núñez acuden al TC para defender norma que obliga a reponer servicios básicos en zonas de catástrofe: “El Gobierno está vulnerando la voluntad democrática del Congreso”",
-    "enlace": "https://g5noticias.cl/2026/08/24/senadores-cariola-y-nunez-acuden-al-tc-para-defender-norma-que-obliga-a-reponer-servicios-basicos-en-zonas-de-catastrofe-el-gobierno-esta-vulnerando-la-voluntad-democratica-del-congreso/",
+    "titulo": "Entel Digital y Teltonika impulsan un ecosistema de conectividad para IoT industrial",
+    "enlace": "https://g5noticias.cl/2026/08/24/entel-digital-y-teltonika-impulsan-un-ecosistema-de-conectividad-para-iot-industrial/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Referees, sedes y horarios del Americas Rugby Championship 2026 confirmados",
-    "enlace": "https://g5noticias.cl/2026/08/24/referees-sedes-y-horarios-del-americas-rugby-championship-2026-confirmados/",
+    "titulo": "Benjamín Herrera es el mejor chileno en la Sprint Cup de moto enduro pese a una reciente operación",
+    "enlace": "https://g5noticias.cl/2026/08/24/benjamin-herrera-es-el-mejor-chileno-en-la-sprint-cup-de-moto-enduro-pese-a-una-reciente-operacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputados de la Comisión de Obras Públicas se abren a rebajar tarifas de TAG y piden revisar contratos de concesiones",
-    "enlace": "https://g5noticias.cl/2026/08/24/diputados-de-la-comision-de-obras-publicas-se-abren-a-rebajar-tarifas-de-tag-y-piden-revisar-contratos-de-concesiones/",
+    "titulo": "Presidente José Antonio Kast inaugura encuentro internacional de escuelas militares de montaña",
+    "enlace": "https://g5noticias.cl/2026/08/24/presidente-jose-antonio-kast-inaugura-encuentro-internacional-de-escuelas-militares-de-montana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CONAF Los Lagos propone histórica multa de más de $8.300 millones por tala ilegal de 160 hectáreas de bosque nativo en Puerto Varas",
-    "enlace": "https://g5noticias.cl/2026/08/24/conaf-los-lagos-propone-historica-multa-de-mas-de-8-300-millones-por-tala-ilegal-de-160-hectareas-de-bosque-nativo-en-puerto-varas/",
+    "titulo": "Corporación Regional de Turismo reunirá a autoridades y expertos en el 1er Encuentro VR: Rutas Turísticas Sostenibles",
+    "enlace": "https://g5noticias.cl/2026/08/24/corporacion-regional-de-turismo-reunira-a-autoridades-y-expertos-en-el-1er-encuentro-vr-rutas-turisticas-sostenibles/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chile ya tiene Día Nacional de la Reinserción Social: decreto fue publicado en el Diario Oficial",
-    "enlace": "https://g5noticias.cl/2026/08/24/chile-ya-tiene-dia-nacional-de-la-reinsercion-social-decreto-fue-publicado-en-el-diario-oficial-2/",
+    "titulo": "Ministerio de las Culturas abre proceso de postulación a los Premios a la Música Nacional Presidente de la República 2026",
+    "enlace": "https://g5noticias.cl/2026/08/24/ministerio-de-las-culturas-abre-proceso-de-postulacion-a-los-premios-a-la-musica-nacional-presidente-de-la-republica-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Directora del Colegio Pablo Neruda del SLEP Valparaíso recibe importante reconocimiento a nivel nacional",
-    "enlace": "https://g5noticias.cl/2026/08/24/directora-del-colegio-pablo-neruda-del-slep-valparaiso-recibe-importante-reconocimiento-a-nivel-nacional/",
+    "titulo": "Estudiantes de Canela llevarán el talento científico de Coquimbo a la Feria Antártica Escolar 2026",
+    "enlace": "https://g5noticias.cl/2026/08/24/estudiantes-de-canela-llevaran-el-talento-cientifico-de-coquimbo-a-la-feria-antartica-escolar-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
