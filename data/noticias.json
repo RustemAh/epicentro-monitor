@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Educación abre nuevas oportunidades para jóvenes en reinserción social en Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/25/educacion-abre-nuevas-oportunidades-para-jovenes-en-reinsercion-social-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Socavón obliga a CMP a realizar relleno y mantener pruebas controladas en línea férrea de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/08/24/socavon-obliga-a-cmp-a-realizar-relleno-y-mantener-pruebas-controladas-en-linea-ferrea-de-coquimbo/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Fiscalía investiga presunta trama de corrupción en contratos de Junaeb y pesquisas alcanzan al senador Sergio Gahona",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/20/fiscalia-investiga-presunta-trama-de-corrupcion-en-contratos-de-junaeb-y-pesquisas-alcanzan-al-senador-sergio-gahona/",
+    "titulo": "Migraciones habilita nuevo certificado digital que acredita si personas extranjeras pueden trabajar legalmente en Chile",
+    "enlace": "https://www.elserenense.cl/regionales/2026/08/25/migraciones-habilita-nuevo-certificado-digital-que-acredita-si-personas-extranjeras-pueden-trabajar-legalmente-en-chile/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Celebran tradicional misa por el aniversario 482 de La Serena en la iglesia Catedral",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Proyecciones del CEAZA señalan “El Niño” podría extender la temporada de lluvias hasta el 2027 en la región",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/19/proyecciones-del-ceaza-senalan-el-nino-podria-extender-la-temporada-de-lluvias-hasta-el-2027-en-la-region/",
+    "titulo": "Quiso hacer pasar droga por ropa de trabajo: detenido en Río Hurtado transportaba más de $25 millones en marihuana",
+    "enlace": "https://laserenaonline.cl/2026/08/25/quiso-hacer-pasar-droga-por-ropa-de-trabajo-detenido-en-rio-hurtado-transportaba-mas-de-25-millones-en-marihuana/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Aviso meteorológico por precipitaciones en la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/08/24/aviso-meteorologico-por-precipitaciones-en-la-region-de-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Coquimbo recuperará tres inmuebles históricos y le da nueva vida al patrimonio",
-    "enlace": "https://laserenaonline.cl/2026/08/24/coquimbo-recuperara-tres-inmuebles-historicos-y-le-da-nueva-vida-al-patrimonio/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -810,6 +810,15 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
+    "titulo": "Municipio de Illapel impulsa el desarrollo comunitario con histórica entrega de $84 millones en Fondos Concursables 2026",
+    "enlace": "https://www.elillapelino.cl/2026/08/25/municipio-de-illapel-impulsa-el-desarrollo-comunitario-con-historica-entrega-de-84-millones-en-fondos-concursables-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Illapelino",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Vortex Metals refuerza su estrategia en América y proyecta nuevos avances para su proyecto de cobre en Illapel",
     "enlace": "https://www.elillapelino.cl/2026/08/22/vortex-metals-refuerza-su-estrategia-en-america-y-proyecta-nuevos-avances-para-su-proyecto-de-cobre-en-illapel/",
     "descripcion": "",
@@ -891,15 +900,6 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "En Illapel la Fiscalía formalizó a mujer por tráfico de drogas: Quedó en prisión preventiva",
-    "enlace": "https://www.elillapelino.cl/2026/08/13/en-illapel-la-fiscalia-formalizo-a-mujer-por-trafico-de-drogas-quedo-en-prision-preventiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Illapelino",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
     "titulo": "Lluvias y nieve en el Choapa: actualización de CEAZA prevé 23 mm en Salamanca y 12 mm en Illapel",
     "enlace": "https://veetv.cl/lluvias-nieve-choapa-ceaza-23-mm-salamanca-12-mm-illapel/",
     "descripcion": "",
@@ -916,6 +916,15 @@
     "medio": "VeeTV",
     "zona": "Illapel / Choapa",
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "En Salamanca amplían detención de mujer que será formalizada por homicidio de un adulto mayor",
+    "enlace": "https://www.elsalamanquino.cl/2026/08/25/en-salamanca-amplian-detencion-de-mujer-que-sera-formalizada-por-homicidio-de-un-adulto-mayor/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
     "titulo": "Pronostican nevadas de hasta 70 centímetros en la cordillera de Salamanca y otras comuna de la región",
@@ -992,15 +1001,6 @@
   {
     "titulo": "CRDP te invita a postular para ser parte del Catálogo de Productos Regionales 2026",
     "enlace": "https://www.elsalamanquino.cl/2026/08/13/crdp-te-invita-a-postular-para-ser-parte-del-catalogo-de-productos-regionales-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Zonas rurales de Salamanca cuentan con tratamiento para la Enfermedad Chagas",
-    "enlace": "https://www.elsalamanquino.cl/2026/08/12/zonas-rurales-de-salamanca-cuentan-con-tratamiento-para-la-enfermedad-chagas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Celebración, cultura y letras: Diego de Almagro festeja su 54° aniversario con la feria del libro y el encuentro regional de escritores",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/25/celebracion-cultura-y-letras-diego-de-almagro-festeja-su-54-aniversario-con-la-feria-del-libro-y-el-encuentro-regional-de-escritores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Experto advierte que El Niño trae temperaturas sobre el promedio este verano: “Va a ser en todo Chile”",
     "enlace": "https://www.atacamanoticias.cl/2026/08/24/experto-advierte-que-el-nino-trae-temperaturas-sobre-el-promedio-este-verano-va-a-ser-en-todo-chile/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Diego de Almagro: Fiscalía y PDI indagan circunstancias de delito de homicidio",
     "enlace": "https://www.atacamanoticias.cl/2026/08/24/diego-de-almagro-fiscalia-y-pdi-indagan-circunstancias-de-delito-de-homicidio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Carabineros de Copiapó detuvo a conductor que transitaba por la Ruta 5 Norte tras dar positivo a narcotest",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/24/carabineros-de-copiapo-detuvo-a-conductor-que-transitaba-por-la-ruta-5-norte-tras-dar-positivo-a-narcotest/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "CGE lanza campaña nacional “Volantín Seguro 2026” para prevenir accidentes relacionados con las redes eléctricas durante las Fiestas Patrias",
+    "enlace": "https://www.maray.cl/atacama/25/08/2026/cge-lanza-campana-nacional-volantin-seguro-2026-para-prevenir-accidentes-relacionados-con-las-redes-electricas-durante-las-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Atacama es convocada a construir el nuevo Plan Nacional de Eficiencia Energética",
     "enlace": "https://www.maray.cl/atacama/25/08/2026/atacama-es-convocada-a-construir-el-nuevo-plan-nacional-de-eficiencia-energetica/",
     "descripcion": "",
@@ -1532,15 +1541,6 @@
   {
     "titulo": "La ingeniería que la minería chilena necesita  (Por Lilian Velásquez, profesora de la Pontificia Universidad Católica y adherente de Compromiso Minero)",
     "enlace": "https://www.maray.cl/opinion/24/08/2026/la-ingenieria-que-la-mineria-chilena-necesita-por-lilian-velasquez-profesora-de-la-pontificia-universidad-catolica-y-adherente-de-compromiso-minero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Copiapó: Fiscalía comenzó presentación de pruebas en juicio por delito de obstrucción a la investigación",
-    "enlace": "https://www.maray.cl/atacama/24/08/2026/copiapo-fiscalia-comenzo-presentacion-de-pruebas-en-juicio-por-delito-de-obstruccion-a-la-investigacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Leyes en pausa, usuarios atentos. Por Carlos Araya, Director en AMDD (Asociación de Marketing Digital y Datos), Escuela de Administración y Negocios Duoc UC",
-    "enlace": "https://g5noticias.cl/2026/08/25/leyes-en-pausa-usuarios-atentos-por-carlos-araya-director-en-amdd-asociacion-de-marketing-digital-y-datos-escuela-de-administracion-y-negocios-duoc-uc/",
+    "titulo": "Hospital Regional de Talca destaca el aumento de cirugías y reducción de tiempos de espera durante el 2025 en su última cuenta pública participativa",
+    "enlace": "https://g5noticias.cl/2026/08/25/hospital-regional-de-talca-destaca-el-aumento-de-cirugias-y-reduccion-de-tiempos-de-espera-durante-el-2025-en-su-ultima-cuenta-publica-participativa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El clásico del teatro moderno, “La Señorita Julia” se estrena en Sala UPLA en una propuesta contemporánea y audaz",
-    "enlace": "https://g5noticias.cl/2026/08/25/el-clasico-del-teatro-moderno-la-senorita-julia-se-estrena-en-sala-upla-en-una-propuesta-contemporanea-y-audaz/",
+    "titulo": "¿Fiebre de Fonda? Dónde ver a Joe Vasconcellos en estas Fiestas Patrias 2026",
+    "enlace": "https://g5noticias.cl/2026/08/25/fiebre-de-fonda-donde-ver-a-joe-vasconcellos-en-estas-fiestas-patrias-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El “nuevo París-Londres” de Santiago: El potencial que esconde el histórico Barrio Dieciocho",
-    "enlace": "https://g5noticias.cl/2026/08/25/el-nuevo-paris-londres-de-santiago-el-potencial-que-esconde-el-historico-barrio-dieciocho/",
+    "titulo": "Última hora: José María Buljubasich dejó de ser el gerente deportivo de la Universidad Católica",
+    "enlace": "https://g5noticias.cl/2026/08/25/ultima-hora-jose-maria-buljubasich-dejo-de-ser-el-gerente-deportivo-de-la-universidad-catolica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDI detiene a dos imputadas e incauta más de $26 millones en droga en La Ligua",
-    "enlace": "https://g5noticias.cl/2026/08/25/pdi-detiene-a-dos-imputadas-e-incauta-mas-de-26-millones-en-droga-en-la-ligua/",
+    "titulo": "Copiapó: Fiscalía comenzó presentación de pruebas en juicio por delito de obstrucción a la investigación",
+    "enlace": "https://g5noticias.cl/2026/08/25/copiapo-fiscalia-comenzo-presentacion-de-pruebas-en-juicio-por-delito-de-obstruccion-a-la-investigacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipalidad de Quintero celebró con éxito el Mes de la Niñez en sectores rurales con una jornada de alegría y recreación",
-    "enlace": "https://g5noticias.cl/2026/08/25/municipalidad-de-quintero-celebro-con-exito-el-mes-de-la-ninez-en-sectores-rurales-con-una-jornada-de-alegria-y-recreacion/",
+    "titulo": "Senador Becker exige claridad a Milei por el Estrecho de Magallanes: “Es chileno”",
+    "enlace": "https://g5noticias.cl/2026/08/25/senador-becker-exige-claridad-a-milei-por-el-estrecho-de-magallanes-es-chileno/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SLEP Marga Marga oficializa candidaturas al Consejo Local de Educación Pública y prepara elecciones para octubre",
-    "enlace": "https://g5noticias.cl/2026/08/25/slep-marga-marga-oficializa-candidaturas-al-consejo-local-de-educacion-publica-y-prepara-elecciones-para-octubre/",
+    "titulo": "Helloween en el Movistar Arena: los padres del power metal confirman banda nacional de apertura",
+    "enlace": "https://g5noticias.cl/2026/08/25/helloween-en-el-movistar-arena-los-padres-del-power-metal-confirman-banda-nacional-de-apertura/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Síntomas de infarto en mujeres: por qué se confunden con menopausia o ataques de pánico",
-    "enlace": "https://g5noticias.cl/2026/08/25/sintomas-de-infarto-en-mujeres-por-que-se-confunden-con-menopausia-o-ataques-de-panico/",
+    "titulo": "Minera Vizcachitas ejecuta con éxito programa de apoyo a escuelas de fútbol de la comuna de Putaendo",
+    "enlace": "https://g5noticias.cl/2026/08/25/minera-vizcachitas-ejecuta-con-exito-programa-de-apoyo-a-escuelas-de-futbol-de-la-comuna-de-putaendo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Zapallar evalúa alternativas para financiar nuevo edificio consistorial y aclara que propuesta presentada al Concejo no es definitiva",
-    "enlace": "https://g5noticias.cl/2026/08/25/zapallar-evalua-alternativas-para-financiar-nuevo-edificio-consistorial-y-aclara-que-propuesta-presentada-al-concejo-no-es-definitiva/",
+    "titulo": "“Ni un paso atrás”: Greenpeace llama a defender décadas de avances ambientales frente a nuevos retrocesos en Chile",
+    "enlace": "https://g5noticias.cl/2026/08/25/ni-un-paso-atras-greenpeace-llama-a-defender-decadas-de-avances-ambientales-frente-a-nuevos-retrocesos-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Macabro: una adolescente de 14 años confesó haber asesinado a su madre en la comuna de San Joaquín",
-    "enlace": "https://g5noticias.cl/2026/08/25/macabro-una-adolescente-de-14-anos-confeso-haber-asesinado-a-su-madre-en-la-comuna-de-san-joaquin/",
+    "titulo": "Educación abre nuevas oportunidades para jóvenes en reinserción social",
+    "enlace": "https://g5noticias.cl/2026/08/25/educacion-abre-nuevas-oportunidades-para-jovenes-en-reinsercion-social/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alerta por maní contaminado: ¿qué son las aflatoxinas y qué pueden provocar en el organismo?",
-    "enlace": "https://g5noticias.cl/2026/08/25/alerta-por-mani-contaminado-que-son-las-aflatoxinas-y-que-pueden-provocar-en-el-organismo/",
+    "titulo": "Programa “Impulso Local” invita a PYMEs de Quintero y Puchuncaví a fortalecer sus negocios y acceder a nuevas oportunidades comerciales",
+    "enlace": "https://g5noticias.cl/2026/08/25/programa-impulso-local-invita-a-pymes-de-quintero-y-puchuncavi-a-fortalecer-sus-negocios-y-acceder-a-nuevas-oportunidades-comerciales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
