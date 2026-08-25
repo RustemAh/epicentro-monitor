@@ -270,6 +270,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Coquimbo. Esta noche, desbarrancamiento de vehículo con 3 ocupantes en su interior",
+    "enlace": "https://serenaycoquimbo.cl/coquimbo-esta-noche-desbarrancamiento-de-vehiculo-en-ruta-5/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-esta-noche-desbarrancamiento-de-vehiculo-en-ruta-5",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Región Coquimbo. AHORA, colisión de alta energía de 2 camiones",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-ahora-colision-de-alta-energia-de-2-camiones/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-ahora-colision-de-alta-energia-de-2-camiones",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Región Coquimbo. Debido al paso de sistema frontal, pronostican precipitaciones de agua y nieve entre martes y jueves",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-debido-al-paso-de-sistema-frontal-pronostican-precipitaciones-de-agua-y-nieve-entre-martes-y-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-debido-al-paso-de-sistema-frontal-pronostican-precipitaciones-de-agua-y-nieve-entre-martes-y-jueves",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Región Coquimbo. Nuevo temblor ocurrió esta noche",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-nuevo-temblor-ocurrio-esta-noche-2/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-nuevo-temblor-ocurrio-esta-noche-2",
     "descripcion": "",
@@ -326,33 +353,6 @@
   {
     "titulo": "Nacional. Esta tarde, mujer fallece tras colisión de alta energía de vehículo y camioneta",
     "enlace": "https://serenaycoquimbo.cl/nacional-esta-tarde-mujer-fallece-tras-colision-de-alta-energia-de-vehiculo-y-camioneta/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-tarde-mujer-fallece-tras-colision-de-alta-energia-de-vehiculo-y-camioneta",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. Mujer muere tras ser atropellada por bus",
-    "enlace": "https://serenaycoquimbo.cl/nacional-mujer-muere-tras-ser-atropellada-por-bus/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-mujer-muere-tras-ser-atropellada-por-bus",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "La Serena invita a la “verbena solidaria” para apoyar a familias afectadas por el temporal",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-invita-a-la-verbena-solidaria-para-apoyar-a-familias-afectadas-por-el-temporal/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-invita-a-la-verbena-solidaria-para-apoyar-a-familias-afectadas-por-el-temporal",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Región Coquimbo. Investigan homicidio de adulto mayor de 84 años. Fue hallado por familiares",
-    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-investigan-homicidio-de-adulto-mayor-de-84-anos-fue-hallado-por-familiares/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-investigan-homicidio-de-adulto-mayor-de-84-anos-fue-hallado-por-familiares",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1188,6 +1188,69 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Experto advierte que El Niño trae temperaturas sobre el promedio este verano: “Va a ser en todo Chile”",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/24/experto-advierte-que-el-nino-trae-temperaturas-sobre-el-promedio-este-verano-va-a-ser-en-todo-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "“Un gran amigo”: Jorge González reaparece en público en concierto de Gustavo Santaolalla",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/24/un-gran-amigo-jorge-gonzalez-reaparece-en-publico-en-concierto-de-gustavo-santaolalla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Retrofarándula y evasión: por qué el escándalo de Gala, Coté y el “Mago” Jiménez atrapa tanto",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/24/retrofarandula-y-evasion-por-que-el-escandalo-de-gala-cote-y-el-mago-jimenez-atrapa-tanto/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Se viene el horario de verano: por qué estas dos regiones no tendrán cambio de hora en septiembre",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/24/se-viene-el-horario-de-verano-por-que-estas-dos-regiones-no-tendran-cambio-de-hora-en-septiembre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "El empresario “más anónimo del mundo”: ¿Quién es Chris Xu, el fundador de Shein?",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/24/el-empresario-mas-anonimo-del-mundo-quien-es-chris-xu-el-fundador-de-shein/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Detectan pagos de subsidios de arriendo a 168 fallecidos y personas que tenían contratos con cónyuges",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/24/detectan-pagos-de-subsidios-de-arriendo-a-168-fallecidos-y-personas-que-tenian-contratos-con-conyuges/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Michelle Bachelet viajará a México para revisar su candidatura a la ONU tras quedar rezagada en sondeo",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/24/michelle-bachelet-viajara-a-mexico-para-revisar-su-candidatura-a-la-onu-tras-quedar-rezagada-en-sondeo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Corrida Coanil reunió a la comunidad en una jornada de deporte, inclusión y solidaridad",
     "enlace": "https://www.atacamanoticias.cl/2026/08/24/corrida-coanil-reunio-a-la-comunidad-en-una-jornada-de-deporte-inclusion-y-solidaridad/",
     "descripcion": "",
@@ -1208,69 +1271,6 @@
   {
     "titulo": "Carabineros de Copiapó detuvo a conductor que transitaba por la Ruta 5 Norte tras dar positivo a narcotest",
     "enlace": "https://www.atacamanoticias.cl/2026/08/24/carabineros-de-copiapo-detuvo-a-conductor-que-transitaba-por-la-ruta-5-norte-tras-dar-positivo-a-narcotest/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Vecinos de Barranquilla denuncian grave falta de conectividad telefónica y exigen una solución",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/23/vecinos-de-barranquilla-denuncian-grave-falta-de-conectividad-telefonica-y-exigen-una-solucion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Encuesta Criteria: Aprobación de Kast estancada en 35% y 48% cree que la megarreforma será negativa",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/23/encuesta-criteria-aprobacion-de-kast-estancada-en-35-y-48-cree-que-la-megarreforma-sera-negativa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Caldera: Joven fallece mientras practicaba caza submarina en Caleta Barranquilla",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/23/joven-fallece-mientras-practicaba-caza-submarina-en-caleta-barranquilla/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Correoschile inmortaliza a los títeres de 31 minutos: ahora son estampillas",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/23/correoschile-inmortaliza-a-los-titeres-de-31-minutos-ahora-son-estampillas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Copiapó: Fiscalía pide sobreseimiento definitivo para alcalde y jefe de Gabinete por causa de los “audios de San Pedro”",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/23/copiapo-fiscalia-pide-sobreseimiento-definitivo-para-alcalde-y-jefe-de-gabinete-por-causa-de-los-audios-de-san-pedro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Solicitan a CIDH pedir explicaciones a Chile por cambiar regulaciones a medida de data centers",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/22/solicitan-a-cidh-pedir-explicaciones-a-chile-por-cambiar-regulaciones-a-medida-de-data-centers/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "En Atacama, Valentina Barraza asume como nueva Coordinadora Regional de la Comisión Nacional de Riego",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/22/en-atacama-valentina-barraza-asume-como-nueva-coordinadora-regional-de-la-comision-nacional-de-riego/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1368,42 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Venezuela eleva a 6.509 los muertos por los terremotos de junio",
+    "enlace": "https://www.maray.cl/internacional/24/08/2026/venezuela-eleva-a-6-509-los-muertos-por-los-terremotos-de-junio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Everton se impone ante la UdeC y se mete en zona de copas internacionales",
+    "enlace": "https://www.maray.cl/deportes/24/08/2026/everton-se-impone-ante-la-udec-y-se-mete-en-zona-de-copas-internacionales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Chile prepara nuevo cambio de hora: el horario de verano regresará en septiembre",
+    "enlace": "https://www.maray.cl/atacama/24/08/2026/chile-prepara-nuevo-cambio-de-hora-el-horario-de-verano-regresara-en-septiembre-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Cancillería anuncia nota de protesta a Argentina por dichos sobre soberanía en Magallanes",
+    "enlace": "https://www.maray.cl/pais/24/08/2026/cancilleria-anuncia-nota-de-protesta-a-argentina-por-dichos-sobre-soberania-en-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Gobernanza efectiva en seguridad minera: cuando cumplir dejó de ser suficiente  (Por: Patricio Cartagena D.  Presidente de CAMMIN)",
     "enlace": "https://www.maray.cl/opinion/24/08/2026/gobernanza-efectiva-en-seguridad-minera-cuando-cumplir-dejo-de-ser-suficiente-por-patricio-cartagena-d-presidente-de-cammin/",
     "descripcion": "",
@@ -1415,42 +1451,6 @@
   {
     "titulo": "INDAP entrega estanques móviles por emergencia agrícola a crianceros de Vallenar",
     "enlace": "https://www.maray.cl/atacama/24/08/2026/indap-entrega-estanques-moviles-por-emergencia-agricola-a-crianceros-de-vallenar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Moderna anuncia gran avance de vacuna contra el cáncer: Con resultados positivos en su ensayo clínico",
-    "enlace": "https://www.maray.cl/vida-salud/24/08/2026/moderna-anuncia-gran-avance-de-vacuna-contra-el-cancer-con-resultados-positivos-en-su-ensayo-clinico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Minsal alerta por detección de maní contaminado con aflatoxinas: éste es el producto que la autoridad llama a no consumir",
-    "enlace": "https://www.maray.cl/pais/24/08/2026/minsal-alerta-por-deteccion-de-mani-contaminado-con-aflatoxinas-este-es-el-producto-que-la-autoridad-llama-a-no-consumir/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "La electromovilidad se dispara en Chile: venta de autos 100% eléctricos crece 114% en el primer semestre de 2026",
-    "enlace": "https://www.maray.cl/pais/24/08/2026/la-electromovilidad-se-dispara-en-chile-venta-de-autos-100-electricos-crece-114-en-el-primer-semestre-de-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "PDI detiene a hombre vinculado a cinco delitos y recupera especies por $50 millones en Copiapó",
-    "enlace": "https://www.maray.cl/atacama/24/08/2026/pdi-detiene-a-hombre-vinculado-a-cinco-delitos-y-recupera-especies-por-50-millones-en-copiapo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Premio LED 2026 reconoce a 30 líderes educativos que están transformando la educación en Chile",
-    "enlace": "https://g5noticias.cl/2026/08/24/premio-led-2026-reconoce-a-30-lideres-educativos-que-estan-transformando-la-educacion-en-chile/",
+    "titulo": "Los Andes analizará el futuro del principal corredor logístico terrestre entre Chile y Argentina",
+    "enlace": "https://g5noticias.cl/2026/08/24/los-andes-analizara-el-futuro-del-principal-corredor-logistico-terrestre-entre-chile-y-argentina-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CGR detecta pagos de subsidios de arriendo a fallecidos y personas que incumplían requisitos de programa MINVU",
-    "enlace": "https://g5noticias.cl/2026/08/24/cgr-detecta-pagos-de-subsidios-de-arriendo-a-fallecidos-y-personas-que-incumplian-requisitos-de-programa-minvu/",
+    "titulo": "Si. Por Raúl Caamaño Matamala, profesor Universidad Católica de Temuco",
+    "enlace": "https://g5noticias.cl/2026/08/24/si-por-raul-caamano-matamala-profesor-universidad-catolica-de-temuco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Programa Ilumina de CGE realiza aporte de libros a Colegio PuenteMaipo en Puente Alto",
-    "enlace": "https://g5noticias.cl/2026/08/24/programa-ilumina-de-cge-realiza-aporte-de-libros-a-colegio-puentemaipo-en-puente-alto-2/",
+    "titulo": "Proyecto Nueva Aventura avanza con viviendas eficientes y de rápida construcción en Doñihue",
+    "enlace": "https://g5noticias.cl/2026/08/24/proyecto-nueva-aventura-avanza-con-viviendas-eficientes-y-de-rapida-construccion-en-donihue/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ruta del Talento: Lanzan estudio para potenciar la empleabilidad y el liderazgo femenino en el turismo chileno",
-    "enlace": "https://g5noticias.cl/2026/08/24/ruta-del-talento-lanzan-estudio-para-potenciar-la-empleabilidad-y-el-liderazgo-femenino-en-el-turismo-chileno/",
+    "titulo": "UOH colaborará con Sernageomin en la cartografía de los peligros volcánicos de la zona central de Chile",
+    "enlace": "https://g5noticias.cl/2026/08/24/uoh-colaborara-con-sernageomin-en-la-cartografia-de-los-peligros-volcanicos-de-la-zona-central-de-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tecnología, maquinaria e infraestructura fortalecen la producción campesina en la Región de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/24/tecnologia-maquinaria-e-infraestructura-fortalecen-la-produccion-campesina-en-la-region-de-valparaiso/",
+    "titulo": "Santiago Wanderers regresa al liderato de la Liga de Ascenso tras derrotar como visitante a San Luis de Quillota",
+    "enlace": "https://g5noticias.cl/2026/08/24/santiago-wanderers-regresa-al-liderato-de-la-liga-de-ascenso-tras-derrotar-como-visitante-a-san-luis-de-quillota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Eduardo Dib y Destino Valparaíso reciben nuevos reconocimientos por su aporte al patrimonio y la cultura de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/08/24/eduardo-dib-y-destino-valparaiso-reciben-nuevos-reconocimientos-por-su-aporte-al-patrimonio-y-la-cultura-de-valparaiso/",
+    "titulo": "Everton derrotó 3-1 a la Universidad de Concepción en Sausalito y se metió de lleno en la pelea por un cupo a torneos internacionales",
+    "enlace": "https://g5noticias.cl/2026/08/24/everton-derroto-3-1-a-la-universidad-de-concepcion-en-sausalito-y-se-metio-de-lleno-en-la-pelea-por-un-cupo-a-torneos-internacionales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Escándalo amoroso en farándula reabre debate sobre exparejas: el peso psicológico de volver al pasado mientras se está en una relación",
-    "enlace": "https://g5noticias.cl/2026/08/24/escandalo-amoroso-en-farandula-reabre-debate-sobre-exparejas-el-peso-psicologico-de-volver-al-pasado-mientras-se-esta-en-una-relacion/",
+    "titulo": "ASIQUIM valora decisión del Ministerio de Energía de excluir septiembre de la hora punta",
+    "enlace": "https://g5noticias.cl/2026/08/24/asiquim-valora-decision-del-ministerio-de-energia-de-excluir-septiembre-de-la-hora-punta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Abastible abre nuevas vacantes laborales: Revisa dónde y cómo postular",
-    "enlace": "https://g5noticias.cl/2026/08/24/abastible-abre-nuevas-vacantes-laborales-revisa-donde-y-como-postular/",
+    "titulo": "Profesor formado en la PUCV lleva la ciencia escolar de Valparaíso hasta Ginebra",
+    "enlace": "https://g5noticias.cl/2026/08/24/profesor-formado-en-la-pucv-lleva-la-ciencia-escolar-de-valparaiso-hasta-ginebra/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Show de velas, condiciones de nieve únicas y deporte: Así será una nueva edición del Rip Curl SnowKite Fest 2026 by PlanVital",
-    "enlace": "https://g5noticias.cl/2026/08/24/show-de-velas-condiciones-de-nieve-unicas-y-deporte-asi-sera-una-nueva-edicion-del-rip-curl-snowkite-fest-2026-by-planvital/",
+    "titulo": "Almacenes de barrio y su rol frente a emergencias. Por Romina Navarrete, gerente de operaciones de Grupo Kameid",
+    "enlace": "https://g5noticias.cl/2026/08/24/almacenes-de-barrio-y-su-rol-frente-a-emergencias-por-romina-navarrete-gerente-de-operaciones-de-grupo-kameid/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Canto, música, cine y danza: Centro Cultural de Quillota presenta su imperdible cartelera para el cierre de agosto",
-    "enlace": "https://g5noticias.cl/2026/08/24/canto-musica-cine-y-danza-centro-cultural-de-quillota-presenta-su-imperdible-cartelera-para-el-cierre-de-agosto/",
+    "titulo": "UDI rechaza cuestionamientos a Kast por reforma y acusa «inconsecuencia» del FA y el PC: «No hay nada más iliberal que el delirio constitucional que impulsaron»",
+    "enlace": "https://g5noticias.cl/2026/08/24/udi-rechaza-cuestionamientos-a-kast-por-reforma-y-acusa-inconsecuencia-del-fa-y-el-pc-no-hay-nada-mas-iliberal-que-el-delirio-constitucional-que-impulsaron/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
