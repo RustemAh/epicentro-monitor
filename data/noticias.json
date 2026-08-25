@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Estudiantes de Canela llevarán el talento científico de Coquimbo a la Feria Antártica Escolar 2026",
+    "enlace": "https://laserenaonline.cl/2026/08/25/estudiantes-de-canela-llevaran-el-talento-cientifico-de-coquimbo-a-la-feria-antartica-escolar-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "MOP ejecuta obras de encauzamiento y refuerzo de defensas en estero Punitaqui tras sistema frontal",
     "enlace": "https://laserenaonline.cl/2026/08/25/mop-ejecuta-obras-de-encauzamiento-y-refuerzo-de-defensas-en-estero-punitaqui-tras-sistema-frontal/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Coquimbo: Fiscalía ECOH investiga homicidio ocurrido en Punta Mira",
     "enlace": "https://laserenaonline.cl/2026/08/25/coquimbo-fiscalia-ecoh-investiga-homicidio-ocurrido-en-punta-mira/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 25 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/25/el-tiempo-hoy-25-de-agosto-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "En Cruz de Caña se realizó Feria Informativa contra el Trabajo Infantil",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/25/en-cruz-de-cana-se-realizo-feria-informativa-contra-el-trabajo-infantil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Monte Patria promueve el cuidado del medio ambiente con reciclaje textil",
     "enlace": "https://regiondecoquimbo.cl/2026/08/25/monte-patria-promueve-el-cuidado-del-medio-ambiente-con-reciclaje-textil/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Queda poco tiempo para postular al SAE 2027: revisa quiénes deben realizar el proceso",
     "enlace": "https://regiondecoquimbo.cl/2026/08/21/queda-poco-tiempo-para-postular-al-sae-2027-revisa-quienes-deben-realizar-el-proceso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Adultos mayores de La Higuera recibieron en sus casas sus títulos de dominio",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/21/adultos-mayores-de-la-higuera-recibieron-en-sus-casas-sus-titulos-de-dominio/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -1006,96 +1006,6 @@
     "medio": "El Salamanquino",
     "zona": "Salamanca",
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Estudiantes de Canela clasifican entre los 15 proyectos de la Feria Antártica Escolar 2026",
-    "enlace": "https://losviloschile.cl/canela/estudiantes-de-canela-clasifican-entre-los-15-proyectos-de-la-feria-antartica-escolar-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos lleva situación del Valle de Pupío al Senado y pide fiscalización de El Mauro",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-lleva-situacion-del-valle-de-pupio-al-senado-y-pide-fiscalizacion-de-el-mauro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos construirá 30 nichos de emergencia ante falta de espacio en cementerio municipal",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-construira-30-nichos-de-emergencia-ante-falta-de-espacio-en-cementerio-municipal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
-    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos presenta querella criminal por robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
-    "enlace": "https://losviloschile.cl/sin-categoria/municipalidad-de-los-vilos-presenta-querella-criminal-por-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Pescadores de Los Vilos accedieron a 124 prestaciones de salud durante operativo en caleta San Pedro",
-    "enlace": "https://losviloschile.cl/actualidad/pescadores-de-los-vilos-accedieron-a-124-prestaciones-de-salud-durante-operativo-en-caleta-san-pedro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos destina cerca de $42 millones para apoyar a 400 familias crianceras y apicultoras afectadas por el temporal",
-    "enlace": "https://losviloschile.cl/social/los-vilos-destina-cerca-de-42-millones-para-apoyar-a-400-familias-crianceras-y-apicultoras-afectadas-por-el-temporal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos firma convenio por $1.732 millones para mejoramiento integral del Liceo Nicolás Federico Lohse",
-    "enlace": "https://losviloschile.cl/educacion/los-vilos-firma-convenio-por-1-732-millones-para-mejoramiento-integral-del-liceo-nicolas-federico-lohse/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Carabineros detiene en Los Vilos a hombre con orden vigente por homicidio y casi 19 kilos de cannabis",
-    "enlace": "https://losviloschile.cl/sin-categoria/carabineros-detiene-en-los-vilos-a-hombre-con-orden-vigente-por-homicidio-y-casi-19-kilos-de-cannabis/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Hospital de Los Vilos invita a la comunidad a sumarse al Mes de la Lactancia Materna 2026",
-    "enlace": "https://losviloschile.cl/actualidad/hospital-de-los-vilos-invita-a-la-comunidad-a-sumarse-al-mes-de-la-lactancia-materna-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Patrullaje preventivo permitió detener a banda adolescente en Andacollo: Llevaban un arma y droga",
@@ -1728,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Nathalie Castillo lleva a Javier Olivares a Ética por calificar de “dictablanda” la dictadura de Pinochet",
-    "enlace": "https://g5noticias.cl/2026/08/25/diputada-nathalie-castillo-lleva-a-javier-olivares-a-etica-por-calificar-de-dictablanda-la-dictadura-de-pinochet/",
+    "titulo": "Ministra Wulf participa en lanzamiento de los Juegos Mundiales de Olimpiadas Especiales 2027",
+    "enlace": "https://g5noticias.cl/2026/08/25/ministra-wulf-participa-en-lanzamiento-de-los-juegos-mundiales-de-olimpiadas-especiales-2027/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministro Arrau participa en entrega de 26 vehículos para fortalecer a la PDI",
-    "enlace": "https://g5noticias.cl/2026/08/25/ministro-arrau-participa-en-entrega-de-26-vehiculos-para-fortalecer-a-la-pdi/",
+    "titulo": "4.° Juzgado Civil de Santiago acoge demanda contra Isapre por incumplimiento de contrato",
+    "enlace": "https://g5noticias.cl/2026/08/25/4-juzgado-civil-de-santiago-acoge-demanda-contra-isapre-por-incumplimiento-de-contrato/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nueva alianza impulsa la integridad y transparencia en el sector público",
-    "enlace": "https://g5noticias.cl/2026/08/25/nueva-alianza-impulsa-la-integridad-y-transparencia-en-el-sector-publico/",
+    "titulo": "INDAP y Agroseguros lanzan campaña y estrenan espacio web para proteger el trabajo de la Agricultura Familiar Campesina",
+    "enlace": "https://g5noticias.cl/2026/08/25/indap-y-agroseguros-lanzan-campana-y-estrenan-espacio-web-para-proteger-el-trabajo-de-la-agricultura-familiar-campesina/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Magallanes: SERNAC realizó conversatorio para explicar principales derechos de los consumidores a funcionarios del Estado",
-    "enlace": "https://g5noticias.cl/2026/08/25/magallanes-sernac-realizo-conversatorio-para-explicar-principales-derechos-de-los-consumidores-a-funcionarios-del-estado/",
+    "titulo": "Ministra Chomali y donación de órganos: “No necesitamos nuevas políticas públicas, lo que necesitamos es un cambio cultural”",
+    "enlace": "https://g5noticias.cl/2026/08/25/ministra-chomali-y-donacion-de-organos-no-necesitamos-nuevas-politicas-publicas-lo-que-necesitamos-es-un-cambio-cultural/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Designan perito para realizar la última diligencia pendiente en juicio entre SIPSA y EPV",
-    "enlace": "https://g5noticias.cl/2026/08/25/designan-perito-para-realizar-la-ultima-diligencia-pendiente-en-juicio-entre-sipsa-y-epv/",
+    "titulo": "Corte Suprema zanja contienda de competencia y ratifica que caso Democracia Viva irá a juicio en Antofagasta",
+    "enlace": "https://g5noticias.cl/2026/08/25/corte-suprema-zanja-contienda-de-competencia-y-ratifica-que-caso-democracia-viva-ira-a-juicio-en-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Alejandro Riquelme valora rectificación de Argentina tras polémica por el Estrecho de Magallanes: «Nuestra soberanía es indiscutible»",
-    "enlace": "https://g5noticias.cl/2026/08/25/diputado-alejandro-riquelme-valora-rectificacion-de-argentina-tras-polemica-por-el-estrecho-de-magallanes-nuestra-soberania-es-indiscutible/",
+    "titulo": "Atacama es convocada a construir el nuevo Plan Nacional de Eficiencia Energética",
+    "enlace": "https://g5noticias.cl/2026/08/25/atacama-es-convocada-a-construir-el-nuevo-plan-nacional-de-eficiencia-energetica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Megarreforma: TC rechaza recurso del Gobierno y mantiene norma para reconectar servicios básicos en zonas de catástrofe",
-    "enlace": "https://g5noticias.cl/2026/08/25/megarreforma-tc-rechaza-recurso-del-gobierno-y-mantiene-norma-para-reconectar-servicios-basicos-en-zonas-de-catastrofe/",
+    "titulo": "Mon Laferte desata polémica tras cuestionar a joven en el aeropuerto: «Un verdadero fan se sabría mis canciones»",
+    "enlace": "https://g5noticias.cl/2026/08/25/mon-laferte-desata-polemica-tras-cuestionar-a-joven-en-el-aeropuerto-un-verdadero-fan-se-sabria-mis-canciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gobernador Regional Rodrigo Mundaca: “La ciencia y la investigación aplicada deben estar al servicio de las comunidades”",
-    "enlace": "https://g5noticias.cl/2026/08/25/gobernador-regional-rodrigo-mundaca-la-ciencia-y-la-investigacion-aplicada-deben-estar-al-servicio-de-las-comunidades/",
+    "titulo": "Corte Suprema confirma condena por cultivo de marihuana en Alhué",
+    "enlace": "https://g5noticias.cl/2026/08/25/corte-suprema-confirma-condena-por-cultivo-de-marihuana-en-alhue/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Paolo Bortolameolli liderará a la Orquesta Sinfónica Nacional Juvenil de FOJI en programa “Camino al Último Vals”",
-    "enlace": "https://g5noticias.cl/2026/08/25/paolo-bortolameolli-liderara-a-la-orquesta-sinfonica-nacional-juvenil-de-foji-en-programa-camino-al-ultimo-vals-2/",
+    "titulo": "En terreno: CGR inspecciona contrato de conservación vial en Arica y auditoría a centro ferroviario en Ñuble",
+    "enlace": "https://g5noticias.cl/2026/08/25/en-terreno-cgr-inspecciona-contrato-de-conservacion-vial-en-arica-y-auditoria-a-centro-ferroviario-en-nuble/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Colegio de Profesores plantea 10 puntos críticos a la Ministra de Educación; entre ellos, el presupuesto 2027 y el retraso en Slep, ya que lo consideran algo ideológico",
-    "enlace": "https://g5noticias.cl/2026/08/25/colegio-de-profesores-plantea-10-puntos-criticos-a-la-ministra-de-educacion-entre-ellos-el-presupuesto-2027-y-el-retraso-en-slep-ya-que-lo-consideran-algo-ideologico/",
+    "titulo": "Sophie Adenot se prepara para su segunda caminata espacial desde la Estación Espacial Internacional",
+    "enlace": "https://g5noticias.cl/2026/08/25/sophie-adenot-se-prepara-para-su-segunda-caminata-espacial-desde-la-estacion-espacial-internacional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
