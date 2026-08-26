@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Lluvias y nieve en el Choapa: actualización de CEAZA prevé 23 mm en Salamanca y 12 mm en Illapel",
-    "enlace": "https://veetv.cl/lluvias-nieve-choapa-ceaza-23-mm-salamanca-12-mm-illapel/",
+    "titulo": "Tribunal decreta internación provisional para imputada por robo con homicidio en Salamanca",
+    "enlace": "https://veetv.cl/tribunal-decreta-internacion-provisional-para-imputada-por-robo-con-homicidio-en-salamanca/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Lluvias y nevadas marcarán la última semana de agosto en el Choapa",
-    "enlace": "https://veetv.cl/lluvias-nevadas-choapa-ultima-semana-agosto/",
+    "titulo": "Lluvias y nieve en el Choapa: actualización de CEAZA prevé 23 mm en Salamanca y 12 mm en Illapel",
+    "enlace": "https://veetv.cl/lluvias-nieve-choapa-ceaza-23-mm-salamanca-12-mm-illapel/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Salud impulsa estrategia para detectar precozmente cáncer para 28 comunas del país",
+    "enlace": "https://www.maray.cl/pais/25/08/2026/salud-impulsa-estrategia-para-detectar-precozmente-cancer-para-28-comunas-del-pais/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Universidad de Chile denuncia a Javier Correa por gesto tras el Superclásico",
+    "enlace": "https://www.maray.cl/deportes/25/08/2026/universidad-de-chile-denuncia-a-javier-correa-por-gesto-tras-el-superclasico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Adolescente de 14 años queda internada tras confesar crimen de su madre en San Joaquín",
     "enlace": "https://www.maray.cl/pais/25/08/2026/adolescente-de-14-anos-queda-internada-tras-confesar-crimen-de-su-madre-en-san-joaquin/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "TC rechaza requerimiento del Gobierno y mantiene reconexión gratuita de servicios básicos",
     "enlace": "https://www.maray.cl/atacama/25/08/2026/tc-rechaza-requerimiento-del-gobierno-y-mantiene-reconexion-gratuita-de-servicios-basicos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cars vuelve a los cines de Chile para celebrar sus 20 años",
-    "enlace": "https://www.maray.cl/pais/25/08/2026/cars-vuelve-a-los-cines-de-chile-para-celebrar-sus-20-anos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Seremi Gobierno de Atacama | «El deber del Estado de resguardar la Seguridad Pública es indicar que la mano cambió»",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/25/08/2026/seremi-gobierno-de-atacama-el-deber-del-estado-de-resguardar-la-seguridad-publica-es-indicar-que-la-mano-cambio/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Armada realizó ejercicio de protección portuaria en Puerto Ventanas: simularon hallazgo de sujetos armados en nave de tráfico internacional",
-    "enlace": "https://g5noticias.cl/2026/08/25/armada-realizo-ejercicio-de-proteccion-portuaria-en-puerto-ventanas-simularon-hallazgo-de-sujetos-armados-en-nave-de-trafico-internacional/",
+    "titulo": "En menos de 48 horas: Carabineros del OS9 detiene a autores de un homicidio frustrado en Pudahuel",
+    "enlace": "https://g5noticias.cl/2026/08/25/en-menos-de-48-horas-carabineros-del-os9-detiene-a-autores-de-un-homicidio-frustrado-en-pudahuel/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Beltrán (RN) solicitará convocar a una sesión especial de la Comisión de Vivienda por subsidios de arriendo pagados a fallecidos: “Es una vergüenza nacional”",
-    "enlace": "https://g5noticias.cl/2026/08/25/diputado-beltran-rn-solicitara-convocar-a-una-sesion-especial-de-la-comision-de-vivienda-por-subsidios-de-arriendo-pagados-a-fallecidos-es-una-verguenza-nacional/",
+    "titulo": "“Los vamos a detener”: Carabineros captura al segundo presunto implicado en ataque a funcionario de la SIP",
+    "enlace": "https://g5noticias.cl/2026/08/25/los-vamos-a-detener-carabineros-captura-al-segundo-presunto-implicado-en-ataque-a-funcionario-de-la-sip/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Omar Sabat destaca lanzamiento de nuevo dispositivo del Programa 4 a 7 en La Unión",
-    "enlace": "https://g5noticias.cl/2026/08/25/diputado-omar-sabat-destaca-lanzamiento-de-nuevo-dispositivo-del-programa-4-a-7-en-la-union/",
+    "titulo": "Katherinne Wollermann debuta en el mundial de paracanotaje en búsqueda del tricampeonato",
+    "enlace": "https://g5noticias.cl/2026/08/25/katherinne-wollermann-debuta-en-el-mundial-de-paracanotaje-en-busqueda-del-tricampeonato/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PUCV abre postulaciones para sus Ingresos Especiales 2027",
-    "enlace": "https://g5noticias.cl/2026/08/25/pucv-abre-postulaciones-para-sus-ingresos-especiales-2027/",
+    "titulo": "Querella de Municipalidad de La Cruz avanza tras captura de presunto autor de ataque a familia en Don Bosco",
+    "enlace": "https://g5noticias.cl/2026/08/25/querella-de-municipalidad-de-la-cruz-avanza-tras-captura-de-presunto-autor-de-ataque-a-familia-en-don-bosco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Si bien el desempleo superó la barrera del 9%, la contratación de chilenos en el extranjero creció un 78%",
-    "enlace": "https://g5noticias.cl/2026/08/25/si-bien-el-desempleo-supero-la-barrera-del-9-la-contratacion-de-chilenos-en-el-extranjero-crecio-un-78/",
+    "titulo": "UVM se consolida como líder del deporte universitario regional obteniendo pentacampeonatos en básquetbol y taekwondo",
+    "enlace": "https://g5noticias.cl/2026/08/25/uvm-se-consolida-como-lider-del-deporte-universitario-regional-obteniendo-pentacampeonatos-en-basquetbol-y-taekwondo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Aviso de marejadas desde el Golfo de Penas hasta Arica y el Archipiélago de Juan Fernández",
-    "enlace": "https://g5noticias.cl/2026/08/25/aviso-de-marejadas-desde-el-golfo-de-penas-hasta-arica-y-el-archipielago-de-juan-fernandez-3/",
+    "titulo": "Valparaíso se prepara para la fiesta cultural más grande de Chile: El Carnaval Mil Tambores 2026",
+    "enlace": "https://g5noticias.cl/2026/08/25/valparaiso-se-prepara-para-la-fiesta-cultural-mas-grande-de-chile-el-carnaval-mil-tambores-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "SKY lanza nuevas rutas directas para la temporada alta: Punta Cana y Cusco alguna de ellas",
-    "enlace": "https://g5noticias.cl/2026/08/25/sky-lanza-nuevas-rutas-directas-para-la-temporada-alta-punta-cana-y-cusco-alguna-de-ellas/",
+    "titulo": "Obra “Teresa de la Cruz, Teresa Wilms Montt” cierra Ciclo Escenas de Mujeres en Centex",
+    "enlace": "https://g5noticias.cl/2026/08/25/obra-teresa-de-la-cruz-teresa-wilms-montt-cierra-ciclo-escenas-de-mujeres-en-centex/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "País Digital y Duoc UC inauguran primer Centro de Teleprotección Inteligente para acortar brecha de seguridad en el sector surponiente de la RM",
-    "enlace": "https://g5noticias.cl/2026/08/25/pais-digital-y-duoc-uc-inauguran-primer-centro-de-teleproteccion-inteligente-para-acortar-brecha-de-seguridad-en-el-sector-surponiente-de-la-rm/",
+    "titulo": "Chomalí, Carlos Peña y los embajadores de Palestina y Ucrania expondrán en el 10° Congreso Internacional de Derechos Humanos de la UCSH",
+    "enlace": "https://g5noticias.cl/2026/08/25/chomali-carlos-pena-y-los-embajadores-de-palestina-y-ucrania-expondran-en-el-10-congreso-internacional-de-derechos-humanos-de-la-ucsh/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDI detiene a imputado vinculado a violento robo en La Cruz donde un niño resultó herido a bala",
-    "enlace": "https://g5noticias.cl/2026/08/25/pdi-detiene-a-imputado-vinculado-a-violento-robo-en-la-cruz-donde-un-nino-resulto-herido-a-bala/",
+    "titulo": "Quillagua: trabajo coordinado entre PDI y Aduanas permite incautar casi 83 kilos de drogas",
+    "enlace": "https://g5noticias.cl/2026/08/25/quillagua-trabajo-coordinado-entre-pdi-y-aduanas-permite-incautar-casi-83-kilos-de-drogas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Próxima parada, la infancia: Los Caballeros del Zodiaco vuelven en micro y la psicología explica por qué despiertan nostalgia",
-    "enlace": "https://g5noticias.cl/2026/08/25/proxima-parada-la-infancia-los-caballeros-del-zodiaco-vuelven-en-micro-y-la-psicologia-explica-por-que-despiertan-nostalgia/",
+    "titulo": "Kiddo Fluency: la nueva plataforma automatizada para medir fluidez lectora en colegios de cara a la nueva prueba censal «Impulso Lector”",
+    "enlace": "https://g5noticias.cl/2026/08/25/kiddo-fluency-la-nueva-plataforma-automatizada-para-medir-fluidez-lectora-en-colegios-de-cara-a-la-nueva-prueba-censal-impulso-lector/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
