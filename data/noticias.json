@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Abren convocatoria de Becas de Doctorado para estudiar en Estados Unidos",
+    "enlace": "https://laserenaonline.cl/2026/08/30/abren-convocatoria-de-becas-de-doctorado-para-estudiar-en-estados-unidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Municipalidad de Los Vilos concreta estudios de agua en Caimanes, Pupío y Los Vilos",
+    "enlace": "https://laserenaonline.cl/2026/08/30/municipalidad-de-los-vilos-concreta-estudios-de-agua-en-caimanes-pupio-y-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Gobierno expone agenda de seguridad a más de 50 dirigentes de La Serena y Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/08/30/gobierno-expone-agenda-de-seguridad-a-mas-de-50-dirigentes-de-la-serena-y-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Nuevo servicio subsidiado conectará El Chiñe con Canela e Illapel y beneficiará a cerca de 500 personas",
     "enlace": "https://laserenaonline.cl/2026/08/30/nuevo-servicio-subsidiado-conectara-el-chine-con-canela-e-illapel-y-beneficiara-a-cerca-de-500-personas/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Más de 8 mil personas disfrutaron de la Verbena Solidaria en la Plaza de Armas de La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/30/mas-de-8-mil-personas-disfrutaron-de-la-verbena-solidaria-en-la-plaza-de-armas-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 30 de agosto para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/08/30/reporte-del-tiempo-hoy-30-de-agosto-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Dirección del Trabajo publica cuarto informe de Ley Karin",
-    "enlace": "https://laserenaonline.cl/2026/08/29/direccion-del-trabajo-publica-cuarto-informe-de-ley-karin/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más apoyo para estudiantes y familias tutoras de La Serena: Reciben kits de higiene y artículos de aseo para sus hogares",
-    "enlace": "https://laserenaonline.cl/2026/08/29/mas-apoyo-para-estudiantes-y-familias-tutoras-de-la-serena-reciben-kits-de-higiene-y-articulos-de-aseo-para-sus-hogares/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,24 +900,6 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "¿El relave de la planta El Arenal contaminó las aguas del Estero Auco?: SERNAGEOMIN informa que debería estar paralizado desde 2023",
-    "enlace": "https://veetv.cl/relave-el-arenal-contamino-estero-auco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "Muerte de Jaime Cortinez enluta a Los Vilos y al Choapa",
-    "enlace": "https://veetv.cl/muerte-jaime-cortinez-los-vilos-choapa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
     "titulo": "Deportistas de Salamanca recibirán apoyo del GORE para representar a Chile en torneo internacional",
     "enlace": "https://www.elsalamanquino.cl/2026/08/27/deportistas-de-salamanca-recibiran-apoyo-del-gore-para-representar-a-chile-en-torneo-internacional/",
     "descripcion": "",
@@ -1006,96 +988,6 @@
     "medio": "El Salamanquino",
     "zona": "Salamanca",
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Los Vilos invierte $5,5 millones en cuatro generadores para establecimientos de salud",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-invierte-55-millones-en-cuatro-generadores-para-establecimientos-de-salud/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Vialidad proyecta nuevo puente en Tilama y evalúa reparar actual estructura tras daños por lluvias",
-    "enlace": "https://losviloschile.cl/actualidad/vialidad-proyecta-nuevo-puente-en-tilama-y-evalua-reparar-actual-estructura-tras-danos-por-lluvias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos realiza estudios de agua en Caimanes, Pupío y Los Vilos tras derrame en estero Pupío",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-realiza-estudios-de-agua-en-caimanes-pupio-y-los-vilos-tras-derrame-en-estero-pupio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Aprueban inmueble en Independencia para futura residencia gratuita de estudiantes de Los Vilos",
-    "enlace": "https://losviloschile.cl/educacion/aprueban-inmueble-en-independencia-para-futura-residencia-gratuita-de-estudiantes-de-los-vilos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Estudiantes de Canela clasifican entre los 15 proyectos de la Feria Antártica Escolar 2026",
-    "enlace": "https://losviloschile.cl/canela/estudiantes-de-canela-clasifican-entre-los-15-proyectos-de-la-feria-antartica-escolar-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos lleva situación del Valle de Pupío al Senado y pide fiscalización de El Mauro",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-lleva-situacion-del-valle-de-pupio-al-senado-y-pide-fiscalizacion-de-el-mauro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Los Vilos construirá 30 nichos de emergencia ante falta de espacio en cementerio municipal",
-    "enlace": "https://losviloschile.cl/actualidad/los-vilos-construira-30-nichos-de-emergencia-ante-falta-de-espacio-en-cementerio-municipal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
-    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Municipalidad de Los Vilos presenta querella criminal por robo de cañerías en el Liceo Nicolás Federico Lohse Vargas",
-    "enlace": "https://losviloschile.cl/educacion/municipalidad-de-los-vilos-presenta-querella-criminal-por-robo-de-canerias-en-el-liceo-nicolas-federico-lohse-vargas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Pescadores de Los Vilos accedieron a 124 prestaciones de salud durante operativo en caleta San Pedro",
-    "enlace": "https://losviloschile.cl/actualidad/pescadores-de-los-vilos-accedieron-a-124-prestaciones-de-salud-durante-operativo-en-caleta-san-pedro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario de Los Vilos",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
     "titulo": "Familia Amenábar de Andacollo recibe el Premio SONAMI 2026 a la Pequeña Minería",
@@ -1458,6 +1350,69 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Minsal llama a reforzar cuidados de bebés ante circulación de virus respiratorios",
+    "enlace": "https://www.maray.cl/pais/30/08/2026/minsal-llama-a-reforzar-cuidados-de-bebes-ante-circulacion-de-virus-respiratorios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Kast viajará a Magallanes en medio de tensión con Argentina",
+    "enlace": "https://www.maray.cl/pais/30/08/2026/kast-viajara-a-magallanes-en-medio-de-tension-con-argentina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Encuesta Criteria registra 33% de aprobación para el Presidente Kast",
+    "enlace": "https://www.maray.cl/pais/30/08/2026/encuesta-criteria-registra-33-de-aprobacion-para-el-presidente-kast/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Jorge Sampaoli deja Talleres tras solo siete partidos y cuatro derrotas",
+    "enlace": "https://www.maray.cl/deportes/30/08/2026/jorge-sampaoli-deja-talleres-tras-solo-siete-partidos-y-cuatro-derrotas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno anuncia incentivos para reactivar la exploración minera en Chile",
+    "enlace": "https://www.maray.cl/atacama/30/08/2026/gobierno-anuncia-incentivos-para-reactivar-la-exploracion-minera-en-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Deportes Copiapó cae ante Antofagasta y suma su segunda derrota consecutiva",
+    "enlace": "https://www.maray.cl/atacama/30/08/2026/deportes-copiapo-cae-ante-antofagasta-y-suma-su-segunda-derrota-consecutiva/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Detienen a presunto autor de tiroteo que dejó un muerto en La Florida",
+    "enlace": "https://www.maray.cl/pais/30/08/2026/detienen-a-presunto-autor-de-tiroteo-que-dejo-un-muerto-en-la-florida/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Sismo de magnitud 5,1 se percibe en Arica y Tarapacá",
     "enlace": "https://www.maray.cl/pais/30/08/2026/sismo-de-magnitud-51-se-percibe-en-arica-y-tarapaca/",
     "descripcion": "",
@@ -1478,69 +1433,6 @@
   {
     "titulo": "Colo Colo defiende el liderato ante un Audax Italiano necesitado",
     "enlace": "https://www.maray.cl/deportes/30/08/2026/colo-colo-defiende-el-liderato-ante-un-audax-italiano-necesitado/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Universidad de Chile busca recuperarse ante la U. de Concepción",
-    "enlace": "https://www.maray.cl/deportes/30/08/2026/universidad-de-chile-busca-recuperarse-ante-la-u-de-concepcion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El telescopio Roman despega para buscar respuestas sobre el universo",
-    "enlace": "https://www.maray.cl/internacional/30/08/2026/el-telescopio-roman-despega-para-buscar-respuestas-sobre-el-universo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Rusia anunció campaña de ataques masivos contra el sistema energético de Ucrania",
-    "enlace": "https://www.maray.cl/internacional/30/08/2026/rusia-anuncio-campana-de-ataques-masivos-contra-el-sistema-energetico-de-ucrania/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Activan Código Azul en cinco regiones ante bajas temperaturas",
-    "enlace": "https://www.maray.cl/pais/30/08/2026/activan-codigo-azul-en-cinco-regiones-ante-bajas-temperaturas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Everton golea a Limache y se mete de lleno en la pelea por las copas internacionales",
-    "enlace": "https://www.maray.cl/deportes/29/08/2026/everton-golea-a-limache-y-se-mete-de-lleno-en-la-pelea-por-las-copas-internacionales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Tres detenidos por homicidio de carabinero en Renca: incautan arma utilizada en el crimen",
-    "enlace": "https://www.maray.cl/pais/29/08/2026/tres-detenidos-por-homicidio-de-carabinero-en-renca-incautan-arma-utilizada-en-el-crimen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Hacienda descarta bajar la tasa de interés y apuesta por la inversión para reactivar la economía",
-    "enlace": "https://www.maray.cl/pais/29/08/2026/hacienda-descarta-bajar-la-tasa-de-interes-y-apuesta-por-la-inversion-para-reactivar-la-economia/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,89 +1620,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "PUCV abre sus puertas al ajedrez y crea nuevo espacio de encuentro para la comunidad",
+    "enlace": "https://g5noticias.cl/2026/08/30/pucv-abre-sus-puertas-al-ajedrez-y-crea-nuevo-espacio-de-encuentro-para-la-comunidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputado Jaime Araya por solicitud de protección para Nadia Beller ante la CIDH: “Es fundamental garantizar que pueda declarar sin temor a represalias”",
+    "enlace": "https://g5noticias.cl/2026/08/30/diputado-jaime-araya-por-solicitud-de-proteccion-para-nadia-beller-ante-la-cidh-es-fundamental-garantizar-que-pueda-declarar-sin-temor-a-represalias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Reporte Apertura de Avenida España: Serviu retira más de 20 toneladas de material en riesgo de desprendimiento y se mantiene una pista habilitada",
+    "enlace": "https://g5noticias.cl/2026/08/30/reporte-apertura-de-avenida-espana-serviu-retira-mas-de-20-toneladas-de-material-en-riesgo-de-desprendimiento-y-se-mantiene-una-pista-habilitada/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Nuestro corazón también tiene memoria. Por Paulina Fernández Garcés, Académica Tecnología Médica Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/08/30/nuestro-corazon-tambien-tiene-memoria-por-paulina-fernandez-garces-academica-tecnologia-medica-universidad-andres-bello/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Franco Gutiérrez conquista el 5° lugar en el mundial de paracanotaje en Polonia",
+    "enlace": "https://g5noticias.cl/2026/08/30/franco-gutierrez-conquista-el-5-lugar-en-el-mundial-de-paracanotaje-en-polonia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Más de 6 mil corredoras participaron en el Itaú Medio Maratón de Santiago 2026",
+    "enlace": "https://g5noticias.cl/2026/08/30/mas-de-6-mil-corredoras-participaron-en-el-itau-medio-maraton-de-santiago-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Más de 2.500 personas participaron la exitosa corrida Concón 21K 2026",
+    "enlace": "https://g5noticias.cl/2026/08/30/mas-de-2-500-personas-participaron-la-exitosa-corrida-concon-21k-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Ferias libres contienen precios en la previa de Fiestas Patrias tras impacto por temporales: “Nos estamos ajustando a todos los bolsillos ”",
+    "enlace": "https://g5noticias.cl/2026/08/30/ferias-libres-contienen-precios-en-la-previa-de-fiestas-patrias-tras-impacto-por-temporales-nos-estamos-ajustando-a-todos-los-bolsillos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Más de 3.500 personas participaron en las Olimpiadas de Bajo Rendimiento de Andes Salud: una celebración que demostró que el deporte es para todos",
+    "enlace": "https://g5noticias.cl/2026/08/30/mas-de-3-500-personas-participaron-en-las-olimpiadas-de-bajo-rendimiento-de-andes-salud-una-celebracion-que-demostro-que-el-deporte-es-para-todos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Acuerdo de Unión Civil: cuando las cifras invitan a mirar más allá. Por Carolina Araya Directora Carrera de Derecho Universidad de Las Américas, Sede Concepción",
     "enlace": "https://g5noticias.cl/2026/08/30/acuerdo-de-union-civil-cuando-las-cifras-invitan-a-mirar-mas-alla-por-carolina-araya-directora-carrera-de-derecho-universidad-de-las-americas-sede-concepcion-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Colisión de vehículo con poste deja sin energía a más de 200 clientes de Chilquinta",
-    "enlace": "https://g5noticias.cl/2026/08/30/colision-de-vehiculo-con-poste-deja-sin-energia-a-mas-de-200-clientes-de-chilquinta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Recetas del Abate Molina vuelven a la mesa de la mano de la UTalca y el cocinero Rubén Tapia",
-    "enlace": "https://g5noticias.cl/2026/08/30/recetas-del-abate-molina-vuelven-a-la-mesa-de-la-mano-de-la-utalca-y-el-cocinero-ruben-tapia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "De la investigación a la política pública: PUCV aborda cómo generar impacto con la ciencia",
-    "enlace": "https://g5noticias.cl/2026/08/30/de-la-investigacion-a-la-politica-publica-pucv-aborda-como-generar-impacto-con-la-ciencia-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Municipio viñamarino intensifica plan de bacheo de calles tras paso de sistemas frontales",
-    "enlace": "https://g5noticias.cl/2026/08/30/municipio-vinamarino-intensifica-plan-de-bacheo-de-calles-tras-paso-de-sistemas-frontales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Humano o Inteligencia Artificial? El sistema que realiza 1.500 llamadas por hora sin que muchos noten la diferencia",
-    "enlace": "https://g5noticias.cl/2026/08/30/humano-o-inteligencia-artificial-el-sistema-que-realiza-1-500-llamadas-por-hora-sin-que-muchos-noten-la-diferencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Quinta Normal: Carabineros detiene a dos menores de edad por «encerronas», porte de armas e intento de homicidio a funcionario policial",
-    "enlace": "https://g5noticias.cl/2026/08/30/quinta-normal-carabineros-detiene-a-dos-menores-de-edad-por-encerronas-porte-de-armas-e-intento-de-homicidio-a-funcionario-policial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Homicidio en Los Andes: imputado fue detenido por la PDI",
-    "enlace": "https://g5noticias.cl/2026/08/30/homicidio-en-los-andes-imputado-fue-detenido-por-la-pdi/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Del “Ghostear” al “Spoilear”: Las palabras en inglés que los chilenos están haciendo suyas",
-    "enlace": "https://g5noticias.cl/2026/08/30/del-ghostear-al-spoilear-las-palabras-en-ingles-que-los-chilenos-estan-haciendo-suyas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El nuevo eslabón débil en la ciberseguridad ya no somos (solo) nosotros. Por Edgardo Fuentes Cáceres, Director Ingeniería en Ciberseguridad UNAB",
-    "enlace": "https://g5noticias.cl/2026/08/30/el-nuevo-eslabon-debil-en-la-ciberseguridad-ya-no-somos-solo-nosotros-por-edgardo-fuentes-caceres-director-ingenieria-en-ciberseguridad-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
