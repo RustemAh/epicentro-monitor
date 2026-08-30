@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Gendarmería frustra intento de fuga en cárcel de Huachalalume: Tres imputados fueron trasladados a máxima seguridad",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/30/gendarmeria-frustra-intento-de-fuga-en-carcel-de-huachalalume-tres-imputados-fueron-trasladados-a-maxima-seguridad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Liceo de Tongoy continúa impulsando la formación técnico-profesional a través de convenios de alternancia con CEAZA y AquaPacífico",
     "enlace": "https://www.elcoquimbano.cl/2026/08/29/liceo-de-tongoy-continua-impulsando-la-formacion-tecnico-profesional-a-traves-de-convenios-de-alternancia-con-ceaza-y-aquapacifico/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Socavón obliga a CMP a realizar relleno y mantener pruebas controladas en línea férrea de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/24/socavon-obliga-a-cmp-a-realizar-relleno-y-mantener-pruebas-controladas-en-linea-ferrea-de-coquimbo/",
+    "titulo": "Aguas del Valle informa corte de emergencia en sector Las Compañías de La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/30/aguas-del-valle-informa-corte-de-emergencia-en-sector-las-companias-de-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Carabineros detiene a 2 sujetos con casi $25 millones en drogas durante patrullaje en el centro de La Serena",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Feria de lactancia en La Serena convoca a cientos de familias para fortalecer el apoyo y la información en torno a la crianza",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/08/26/feria-de-lactancia-en-la-serena-convoca-a-cientos-de-familias-para-fortalecer-el-apoyo-y-la-informacion-en-torno-a-la-crianza/",
+    "titulo": "Liceo Carmen Rodríguez Henríquez continúa impulsando la formación técnico-profesional a través de convenios de alternancia con CEAZA y AquaPacífico",
+    "enlace": "https://laserenaonline.cl/2026/08/30/liceo-carmen-rodriguez-henriquez-continua-impulsando-la-formacion-tecnico-profesional-a-traves-de-convenios-de-alternancia-con-ceaza-y-aquapacifico/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Con maquinarias habilitan paso más seguro hacia localidades aisladas en Monte Patria",
+    "enlace": "https://laserenaonline.cl/2026/08/30/con-maquinarias-habilitan-paso-mas-seguro-hacia-localidades-aisladas-en-monte-patria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Ensamble Improvincia llevará los sonidos contemporáneos a la comunidad",
     "enlace": "https://laserenaonline.cl/2026/08/30/ensamble-improvincia-llevara-los-sonidos-contemporaneos-a-la-comunidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Gobernador Juliá expone sobre desarrollo regional minero en Cumbre de SONAMI 2026",
-    "enlace": "https://laserenaonline.cl/2026/08/30/gobernador-julia-expone-sobre-desarrollo-regional-minero-en-cumbre-de-sonami-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más de 8 mil personas disfrutaron de la Verbena Solidaria en la Plaza de Armas de La Serena",
-    "enlace": "https://laserenaonline.cl/2026/08/30/mas-de-8-mil-personas-disfrutaron-de-la-verbena-solidaria-en-la-plaza-de-armas-de-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Escuela Arturo Alessandri Palma de Ovalle: 190 años de trayectoria al servicio de la Educación Pública",
+    "enlace": "https://ovallehoy.cl/escuela-arturo-alessandri-palma-de-ovalle-190-anos-de-trayectoria-al-servicio-de-la-educacion-publica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Más de 200 personas disfrutaron de una nueva jornada de Trekking Familiar en Huallillinga",
+    "enlace": "https://ovallehoy.cl/mas-de-200-personas-disfrutaron-de-una-nueva-jornada-de-trekking-familiar-en-huallillinga/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Niños de San Julián participan en la cuarta versión de la «Excursión en Salud» en el CECOSF Colonia de Limarí",
     "enlace": "https://ovallehoy.cl/ninos-de-san-julian-participan-en-la-cuarta-version-de-la-excursion-en-salud-en-el-cecosf-colonia-de-limari/",
     "descripcion": "",
@@ -515,24 +533,6 @@
   {
     "titulo": "Región de Coquimbo fortalece la oferta turística de cara a fiestas patrias y el verano",
     "enlace": "https://ovallehoy.cl/region-de-coquimbo-fortalece-la-oferta-turistica-de-cara-fiestas-patrias-y-el-verano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Punitaqui tiene a sus campeones del Comunal de Cueca Escolar 2026",
-    "enlace": "https://ovallehoy.cl/punitaqui-tiene-a-sus-campeones-del-comunal-de-cueca-escolar-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Más de 33 mil estudiantes de la región son parte de la vacunación escolar",
-    "enlace": "https://ovallehoy.cl/mas-de-33-mil-estudiantes-de-la-region-son-parte-de-la-vacunacion-escolar/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -898,6 +898,24 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "¿El relave de la planta El Arenal contaminó las aguas del Estero Auco?: SERNAGEOMIN informa que debería estar paralizado desde 2023",
+    "enlace": "https://veetv.cl/relave-el-arenal-contamino-estero-auco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "Muerte de Jaime Cortinez enluta a Los Vilos y al Choapa",
+    "enlace": "https://veetv.cl/muerte-jaime-cortinez-los-vilos-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "Deportistas de Salamanca recibirán apoyo del GORE para representar a Chile en torneo internacional",
@@ -1350,6 +1368,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Can detector “Coky” permite incautar más de 4 kilos de pasta base en bus interurbano",
+    "enlace": "https://www.maray.cl/atacama/30/08/2026/can-detector-coky-permite-incautar-mas-de-4-kilos-de-pasta-base-en-bus/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Denuncia anónima permitió detectar matadero clandestino en Freirina",
+    "enlace": "https://www.maray.cl/atacama/30/08/2026/denuncia-anonima-permitio-detectar-matadero-clandestino-en-freirina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "UdeC sorprende a Universidad de Chile y sale de la zona de descenso",
+    "enlace": "https://www.maray.cl/deportes/30/08/2026/udec-sorprende-a-universidad-de-chile-y-sale-de-la-zona-de-descenso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gendarmería frustra intento de fuga en cárcel de La Serena",
+    "enlace": "https://www.maray.cl/pais/30/08/2026/gendarmeria-frustra-intento-de-fuga-en-carcel-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Déficit de oncólogos en Chile: más del 75% trabaja en la Región Metropolitana",
+    "enlace": "https://www.maray.cl/pais/30/08/2026/deficit-de-oncologos-en-chile-mas-del-75-trabaja-en-la-region-metropolitana/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Minsal llama a reforzar cuidados de bebés ante circulación de virus respiratorios",
     "enlace": "https://www.maray.cl/pais/30/08/2026/minsal-llama-a-reforzar-cuidados-de-bebes-ante-circulacion-de-virus-respiratorios/",
     "descripcion": "",
@@ -1388,51 +1451,6 @@
   {
     "titulo": "Gobierno anuncia incentivos para reactivar la exploración minera en Chile",
     "enlace": "https://www.maray.cl/atacama/30/08/2026/gobierno-anuncia-incentivos-para-reactivar-la-exploracion-minera-en-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Deportes Copiapó cae ante Antofagasta y suma su segunda derrota consecutiva",
-    "enlace": "https://www.maray.cl/atacama/30/08/2026/deportes-copiapo-cae-ante-antofagasta-y-suma-su-segunda-derrota-consecutiva/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Detienen a presunto autor de tiroteo que dejó un muerto en La Florida",
-    "enlace": "https://www.maray.cl/pais/30/08/2026/detienen-a-presunto-autor-de-tiroteo-que-dejo-un-muerto-en-la-florida/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Sismo de magnitud 5,1 se percibe en Arica y Tarapacá",
-    "enlace": "https://www.maray.cl/pais/30/08/2026/sismo-de-magnitud-51-se-percibe-en-arica-y-tarapaca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cumbre de la SONAMI 2026 reunió a todo el ecosistema minero del país",
-    "enlace": "https://www.maray.cl/atacama/30/08/2026/cumbre-de-la-sonami-2026-reunio-a-todo-el-ecosistema-minero-del-pais/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Colo Colo defiende el liderato ante un Audax Italiano necesitado",
-    "enlace": "https://www.maray.cl/deportes/30/08/2026/colo-colo-defiende-el-liderato-ante-un-audax-italiano-necesitado/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1890,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Seminario reunió al sector turístico para abordar seguridad y prevención",
+    "enlace": "https://elmagallanico.com/2026/08/30/seminario-reunio-al-sector-turistico-para-abordar-seguridad-y-prevencion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Abecedario bilingüe permitirá conocer biodiversidad fueguina y lengua Selk’nam",
     "enlace": "https://elmagallanico.com/2026/08/28/abecedario-bilingue-permitira-conocer-biodiversidad-fueguina-y-lengua-selknam/",
     "descripcion": "",
@@ -1964,15 +1991,6 @@
   {
     "titulo": "Municipio de Natales destina terreno para el nuevo Cesfam y lidera plan integral de salud mental",
     "enlace": "https://elmagallanico.com/2026/08/24/municipio-de-natales-destina-terreno-para-el-nuevo-cesfam-y-lidera-plan-integral-de-salud-mental/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Gobierno releva logros de jóvenes deportistas",
-    "enlace": "https://elmagallanico.com/2026/08/24/gobierno-releva-logros-de-jovenes-deportistas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
