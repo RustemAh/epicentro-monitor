@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Gracias a su asistencia niño de Coquimbo ganó concurso y viajará a la NASA",
+    "enlace": "https://www.elcoquimbano.cl/2026/08/31/gracias-a-su-asistencia-nino-de-coquimbo-gano-concurso-y-viajara-a-la-nasa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Opinión | Ley Karin: el respeto también es parte de un trabajo seguro",
     "enlace": "https://www.elcoquimbano.cl/2026/08/31/opinion-ley-karin-el-respeto-tambien-es-parte-de-un-trabajo-seguro/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Hinchas celebran aniversario de Coquimbo Unido con muestra de camisetas",
     "enlace": "https://www.elcoquimbano.cl/2026/08/26/hinchas-celebran-aniversario-de-coquimbo-unido-con-muestra-de-camisetas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Coquimbo apuesta por el desarrollo portuario, aéreo y terrestre para fortalecer su rol como puerta de entrada a Argentina",
-    "enlace": "https://www.elcoquimbano.cl/2026/08/26/coquimbo-apuesta-por-el-desarrollo-portuario-aereo-y-terrestre-para-fortalecer-su-rol-como-puerta-de-entrada-a-argentina/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "SENADIS Coquimbo destaca entre las innovaciones mundiales de Zero Project 2027",
+    "enlace": "https://laserenaonline.cl/2026/08/31/senadis-coquimbo-destaca-entre-las-innovaciones-mundiales-de-zero-project-2027/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Música en vivo transforma la experiencia de pacientes y familias en las unidades críticas del Hospital de La Serena",
     "enlace": "https://laserenaonline.cl/2026/08/31/musica-en-vivo-transforma-la-experiencia-de-pacientes-y-familias-en-las-unidades-criticas-del-hospital-de-la-serena/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Liceo Carmen Rodríguez Henríquez continúa impulsando la formación técnico-profesional a través de convenios de alternancia con CEAZA y AquaPacífico",
     "enlace": "https://laserenaonline.cl/2026/08/30/liceo-carmen-rodriguez-henriquez-continua-impulsando-la-formacion-tecnico-profesional-a-traves-de-convenios-de-alternancia-con-ceaza-y-aquapacifico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Con maquinarias habilitan paso más seguro hacia localidades aisladas en Monte Patria",
-    "enlace": "https://laserenaonline.cl/2026/08/30/con-maquinarias-habilitan-paso-mas-seguro-hacia-localidades-aisladas-en-monte-patria/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Presidente Kast y ministra Wulf lanzan “Plan Chile Cuida a los Niños”, hoja de ruta 2026-2030 para proteger la infancia",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/31/presidente-kast-y-ministra-wulf-lanzan-plan-chile-cuida-a-los-ninos-hoja-de-ruta-2026-2030-para-proteger-la-infancia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Proyecto de ley busca fortalecer la protección de víctimas de violencia intrafamiliar y contra las mujeres",
+    "enlace": "https://regiondecoquimbo.cl/2026/08/31/proyecto-de-ley-busca-fortalecer-la-proteccion-de-victimas-de-violencia-intrafamiliar-y-contra-las-mujeres/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Estudiantes de Canela obtienen el primer lugar en la Feria Antártica Escolar del Ministerio de Ciencia y Tecnología",
     "enlace": "https://regiondecoquimbo.cl/2026/08/31/estudiantes-de-canela-obtienen-el-primer-lugar-en-la-feria-antartica-escolar-del-ministerio-de-ciencia-y-tecnologia/",
     "descripcion": "",
@@ -432,22 +450,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Preparan temporada 2026-2027 del Paso Agua Negra mientras continúa recuperación de la ruta internacional",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/28/preparan-temporada-2026-2027-del-paso-agua-negra-mientras-continua-recuperacion-de-la-ruta-internacional/",
+    "titulo": "En 12 minutos: Rápido procedimiento policial permite recuperar vehículo robado y detener a conductor en Ovalle",
+    "enlace": "https://ovallehoy.cl/en-12-minutos-rapido-procedimiento-policial-permite-recuperar-vehiculo-robado-y-detener-a-conductor-en-ovalle/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Ruta Social proyecta llegar a 3.200 atenciones para personas en situación de calle este invierno",
-    "enlace": "https://regiondecoquimbo.cl/2026/08/27/ruta-social-proyecta-llegar-a-3-200-atenciones-para-personas-en-situacion-de-calle-este-invierno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
     "titulo": "Deportes Ovalle se mete en la pelea por la liguilla tras golear a Unión Compañías por 6 a 0",
@@ -531,12 +540,12 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "Refuerzan prevención de infecciones de transmisión sexual en personas mayores",
-    "enlace": "https://ovallehoy.cl/refuerzan-prevencion-de-infecciones-de-transmision-sexual-en-personas-mayores/",
+    "titulo": "SiSS fiscaliza planta de tratamiento de aguas servidas de Monte Patria y detecta deficiencias operacionales",
+    "enlace": "https://www.elmontepatrino.cl/2026/08/31/siss-fiscaliza-planta-de-tratamiento-de-aguas-servidas-de-monte-patria-y-detecta-deficiencias-operacionales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
@@ -614,15 +623,6 @@
   {
     "titulo": "Estudios técnicos determinarán la mejor solución para casas con afloramiento de agua en Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/08/20/estudios-tecnicos-determinaran-la-mejor-solucion-para-casas-con-afloramiento-de-agua-en-monte-patria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Hasta el 25 de agosto se aplicará la Ficha de Afectación Silvoagropecuaria en la Región de Coquimbo",
-    "enlace": "https://www.elmontepatrino.cl/2026/08/19/hasta-el-25-de-agosto-se-aplicara-la-ficha-de-afectacion-silvoagropecuaria-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1188,6 +1188,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Caso de médico con licencia salpica al Hospital de Copiapó tras auditoría de Contraloría",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/31/caso-de-medico-con-licencia-salpica-al-hospital-de-copiapo-tras-auditoria-de-contraloria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Comunidad de Totoral denuncia grave afectación por lluvias: pérdida de terrenos agrícolas, biodiversidad y arrastre de relaves mineros",
+    "enlace": "https://www.atacamanoticias.cl/2026/08/31/comunidad-de-totoral-denuncia-grave-afectacion-por-lluvias-perdida-de-terrenos-agricolas-biodiversidad-y-arrastre-de-relaves-mineros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "[VIDEO] Sercotec Atacama abre 223 cupos para apoyar a emprendedores y pymes",
     "enlace": "https://www.atacamanoticias.cl/2026/08/31/video-sercotec-atacama-abre-223-cupos-para-apoyar-a-emprendedores-y-pymes/",
     "descripcion": "",
@@ -1260,112 +1278,49 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Arzobispado descarta que sean de alguna tumba restos hallados al lado de cementerio en Puerto Montt",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/29/arzobispado-descarta-que-sean-de-alguna-tumba-restos-hallados-al-lado-de-cementerio-en-puerto-montt/",
+    "titulo": "MOP fortalece monitoreo de crecidas en quebrada Paipote y Río Copiapó con nuevos sensores radar",
+    "enlace": "https://www.maray.cl/atacama/31/08/2026/mop-fortalece-monitoreo-de-crecidas-en-quebrada-paipote-y-rio-copiapo-con-nuevos-sensores-radar/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
+    "medio": "Maray",
+    "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Tita Ureta se va de Mega: estuvo tres años en el canal y condujo dos backstages del Festival de Viña",
-    "enlace": "https://www.atacamanoticias.cl/2026/08/29/tita-ureta-se-va-de-mega-estuvo-tres-anos-en-el-canal-y-condujo-dos-backstages-del-festival-de-vina/",
+    "titulo": "Programa busca reducir la carga laboral de profesores mediante inteligencia artificial",
+    "enlace": "https://www.maray.cl/pais/31/08/2026/programa-busca-reducir-la-carga-laboral-de-profesores-mediante-inteligencia-artificial/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
+    "medio": "Maray",
+    "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "El Noticiero del Huasco, lunes 31 de agosto de 2026",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/el-noticiero-del-huasco-lunes-31-de-agosto-de-2026/",
+    "titulo": "Región de Atacama se prepara para una histórica temporada del Desierto Florido 2026",
+    "enlace": "https://www.maray.cl/atacama/31/08/2026/region-de-atacama-se-prepara-para-una-historica-temporada-del-desierto-florido-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Poco probable: el precedente de Nepal y los desafíos de prevención para la cuenca del Huasco",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/poco-probable-el-precedente-de-nepal-y-los-desafios-de-prevencion-para-la-cuenca-del-huasco/",
+    "titulo": "Cambio de hora: especialistas advierten sobre los efectos de perder una hora de sueño",
+    "enlace": "https://www.maray.cl/pais/31/08/2026/cambio-de-hora-especialistas-advierten-sobre-los-efectos-de-perder-una-hora-de-sueno/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "INDAP entrega estanques móviles por emergencia agrícola a crianceros de Vallenar",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/indap-entrega-estanques-moviles-por-emergencia-agricola-a-crianceros-de-vallenar/",
+    "titulo": "Lundin Mining Candelaria nuevamente presente en la Fiesta Costumbrista de San Fernando apoyando a artesanas de Tierra Amarilla",
+    "enlace": "https://www.maray.cl/atacama/31/08/2026/lundin-mining-candelaria-nuevamente-presente-en-la-fiesta-costumbrista-de-san-fernando-apoyando-a-artesanas-de-tierra-amarilla/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Tintina Mines consolida el 100% del proyecto de cobre y oro Dos Amigos en Atacama y sella alianza con Sumitomo",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/tintina-mines-consolida-el-100-del-proyecto-de-cobre-y-oro-dos-amigos-en-atacama-y-sella-alianza-con-sumitomo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Diputado  Tapia gestiona 37 mil litros de agua para las familias afectadas en Canto de Agua",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/diputado-tapia-gestiona-37-mil-litros-de-agua-para-las-familias-afectadas-en-canto-de-agua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Gobierno Regional y Sercotec lanzan programa de $2.646 millones para fortalecer a emprendedores y pequeñas empresas de Atacama",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/gobierno-regional-y-sercotec-lanzan-programa-de-2-646-millones-para-fortalecer-a-emprendedores-y-pequenas-empresas-de-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "El Noticiero del Huasco, viernes 28 de agosto de 2026",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/el-noticiero-del-huasco-viernes-28-de-agosto-de-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "El Noticiero del Huasco, jueves 27 de agosto de 2026",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/el-noticiero-del-huasco-jueves-27-de-agosto-de-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "CAP confirma impacto del temporal en operaciones y Ferronor detalla afectación en infraestructura ferroviaria del Huasco",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/cap-confirma-impacto-del-temporal-en-operaciones-y-ferronor-detalla-afectacion-en-infraestructura-ferroviaria-del-huasco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Ocupación de mujeres aumenta y registra variación anual positiva de 1,9%",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/08/ocupacion-de-mujeres-aumenta-y-registra-variacion-anual-positiva-de-19/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "Archivo Regional de Atacama fortalece trabajo con instituciones públicas para la preservación de la memoria local",
@@ -1406,51 +1361,6 @@
   {
     "titulo": "Compromiso con la seguridad: trabajador de Kinross recibe reconocimiento en La Noche de la Minería",
     "enlace": "https://www.maray.cl/atacama/31/08/2026/compromiso-con-la-seguridad-trabajador-de-kinross-recibe-reconocimiento-en-la-noche-de-la-mineria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Kast aborda polémica por Cerimedo y niega vínculos con sus campañas",
-    "enlace": "https://www.maray.cl/pais/31/08/2026/kast-aborda-polemica-por-cerimedo-y-niega-vinculos-con-sus-campanas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "SEBV Atacama recupera retroexcavadora avaluada en $24 millones en pique minero",
-    "enlace": "https://www.maray.cl/atacama/31/08/2026/sebv-atacama-recupera-retroexcavadora-avaluada-en-24-millones-en-pique-minero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Trump difunde video de IA que simula destrucción de estratégica isla petrolera iraní",
-    "enlace": "https://www.maray.cl/internacional/31/08/2026/trump-difunde-video-de-ia-que-simula-destruccion-de-estrategica-isla-petrolera-irani/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Universidad Católica busca recuperar el segundo lugar ante O’Higgins",
-    "enlace": "https://www.maray.cl/deportes/31/08/2026/universidad-catolica-busca-recuperar-el-segundo-lugar-ante-ohiggins/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Huachipato actualiza estado de Christian Bravo tras incidentes en Coquimbo",
-    "enlace": "https://www.maray.cl/deportes/31/08/2026/huachipato-actualiza-estado-de-christian-bravo-tras-incidentes-en-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1548,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presidente Kast niega haber trabajado con Cerimedo pero reconoce “nos hemos cruzado” en distintas instancias",
-    "enlace": "https://g5noticias.cl/2026/08/31/presidente-kast-niega-haber-trabajado-con-cerimedo-pero-reconoce-nos-hemos-cruzado-en-distintas-instancias/",
+    "titulo": "Sernapesca sella cámara de frío con merluza para la Fogata del Pescador",
+    "enlace": "https://g5noticias.cl/2026/08/31/sernapesca-sella-camara-de-frio-con-merluza-para-la-fogata-del-pescador/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1557,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«Entiendo que es el momento»: Lionel Messi anunció su retiro de la selección de Argentina",
-    "enlace": "https://g5noticias.cl/2026/08/31/entiendo-que-es-el-momento-lionel-messi-anuncio-su-retiro-de-la-seleccion-de-argentina/",
+    "titulo": "Seguridad se incorpora a los diálogos ciudadanos en Ñuble para recuperar espacios y hábitos afectados por la delincuencia",
+    "enlace": "https://g5noticias.cl/2026/08/31/seguridad-se-incorpora-a-los-dialogos-ciudadanos-en-nuble-para-recuperar-espacios-y-habitos-afectados-por-la-delincuencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1566,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Trabajo coordinado entre PDI y Aduanas, permite detención de 6 personas y la incautación de más de 10 kilos de droga",
-    "enlace": "https://g5noticias.cl/2026/08/31/trabajo-coordinado-entre-pdi-y-aduanas-permite-detencion-de-6-personas-y-la-incautacion-de-mas-de-10-kilos-de-droga/",
+    "titulo": "Encuentran varada a ballena jorobada en La Serena: Universidad del Alba participó en su necropsia",
+    "enlace": "https://g5noticias.cl/2026/08/31/encuentran-varada-a-ballena-jorobada-en-la-serena-universidad-del-alba-participo-en-su-necropsia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1575,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El desempleo no cede en Valparaíso. Por Felipe Oelckers, director de Ingeniería Comercial, Universidad Andrés Bello",
-    "enlace": "https://g5noticias.cl/2026/08/31/el-desempleo-no-cede-en-valparaiso-por-felipe-oelckers-director-de-ingenieria-comercial-universidad-andres-bello/",
+    "titulo": "El Gripen F completa su primer vuelo",
+    "enlace": "https://g5noticias.cl/2026/08/31/el-gripen-f-completa-su-primer-vuelo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1584,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Opiniones Técnicas: conocimiento tributario a partir de casos concretos. Por Ricardo Pizarro Alfaro, Defensor Nacional del Contribuyente",
-    "enlace": "https://g5noticias.cl/2026/08/31/opiniones-tecnicas-conocimiento-tributario-a-partir-de-casos-concretos-por-ricardo-pizarro-alfaro-defensor-nacional-del-contribuyente/",
+    "titulo": "Licencias médicas falsas: Querellante valora condenas de hasta 21 años en el mayor fraude en la historia del sistema de salud en Chile",
+    "enlace": "https://g5noticias.cl/2026/08/31/licencias-medicas-falsas-querellante-valora-condenas-de-hasta-21-anos-en-el-mayor-fraude-en-la-historia-del-sistema-de-salud-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1593,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "EFE Trenes de Chile moderniza la venta de pasajes y las reservas con S3 Passenger de Siemens",
-    "enlace": "https://g5noticias.cl/2026/08/31/efe-trenes-de-chile-moderniza-la-venta-de-pasajes-y-las-reservas-con-s3-passenger-de-siemens/",
+    "titulo": "Sandra Reyes, autora del libro “Se acata pero no se cumple”: “El 52% de las denuncias  no fue clasificada para seguir vía Ley Karin”",
+    "enlace": "https://g5noticias.cl/2026/08/31/sandra-reyes-autora-del-libro-se-acata-pero-no-se-cumple-el-52-de-las-denuncias-no-fue-clasificada-para-seguir-via-ley-karin/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1602,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bancada UDI tilda de «irrelevantes» primeros arrepentimientos sobre propuesta constitucional y cuestiona nula autocrítica de ex ministras como Tohá y Vallejo",
-    "enlace": "https://g5noticias.cl/2026/08/31/bancada-udi-tilda-de-irrelevantes-primeros-arrepentimientos-sobre-propuesta-constitucional-y-cuestiona-nula-autocritica-de-ex-ministras-como-toha-y-vallejo/",
+    "titulo": "Cloud, data center y conectividad: por qué las empresas están integrando su infraestructura tecnológica",
+    "enlace": "https://g5noticias.cl/2026/08/31/cloud-data-center-y-conectividad-por-que-las-empresas-estan-integrando-su-infraestructura-tecnologica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1611,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El arte como generador de conocimiento: UV presenta su Unidad de Creación Artística",
-    "enlace": "https://g5noticias.cl/2026/08/31/el-arte-como-generador-de-conocimiento-uv-presenta-su-unidad-de-creacion-artistica/",
+    "titulo": "“La prevención también puede salvar vidas”: Comisión respalda propuesta de Bernales para campaña de salud mental en TVN",
+    "enlace": "https://g5noticias.cl/2026/08/31/la-prevencion-tambien-puede-salvar-vidas-comision-respalda-propuesta-de-bernales-para-campana-de-salud-mental-en-tvn/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1620,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Hackea los precios: JetSMART vuelve con su Travel SMART con tarifas imperdibles para volar por Chile y Sudamérica",
-    "enlace": "https://g5noticias.cl/2026/08/31/hackea-los-precios-jetsmart-vuelve-con-su-travel-smart-con-tarifas-imperdibles-para-volar-por-chile-y-sudamerica/",
+    "titulo": "Museo del Inmigrante inaugura nueva sala dedicada a la historia del deporte en Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/08/31/museo-del-inmigrante-inaugura-nueva-sala-dedicada-a-la-historia-del-deporte-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1629,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Colegio Canadá prepara segunda edición de su Semana de la Orientación con foco en STEM y oportunidades para las estudiantes",
-    "enlace": "https://g5noticias.cl/2026/08/31/colegio-canada-prepara-segunda-edicion-de-su-semana-de-la-orientacion-con-foco-en-stem-y-oportunidades-para-las-estudiantes/",
+    "titulo": "Presidente Kast y ministra Wulf lanzan “Plan Chile Cuida a los Niños”, hoja de ruta 2026-2030 para proteger la infancia",
+    "enlace": "https://g5noticias.cl/2026/08/31/presidente-kast-y-ministra-wulf-lanzan-plan-chile-cuida-a-los-ninos-hoja-de-ruta-2026-2030-para-proteger-la-infancia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1728,24 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "ISL reforzó la prevención del acoso y la violencia en el trabajo con capacitación sobre Ley Karin",
+    "enlace": "https://laprensaaustral.cl/2026/08/31/isl-reforzo-la-prevencion-del-acoso-y-la-violencia-en-el-trabajo-con-capacitacion-sobre-ley-karin/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Lionel Messi anuncia su retiro de la Selección argentina tras más de 20 años",
+    "enlace": "https://laprensaaustral.cl/2026/08/31/lionel-messi-anuncia-su-retiro-de-la-seleccion-argentina-tras-mas-de-20-anos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "La odisea de Hernando de Magallanes para descubrir el Estrecho",
     "enlace": "https://laprensaaustral.cl/2026/08/31/la-odisea-de-hernando-de-magallanes-para-descubrir-el-estrecho/",
     "descripcion": "",
@@ -1883,24 +1811,6 @@
   {
     "titulo": "Más de 600 personas congregó Feria Laboral",
     "enlace": "https://laprensaaustral.cl/2026/08/31/mas-de-600-personas-congrego-feria-laboral/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Nadadora española completó con  éxito el cruce invernal del Estrecho",
-    "enlace": "https://laprensaaustral.cl/2026/08/31/nadadora-espanola-completo-con-exito-el-cruce-invernal-del-estrecho/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "275 personas fueron internadas el año pasado  en el Hospital Clínico por algún tipo de ACV",
-    "enlace": "https://laprensaaustral.cl/2026/08/31/275-personas-fueron-internadas-el-ano-pasado-en-el-hospital-clinico-por-algun-tipo-de-acv/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
