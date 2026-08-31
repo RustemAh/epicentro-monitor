@@ -90,7 +90,16 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Aguas del Valle informa corte de emergencia en sector Las Compañías de La Serena",
+    "titulo": "Más de 8 mil personas disfrutaron de verbena solidaria en plaza de armas de La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/30/mas-de-8-mil-personas-disfrutaron-de-verbena-solidaria-en-plaza-de-armas-de-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Aguas del Valle informa normalización del corte de emergencia en sector Las Compañías de La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/30/aguas-del-valle-informa-corte-de-emergencia-en-sector-las-companias-de-la-serena/",
     "descripcion": "",
     "publicado": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Programa ‘Maderas Latinoamericanas’ bajará el telón al ciclo de música de cámara OSULS",
     "enlace": "https://www.elserenense.cl/tendencias/2026/08/26/programa-maderas-latinoamericanas-bajara-el-telon-al-ciclo-de-musica-de-camara-osuls/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Jóvenes talentos de Coquimbo, La Serena, Ovalle y Vicuña brillan en la final regional de natación de los Juegos Escolares",
-    "enlace": "https://www.elserenense.cl/educacion/2026/08/26/jovenes-talentos-de-coquimbo-la-serena-ovalle-y-vicuna-brillan-en-la-final-regional-de-natacion-de-los-juegos-escolares/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Bombas de estruendo obligan a suspender duelo entre Coquimbo Unido y Huachipato",
+    "enlace": "https://www.maray.cl/deportes/30/08/2026/bombas-de-estruendo-obligan-a-suspender-duelo-entre-coquimbo-unido-y-huachipato/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Colo Colo golea a Audax y se escapa en la cima del torneo",
+    "enlace": "https://www.maray.cl/deportes/30/08/2026/colo-colo-golea-a-audax-y-se-escapa-en-la-cima-del-torneo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Can detector “Coky” permite incautar más de 4 kilos de pasta base en bus interurbano",
     "enlace": "https://www.maray.cl/atacama/30/08/2026/can-detector-coky-permite-incautar-mas-de-4-kilos-de-pasta-base-en-bus/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "Encuesta Criteria registra 33% de aprobación para el Presidente Kast",
     "enlace": "https://www.maray.cl/pais/30/08/2026/encuesta-criteria-registra-33-de-aprobacion-para-el-presidente-kast/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Jorge Sampaoli deja Talleres tras solo siete partidos y cuatro derrotas",
-    "enlace": "https://www.maray.cl/deportes/30/08/2026/jorge-sampaoli-deja-talleres-tras-solo-siete-partidos-y-cuatro-derrotas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno anuncia incentivos para reactivar la exploración minera en Chile",
-    "enlace": "https://www.maray.cl/atacama/30/08/2026/gobierno-anuncia-incentivos-para-reactivar-la-exploracion-minera-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PUCV abre sus puertas al ajedrez y crea nuevo espacio de encuentro para la comunidad",
-    "enlace": "https://g5noticias.cl/2026/08/30/pucv-abre-sus-puertas-al-ajedrez-y-crea-nuevo-espacio-de-encuentro-para-la-comunidad/",
+    "titulo": "Una víctima fatal tras ataque armado en el límite de las comunas de Quillota y La Cruz",
+    "enlace": "https://g5noticias.cl/2026/08/30/una-victima-fatal-tras-ataque-armado-en-el-limite-de-las-comunas-de-quillota-y-la-cruz/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Jaime Araya por solicitud de protección para Nadia Beller ante la CIDH: “Es fundamental garantizar que pueda declarar sin temor a represalias”",
-    "enlace": "https://g5noticias.cl/2026/08/30/diputado-jaime-araya-por-solicitud-de-proteccion-para-nadia-beller-ante-la-cidh-es-fundamental-garantizar-que-pueda-declarar-sin-temor-a-represalias/",
+    "titulo": "PDI Iquique investiga ataque armado que dejó dos venezolanos heridos a bala",
+    "enlace": "https://g5noticias.cl/2026/08/30/pdi-iquique-investiga-ataque-armado-que-dejo-dos-venezolanos-heridos-a-bala/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Reporte Apertura de Avenida España: Serviu retira más de 20 toneladas de material en riesgo de desprendimiento y se mantiene una pista habilitada",
-    "enlace": "https://g5noticias.cl/2026/08/30/reporte-apertura-de-avenida-espana-serviu-retira-mas-de-20-toneladas-de-material-en-riesgo-de-desprendimiento-y-se-mantiene-una-pista-habilitada/",
+    "titulo": "Bochorno en Coquimbo: partido de los locales ante Huachipato fue suspendido tras lanzamiento de bomba de ruido que afectó al portero visitante",
+    "enlace": "https://g5noticias.cl/2026/08/30/bochorno-en-coquimbo-partido-de-los-locales-ante-huachipato-fue-suspendido-tras-lanzamiento-de-bomba-de-ruido-que-afecto-al-portero-visitante/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nuestro corazón también tiene memoria. Por Paulina Fernández Garcés, Académica Tecnología Médica Universidad Andrés Bello",
-    "enlace": "https://g5noticias.cl/2026/08/30/nuestro-corazon-tambien-tiene-memoria-por-paulina-fernandez-garces-academica-tecnologia-medica-universidad-andres-bello/",
+    "titulo": "Cadem: negativa evaluación al poder judicial y respaldo al plan «cancerbero» a la baja",
+    "enlace": "https://g5noticias.cl/2026/08/30/cadem-negativa-evaluacion-al-poder-judicial-y-respaldo-al-plan-cancerbero-a-la-baja/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Franco Gutiérrez conquista el 5° lugar en el mundial de paracanotaje en Polonia",
-    "enlace": "https://g5noticias.cl/2026/08/30/franco-gutierrez-conquista-el-5-lugar-en-el-mundial-de-paracanotaje-en-polonia/",
+    "titulo": "Colo Colo aplastó a Audax Italiano y avanza sin oposición hacia un nuevo título",
+    "enlace": "https://g5noticias.cl/2026/08/30/colo-colo-aplasto-a-audax-italiano-y-avanza-sin-oposicion-hacia-un-nuevo-titulo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 6 mil corredoras participaron en el Itaú Medio Maratón de Santiago 2026",
-    "enlace": "https://g5noticias.cl/2026/08/30/mas-de-6-mil-corredoras-participaron-en-el-itau-medio-maraton-de-santiago-2026/",
+    "titulo": "Asimov ¿vio venir la inteligencia artificial en sus obras? Por Cristian Villegas Director Instituto de Educación y Lenguaje Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/08/30/asimov-vio-venir-la-inteligencia-artificial-en-sus-obras-por-cristian-villegas-director-instituto-de-educacion-y-lenguaje-universidad-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 2.500 personas participaron la exitosa corrida Concón 21K 2026",
-    "enlace": "https://g5noticias.cl/2026/08/30/mas-de-2-500-personas-participaron-la-exitosa-corrida-concon-21k-2026/",
+    "titulo": "Menor de 5 años internado en Hospital Fricke tras haber consumido cocaína: padre fue detenido",
+    "enlace": "https://g5noticias.cl/2026/08/30/menor-de-5-anos-internado-en-hospital-fricke-tras-haber-consumido-cocaina-padre-fue-detenido/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ferias libres contienen precios en la previa de Fiestas Patrias tras impacto por temporales: “Nos estamos ajustando a todos los bolsillos ”",
-    "enlace": "https://g5noticias.cl/2026/08/30/ferias-libres-contienen-precios-en-la-previa-de-fiestas-patrias-tras-impacto-por-temporales-nos-estamos-ajustando-a-todos-los-bolsillos/",
+    "titulo": "Casi un centenar de embarcaciones reunió la «Regata XVI Copa Escuela Naval BCI» en la bahía de Concón",
+    "enlace": "https://g5noticias.cl/2026/08/30/casi-un-centenar-de-embarcaciones-reunio-la-regata-xvi-copa-escuela-naval-bci-en-la-bahia-de-concon/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 3.500 personas participaron en las Olimpiadas de Bajo Rendimiento de Andes Salud: una celebración que demostró que el deporte es para todos",
-    "enlace": "https://g5noticias.cl/2026/08/30/mas-de-3-500-personas-participaron-en-las-olimpiadas-de-bajo-rendimiento-de-andes-salud-una-celebracion-que-demostro-que-el-deporte-es-para-todos/",
+    "titulo": "U de Concepción resistió la presión y derrotó a la U de Chile como local",
+    "enlace": "https://g5noticias.cl/2026/08/30/u-de-concepcion-resistio-la-presion-y-derroto-a-la-u-de-chile-como-local/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Acuerdo de Unión Civil: cuando las cifras invitan a mirar más allá. Por Carolina Araya Directora Carrera de Derecho Universidad de Las Américas, Sede Concepción",
-    "enlace": "https://g5noticias.cl/2026/08/30/acuerdo-de-union-civil-cuando-las-cifras-invitan-a-mirar-mas-alla-por-carolina-araya-directora-carrera-de-derecho-universidad-de-las-americas-sede-concepcion-2/",
+    "titulo": "Juegos, deporte y espectáculos circenses reunieron a cientos de familias en la tradicional “Calle de la Niñez” en Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/08/30/juegos-deporte-y-espectaculos-circenses-reunieron-a-cientos-de-familias-en-la-tradicional-calle-de-la-ninez-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Masiva concurrencia marcó la Fiesta del Día del Niño en el Gimnasio Fiscal",
+    "enlace": "https://elmagallanico.com/2026/08/30/masiva-concurrencia-marco-la-fiesta-del-dia-del-nino-en-el-gimnasio-fiscal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Seminario reunió al sector turístico para abordar seguridad y prevención",
     "enlace": "https://elmagallanico.com/2026/08/30/seminario-reunio-al-sector-turistico-para-abordar-seguridad-y-prevencion/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Puerto Williams disfruta concierto de música clásica a cargo de la Fundación Pianos para Chile",
     "enlace": "https://elmagallanico.com/2026/08/24/puerto-williams-disfruta-concierto-de-musica-clasica-a-cargo-de-la-fundacion-pianos-para-chile/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Municipio de Natales destina terreno para el nuevo Cesfam y lidera plan integral de salud mental",
-    "enlace": "https://elmagallanico.com/2026/08/24/municipio-de-natales-destina-terreno-para-el-nuevo-cesfam-y-lidera-plan-integral-de-salud-mental/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
