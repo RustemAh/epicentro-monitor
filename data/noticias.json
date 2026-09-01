@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Entregan nuevos baños y camarines en el Parque Pedro de Valdivia financiados por el Gobierno Regional",
+    "enlace": "https://www.elserenense.cl/comunales/2026/08/31/entregan-nuevos-banos-y-camarines-en-el-parque-pedro-de-valdivia-financiados-por-el-gobierno-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Encuentran varada a ballena jorobada en La Serena: Universidades e instituciones participaron en su necropsia",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/31/encuentran-varada-a-ballena-jorobada-en-la-serena-universidades-e-instituciones-participaron-en-su-necropsia/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Presidente Kast y Ministro del MOP se reúnen con alcaldes de Paihuano, La Serena y Vicuña y confirman trabajos de conectividad",
     "enlace": "https://www.elserenense.cl/comunales/2026/08/28/presidente-kast-y-ministro-del-mop-se-reunen-con-alcaldes-de-paihuano-la-serena-y-vicuna-y-confirman-trabajos-de-conectividad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "SERNAC oficia a empresas de transportes por incumplimientos tras el último temporal: Uno de ellos el reembolso",
-    "enlace": "https://www.elserenense.cl/regionales/2026/08/27/sernac-oficia-a-empresas-de-transportes-por-incumplimientos-tras-el-ultimo-temporal-uno-de-ellos-el-reembolso/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -270,6 +270,60 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "MOP habilita bypass en Puente El Arrayán y restablece conectividad en Ruta 41CH en los plazos comprometidos",
+    "enlace": "https://serenaycoquimbo.cl/mop-habilita-bypass-en-puente-el-arrayan-y-restablece-conectividad-en-ruta-41ch-en-los-plazos-comprometidos/?utm_source=rss&utm_medium=rss&utm_campaign=mop-habilita-bypass-en-puente-el-arrayan-y-restablece-conectividad-en-ruta-41ch-en-los-plazos-comprometidos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "GORE Coquimbo cumple y entrega nuevas instalaciones en el Parque Pedro de Valdivia",
+    "enlace": "https://serenaycoquimbo.cl/gore-coquimbo-cumple-y-entrega-nuevas-instalaciones-en-el-parque-pedro-de-valdivia/?utm_source=rss&utm_medium=rss&utm_campaign=gore-coquimbo-cumple-y-entrega-nuevas-instalaciones-en-el-parque-pedro-de-valdivia",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Región Coquimbo: 7 de 10 personas fallecidas por influenza no estaba vacunada",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-7-de-10-personas-fallecidas-por-influenza-no-estaba-vacunada/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-7-de-10-personas-fallecidas-por-influenza-no-estaba-vacunada",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Región Coquimbo. Esta noche. Choque de alta energía de vehículo contra poste",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-esta-noche-choque-de-alta-energia-de-vehiculo-contra-poste/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-esta-noche-choque-de-alta-energia-de-vehiculo-contra-poste",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Nacional. Esta tarde, niña de 5 años recibe disparo mientras jugaba en una cancha",
+    "enlace": "https://serenaycoquimbo.cl/nacional-esta-tarde-nina-de-5-anos-recibe-disparo-mientras-jugaba-en-una-cancha/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-tarde-nina-de-5-anos-recibe-disparo-mientras-jugaba-en-una-cancha",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Andes Iron se incorpora a WIM Chile para ampliar oportunidades para mujeres en la minería",
+    "enlace": "https://serenaycoquimbo.cl/andes-iron-se-incorpora-a-wim-chile-para-ampliar-oportunidades-para-mujeres-en-la-mineria/?utm_source=rss&utm_medium=rss&utm_campaign=andes-iron-se-incorpora-a-wim-chile-para-ampliar-oportunidades-para-mujeres-en-la-mineria",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Región Coquimbo. AHORA, llueve intensamente en varios sectores",
     "enlace": "https://serenaycoquimbo.cl/region-coquimbo-ahora-llueve-intensamente-en-varios-sectores/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-ahora-llueve-intensamente-en-varios-sectores",
     "descripcion": "",
@@ -299,60 +353,6 @@
   {
     "titulo": "Nacional. Esta noche, hombre muere tras recibir disparos en la vía pública",
     "enlace": "https://serenaycoquimbo.cl/nacional-esta-noche-hombre-muere-tras-recibir-disparos-en-la-via-publica/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-esta-noche-hombre-muere-tras-recibir-disparos-en-la-via-publica",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. Una persona fallece y una queda con quemaduras tras voraz incendio de vivienda",
-    "enlace": "https://serenaycoquimbo.cl/nacional-una-persona-fallece-y-una-queda-con-quemaduras-tras-voraz-incendio-de-vivienda/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-una-persona-fallece-y-una-queda-con-quemaduras-tras-voraz-incendio-de-vivienda",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "La Serena: Caminatas, talleres y ferias de salud marcaron el mes del corazón",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-caminatas-talleres-y-ferias-de-salud-marcaron-el-mes-del-corazon/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-caminatas-talleres-y-ferias-de-salud-marcaron-el-mes-del-corazon",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "“La federación de pescadores de La Higuera celebramos el avance de Dominga y pedimos respeto por quienes vivimos del mar”",
-    "enlace": "https://serenaycoquimbo.cl/la-federacion-de-pescadores-de-la-higuera-celebramos-el-avance-de-dominga-y-pedimos-respeto-por-quienes-vivimos-del-mar/?utm_source=rss&utm_medium=rss&utm_campaign=la-federacion-de-pescadores-de-la-higuera-celebramos-el-avance-de-dominga-y-pedimos-respeto-por-quienes-vivimos-del-mar",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Centro Tecnológico para la Innovación Alimentaria fortalece su vinculación con Corfo en la Región de Coquimbo",
-    "enlace": "https://serenaycoquimbo.cl/centro-tecnologico-para-la-innovacion-alimentaria-fortalece-su-vinculacion-con-corfo-en-la-region-de-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=centro-tecnologico-para-la-innovacion-alimentaria-fortalece-su-vinculacion-con-corfo-en-la-region-de-coquimbo",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "MOP ejecuta obras de emergencia para recuperar capacidad hidráulica del río Elqui",
-    "enlace": "https://serenaycoquimbo.cl/mop-ejecuta-obras-de-emergencia-para-recuperar-capacidad-hidraulica-del-rio-elqui/?utm_source=rss&utm_medium=rss&utm_campaign=mop-ejecuta-obras-de-emergencia-para-recuperar-capacidad-hidraulica-del-rio-elqui",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Nacional. Balacera dejó una persona fallecida y una en riesgo vital",
-    "enlace": "https://serenaycoquimbo.cl/nacional-balacera-dejo-una-persona-fallecida-y-una-en-riesgo-vital/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-balacera-dejo-una-persona-fallecida-y-una-en-riesgo-vital",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -540,6 +540,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Monte Patria da la bienvenida al Mes de la Patria con tradicional izamiento de bandera gigante al interior de un fundo",
+    "enlace": "https://www.elmontepatrino.cl/2026/08/31/monte-patria-da-la-bienvenida-al-mes-de-la-patria-con-tradicional-izamiento-de-bandera-gigante-al-interior-de-un-fundo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "SiSS fiscaliza planta de tratamiento de aguas servidas de Monte Patria y detecta deficiencias operacionales",
     "enlace": "https://www.elmontepatrino.cl/2026/08/31/siss-fiscaliza-planta-de-tratamiento-de-aguas-servidas-de-monte-patria-y-detecta-deficiencias-operacionales/",
     "descripcion": "",
@@ -614,15 +623,6 @@
   {
     "titulo": "Incendio deja daños de gran consideración en vivienda del casco histórico de Las Mollacas en Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/08/21/incendio-deja-danos-de-gran-consideracion-en-vivienda-del-casco-historico-de-las-mollacas-en-monte-patria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Estudios técnicos determinarán la mejor solución para casas con afloramiento de agua en Monte Patria",
-    "enlace": "https://www.elmontepatrino.cl/2026/08/20/estudios-tecnicos-determinaran-la-mejor-solucion-para-casas-con-afloramiento-de-agua-en-monte-patria/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Montepatrino",
@@ -1638,8 +1638,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desde Rapa Nui al Biobío: Red Cultura celebra la diversidad del folclore nacional",
-    "enlace": "https://g5noticias.cl/2026/08/31/desde-rapa-nui-al-biobio-red-cultura-celebra-la-diversidad-del-folclore-nacional/",
+    "titulo": "Desde la «República de Lemuria»: Carabineros detiene en la Ruta 5 Norte a conductor con patentes y documentos de un país ficticio",
+    "enlace": "https://g5noticias.cl/2026/09/01/desde-la-republica-de-lemuria-carabineros-detiene-en-la-ruta-5-norte-a-conductor-con-patentes-y-documentos-de-un-pais-ficticio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1647,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Shell aplica descuentos en el valor de sus diversos combustibles",
-    "enlace": "https://g5noticias.cl/2026/08/31/shell-aplica-descuentos-en-el-valor-de-sus-diversos-combustibles/",
+    "titulo": "Cambio de hora: guía para sobrevivir a dormir una hora menos",
+    "enlace": "https://g5noticias.cl/2026/08/31/cambio-de-hora-guia-para-sobrevivir-a-dormir-una-hora-menos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1656,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Seremi de Salud refuerza fiscalizaciones a carnicerías de la provincia de Marga Marga en la antesala de Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/08/31/seremi-de-salud-refuerza-fiscalizaciones-a-carnicerias-de-la-provincia-de-marga-marga-en-la-antesala-de-fiestas-patrias/",
+    "titulo": "Empresas de Los Lagos abren nuevas oportunidades comerciales en Latinoamérica tras encuentro de negocios en Bogotá",
+    "enlace": "https://g5noticias.cl/2026/08/31/empresas-de-los-lagos-abren-nuevas-oportunidades-comerciales-en-latinoamerica-tras-encuentro-de-negocios-en-bogota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1665,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Municipio de La Calera invita a los mayores a disfrutar de «malón» en el estadio municipal",
-    "enlace": "https://g5noticias.cl/2026/08/31/municipio-de-la-calera-invita-a-los-mayores-a-disfrutar-de-malon-en-el-estadio-municipal/",
+    "titulo": "FPA 2027: Organizaciones del Biobío pueden acceder a $6 millones para financiar proyectos ambientales",
+    "enlace": "https://g5noticias.cl/2026/08/31/fpa-2027-organizaciones-del-biobio-pueden-acceder-a-6-millones-para-financiar-proyectos-ambientales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1674,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Inexplorados gana festival Runkuwe y asegura su paso a Rockódromo 2026",
-    "enlace": "https://g5noticias.cl/2026/08/31/inexplorados-gana-festival-runkuwe-y-asegura-su-paso-a-rockodromo-2026/",
+    "titulo": "Refuerzan seguridad vial y normativa de tránsito con operadores de transporte rural de San Carlos",
+    "enlace": "https://g5noticias.cl/2026/08/31/refuerzan-seguridad-vial-y-normativa-de-transito-con-operadores-de-transporte-rural-de-san-carlos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1683,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bancada PDG disconforme con respuestas del Gobierno en primera sesión de Comisión Investigadora por concesiones y TAG",
-    "enlace": "https://g5noticias.cl/2026/08/31/bancada-pdg-disconforme-con-respuestas-del-gobierno-en-primera-sesion-de-comision-investigadora-por-concesiones-y-tag/",
+    "titulo": "¿Cuál es tu mejor foto de Chile?: Concurso premiará imágenes que revelen sus paisajes e historias",
+    "enlace": "https://g5noticias.cl/2026/08/31/cual-es-tu-mejor-foto-de-chile-concurso-premiara-imagenes-que-revelen-sus-paisajes-e-historias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1692,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Unión La Calera se hunde en el fondo de la tabla tras caer como local ante Deportes La Serena",
-    "enlace": "https://g5noticias.cl/2026/08/31/union-la-calera-se-hunde-en-el-fondo-de-la-tabla-tras-caer-como-local-ante-deportes-la-serena/",
+    "titulo": "Productores afectados por sistema frontal reciben apoyo para recuperar sus invernaderos en Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/08/31/productores-afectados-por-sistema-frontal-reciben-apoyo-para-recuperar-sus-invernaderos-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "IA en las universidades: 8 de cada 10 estudiantes la usa cada semana, pero menos de la mitad se siente preparado",
-    "enlace": "https://g5noticias.cl/2026/08/31/ia-en-las-universidades-8-de-cada-10-estudiantes-la-usa-cada-semana-pero-menos-de-la-mitad-se-siente-preparado/",
+    "titulo": "Andes Iron se incorpora a WIM Chile para ampliar oportunidades para mujeres en la minería",
+    "enlace": "https://g5noticias.cl/2026/08/31/andes-iron-se-incorpora-a-wim-chile-para-ampliar-oportunidades-para-mujeres-en-la-mineria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Roberto Bravo lleva la magia del cine al piano en una gira por Santiago y regiones",
-    "enlace": "https://g5noticias.cl/2026/08/31/roberto-bravo-lleva-la-magia-del-cine-al-piano-en-una-gira-por-santiago-y-regiones/",
+    "titulo": "Gracias a su 91% de asistencia: niña de Quilpué gana concurso y viajará a la NASA",
+    "enlace": "https://g5noticias.cl/2026/08/31/gracias-a-su-91-de-asistencia-nina-de-quilpue-gana-concurso-y-viajara-a-la-nasa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Quillota se corona en la 27ª versión del Campeonato Provincial de Cueca del Adulto Mayor 2026",
-    "enlace": "https://g5noticias.cl/2026/08/31/quillota-se-corona-en-la-27a-version-del-campeonato-provincial-de-cueca-del-adulto-mayor-2026/",
+    "titulo": "Hot Wheels lanza “Acepta el Reto” junto a Maluma, Robert Lewandowski y Supercar Blondie",
+    "enlace": "https://g5noticias.cl/2026/08/31/hot-wheels-lanza-acepta-el-reto-junto-a-maluma-robert-lewandowski-y-supercar-blondie/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
