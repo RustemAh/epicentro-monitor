@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "SAG traslada a los cóndores del Parque Pedro de Valdivia a centro especializado en Talagante",
+    "enlace": "https://www.elserenense.cl/comunales/2026/09/02/sag-traslada-a-los-condores-del-parque-pedro-de-valdivia-a-centro-especializado-en-talagante/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Restos de 4 víctimas de la Caravana de la Muerte serán entregados a sus familiares en el SML de La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/09/02/restos-de-4-victimas-de-la-caravana-de-la-muerte-seran-entregados-a-sus-familiares-en-el-sml-de-la-serena/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "​Tres obras inéditas de compositores chilenos disputan la final del Concurso de Composición Jorge Urrutia-Blondel",
     "enlace": "https://www.elserenense.cl/tendencias/2026/09/01/tres-obras-ineditas-de-compositores-chilenos-disputan-la-final-del-concurso-de-composicion-jorge-urrutia-blondel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Entregan nuevos baños y camarines en el Parque Pedro de Valdivia financiados por el Gobierno Regional",
-    "enlace": "https://www.elserenense.cl/comunales/2026/08/31/entregan-nuevos-banos-y-camarines-en-el-parque-pedro-de-valdivia-financiados-por-el-gobierno-regional/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -720,6 +720,24 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "ACHS reconoce a ALTO SpA por sus indicadores de seguridad en la provincia de Choapa",
+    "enlace": "https://illapelchile.cl/actualidad/achs-reconoce-a-alto-spa-por-sus-indicadores-de-seguridad-en-la-provincia-de-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "65 donaciones efectivas dejó nuevo operativo de sangre realizado en el hospital de Illapel",
+    "enlace": "https://illapelchile.cl/salud/65-donaciones-efectivas-dejo-nuevo-operativo-de-sangre-realizado-en-el-hospital-de-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Red Local de Apoyos y Cuidados atiende a 152 familias de Illapel",
     "enlace": "https://illapelchile.cl/social/red-local-de-apoyos-y-cuidados-atiende-a-152-familias-de-illapel/",
     "descripcion": "",
@@ -785,24 +803,6 @@
   {
     "titulo": "Donación de 488 juguetes beneficiará a estudiantes y párvulos afectados por el temporal en Illapel",
     "enlace": "https://illapelchile.cl/social/donacion-de-488-juguetes-beneficiara-a-estudiantes-y-parvulos-afectados-por-el-temporal-en-illapel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Diario de Illapel",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Illapel registra 46 emergencias y tres sectores aislados por nuevo sistema frontal",
-    "enlace": "https://illapelchile.cl/actualidad/illapel-registra-46-emergencias-y-tres-sectores-aislados-por-nuevo-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Diario de Illapel",
-    "zona": "Illapel",
-    "cobertura_radio": "Illapel 101.1 FM"
-  },
-  {
-    "titulo": "Desborde del río Illapel obliga a evacuar familias en La Puntilla: Municipio reitera llamado a acatar las alertas de emergencia",
-    "enlace": "https://illapelchile.cl/actualidad/desborde-del-rio-illapel-obliga-a-evacuar-familias-en-la-puntilla-municipio-reitera-llamado-a-acatar-las-alertas-de-emergencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Diario de Illapel",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "¿El relave de la planta El Arenal contaminó las aguas del Estero Auco?: SERNAGEOMIN informa que debería estar paralizado desde 2023",
-    "enlace": "https://veetv.cl/relave-el-arenal-contamino-estero-auco/",
+    "titulo": "Canela gana uno de los tres cupos de la Feria Antártica Escolar y viajará al continente blanco",
+    "enlace": "https://veetv.cl/canela-gana-cupo-feria-antartica-escolar/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Muerte de Jaime Cortinez enluta a Los Vilos y al Choapa",
-    "enlace": "https://veetv.cl/muerte-jaime-cortinez-los-vilos-choapa/",
+    "titulo": "¿El relave de la planta El Arenal contaminó las aguas del Estero Auco?: SERNAGEOMIN informa que debería estar paralizado desde 2023",
+    "enlace": "https://veetv.cl/relave-el-arenal-contamino-estero-auco/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1638,89 +1638,89 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Corte Suprema inicia revisión de cuadernos de remoción contra miembros del Poder Judicial que viajaron con licencia médica",
+    "enlace": "https://g5noticias.cl/2026/09/02/corte-suprema-inicia-revision-de-cuadernos-de-remocion-contra-miembros-del-poder-judicial-que-viajaron-con-licencia-medica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Bancada PDG impulsa solución para facilitar acceso a salud de policías y Fuerzas Armadas en retiro",
+    "enlace": "https://g5noticias.cl/2026/09/02/bancada-pdg-impulsa-solucion-para-facilitar-acceso-a-salud-de-policias-y-fuerzas-armadas-en-retiro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Bienes Nacionales avanza en la recuperación de inmueble fiscal en Quillota para ponerlo a disposición de la comunidad",
+    "enlace": "https://g5noticias.cl/2026/09/02/bienes-nacionales-avanza-en-la-recuperacion-de-inmueble-fiscal-en-quillota-para-ponerlo-a-disposicion-de-la-comunidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Diputados Sofía González y Javier Olivares presentan bancada transversal de cuidados",
+    "enlace": "https://g5noticias.cl/2026/09/02/diputados-sofia-gonzalez-y-javier-olivares-presentan-bancada-transversal-de-cuidados/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hospital Claudio Vicuña realizó primera nefrectomía total laparoscópica",
+    "enlace": "https://g5noticias.cl/2026/09/02/hospital-claudio-vicuna-realizo-primera-nefrectomia-total-laparoscopica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Hermann von Mühlenbrock dejará la gerencia general de AZA y será sucedido por Juan Greibe",
+    "enlace": "https://g5noticias.cl/2026/09/02/hermann-von-muhlenbrock-dejara-la-gerencia-general-de-aza-y-sera-sucedido-por-juan-greibe/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Valpo en Vitrina nace para conectar comercio, patrimonio y desarrollo: una plata forma que busca volver a poner a Valparaíso en movimiento",
+    "enlace": "https://g5noticias.cl/2026/09/02/valpo-en-vitrina-nace-para-conectar-comercio-patrimonio-y-desarrollo-una-plata-forma-que-busca-volver-a-poner-a-valparaiso-en-movimiento/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Alto Hospicio: PDI detiene a sujeto acusado de violación y de provocar aborto a su hijastra",
+    "enlace": "https://g5noticias.cl/2026/09/02/alto-hospicio-pdi-detiene-a-sujeto-acusado-de-violacion-y-de-provocar-aborto-a-su-hijastra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Aduanas: Contraloría constata debilidades en controles y ordena medidas correctivas",
+    "enlace": "https://g5noticias.cl/2026/09/02/aduanas-contraloria-constata-debilidades-en-controles-y-ordena-medidas-correctivas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Carabineros desarticula asociación criminal extranjera y supera las 36 toneladas de drogas incautadas en la Región de Antofagasta",
     "enlace": "https://g5noticias.cl/2026/09/02/carabineros-desarticula-asociacion-criminal-extranjera-y-supera-las-36-toneladas-de-drogas-incautadas-en-la-region-de-antofagasta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Atención Nocturna suma entrega de certificados de residencia para facilitar trámites a vecinos de Villa Alemana",
-    "enlace": "https://g5noticias.cl/2026/09/02/atencion-nocturna-suma-entrega-de-certificados-de-residencia-para-facilitar-tramites-a-vecinos-de-villa-alemana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado Beltrán (RN) destaca aprobación unánime de proyecto que agiliza regularización de propiedades tras catástrofes: “Una familia damnificada no puede esperar 18 meses por un papel”",
-    "enlace": "https://g5noticias.cl/2026/09/02/diputado-beltran-rn-destaca-aprobacion-unanime-de-proyecto-que-agiliza-regularizacion-de-propiedades-tras-catastrofes-una-familia-damnificada-no-puede-esperar-18-meses-por-un-papel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Comisión de Seguridad del Senado sesionará extraordinariamente en la municipalidad de San Bernardo tras conocerse plan que buscaba atentar contra alcalde White",
-    "enlace": "https://g5noticias.cl/2026/09/02/comision-de-seguridad-del-senado-sesionara-extraordinariamente-en-la-municipalidad-de-san-bernardo-tras-conocerse-plan-que-buscaba-atentar-contra-alcalde-white/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Carabineros detienen a motociclista con marihuana y cocaína en Temuco",
-    "enlace": "https://g5noticias.cl/2026/09/02/carabineros-detienen-a-motociclista-con-marihuana-y-cocaina-en-temuco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Patrtidos de oposición se manifestaron contra el Foro de Madrid",
-    "enlace": "https://g5noticias.cl/2026/09/02/patrtidos-de-oposicion-se-manifestaron-contra-el-foro-de-madrid/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Minvu y Gore Magallanes anuncian nuevo convenio que compromete 7.500 soluciones habitacionales y prioriza a sectores medios de la región",
-    "enlace": "https://g5noticias.cl/2026/09/02/minvu-y-gore-magallanes-anuncian-nuevo-convenio-que-compromete-7-500-soluciones-habitacionales-y-prioriza-a-sectores-medios-de-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputado Gustavo Gatica valora aprobación de bono de $30 mil: “Lo aprobamos en Comisión y en Sala, pero no puede ser la única ayuda”",
-    "enlace": "https://g5noticias.cl/2026/09/02/diputado-gustavo-gatica-valora-aprobacion-de-bono-de-30-mil-lo-aprobamos-en-comision-y-en-sala-pero-no-puede-ser-la-unica-ayuda/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputada Macarena Santelices apoya el Bono Niñez de $30 mil y hace llamado a fiscalizar recursos destinados a la infancia tras fraude en Junaeb",
-    "enlace": "https://g5noticias.cl/2026/09/02/diputada-macarena-santelices-apoya-el-bono-ninez-de-30-mil-y-hace-llamado-a-fiscalizar-recursos-destinados-a-la-infancia-tras-fraude-en-junaeb/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Diputadas de la Comisión de Desarrollo Social piden acciones por niño de 5 años intoxicado con cocaína y exigen revisar sistema de protección",
-    "enlace": "https://g5noticias.cl/2026/09/02/diputadas-de-la-comision-de-desarrollo-social-piden-acciones-por-nino-de-5-anos-intoxicado-con-cocaina-y-exigen-revisar-sistema-de-proteccion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
