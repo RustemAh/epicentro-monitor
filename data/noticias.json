@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Intervienen puntos críticos de Avenida del Mar tras daños del temporal: Municipio dispuso de maquinarias",
+    "enlace": "https://www.elserenense.cl/comunales/2026/09/02/intervienen-puntos-criticos-de-avenida-del-mar-tras-danos-del-temporal-municipio-dispuso-de-maquinarias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Adolescente de 14 años con ocho causas y tres medidas cautelares es detenido por robo de vehículo en La Serena",
     "enlace": "https://www.elserenense.cl/comunales/2026/09/02/adolescente-de-14-anos-con-ocho-causas-y-tres-medidas-cautelares-es-detenido-por-robo-de-vehiculo-en-la-serena/",
     "descripcion": "",
@@ -171,11 +180,38 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "7 de 10 personas fallecidas por influenza en la región no estaba vacunada",
-    "enlace": "https://www.elserenense.cl/regionales/2026/08/31/7-de-10-personas-fallecidas-por-influenza-en-la-region-no-estaba-vacunada/",
+    "titulo": "Cena para personas en situación de calle en La Serena conmemora el cierre del Mes de la Solidaridad",
+    "enlace": "https://laserenaonline.cl/2026/09/02/cena-para-personas-en-situacion-de-calle-en-la-serena-conmemora-el-cierre-del-mes-de-la-solidaridad/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "¡Fiestas patrias se vive en Los Vilos! Conoce la variada programación de actividades para septiembre",
+    "enlace": "https://laserenaonline.cl/2026/09/02/fiestas-patrias-se-vive-en-los-vilos-conoce-la-variada-programacion-de-actividades-para-septiembre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Gobierno y Municipio de Coquimbo coordinan preparación de La Pampilla para recibir a cerca de 200 mil personas",
+    "enlace": "https://laserenaonline.cl/2026/09/02/gobierno-y-municipio-de-coquimbo-coordinan-preparacion-de-la-pampilla-para-recibir-a-cerca-de-200-mil-personas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "La Serena se prepara para su primer maratón con un recorrido entre Casco Histórico y Zona Costera",
+    "enlace": "https://laserenaonline.cl/2026/09/02/la-serena-se-prepara-para-su-primer-maraton-con-un-recorrido-entre-casco-historico-y-zona-costera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -227,42 +263,6 @@
   {
     "titulo": "Secuestro en Islón: Acusado deberá cumplir pena efectiva de 5 años un día",
     "enlace": "https://laserenaonline.cl/2026/09/02/secuestro-en-islon-acusado-debera-cumplir-pena-efectiva-de-5-anos-un-dia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 2 de septiembre para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/09/02/el-tiempo-hoy-2-de-septiembre-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Déficit de oncólogos en Chile: más del 75% trabaja en la Región Metropolitana",
-    "enlace": "https://laserenaonline.cl/2026/09/01/deficit-de-oncologos-en-chile-mas-del-75-trabaja-en-la-region-metropolitana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Izamiento de la bandera comunal marcó el cierre del aniversario 482 de La Serena",
-    "enlace": "https://laserenaonline.cl/2026/09/01/izamiento-de-la-bandera-comunal-marco-el-cierre-del-aniversario-482-de-la-serena/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Presidente Kast y ministra Wulf lanzan “Plan Chile Cuida a los Niños”, hoja de ruta 2026-2030 para proteger la infancia",
-    "enlace": "https://laserenaonline.cl/2026/09/01/presidente-kast-y-ministra-wulf-lanzan-plan-chile-cuida-a-los-ninos-hoja-de-ruta-2026-2030-para-proteger-la-infancia/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Cae peligroso sujeto en Ovalle: tenía en su poder 2,5 kilos de ketamina, televisores y un dron de última generación",
+    "enlace": "https://ovallehoy.cl/cae-peligroso-sujeto-en-ovalle-tenia-en-su-poder-25-kilos-de-ketamina-televisores-y-un-dron-de-ultima-generacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Monte Patria se alista para Fiestas Patria con tradicional izamiento de bandera en fundo agrícola",
     "enlace": "https://ovallehoy.cl/monte-patria-se-alista-para-fiestas-patria-con-tradicional-izamiento-de-bandera-en-fundo-agricola/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Fundación Gota de Leche de Ovalle realizará su colecta anual este miércoles para sostener su comedor escolar",
     "enlace": "https://ovallehoy.cl/fundacion-gota-de-leche-de-ovalle-realizara-su-colecta-anual-este-miercoles-para-sostener-su-comedor-escolar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del martes 01 de septiembre",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-martes-01-de-septiembre/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Hombre muere tras recibir múltiples impactos balísticos en población Colonias Extranjeras de Copiapó",
+    "enlace": "https://www.maray.cl/atacama/02/09/2026/hombre-muere-tras-recibir-multiples-impactos-balisticos-en-poblacion-colonias-extranjeras-de-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Delegada Sofía Cid aborda fallecimiento de una persona en sector Colonias Extranjeras de Copiapó",
+    "enlace": "https://www.maray.cl/atacama/02/09/2026/delegada-sofia-cid-aborda-fallecimiento-de-una-persona-en-sector-colonias-extranjeras-de-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Carabineros detuvo a dos hombres por receptación de vehículo robado en la Ruta 5 Norte",
     "enlace": "https://www.maray.cl/atacama/02/09/2026/carabineros-detuvo-a-dos-hombres-por-receptacion-de-vehiculo-robado-en-la-ruta-5-norte/",
     "descripcion": "",
@@ -1438,114 +1456,6 @@
     "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Chile se prepara para el cambio de hora: este sábado comienza el horario de verano",
-    "enlace": "https://www.maray.cl/pais/01/09/2026/chile-se-prepara-para-el-cambio-de-hora-este-sabado-comienza-el-horario-de-verano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "La fecha 22 de la Liga de Primera ya tiene programación",
-    "enlace": "https://www.maray.cl/deportes/01/09/2026/la-fecha-22-de-la-liga-de-primera-ya-tiene-programacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Tecnología municipal permitió detectar dos vehículos robados y apoyar operativo de búsqueda en Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/09/01/tecnologia-municipal-permitio-detectar-dos-vehiculos-robados-y-apoyar-operativo-de-busqueda-en-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "“Gracias al programa Impulsa Agua de Sopraval logramos enfrentar el temporal y evitar una emergencia sanitaria”",
-    "enlace": "https://laliguanoticias.cl/2026/09/01/gracias-al-programa-impulsa-agua-de-sopraval-logramos-enfrentar-el-temporal-y-evitar-una-emergencia-sanitaria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "La democracia se defiende con memoria",
-    "enlace": "https://laliguanoticias.cl/2026/08/30/la-democracia-se-defiende-con-memoria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Manifiestan preocupación por proyectos de baterías de litio emplazados cerca del radio urbano de La Ligua",
-    "enlace": "https://laliguanoticias.cl/2026/08/28/manifiestan-preocupacion-por-proyectos-de-baterias-de-litio-emplazados-cerca-del-radio-urbano-de-la-ligua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Fondo Vecino Sopraval favorecerá la ejecución de proyectos de sustentabilidad y seguridad de entornos educativos",
-    "enlace": "https://laliguanoticias.cl/2026/08/28/fondo-vecino-sopraval-favorecera-la-ejecucion-de-proyectos-de-sustentabilidad-y-seguridad-de-entornos-educativos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Casi 4.800 sacos de alfalfa en cubos fueron entregados a pequeños crianceros de la Provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/08/27/casi-4-800-sacos-de-alfalfa-en-cubos-fueron-entregados-a-pequenos-crianceros-de-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputado Mella lidera defensa de los Dulceros de La Ligua: “Son Patrimonio Inmaterial de Chile y no permitiremos que los saquen del Peaje Las Vegas”",
-    "enlace": "https://laliguanoticias.cl/2026/08/26/diputado-mella-lidera-defensa-de-los-dulceros-de-la-ligua-son-patrimonio-inmaterial-de-chile-y-no-permitiremos-que-los-saquen-del-peaje-las-vegas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Municipio de Zapallar suspende Fiesta Costumbrista de Catapilco: fue reprogramada para el verano de 2027",
-    "enlace": "https://laliguanoticias.cl/2026/08/25/municipio-de-zapallar-suspende-fiesta-costumbrista-de-catapilco-fue-reprogramada-para-el-verano-de-2027/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Denuncian robos durante las últimas noches en Minimarket Arancibia 1 de Cabildo",
-    "enlace": "https://laliguanoticias.cl/2026/08/25/denuncian-robos-durante-las-ultimas-noches-en-minimarket-arancibia-1-de-cabildo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Entregan 3.000 fardos de pasto a crianceros de la Comuna de La Ligua afectados por los temporales",
-    "enlace": "https://laliguanoticias.cl/2026/08/24/entregan-3-000-fardos-de-pasto-a-crianceros-de-la-comuna-de-la-ligua-afectados-por-los-temporales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "[REMATE] Cartagena: Casa y sitio – 22/SEP/2026",
@@ -1638,8 +1548,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«Unidos defendemos la educación»: gremios, asociaciones, federaciones y sindicatos marcharán tres dias hacia Valparaíso en defensa del presupuesto del sector",
-    "enlace": "https://g5noticias.cl/2026/09/02/unidos-defendemos-la-educacion-gremios-asociaciones-federaciones-y-sindicatos-marcharan-tres-dias-hacia-valparaiso-en-defensa-del-presupuesto-del-sector/",
+    "titulo": "La fase regular de la Liga Femenina llega a su cierre por Mega",
+    "enlace": "https://g5noticias.cl/2026/09/02/la-fase-regular-de-la-liga-femenina-llega-a-su-cierre-por-mega/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1557,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Jefa de Comité Unido, Yasna Provoste, por proyecto de sala cuna o guarderías privadas: En medio de la crisis de desempleo más grande que ha vivido el país en 5 años, el proyecto del presidente Kast está debilitando el Seguro de Cesantía",
-    "enlace": "https://g5noticias.cl/2026/09/02/jefa-de-comite-unido-yasna-provoste-por-proyecto-de-sala-cuna-o-guarderias-privadas-en-medio-de-la-crisis-de-desempleo-mas-grande-que-ha-vivido-el-pais-en-5-anos-el-proyecto-del-presidente-kast-es/",
+    "titulo": "Semillero 3IE-USM define los 20 proyectos que participarán en su gran Torneo de Pitch",
+    "enlace": "https://g5noticias.cl/2026/09/02/semillero-3ie-usm-define-los-20-proyectos-que-participaran-en-su-gran-torneo-de-pitch/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1566,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Macha y el Bloque Depresivo regresan al Estadio Nacional para un gran concierto en diciembre: Un viaje emocional por el cancionero popular",
-    "enlace": "https://g5noticias.cl/2026/09/02/macha-y-el-bloque-depresivo-regresan-al-estadio-nacional-para-un-gran-concierto-en-diciembre-un-viaje-emocional-por-el-cancionero-popular/",
+    "titulo": "Lecturas itinerantes: Biblioteca Regional Gabriela Mistral finaliza con éxito ciclo Biblioteca en Movimiento",
+    "enlace": "https://g5noticias.cl/2026/09/02/lecturas-itinerantes-biblioteca-regional-gabriela-mistral-finaliza-con-exito-ciclo-biblioteca-en-movimiento/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1575,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Las ventas online del retail durante el segundo trimestre 2026 evidenciaron un alza de 3,8%, alcanzando una participación de 24,4%",
-    "enlace": "https://g5noticias.cl/2026/09/02/las-ventas-online-del-retail-durante-el-segundo-trimestre-2026-evidenciaron-un-alza-de-38-alcanzando-una-participacion-de-244/",
+    "titulo": "Seremi de la Mujer de Coquimbo destaca proyecto de Cautelares Reforzadas que busca fortalecer la protección efectiva de mujeres víctimas de violencia",
+    "enlace": "https://g5noticias.cl/2026/09/02/seremi-de-la-mujer-de-coquimbo-destaca-proyecto-de-cautelares-reforzadas-que-busca-fortalecer-la-proteccion-efectiva-de-mujeres-victimas-de-violencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1584,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Joanna Pérez pide investigar denuncia de excónsul en Haití que alertó a Cancillería sobre tráfico de migrantes y falsificación de su firma durante el gobierno anterior",
-    "enlace": "https://g5noticias.cl/2026/09/02/joanna-perez-pide-investigar-denuncia-de-exconsul-en-haiti-que-alerto-a-cancilleria-sobre-trafico-de-migrantes-y-falsificacion-de-su-firma-durante-el-gobierno-anterior/",
+    "titulo": "Asistencia récord y grandes anuncios marcaron la edición 2026 de Mercado Libre Experience",
+    "enlace": "https://g5noticias.cl/2026/09/02/asistencia-record-y-grandes-anuncios-marcaron-la-edicion-2026-de-mercado-libre-experience/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1593,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Punta Arenas: Presidente Kast presenta programa para mejoramiento de viviendas y barrios",
-    "enlace": "https://g5noticias.cl/2026/09/02/punta-arenas-presidente-kast-presenta-programa-para-mejoramiento-de-viviendas-y-barrios/",
+    "titulo": "Avanza discusión de “Ley Alberto” en Comisión de Transportes del Senado",
+    "enlace": "https://g5noticias.cl/2026/09/02/avanza-discusion-de-ley-alberto-en-comision-de-transportes-del-senado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1602,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cuarto TOP de Santiago condena a presidio perpetuo a autor de secuestro con homicidio",
-    "enlace": "https://g5noticias.cl/2026/09/02/cuarto-top-de-santiago-condena-a-presidio-perpetuo-a-autor-de-secuestro-con-homicidio/",
+    "titulo": "BAIC lleva su propuesta SUV y todoterreno a la tercera versión de la Expo Auto Chile 2026",
+    "enlace": "https://g5noticias.cl/2026/09/02/baic-lleva-su-propuesta-suv-y-todoterreno-a-la-tercera-version-de-la-expo-auto-chile-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1611,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Barrio Meiggs suma cuarto operativo y nuevos portones contra el comercio ilegal",
-    "enlace": "https://g5noticias.cl/2026/09/02/barrio-meiggs-suma-cuarto-operativo-y-nuevos-portones-contra-el-comercio-ilegal/",
+    "titulo": "Informático del Banco Itaú entre los 9 detenidos por robo de más de seis mil millones desde sucursal en Valparaíso: incautan vehículos, camión tolva, armas de fuego, teléfonos celulares, drogas, inmuebles y equipos DVR",
+    "enlace": "https://g5noticias.cl/2026/09/02/informatico-del-banco-itau-entre-los-9-detenidos-por-robo-de-mas-de-seis-mil-millones-desde-sucursal-en-valparaiso-incautan-vehiculos-camion-tolva-armas-de-fuego-telefonos-celulares-drogas-inmue/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1620,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fondos A y B lideran el repunte de agosto. Fondo E acumula su segundo peor enero-agosto",
-    "enlace": "https://g5noticias.cl/2026/09/02/fondos-a-y-b-lideran-el-repunte-de-agosto-fondo-e-acumula-su-segundo-peor-enero-agosto/",
+    "titulo": "Diputado Jaime Araya tras aprobación de Comisión Investigadora por caso Cerimedo: “Se acabó el blindaje y ahora tendrán que responder”",
+    "enlace": "https://g5noticias.cl/2026/09/02/diputado-jaime-araya-tras-aprobacion-de-comision-investigadora-por-caso-cerimedo-se-acabo-el-blindaje-y-ahora-tendran-que-responder/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1629,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "218 detenidos y más de 11 mil controles dejó masivo despliegue de seguridad en el Maule",
-    "enlace": "https://g5noticias.cl/2026/09/02/218-detenidos-y-mas-de-11-mil-controles-dejo-masivo-despliegue-de-seguridad-en-el-maule/",
+    "titulo": "Carabineros del OS-9 detiene a violenta banda de asaltantes en Temuco",
+    "enlace": "https://g5noticias.cl/2026/09/02/carabineros-del-os-9-detiene-a-violenta-banda-de-asaltantes-en-temuco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,6 +1728,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Presidente Kast desde Magallanes reafirma soberanía chilena sobre el Estrecho",
+    "enlace": "https://laprensaaustral.cl/2026/09/02/presidente-kast-desde-magallanes-reafirma-soberania-sobre-el-estrecho/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Con exitosa velada volvió  festival de boxeo a la  comuna Torres del Paine",
     "enlace": "https://laprensaaustral.cl/2026/09/02/con-exitosa-velada-volvio-festival-de-boxeo-a-la-comuna-torres-del-paine/",
     "descripcion": "",
@@ -1899,13 +1818,13 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
-    "titulo": "Iniciarán primer estudio de factibilidad de  un túnel bajo el estrecho de Magallanes",
-    "enlace": "https://laprensaaustral.cl/2026/09/02/iniciaran-primer-estudio-de-factibilidad-de-un-tunel-bajo-el-estrecho-de-magallanes/",
+    "titulo": "Sociedad Austral de Debate concluye Liga de Invierno  en Colegio Pierre Faure",
+    "enlace": "https://elmagallanico.com/2026/09/02/sociedad-austral-de-debate-concluye-liga-de-invierno-en-colegio-pierre-faure/",
     "descripcion": "",
     "publicado": "",
-    "medio": "La Prensa Austral",
+    "medio": "El Magallánico",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
     "titulo": "Zonaustral inicia septiembre con gran sorteo, actividades de Fiestas Patrias y espacios para el emprendimiento regional",
@@ -1982,15 +1901,6 @@
   {
     "titulo": "Seminario reunió al sector turístico para abordar seguridad y prevención",
     "enlace": "https://elmagallanico.com/2026/08/30/seminario-reunio-al-sector-turistico-para-abordar-seguridad-y-prevencion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Abecedario bilingüe permitirá conocer biodiversidad fueguina y lengua Selk’nam",
-    "enlace": "https://elmagallanico.com/2026/08/28/abecedario-bilingue-permitira-conocer-biodiversidad-fueguina-y-lengua-selknam/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
