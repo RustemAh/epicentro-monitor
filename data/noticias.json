@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Gobierno lleva diálogos en materia de seguridad a Ovalle y Paihuano",
+    "enlace": "https://laserenaonline.cl/2026/09/05/gobierno-lleva-dialogos-en-materia-de-seguridad-a-ovalle-y-paihuano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Corte de La Serena entrega agua envasada a familias del sector rural por emergéncia climática",
     "enlace": "https://laserenaonline.cl/2026/09/05/corte-de-la-serena-entrega-agua-envasada-a-familias-del-sector-rural-por-emergencia-climatica/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "OS7 evita comercialización de más de $2.200 millones en droga en Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/09/05/os7-evita-comercializacion-de-mas-de-2-200-millones-en-droga-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "PDI recupera más de $7 millones en especies robadas y detiene a imputado por receptación en La Serena",
-    "enlace": "https://laserenaonline.cl/2026/09/05/pdi-recupera-mas-de-7-millones-en-especies-robadas-y-detiene-a-imputado-por-receptacion-en-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Murciélago en Illapel: especialista explica por qué fue inusual encontrarlo expuesto de día",
-    "enlace": "https://veetv.cl/murcielago-illapel-inusual-expuesto-dia/",
+    "titulo": "Anuncian nuevo SAPU en Illapel sin fecha definida para ampliar la atención de urgencia",
+    "enlace": "https://veetv.cl/anuncian-nuevo-sapu-en-illapel-para-ampliar-atencion-de-urgencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Canela gana uno de los tres cupos de la Feria Antártica Escolar y viajará al continente blanco",
-    "enlace": "https://veetv.cl/canela-gana-cupo-feria-antartica-escolar/",
+    "titulo": "Murciélago en Illapel: especialista explica por qué fue inusual encontrarlo expuesto de día",
+    "enlace": "https://veetv.cl/murcielago-illapel-inusual-expuesto-dia/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El mercado laboral que estamos midiendo ya no es el mismo. Por Rosario Ganderats, socia de InterimToGo",
-    "enlace": "https://g5noticias.cl/2026/09/05/el-mercado-laboral-que-estamos-midiendo-ya-no-es-el-mismo-por-rosario-ganderats-socia-de-interimtogo/",
+    "titulo": "Bancos digitales y billeteras redefinen competencia financiera en Chile: Stefanini alerta sobre cautela en apertura de cuentas",
+    "enlace": "https://g5noticias.cl/2026/09/05/bancos-digitales-y-billeteras-redefinen-competencia-financiera-en-chile-stefanini-alerta-sobre-cautela-en-apertura-de-cuentas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Académico USM utiliza inteligencia artificial para mejorar la resolución de problemas complejos de optimización",
-    "enlace": "https://g5noticias.cl/2026/09/05/academico-usm-utiliza-inteligencia-artificial-para-mejorar-la-resolucion-de-problemas-complejos-de-optimizacion/",
+    "titulo": "Ford Racing completa el primer test de pista del Hypercar en Paul Ricard",
+    "enlace": "https://g5noticias.cl/2026/09/05/ford-racing-completa-el-primer-test-de-pista-del-hypercar-en-paul-ricard/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiestas Patrias e inclusión: claves para que niños neurodivergentes disfruten las celebraciones sin estrés",
-    "enlace": "https://g5noticias.cl/2026/09/05/fiestas-patrias-e-inclusion-claves-para-que-ninos-neurodivergentes-disfruten-las-celebraciones-sin-estres/",
+    "titulo": "Esval extiende hasta el 4 de octubre las postulaciones a su Fondo Concursable “Contigo en Cada Gota”",
+    "enlace": "https://g5noticias.cl/2026/09/05/esval-extiende-hasta-el-4-de-octubre-las-postulaciones-a-su-fondo-concursable-contigo-en-cada-gota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ley Karin, dos años después: del cumplimiento normativo a la transformación cultural. Por Bárbara Cisterna, Directora de Grandes Cuentas de Randstad Chile",
-    "enlace": "https://g5noticias.cl/2026/09/05/ley-karin-dos-anos-despues-del-cumplimiento-normativo-a-la-transformacion-cultural-por-barbara-cisterna-directora-de-grandes-cuentas-de-randstad-chile-2/",
+    "titulo": "Serie “China+”: Instituto Confucio ST realizará Webinar sobre la influencia de la música en la cultura china",
+    "enlace": "https://g5noticias.cl/2026/09/05/serie-china-instituto-confucio-st-realizara-webinar-sobre-la-influencia-de-la-musica-en-la-cultura-china/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 3.700 muertes al año en el país: Cáncer colorrectal al alza en Chile, el test FIT ayuda a detectarlo a tiempo y los estudios genéticos a tratarlo mejor",
-    "enlace": "https://g5noticias.cl/2026/09/05/mas-de-3-700-muertes-al-ano-en-el-pais-cancer-colorrectal-al-alza-en-chile-el-test-fit-ayuda-a-detectarlo-a-tiempo-y-los-estudios-geneticos-a-tratarlo-mejor/",
+    "titulo": "¿Qué es la sífilis?: Preocupa el aumento en tasa de contagio en personas mayores",
+    "enlace": "https://g5noticias.cl/2026/09/05/que-es-la-sifilis-preocupa-el-aumento-en-tasa-de-contagio-en-personas-mayores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Se vienen las “Juntas Secretas”: el nuevo encuentro entre solteros y solteras que combina vino y turismo en Colchagua",
-    "enlace": "https://g5noticias.cl/2026/09/05/se-vienen-las-juntas-secretas-el-nuevo-encuentro-entre-solteros-y-solteras-que-combina-vino-y-turismo-en-colchagua/",
+    "titulo": "Concierto de camerata infanto – juvenil de Villa Alemana abrió las actividades de celebración de los 100 años del Teatro Municipal Pompeya",
+    "enlace": "https://g5noticias.cl/2026/09/05/concierto-de-camerata-infanto-juvenil-de-villa-alemana-abrio-las-actividades-de-celebracion-de-los-100-anos-del-teatro-municipal-pompeya/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Por qué algunos productos están cerca de las cajas? La función detrás de esas compras de último minuto",
-    "enlace": "https://g5noticias.cl/2026/09/05/por-que-algunos-productos-estan-cerca-de-las-cajas-la-funcion-detras-de-esas-compras-de-ultimo-minuto/",
+    "titulo": "Parque Arauco abre nueva convocatoria para apoyar el crecimiento de emprendedores en retail",
+    "enlace": "https://g5noticias.cl/2026/09/05/parque-arauco-abre-nueva-convocatoria-para-apoyar-el-crecimiento-de-emprendedores-en-retail/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiestas Patrias en empresas: oportunidad para conectar a los equipos. Por Carlos Baeza, CEO de Easyjobs – www.easyjobs.cl",
-    "enlace": "https://g5noticias.cl/2026/09/05/fiestas-patrias-en-empresas-oportunidad-para-conectar-a-los-equipos-por-carlos-baeza-ceo-de-easyjobs-www-easyjobs-cl-2/",
+    "titulo": "Concejo Municipal de Quintero rinde homenaje a Jorge Cantwell Araya y aprueba importantes iniciativas para la comuna",
+    "enlace": "https://g5noticias.cl/2026/09/05/concejo-municipal-de-quintero-rinde-homenaje-a-jorge-cantwell-araya-y-aprueba-importantes-iniciativas-para-la-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Proteger desde el inicio: la importancia de apoyar a quienes cuidan a la primera infancia",
-    "enlace": "https://g5noticias.cl/2026/09/05/proteger-desde-el-inicio-la-importancia-de-apoyar-a-quienes-cuidan-a-la-primera-infancia/",
+    "titulo": "¿Eres fanático del ciclismo al aire libre? la serie HUAWEI WATCH FIT 5 presenta un nuevo potenciómetro virtual",
+    "enlace": "https://g5noticias.cl/2026/09/05/eres-fanatico-del-ciclismo-al-aire-libre-la-serie-huawei-watch-fit-5-presenta-un-nuevo-potenciometro-virtual/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La nueva era de los beneficios laborales: tecnología simplifica su gestión en las empresas",
-    "enlace": "https://g5noticias.cl/2026/09/05/la-nueva-era-de-los-beneficios-laborales-tecnologia-simplifica-su-gestion-en-las-empresas/",
+    "titulo": "PPD realiza guardia de honor en velorio de Camilo Escalona y destaca su legado para la política nacional",
+    "enlace": "https://g5noticias.cl/2026/09/05/ppd-realiza-guardia-de-honor-en-velorio-de-camilo-escalona-y-destaca-su-legado-para-la-politica-nacional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1998,6 +1998,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Café inclusivo Aguas Magallanes Edudown fue inaugurado en la biblioteca municipal n°114",
+    "enlace": "https://elmagallanico.com/2026/09/05/cafe-inclusivo-aguas-magallanes-edudown-fue-inaugurado-en-la-biblioteca-municipal-n114/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Aguas Magallanes celebra 15 años de su fondo concursable y premia a 104 organizaciones en Punta Arenas",
     "enlace": "https://elmagallanico.com/2026/09/05/aguas-magallanes-celebra-15-anos-de-su-fondo-concursable-y-premia-a-104-organizaciones-en-punta-arenas/",
     "descripcion": "",
@@ -2072,15 +2081,6 @@
   {
     "titulo": "Nueva infraestructura municipal se pone al servicio de la comunidad de Cabo de Hornos",
     "enlace": "https://elmagallanico.com/2026/08/31/nueva-infraestructura-municipal-se-pone-al-servicio-de-la-comunidad-de-cabo-de-hornos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Masiva concurrencia marcó la Fiesta del Día del Niño en el Gimnasio Fiscal",
-    "enlace": "https://elmagallanico.com/2026/08/30/masiva-concurrencia-marco-la-fiesta-del-dia-del-nino-en-el-gimnasio-fiscal/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Magallánico",
