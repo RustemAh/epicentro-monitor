@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Investigan muerte de tripulante hallado al interior de una embarcación en Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/09/06/investigan-muerte-de-tripulante-hallado-al-interior-de-una-embarcacion-en-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Universidad de Chile remonta ante Coquimbo Unido y vuelve a meterse en la pelea por el segundo lugar",
+    "enlace": "https://www.elcoquimbano.cl/2026/09/05/universidad-de-chile-remonta-ante-coquimbo-unido-y-vuelve-a-meterse-en-la-pelea-por-el-segundo-lugar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Pesistas de Coquimbo brillan en el Sudamericano y Panamericano",
     "enlace": "https://www.elcoquimbano.cl/2026/09/05/pesistas-de-coquimbo-brillan-en-el-sudamericano-y-panamericano/",
     "descripcion": "",
@@ -65,24 +83,6 @@
   {
     "titulo": "Red Asistencial Pública conmemora 47 años al servicio de la comunidad",
     "enlace": "https://www.elcoquimbano.cl/2026/09/02/red-asistencial-publica-conmemora-47-anos-al-servicio-de-la-comunidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "“Súmate a lo que nos une”: Teletón Coquimbo busca voluntarios y voluntarias para su campaña solidaria 2026",
-    "enlace": "https://www.elcoquimbano.cl/2026/09/01/sumate-a-lo-que-nos-une-teleton-coquimbo-busca-voluntarios-y-voluntarias-para-su-campana-solidaria-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Tierras Blancas cierra el Mes del Corazón promoviendo la actividad física y los hábitos saludables",
-    "enlace": "https://www.elcoquimbano.cl/2026/09/01/tierras-blancas-cierra-el-mes-del-corazon-promoviendo-la-actividad-fisica-y-los-habitos-saludables/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -1008,6 +1008,96 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Los Vilos culmina limpieza y recuperación del borde costero de Pichidangui tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-culmina-limpieza-y-recuperacion-del-borde-costero-de-pichidangui-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos presenta programación de Fiestas Patrias con actividades en sectores urbanos y rurales",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-presenta-programacion-de-fiestas-patrias-con-actividades-en-sectores-urbanos-y-rurales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos invierte $5,5 millones en cuatro generadores para establecimientos de salud",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-invierte-55-millones-en-cuatro-generadores-para-establecimientos-de-salud/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vialidad proyecta nuevo puente en Tilama y evalúa reparar actual estructura tras daños por lluvias",
+    "enlace": "https://losviloschile.cl/actualidad/vialidad-proyecta-nuevo-puente-en-tilama-y-evalua-reparar-actual-estructura-tras-danos-por-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos realiza estudios de agua en Caimanes, Pupío y Los Vilos tras derrame en estero Pupío",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-realiza-estudios-de-agua-en-caimanes-pupio-y-los-vilos-tras-derrame-en-estero-pupio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Aprueban inmueble en Independencia para futura residencia gratuita de estudiantes de Los Vilos",
+    "enlace": "https://losviloschile.cl/educacion/aprueban-inmueble-en-independencia-para-futura-residencia-gratuita-de-estudiantes-de-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Estudiantes de Canela clasifican entre los 15 proyectos de la Feria Antártica Escolar 2026",
+    "enlace": "https://losviloschile.cl/canela/estudiantes-de-canela-clasifican-entre-los-15-proyectos-de-la-feria-antartica-escolar-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos lleva situación del Valle de Pupío al Senado y pide fiscalización de El Mauro",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-lleva-situacion-del-valle-de-pupio-al-senado-y-pide-fiscalizacion-de-el-mauro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos construirá 30 nichos de emergencia ante falta de espacio en cementerio municipal",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-construira-30-nichos-de-emergencia-ante-falta-de-espacio-en-cementerio-municipal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "CORE aprueba $315 millones para Los Vilos tras daños del sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/core-aprueba-315-millones-para-los-vilos-tras-danos-del-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Escuela Patricio Lynch de Andacollo incorpora el océano como herramienta pedagógica para fortalecer los aprendizajes",
     "enlace": "https://www.elandacollino.cl/2026/09/03/escuela-patricio-lynch-de-andacollo-incorpora-el-oceano-como-herramienta-pedagogica-para-fortalecer-los-aprendizajes/",
     "descripcion": "",
@@ -1368,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Longueira despide a Escalona y sorprende con reflexión: «Le hace bien a Chile que al PS le vaya bien»",
+    "enlace": "https://www.maray.cl/pais/05/09/2026/longueira-despide-a-escalona-y-sorprende-con-reflexion-le-hace-bien-a-chile-que-al-ps-le-vaya-bien/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Amplio operativo policial tras denuncia de disparos en la vía pública en Copiapó",
+    "enlace": "https://www.maray.cl/atacama/05/09/2026/amplio-operativo-policial-tras-denuncia-de-disparos-en-la-via-publica-en-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Putin retoma diálogo con EEUU por la paz en Ucrania: acuerdan tregua de 72 horas para Moscú y Kiev",
+    "enlace": "https://www.maray.cl/internacional/05/09/2026/putin-retoma-dialogo-con-eeuu-por-la-paz-en-ucrania-acuerdan-tregua-de-72-horas-para-moscu-y-kiev/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Cobre alcanza precio histórico ad portas del Presupuesto 2027: expertos llaman a cautela con el gasto",
     "enlace": "https://www.maray.cl/atacama/05/09/2026/cobre-alcanza-precio-historico-ad-portas-del-presupuesto-2027-expertos-llaman-a-cautela-con-el-gasto/",
     "descripcion": "",
@@ -1424,33 +1541,6 @@
   {
     "titulo": "Darío Osorio hizo su debut oficial con Crystal Palace: equipo del chileno venció al Fulham en Premier",
     "enlace": "https://www.maray.cl/deportes/05/09/2026/dario-osorio-hizo-su-debut-oficial-con-crystal-palace-equipo-del-chileno-vencio-al-fulham-en-premier/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno decretó dos días de duelo por fallecimiento de Camilo Escalona",
-    "enlace": "https://www.maray.cl/pais/05/09/2026/gobierno-decreto-dos-dias-de-duelo-por-fallecimiento-de-camilo-escalona/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Bachelet reafirmó ante su equipo asesor de excancilleres que seguirá en su carrera a la ONU",
-    "enlace": "https://www.maray.cl/pais/05/09/2026/bachelet-reafirmo-ante-su-equipo-asesor-de-excancilleres-que-seguira-en-su-carrera-a-la-onu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "¿Cómo adaptarse al horario de verano? | Claves para cuidar el sueño tras el cambio de hora",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/05/09/2026/como-adaptarse-al-horario-de-verano-claves-para-cuidar-el-sueno-tras-el-cambio-de-hora/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,8 +1728,71 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "US Open: Tabilo cayó en tercera ronda ante Zverev",
+    "enlace": "https://g5noticias.cl/2026/09/06/us-open-tabilo-cayo-en-tercera-ronda-ante-zverev/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Curacaví: control vehicular conjunto de Carabineros y Senda deja cuatro detenidos",
+    "enlace": "https://g5noticias.cl/2026/09/06/curacavi-control-vehicular-conjunto-de-carabineros-y-senda-deja-cuatro-detenidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fondas, música y celebraciones: expertos entregan claves para cuidar la audición durante el «18»",
+    "enlace": "https://g5noticias.cl/2026/09/05/fondas-musica-y-celebraciones-expertos-entregan-claves-para-cuidar-la-audicion-durante-el-18/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "El problema no es tu sueldo, es lo que haces con él",
+    "enlace": "https://g5noticias.cl/2026/09/05/el-problema-no-es-tu-sueldo-es-lo-que-haces-con-el/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Universidad de Las Américas lanza UDLAOpen, proyecto que busca instalar una cultura de Ciencia Abierta",
+    "enlace": "https://g5noticias.cl/2026/09/05/universidad-de-las-americas-lanza-udlaopen-proyecto-que-busca-instalar-una-cultura-de-ciencia-abierta/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Fondos, donaciones e inversión de impacto: las alternativas que toman fuerza en el mundo social",
+    "enlace": "https://g5noticias.cl/2026/09/05/fondos-donaciones-e-inversion-de-impacto-las-alternativas-que-toman-fuerza-en-el-mundo-social-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Doce voces para mantener vivo un patrimonio: Mujeres en la Música VI anuncia a sus semifinalistas.",
     "enlace": "https://g5noticias.cl/2026/09/05/doce-voces-para-mantener-vivo-un-patrimonio-mujeres-en-la-musica-vi-anuncia-a-sus-semifinalistas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Universidad de Chile derrotó a Coquimbo Unido y recuperó terreno en la disputa por el «Chile 2» a Copa Libertadores",
+    "enlace": "https://g5noticias.cl/2026/09/05/universidad-de-chile-derroto-a-coquimbo-unido-y-recupero-terreno-en-la-disputa-por-el-chile-2-a-copa-libertadores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1658,69 +1811,6 @@
   {
     "titulo": "¿Cómo puede la ketamina destruir la vejiga? El daño que puede volverse irreversible",
     "enlace": "https://g5noticias.cl/2026/09/05/como-puede-la-ketamina-destruir-la-vejiga-el-dano-que-puede-volverse-irreversible/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Prepárese: este 18/9 comienza la postulación al subsidio de arriendo para personas mayores y en situación de discapacidad",
-    "enlace": "https://g5noticias.cl/2026/09/05/preparese-este-18-9-comienza-la-postulacion-al-subsidio-de-arriendo-para-personas-mayores-y-en-situacion-de-discapacidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Sala cuna: quién debe pagar la cuenta. Por Pedro Matamala Souper, socio en Provoste Matamala Abogados",
-    "enlace": "https://g5noticias.cl/2026/09/05/sala-cuna-quien-debe-pagar-la-cuenta-por-pedro-matamala-souper-socio-en-provoste-matamala-abogados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Reciclaje químico: Innovadora tecnología transforma neumáticos viejos en pintura",
-    "enlace": "https://g5noticias.cl/2026/09/05/reciclaje-quimico-innovadora-tecnologia-transforma-neumaticos-viejos-en-pintura/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Servicio de Protección Especializada y Nueva Atacama impulsan campaña para sumar nuevas Familias de Acogida en Atacama",
-    "enlace": "https://g5noticias.cl/2026/09/05/servicio-de-proteccion-especializada-y-nueva-atacama-impulsan-campana-para-sumar-nuevas-familias-de-acogida-en-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Notarías: cómo la nueva ley transforma los trámites y facilita el acceso a la justicia. Por Sergio Ríos Valdivia Académico Carrera de Derecho UDLA Sede Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/09/05/notarias-como-la-nueva-ley-transforma-los-tramites-y-facilita-el-acceso-a-la-justicia-por-sergio-rios-valdivia-academico-carrera-de-derecho-udla-sede-vina-del-mar-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Uso de Inteligencia Artificial podría generar ahorros de hasta 27% en la compra de pasajes para Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/05/uso-de-inteligencia-artificial-podria-generar-ahorros-de-hasta-27-en-la-compra-de-pasajes-para-fiestas-patrias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Everton cayó en Sausalito ante la UC y cede terreno en la disputa de cupos internacionales: los cruzados quedaron como sublíderes gracias a un solitario gol de Fernando Zampedri",
-    "enlace": "https://g5noticias.cl/2026/09/05/everton-cayo-en-sausalito-ante-la-uc-y-cede-terreno-en-la-disputa-de-cupos-internacionales-los-cruzados-quedaron-como-sublideres-gracias-a-un-solitario-gol-de-fernando-zampedri/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
