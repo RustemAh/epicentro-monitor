@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "¿Quién es Néstor Quiñones? El homicidio que lo llevó a cumplir 10 años de condena y su fuga durante una salida autorizada en Copiapó",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/06/quien-es-nestor-quinones-el-homicidio-que-lo-llevo-a-cumplir-10-anos-de-condena-y-su-fuga-durante-una-salida-autorizada-en-copiapo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Trabajadoras de Lundin Mining son reconocidas entre las 100 mujeres inspiradoras de la minería chilena",
     "enlace": "https://www.atacamanoticias.cl/2026/09/06/trabajadoras-de-lundin-mining-son-reconocidas-entre-las-100-mujeres-inspiradoras-de-la-mineria-chilena/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Fuga de adolescente condenado a 10 años en Copiapó: Reinserción, Fiscalía, Defensoría y tribunales entregan sus versiones sobre la salida judicial",
     "enlace": "https://www.atacamanoticias.cl/2026/09/04/fuga-de-adolescente-condenado-a-10-anos-en-copiapo-reinsercion-fiscalia-defensoria-y-tribunales-entregan-sus-versiones-sobre-la-salida-judicial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Rápido y “bicicletoso”: Carabineros pistolea y partea a ciclistas a exceso de velocidad en Parquemet",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/04/rapido-y-bicicletoso-carabineros-pistolea-y-partea-a-ciclistas-a-exceso-de-velocidad-en-parquemet/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Huachipato resiste ante Colo Colo y el líder deja escapar puntos en Concepción",
+    "enlace": "https://www.maray.cl/deportes/06/09/2026/huachipato-resiste-ante-colo-colo-y-el-lider-deja-escapar-puntos-en-concepcion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "O’Higgins vuelve al triunfo y hunde a La Calera en la parte baja",
     "enlace": "https://www.maray.cl/deportes/06/09/2026/ohiggins-vuelve-al-triunfo-y-hunde-a-la-calera-en-la-parte-baja/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "Gago defiende a sus delanteros tras remontada de Universidad de Chile ante Coquimbo",
     "enlace": "https://www.maray.cl/deportes/06/09/2026/gago-defiende-a-sus-delanteros-tras-remontada-de-universidad-de-chile-ante-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Carabineros comprará 88 radiopatrullas BMW por más de $4.300 millones",
-    "enlace": "https://www.maray.cl/pais/06/09/2026/carabineros-comprara-88-radiopatrullas-bmw-por-mas-de-4-300-millones/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1638,6 +1638,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Estudiar después de los 50 años: abren cupos para cursos gratuitos de emprendimiento, liderazgo y transición laboral",
+    "enlace": "https://g5noticias.cl/2026/09/06/estudiar-despues-de-los-50-anos-abren-cupos-para-cursos-gratuitos-de-emprendimiento-liderazgo-y-transicion-laboral/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "IA en minería: asistentes inteligentes buscan mejorar la seguridad, reducir tiempo y bajar costos en faenas",
+    "enlace": "https://g5noticias.cl/2026/09/06/ia-en-mineria-asistentes-inteligentes-buscan-mejorar-la-seguridad-reducir-tiempo-y-bajar-costos-en-faenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Industrial Cyber Summit 2026 reunió a más de 400 asistentes y abordó los desafíos del phishing y la IA para las industrias",
+    "enlace": "https://g5noticias.cl/2026/09/06/industrial-cyber-summit-2026-reunio-a-mas-de-400-asistentes-y-abordo-los-desafios-del-phishing-y-la-ia-para-las-industrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con alta participación de voluntarios, Villa Alemana dio inicio al proyecto de pintado de locales comerciales del centro de la comuna",
+    "enlace": "https://g5noticias.cl/2026/09/06/con-alta-participacion-de-voluntarios-villa-alemana-dio-inicio-al-proyecto-de-pintado-de-locales-comerciales-del-centro-de-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Detenido por comercializar hilo de competencia",
+    "enlace": "https://g5noticias.cl/2026/09/06/detenido-por-comercializar-hilo-de-competencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Despliegue de Bomberos permitió controlar emergencia en Catapilco",
+    "enlace": "https://g5noticias.cl/2026/09/06/despliegue-de-bomberos-permitio-controlar-emergencia-en-catapilco/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Mitos y verdades sobre el «ADN de salmón»: lo que hay detrás de la tendencia que promete rejuvenecer la piel",
     "enlace": "https://g5noticias.cl/2026/09/06/mitos-y-verdades-sobre-el-adn-de-salmon-lo-que-hay-detras-de-la-tendencia-que-promete-rejuvenecer-la-piel/",
     "descripcion": "",
@@ -1647,8 +1701,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Autoestima y rendimiento escolar en niños. Por Ivonne Maldonado Directora Carrera de Psicología Universidad de Las Américas, Sede Concepción",
-    "enlace": "https://g5noticias.cl/2026/09/06/autoestima-y-rendimiento-escolar-en-ninos-por-ivonne-maldonado-directora-carrera-de-psicologia-universidad-de-las-americas-sede-concepcion/",
+    "titulo": "Gremios de la Educación iniciaron caminata hacia el Congreso Nacional y denunciaron hostilidad desde la Delegación Regional de Valparaíso con los manifestantes",
+    "enlace": "https://g5noticias.cl/2026/09/06/gremios-de-la-educacion-iniciaron-caminata-hacia-valparaiso-y-denunciaron-hostilidad-desde-la-delegacion-regional-de-valparaiso-con-los-manifestantes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1710,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El mercado de vehículos usados impulsa el dinamismo del sector automotor en agosto con más de 91 mil transferencias",
-    "enlace": "https://g5noticias.cl/2026/09/06/el-mercado-de-vehiculos-usados-impulsa-el-dinamismo-del-sector-automotor-en-agosto-con-mas-de-91-mil-transferencias/",
+    "titulo": "Municipalidad de Cartagena acerca sus servicios a los vecinos de San Sebastián",
+    "enlace": "https://g5noticias.cl/2026/09/06/municipalidad-de-cartagena-acerca-sus-servicios-a-los-vecinos-de-san-sebastian/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,62 +1719,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Principal grupo de transporte de pasajeros y movilidad del país lanzó su primer Reporte de Sostenibilidad",
-    "enlace": "https://g5noticias.cl/2026/09/06/principal-grupo-de-transporte-de-pasajeros-y-movilidad-del-pais-lanzo-su-primer-reporte-de-sostenibilidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Investigadores detectan diferencias en tumores chilenos que las referencias genómicas internacionales no siempre capturan",
-    "enlace": "https://g5noticias.cl/2026/09/06/investigadores-detectan-diferencias-en-tumores-chilenos-que-las-referencias-genomicas-internacionales-no-siempre-capturan/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "UCSC e Imagen de Chile firman alianza para proyectar capacidades a nivel internacional",
-    "enlace": "https://g5noticias.cl/2026/09/06/ucsc-e-imagen-de-chile-firman-alianza-para-proyectar-capacidades-a-nivel-internacional/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Investigación distingue entre comprender y justificar la violencia",
-    "enlace": "https://g5noticias.cl/2026/09/06/investigacion-distingue-entre-comprender-y-justificar-la-violencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Ventas del retail pueden aumentar hasta un 25 % durante Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/06/ventas-del-retail-pueden-aumentar-hasta-un-25-durante-fiestas-patrias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Amenazas a los alcaldes, ¿crónica de una muerte anunciada?. Por Directorio Nacional Unión de Funcionarios Municipales (UFEMUCH)",
-    "enlace": "https://g5noticias.cl/2026/09/06/amenazas-a-los-alcaldes-cronica-de-una-muerte-anunciada-por-directorio-nacional-union-de-funcionarios-municipales-ufemuch/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Accenture y Skillnest lanzan becas de especialización en IA avanzada con apoyo de la Cámara Chilena de la IA",
-    "enlace": "https://g5noticias.cl/2026/09/06/accenture-y-skillnest-lanzan-becas-de-especializacion-en-ia-avanzada-con-apoyo-de-la-camara-chilena-de-la-ia/",
+    "titulo": "Valparaíso vivió Media Maratón TPS con más de 4 mil corredores",
+    "enlace": "https://g5noticias.cl/2026/09/06/valparaiso-vivio-media-maraton-tps-con-mas-de-4-mil-corredores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
