@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Luz verde técnica para llevar buses eléctricos a Tierras Blancas y Punta Mira Norte según el Gobierno Regional",
+    "enlace": "https://www.elcoquimbano.cl/2026/09/08/luz-verde-tecnica-para-llevar-buses-electricos-a-tierras-blancas-y-punta-mira-norte-segun-el-gobierno-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Atleta coquimbana Monserrat Arias se corona Campeona Nacional U18 en Heptatlón",
     "enlace": "https://www.elcoquimbano.cl/2026/09/08/atleta-coquimbana-monserrat-arias-se-corona-campeona-nacional-u18-en-heptatlon/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Amago de incendio en cámara hiperbárica del Hospital San Pablo de Coquimbo deja a funcionario con lesiones leves",
-    "enlace": "https://www.elcoquimbano.cl/2026/09/04/amago-de-incendio-en-camara-hiperbarica-del-hospital-san-pablo-de-coquimbo-deja-a-funcionario-con-lesiones-leves/",
+    "titulo": "Autoridad sanitaria confirma que machas y ostiones de Caleta San Pedro están aptos para el consumo tras estudios",
+    "enlace": "https://www.elserenense.cl/comunales/2026/09/08/autoridad-sanitaria-confirma-que-machas-y-ostiones-de-caleta-san-pedro-estan-aptos-para-el-consumo-tras-estudios/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Hombre de 44 años muere tras recibir disparo al interior de un domicilio en Caleta San Pedro",
@@ -164,15 +173,6 @@
   {
     "titulo": "75 años Circo Minero: Más de 800 personas participaron de las funciones aniversario",
     "enlace": "https://www.elserenense.cl/tendencias/2026/09/04/75-anos-circo-minero-mas-de-800-personas-participaron-de-las-funciones-aniversario/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Región de Coquimbo da sus primeros pasos para consolidarse como polo científico tecnológico",
-    "enlace": "https://www.elserenense.cl/regionales/2026/09/04/la-region-de-coquimbo-da-sus-primeros-pasos-para-consolidarse-como-polo-cientifico-tecnologico/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -270,6 +270,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Región Coquimbo. Ceaza pronostica lluvia y nevadas para este miércoles y jueves",
+    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-ceaza-pronostica-lluvia-y-nevadas-para-este-miercoles-y-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-ceaza-pronostica-lluvia-y-nevadas-para-este-miercoles-y-jueves",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Minera San Gerónimo es la primera empresa de la mediana minería en obtener el Sello Iguala Conciliación",
     "enlace": "https://serenaycoquimbo.cl/minera-san-geronimo-es-la-primera-empresa-de-la-mediana-mineria-en-obtener-el-sello-iguala-conciliacion/?utm_source=rss&utm_medium=rss&utm_campaign=minera-san-geronimo-es-la-primera-empresa-de-la-mediana-mineria-en-obtener-el-sello-iguala-conciliacion",
     "descripcion": "",
@@ -344,15 +353,6 @@
   {
     "titulo": "La Serena. Incendio destruye vivienda en localidad rural",
     "enlace": "https://serenaycoquimbo.cl/la-serena-incendio-destruye-vivienda-en-localidad-rural/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-incendio-destruye-vivienda-en-localidad-rural",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Trabajadores y parlamentarios rechazan proyecto de ley que impulsaría “contrato por hora”",
-    "enlace": "https://serenaycoquimbo.cl/trabajadores-y-parlamentarios-rechazan-proyecto-de-ley-que-impulsaria-contrato-por-hora/?utm_source=rss&utm_medium=rss&utm_campaign=trabajadores-y-parlamentarios-rechazan-proyecto-de-ley-que-impulsaria-contrato-por-hora",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "F-16 sobrevolarán el Choapa este lunes: recorrido y horarios",
-    "enlace": "https://veetv.cl/f-16-sobrevolaran-el-choapa-este-lunes-esto-es-lo-que-debes-saber/",
+    "titulo": "Concurso fotografía Nicolás Tapia reconoce a sus ganadores y prepara una cuarta versión",
+    "enlace": "https://veetv.cl/concurso-fotografia-nicolas-tapia-reconoce-ganadores-cuarta-version/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Concurso de fotografía Nicolás Tapia tendrá su premiación el 7 de septiembre en Illapel",
-    "enlace": "https://veetv.cl/concurso-fotografia-nicolas-tapia-premiacion-illapel/",
+    "titulo": "F-16 sobrevolarán el Choapa este lunes: recorrido y horarios",
+    "enlace": "https://veetv.cl/f-16-sobrevolaran-el-choapa-este-lunes-esto-es-lo-que-debes-saber/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Paihuano tendrá tres representantes en el Campeonato Nacional Escolar  de Atletismo en Valparaíso",
+    "enlace": "https://www.elpaihuanino.cl/2026/09/08/paihuano-tendra-tres-representantes-en-el-campeonato-nacional-escolar-de-atletismo-en-valparaiso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Precipitaciones en la Región de Coquimbo: Pisco Elqui podría recibir hasta 7 mm entre el 9 y 10 de septiembre",
     "enlace": "https://www.elpaihuanino.cl/2026/09/08/precipitaciones-en-la-region-de-coquimbo-pisco-elqui-podria-recibir-hasta-7-mm-entre-el-9-y-10-de-septiembre/",
     "descripcion": "",
@@ -1269,13 +1278,58 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Paihuano se prepara para las lluvias de esta semana y refuerza coordinación ante eventuales emergencias",
-    "enlace": "https://www.elpaihuanino.cl/2026/08/10/paihuano-se-prepara-para-las-lluvias-de-esta-semana-y-refuerza-coordinacion-ante-eventuales-emergencias/",
+    "titulo": "Riña entre adolescentes en pleno centro de Tierra Amarilla es controlada por funcionarios municipales",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/08/rina-entre-adolescentes-en-pleno-centro-de-tierra-amarilla-es-controlada-por-funcionarios-municipales/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Manuel Pellegrini regresó a la Champions con triunfo: Betis no ganaba en la ’orejona’ hace 21 años",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/08/manuel-pellegrini-regreso-a-la-champions-con-triunfo-betis-no-ganaba-en-la-orejona-hace-21-anos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Kast nomina a Marisol Rojas para la Corte Suprema para reemplazar a la polémica exministra Letelier",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/08/kast-nomina-a-marisol-rojas-para-la-corte-suprema-para-reemplazar-a-la-polemica-exministra-letelier/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Consulta con tu Rut si eres de los millones de chilenos con saldo a favor en tu Caja de Compensación",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/08/consulta-con-tu-rut-si-eres-de-los-millones-de-chilenos-con-saldo-a-favor-en-tu-caja-de-compensacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "¿Es legal que mi empleador no entregue aguinaldo este 2026 o baje el monto? Esto dice un abogado",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/08/es-legal-que-mi-empleador-no-entregue-aguinaldo-este-2026-o-baje-el-monto-esto-dice-un-abogado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fuga de Quiñones: Fiscalía revela bautizo no estaba agendado y relación amorosa con funcionaria IP-IRC",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/08/fuga-de-quinones-fiscalia-revela-bautizo-no-estaba-agendado-y-relacion-amorosa-con-funcionaria-ip-irc/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
     "titulo": "Kinross presenta Lobo-Marte a proveedores y socios de CORPROA",
@@ -1307,60 +1361,6 @@
   {
     "titulo": "Un legado para la región: Lundin Mining presenta su programa educativo ARA · Atacama Red de Aprendizaje",
     "enlace": "https://www.atacamanoticias.cl/2026/09/08/un-legado-para-la-region-lundin-mining-presenta-su-programa-educativo-ara-%c2%b7-atacama-red-de-aprendizaje/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "MOP pone en servicio puente mecano de Los Loros en Freirina y recupera conectividad hacia Punta del Viento",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/08/mop-pone-en-servicio-puente-mecano-de-los-loros-en-freirina-y-recupera-conectividad-hacia-punta-del-viento/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Amplían detención de vecino que confesó homicidio de Mariana Sepúlveda a 18 años de su desaparición",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/08/amplian-detencion-de-vecino-que-confeso-homicidio-de-mariana-sepulveda-a-18-anos-de-su-desaparicion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "“Inspección total” al gobierno de Boric deja 1.529 hallazgos y 4 organismos denunciados ante Fiscalía",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/08/inspeccion-total-al-gobierno-de-boric-deja-1-529-hallazgos-y-4-organismos-denunciados-ante-fiscalia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "PISA 2025: Chile obtiene su peor resultado en Matemáticas, con 59% que no alcanza el nivel básico",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/08/pisa-2025-chile-obtiene-su-peor-resultado-en-matematicas-con-59-que-no-alcanza-el-nivel-basico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Inversión, innovación y capital humano marcaron el XXI Conversatorio Desafíos de Atacama",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/08/inversion-innovacion-y-capital-humano-marcaron-el-xxi-conversatorio-desafios-de-atacama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Hallan a perrita degollada en sector industrial de Antofagasta: “Zona requiere intervención urgente”",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/08/hallan-a-perrita-degollada-en-sector-industrial-de-antofagasta-zona-requiere-intervencion-urgente/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Betis de Pellegrini debuta con gran triunfo ante Lille en la Champions League",
+    "enlace": "https://www.maray.cl/deportes/08/09/2026/betis-de-pellegrini-debuta-con-gran-triunfo-ante-lille-en-la-champions-league/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Banco Central mantiene la tasa en 4,5% y advierte mayores riesgos para la economía",
+    "enlace": "https://www.maray.cl/pais/08/09/2026/banco-central-mantiene-la-tasa-en-45-y-advierte-mayores-riesgos-para-la-economia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fiscalía reveló acciones realizadas por funcionarios para facilitar fuga de condenado por homicidio",
+    "enlace": "https://www.maray.cl/atacama/08/09/2026/fiscalia-revelo-acciones-realizadas-por-funcionarios-para-facilitar-fuga-de-condenado-por-homicidio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Feijoo: éxito editorial, ideas de libertad y crítica  (René David Navarro Albiña,  Abogado,  Doctor en Filosofía y Lógica,  Director del Instituto de Estudios Hispanoamericano)",
     "enlace": "https://www.maray.cl/opinion/08/09/2026/feijoo-exito-editorial-ideas-de-libertad-y-critica-rene-david-navarro-albina-abogado-doctor-en-filosofia-y-logica-director-del-instituto-de-estudios-hispanoamericano/",
     "descripcion": "",
@@ -1514,33 +1541,6 @@
   {
     "titulo": "PDI recupera 20 iPhone robados que iban a ser enviados desde Chile a Hong Kong",
     "enlace": "https://www.maray.cl/pais/08/09/2026/pdi-recupera-20-iphone-robados-que-iban-a-ser-enviados-desde-chile-a-hong-kong/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Pellegrini vuelve a la Champions con Betis y desafía al Lille en Francia",
-    "enlace": "https://www.maray.cl/deportes/08/09/2026/pellegrini-vuelve-a-la-champions-con-betis-y-desafia-al-lille-en-francia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Vozinha hace historia: arquero de Colo Colo es nominado entre los mejores del mundo",
-    "enlace": "https://www.maray.cl/deportes/08/09/2026/vozinha-hace-historia-arquero-de-colo-colo-es-nominado-entre-los-mejores-del-mundo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Real Madrid e Inter abren la Champions con duelo de gigantes en el Bernabéu",
-    "enlace": "https://www.maray.cl/deportes/08/09/2026/real-madrid-e-inter-abren-la-champions-con-duelo-de-gigantes-en-el-bernabeu/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Gigantes frente a nuestras costas: por qué las ballenas jorobadas necesitan un mar seguro. Por Mg. Mylene Seguel Fuenzalida, Académica e Investigadora de Medicina Veterinaria en Universidad del Alba, sede La Serena",
-    "enlace": "https://g5noticias.cl/2026/09/08/gigantes-frente-a-nuestras-costas-por-que-las-ballenas-jorobadas-necesitan-un-mar-seguro-por-mg-mylene-seguel-fuenzalida-academica-e-investigadora-de-medicina-veterinaria-en-universidad-del-a/",
+    "titulo": "Parte el ensanche: cortes parciales y maquinaria pesada ya trabajan en la histórica reposición de la ruta N-59-Q Chillán-Yungay",
+    "enlace": "https://g5noticias.cl/2026/09/08/parte-el-ensanche-cortes-parciales-y-maquinaria-pesada-ya-trabajan-en-la-historica-reposicion-de-la-ruta-n-59-q-chillan-yungay/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "ABIF Informa: precio de las viviendas se cuadruplicó en 16 años y creció casi el doble que las remuneraciones",
-    "enlace": "https://g5noticias.cl/2026/09/08/abif-informa-precio-de-las-viviendas-se-cuadruplico-en-16-anos-y-crecio-casi-el-doble-que-las-remuneraciones/",
+    "titulo": "Senadora Provoste en votación en particular de proyecto de sala cuna: El Senado no rechazó financiar la sala cuna; rechazó financiarla sacando recursos del Seguro de Cesantía",
+    "enlace": "https://g5noticias.cl/2026/09/08/senadora-provoste-en-votacion-en-particular-de-proyecto-de-sala-cuna-el-senado-no-rechazo-financiar-la-sala-cuna-rechazo-financiarla-sacando-recursos-del-seguro-de-cesantia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ziento un Cuento cierra exitosa temporada de formación con alta convocatoria en sus tres escuelas gratuitas",
-    "enlace": "https://g5noticias.cl/2026/09/08/ziento-un-cuento-cierra-exitosa-temporada-de-formacion-con-alta-convocatoria-en-sus-tres-escuelas-gratuitas/",
+    "titulo": "Inician construcción de nueva plaza Paula Jaraquemada con inversión sobre $1.000 millones",
+    "enlace": "https://g5noticias.cl/2026/09/08/inician-construccion-de-nueva-plaza-paula-jaraquemada-con-inversion-sobre-1-000-millones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más áreas verdes y menos calor: Municipalidad de Huechuraba, Cultiva y Bupa recuperan espacio público para más de 6 mil vecinos",
-    "enlace": "https://g5noticias.cl/2026/09/08/mas-areas-verdes-y-menos-calor-municipalidad-de-huechuraba-cultiva-y-bupa-recuperan-espacio-publico-para-mas-de-6-mil-vecinos/",
+    "titulo": "Diputada Sofía González valora despacho a ley del proyecto que extiende hasta el año 2032 el plazo para la regularización e inscripción de derechos de agua",
+    "enlace": "https://g5noticias.cl/2026/09/08/diputada-sofia-gonzalez-valora-despacho-a-ley-del-proyecto-que-extiende-hasta-el-ano-2032-el-plazo-para-la-regularizacion-e-inscripcion-de-derechos-de-agua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Quedan pocos días para que puedas formar parte del mayor circuito de arte público de la futura Línea 7 del Metro",
-    "enlace": "https://g5noticias.cl/2026/09/08/quedan-pocos-dias-para-que-puedas-formar-parte-del-mayor-circuito-de-arte-publico-de-la-futura-linea-7-del-metro/",
+    "titulo": "Recuperación de ecosistemas degradados: TEN e INFOR publican importante investigación de revegetación para zonas áridas",
+    "enlace": "https://g5noticias.cl/2026/09/08/recuperacion-de-ecosistemas-degradados-ten-e-infor-publican-importante-investigacion-de-revegetacion-para-zonas-aridas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "ATI reduce los cierres de puerto ante oleajes y robustece la continuidad operativa del comercio exterior regional",
-    "enlace": "https://g5noticias.cl/2026/09/08/ati-reduce-los-cierres-de-puerto-ante-oleajes-y-robustece-la-continuidad-operativa-del-comercio-exterior-regional/",
+    "titulo": "Valparaíso releva su memoria artística con la inauguración de la exposición “A nuestra herencia no le precede ningún testamento: 12 Obras, 12 Bienales”",
+    "enlace": "https://g5noticias.cl/2026/09/08/valparaiso-releva-su-memoria-artistica-con-la-inauguracion-de-la-exposicion-a-nuestra-herencia-no-le-precede-ningun-testamento-12-obras-12-bienales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CESFAM Matta Sur celebra cinco años, el Día de la APS y su histórica acreditación en calidad",
-    "enlace": "https://g5noticias.cl/2026/09/08/cesfam-matta-sur-celebra-cinco-anos-el-dia-de-la-aps-y-su-historica-acreditacion-en-calidad/",
+    "titulo": "Fiscalía de Atacama reveló acciones realizadas por funcionarios para facilitar fuga de condenado por homicidio",
+    "enlace": "https://g5noticias.cl/2026/09/08/fiscalia-de-atacama-revelo-acciones-realizadas-por-funcionarios-para-facilitar-fuga-de-condenado-por-homicidio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Baja natalidad en Chile: más allá de los números. Por Catalina Ureta Académica Escuela de Obstetricia y Puericultura Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/09/08/baja-natalidad-en-chile-mas-alla-de-los-numeros-por-catalina-ureta-academica-escuela-de-obstetricia-y-puericultura-universidad-de-las-americas/",
+    "titulo": "Cambio en el mapamundi: la imagen no es inocua. Por Ana Buzzoni, Directora Escuela de Diseño Universidad UNIACC",
+    "enlace": "https://g5noticias.cl/2026/09/08/cambio-en-el-mapamundi-la-imagen-no-es-inocua-por-ana-buzzoni-directora-escuela-de-diseno-universidad-uniacc/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Balance CPLT 2026 registra máximos históricos para un primer semestre: más de 167 mil solicitudes de información al Estado y cerca de 9 mil casos ante el Consejo",
-    "enlace": "https://g5noticias.cl/2026/09/08/balance-cplt-2026-registra-maximos-historicos-para-un-primer-semestre-mas-de-167-mil-solicitudes-de-informacion-al-estado-y-cerca-de-9-mil-casos-ante-el-consejo/",
+    "titulo": "Se convierte en ley proyecto del diputado Guillermo Valdés (PDG) que amplía hasta 2032 el plazo para regularizar derechos de agua",
+    "enlace": "https://g5noticias.cl/2026/09/08/se-convierte-en-ley-proyecto-del-diputado-guillermo-valdes-pdg-que-amplia-hasta-2032-el-plazo-para-regularizar-derechos-de-agua/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Bancada UDI responde a Bassa tras proponer nuevo proceso constituyente: «Pareciera tener una obsesión patológica que le impide aceptar la realidad»",
-    "enlace": "https://g5noticias.cl/2026/09/08/bancada-udi-responde-a-bassa-tras-proponer-nuevo-proceso-constituyente-pareciera-tener-una-obsesion-patologica-que-le-impide-aceptar-la-realidad/",
+    "titulo": "Senadores de Economía proponen ejes clave para regular mercado de apuestas en línea",
+    "enlace": "https://g5noticias.cl/2026/09/08/senadores-de-economia-proponen-ejes-clave-para-regular-mercado-de-apuestas-en-linea/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
