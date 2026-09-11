@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "¿Cuánto cuesta viajar en vehículo desde Santiago a La Serena para estas Fiestas Patrias?",
+    "enlace": "https://www.elserenense.cl/comunales/2026/09/11/cuanto-cuesta-viajar-en-vehiculo-desde-santiago-a-la-serena-para-estas-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Bienes Nacionales entrega inmueble fiscal para la construcción de un nuevo Centro Comunitario en Caleta San Pedro",
     "enlace": "https://www.elserenense.cl/comunales/2026/09/11/bienes-nacionales-entrega-inmueble-fiscal-para-la-construccion-de-un-nuevo-centro-comunitario-en-caleta-san-pedro/",
     "descripcion": "",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Invitan a participar del concurso “Hágame Pebre” que se realizará en la plaza de armas de La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/09/09/invitan-a-participar-del-concurso-hagame-pebre-que-se-realizara-en-la-plaza-de-armas-de-la-serena/",
+    "titulo": "Municipio de La Serena vuelve con abastecimiento esencial para familias de Almirante Latorre",
+    "enlace": "https://laserenaonline.cl/2026/09/11/municipio-de-la-serena-vuelve-con-abastecimiento-esencial-para-familias-de-almirante-latorre/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "A sus 91 años, vecina de Coquimbo recibió el anhelado Título de Dominio de su hogar",
+    "enlace": "https://laserenaonline.cl/2026/09/11/a-sus-91-anos-vecina-de-coquimbo-recibio-el-anhelado-titulo-de-dominio-de-su-hogar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Colegio Santa Teresa de Jesús de Illapel se consagra campeón regional de básquetbol juvenil",
+    "enlace": "https://laserenaonline.cl/2026/09/11/colegio-santa-teresa-de-jesus-de-illapel-se-consagra-campeon-regional-de-basquetbol-juvenil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "La Serena: Equipo ECOH acreditó en juicio homicidio frustrado y consumado cometido en menos de 24 horas por extranjero",
     "enlace": "https://laserenaonline.cl/2026/09/11/la-serena-equipo-ecoh-acredito-en-juicio-homicidio-frustrado-y-consumado-cometido-en-menos-de-24-horas-por-extranjero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Carabineros detuvo a hombre armado tras amenazar de muerte a su expareja en El Palqui",
-    "enlace": "https://laserenaonline.cl/2026/09/11/carabineros-detuvo-a-hombre-armado-tras-amenazar-de-muerte-a-su-expareja-en-el-palqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "La Serena: Fiscalía formaliza a tres mujeres por estafas en la compra de vehículos",
-    "enlace": "https://laserenaonline.cl/2026/09/11/la-serena-fiscalia-formaliza-a-tres-mujeres-por-estafas-en-la-compra-de-vehiculos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Reporte del tiempo hoy 11 de septiembre para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/09/11/reporte-del-tiempo-hoy-11-de-septiembre-para-la-region-de-coquimbo-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1458,6 +1458,69 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Copiapó: Unidad SAC de la Fiscalía obtuvo prisión preventiva de autor de disparos en la vía pública",
+    "enlace": "https://www.maray.cl/atacama/11/09/2026/copiapo-unidad-sac-de-la-fiscalia-obtuvo-prision-preventiva-de-autor-de-disparos-en-la-via-publica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Desarticulan punto de venta de drogas en Diego de Almagro",
+    "enlace": "https://www.maray.cl/atacama/11/09/2026/desarticulan-punto-de-venta-de-drogas-en-diego-de-almagro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Kast: «No puedo pedirles a los chilenos que estén condenados por su historia»",
+    "enlace": "https://www.maray.cl/pais/11/09/2026/kast-no-puedo-pedirles-a-los-chilenos-que-esten-condenados-por-su-historia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fiscalía formalizará a persona herida a bala como autor del delito de homicidio frustrado",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/11/09/2026/fiscalia-formalizara-a-persona-herida-a-bala-como-autor-del-delito-de-homicidio-frustrado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Delegada Sofía Cid respalda la labor de las policías tras procedimiento de seguridad",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/11/09/2026/delegada-sofia-cid-respalda-la-labor-de-las-policias-tras-procedimiento-de-seguridad-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Seremi de Seguridad Pública supervisa operativo de registro y allanamiento junto a Gendarmería de Chile en cárcel de Copiapó",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/11/09/2026/seremi-de-seguridad-publica-supervisa-operativo-de-registro-y-allanamiento-junto-a-gendarmeria-de-chile-en-carcel-de-copiapo-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Escuelas públicas de Copiapó celebran tradicional desfile por Fiestas Patrias",
+    "enlace": "https://www.maray.cl/podcast-de-noticias/11/09/2026/escuelas-publicas-de-copiapo-celebran-tradicional-desfile-por-fiestas-patrias-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Anuncian “peaje a luca” en Fiestas Patrias: revisa horarios, rutas y restricciones",
     "enlace": "https://www.maray.cl/pais/11/09/2026/anuncian-peaje-a-luca-en-fiestas-patrias-revisa-horarios-rutas-y-restricciones/",
     "descripcion": "",
@@ -1478,69 +1541,6 @@
   {
     "titulo": "Hospital Regional de Copiapó realiza 358 atenciones en operativo medico",
     "enlace": "https://www.maray.cl/atacama/11/09/2026/hospital-regional-de-copiapo-realiza-358-atenciones-en-operativo-medico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Seremi de Seguridad Pública supervisa operativo de registro y allanamiento junto a Gendarmería de Chile en cárcel de Copiapó",
-    "enlace": "https://www.maray.cl/atacama/11/09/2026/seremi-de-seguridad-publica-supervisa-operativo-de-registro-y-allanamiento-junto-a-gendarmeria-de-chile-en-carcel-de-copiapo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "A 25 años del 11S, exagente del FBI asegura que pudo evitar los atentados",
-    "enlace": "https://www.maray.cl/internacional/11/09/2026/a-25-anos-del-11s-exagente-del-fbi-asegura-que-pudo-evitar-los-atentados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Delegada Sofía Cid respalda la labor de las policías tras procedimiento de seguridad",
-    "enlace": "https://www.maray.cl/atacama/11/09/2026/delegada-sofia-cid-respalda-la-labor-de-las-policias-tras-procedimiento-de-seguridad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Liceo Federico Varela celebra 48 años con reconocimientos y feria estudiantil",
-    "enlace": "https://www.maray.cl/atacama/11/09/2026/liceo-federico-varela-celebra-48-anos-con-reconocimientos-y-feria-estudiantil/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Colo Colo busca ampliar su ventaja: revisa la fecha 23 de la Liga de Primera",
-    "enlace": "https://www.maray.cl/deportes/11/09/2026/colo-colo-busca-ampliar-su-ventaja-revisa-la-fecha-23-de-la-liga-de-primera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Joven muere tras ataque a disparos afuera de una botillería en La Pintana",
-    "enlace": "https://www.maray.cl/pais/11/09/2026/joven-muere-tras-ataque-a-disparos-afuera-de-una-botilleria-en-la-pintana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Mirko Jozic recibe homenaje en el exCongreso por su legado en el fútbol chileno",
-    "enlace": "https://www.maray.cl/deportes/11/09/2026/mirko-jozic-recibe-homenaje-en-el-excongreso-por-su-legado-en-el-futbol-chileno/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Jaula Bahamondes vuelve al octágono con nueva categoría",
-    "enlace": "https://g5noticias.cl/2026/09/11/la-jaula-bahamondes-vuelve-al-octagono-con-nueva-categoria/",
+    "titulo": "Municipalidad de Limache lanzó «Prendidos por Limache»: la fiesta dieciochera gratuita más grande de la Región de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/09/11/municipalidad-de-limache-lanzo-prendidos-por-limache-la-fiesta-dieciochera-gratuita-mas-grande-de-la-region-de-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte de Santiago acoge reclamo de ilegalidad y anula resolución del Consejo Para La Transparencia",
-    "enlace": "https://g5noticias.cl/2026/09/11/corte-de-santiago-acoge-reclamo-de-ilegalidad-y-anula-resolucion-del-consejo-para-la-transparencia/",
+    "titulo": "Corrida Familiar de Maipú: conoce las fechas de entrega de kits, horarios y desvíos de tránsito",
+    "enlace": "https://g5noticias.cl/2026/09/11/corrida-familiar-de-maipu-conoce-las-fechas-de-entrega-de-kits-horarios-y-desvios-de-transito/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cuerpo de Bomberos de Valparaíso lanza su 52ª Rifa Anual: “175 años protegiendo a Valparaíso: juntos nos cuidamos”",
-    "enlace": "https://g5noticias.cl/2026/09/11/cuerpo-de-bomberos-de-valparaiso-lanza-su-52a-rifa-anual-175-anos-protegiendo-a-valparaiso-juntos-nos-cuidamos/",
+    "titulo": "Copiapó: Unidad SAC de la Fiscalía obtuvo prisión preventiva de autor de disparos en la vía pública",
+    "enlace": "https://g5noticias.cl/2026/09/11/copiapo-unidad-sac-de-la-fiscalia-obtuvo-prision-preventiva-de-autor-de-disparos-en-la-via-publica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«Nadando Juntos»: la paranatación se suma al programa Soprole Deporte Escolar junto a Teletón",
-    "enlace": "https://g5noticias.cl/2026/09/11/nadando-juntos-la-paranatacion-se-suma-al-programa-soprole-deporte-escolar-junto-a-teleton/",
+    "titulo": "Presidente Kast y el 11S sin acto oficial: “No puedo borrar el pasado pero tampoco voy a pedir que quedemos anclados”",
+    "enlace": "https://g5noticias.cl/2026/09/11/presidente-kast-y-el-11s-sin-acto-oficial-no-puedo-borrar-el-pasado-pero-tampoco-voy-a-pedir-que-quedemos-anclados/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Crean pasaporte turístico que brindará beneficios a visitantes de Limache y Olmué",
-    "enlace": "https://g5noticias.cl/2026/09/11/crean-pasaporte-turistico-que-brindara-beneficios-a-visitantes-de-limache-y-olmue/",
+    "titulo": "El problema no es que cierre Los Libertadores, sino que tantas empresas no sepan qué hacer cuando ocurre. Por Matías Bearwald, CEO de Greenwish Cargo y especialista en Global Logistics",
+    "enlace": "https://g5noticias.cl/2026/09/11/el-problema-no-es-que-cierre-los-libertadores-sino-que-tantas-empresas-no-sepan-que-hacer-cuando-ocurre-por-matias-bearwald-ceo-de-greenwish-cargo-y-especialista-en-global-logistics/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Limpieza y orden: casi tres toneladas de desechos fueron retirados del entorno del Mercado Cardonal",
-    "enlace": "https://g5noticias.cl/2026/09/11/limpieza-y-orden-casi-tres-toneladas-de-desechos-fueron-retirados-del-entorno-del-mercado-cardonal/",
+    "titulo": "En Nogales: alcaldesa le pide reunión urgente al Ministro de Obras Públicas por ampliación de Ruta 5",
+    "enlace": "https://g5noticias.cl/2026/09/11/en-nogales-alcaldesa-le-pide-reunion-urgente-al-ministro-de-obras-publicas-por-ampliacion-de-ruta-5/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Urcullú (PRep) pide a Contraloría explicar uso de la Universidad de Tarapacá para cambio de mando del FA",
-    "enlace": "https://g5noticias.cl/2026/09/11/diputado-urcullu-prep-pide-a-contraloria-explicar-uso-de-la-universidad-de-tarapaca-para-cambio-de-mando-del-fa/",
+    "titulo": "Cartagena y San Antonio coordinan acciones para abordar basurales clandestinos en sector de Camino Viejo",
+    "enlace": "https://g5noticias.cl/2026/09/11/cartagena-y-san-antonio-coordinan-acciones-para-abordar-basurales-clandestinos-en-sector-de-camino-viejo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Se espera que más de 325 mil vehículos circulen por la Ruta 5 Sur durante los días de mayor contingencia de Fiestas Patrias en O’Higgins",
-    "enlace": "https://g5noticias.cl/2026/09/11/se-espera-que-mas-de-325-mil-vehiculos-circulen-por-la-ruta-5-sur-durante-los-dias-de-mayor-contingencia-de-fiestas-patrias-en-ohiggins/",
+    "titulo": "Intención de ocupación hotelera alcanza 65,74% para Fiestas Patrias y refuerza oportunidad turística de la Región de Valparaíso",
+    "enlace": "https://g5noticias.cl/2026/09/11/intencion-de-ocupacion-hotelera-alcanza-6574-para-fiestas-patrias-y-refuerza-oportunidad-turistica-de-la-region-de-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "CONUPIA llama a preferir productos chilenos y apoyar a las pymes durante Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/11/conupia-llama-a-preferir-productos-chilenos-y-apoyar-a-las-pymes-durante-fiestas-patrias/",
+    "titulo": "Con tres extranjeros denunciados terminó fiscalización multisectorial en Los Andes",
+    "enlace": "https://g5noticias.cl/2026/09/11/con-tres-extranjeros-denunciados-termino-fiscalizacion-multisectorial-en-los-andes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Programa de Habitabilidad mejora las condiciones de vida de familias en Coyhaique",
-    "enlace": "https://g5noticias.cl/2026/09/11/programa-de-habitabilidad-mejora-las-condiciones-de-vida-de-familias-en-coyhaique/",
+    "titulo": "Wacken Metal Battle Suramérica abrió la convocatoria 2027 presentando nueva estructura regional",
+    "enlace": "https://g5noticias.cl/2026/09/11/wacken-metal-battle-suramerica-abrio-la-convocatoria-2027-presentando-nueva-estructura-regional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Hallan un cuerpo en las costas de Porvenir e investigan si corresponde a uno de los hermanos desaparecidos en el mar",
+    "enlace": "https://laprensaaustral.cl/2026/09/11/hallan-un-cuerpo-en-las-costas-de-porvenir-e-investigan-si-corresponde-a-uno-de-los-hermanos-desaparecidos-en-el-mar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Ministro de Defensa argentino detalla intención de disputarle a Punta Arenas su papel en conexión con la Antartica",
     "enlace": "https://laprensaaustral.cl/2026/09/11/ministro-de-defensa-argentino-detalla-intencion-de-disputarle-a-punta-arenas-su-papel-en-conexion-con-la-antartica/",
     "descripcion": "",
@@ -1982,15 +1991,6 @@
   {
     "titulo": "Corfo abre 1.325 becas para capacitar en  IA, bioeconomía y sectores estratégicos",
     "enlace": "https://laprensaaustral.cl/2026/09/11/corfo-abre-1-325-becas-para-capacitar-en-ia-bioeconomia-y-sectores-estrategicos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Quiroz promete medidas a corto plazo:  “Podemos caminar y mascar chicle”",
-    "enlace": "https://laprensaaustral.cl/2026/09/11/quiroz-promete-medidas-a-corto-plazo-podemos-caminar-y-mascar-chicle/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
