@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Comenzó la instalación de las familias en la Pampilla de Coquimbo: Se fueron con “monos y petacas”",
+    "enlace": "https://www.elcoquimbano.cl/2026/09/12/comenzo-la-instalacion-de-las-familias-en-la-pampilla-de-coquimbo-se-fueron-con-monos-y-petacas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Decomisan 113 kilos de carne en mal estado en Coquimbo en el marco de fiscalizaciones por Fiestas Patrias",
     "enlace": "https://www.elcoquimbano.cl/2026/09/12/decomisan-113-kilos-de-carne-en-mal-estado-en-coquimbo-en-el-marco-de-fiscalizaciones-por-fiestas-patrias/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Estudiantes del Colegio Cristóbal Colón vivieron inesperado encuentro musical con Los Viking’s 5",
-    "enlace": "https://www.elcoquimbano.cl/2026/09/09/estudiantes-del-colegio-cristobal-colon-vivieron-inesperado-encuentro-musical-con-los-vikings-5/",
+    "titulo": "Sector La Pampa de La Serena brilló una vez más en su desfile de Fiestas Patrias",
+    "enlace": "https://www.elserenense.cl/comunales/2026/09/12/sector-la-pampa-de-la-serena-brillo-una-vez-mas-en-su-desfile-de-fiestas-patrias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Remate. Vivienda N° 9, condominio El Molle, acceso por calle Santo Cura de Ars N° 1200, Coquimbo",
@@ -171,11 +180,29 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Funcionaria y consejera de la ULS obtiene segundo lugar en campeonato de karate en México",
-    "enlace": "https://www.elserenense.cl/educacion/2026/09/09/funcionaria-y-consejera-de-la-uls-obtiene-segundo-lugar-en-campeonato-de-karate-en-mexico/",
+    "titulo": "Coquimbo: 113 kilos de carne son decomisados por deficiencias sanitarias",
+    "enlace": "https://laserenaonline.cl/2026/09/12/coquimbo-113-kilos-de-carne-son-decomisados-por-deficiencias-sanitarias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Ovalle se prepara para la puesta en marcha del transporte público 100% eléctrico",
+    "enlace": "https://laserenaonline.cl/2026/09/12/ovalle-se-prepara-para-la-puesta-en-marcha-del-transporte-publico-100-electrico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Colegio Pedro Pablo Muñoz gana la 46° Muestra Comunal de Cueca Escolar de La Higuera",
+    "enlace": "https://laserenaonline.cl/2026/09/12/colegio-pedro-pablo-munoz-gana-la-46-muestra-comunal-de-cueca-escolar-de-la-higuera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -236,33 +263,6 @@
   {
     "titulo": "Un detenido y 1,3 toneladas de machas incautadas en fiscalización en Tongoy",
     "enlace": "https://laserenaonline.cl/2026/09/12/un-detenido-y-13-toneladas-de-machas-incautadas-en-fiscalizacion-en-tongoy/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Carabineros monitorea en terreno avances de la 7ª Comisaría Temporal La Pampilla",
-    "enlace": "https://laserenaonline.cl/2026/09/12/carabineros-monitorea-en-terreno-avances-de-la-7a-comisaria-temporal-la-pampilla/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "OS7 desarticula punto de microtráfico en Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/09/12/os7-desarticula-punto-de-microtrafico-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 12 de septiembre para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/09/12/el-tiempo-hoy-12-de-septiembre-para-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Corte de Apelaciones deja sin efecto orden de desalojo contra cinco familias de El Tambo en Salamanca",
+    "enlace": "https://www.elsalamanquino.cl/2026/09/12/corte-de-apelaciones-deja-sin-efecto-orden-de-desalojo-contra-cinco-familias-de-el-tambo-en-salamanca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Salamanca conmemoró el Día del Dirigente Social con reconocimiento a másde 300 representantes",
     "enlace": "https://www.elsalamanquino.cl/2026/09/10/salamanca-conmemoro-el-dia-del-dirigente-social-con-reconocimiento-a-masde-300-representantes/",
     "descripcion": "",
@@ -992,15 +1001,6 @@
   {
     "titulo": "En Salamanca amplían detención de mujer que será formalizada por homicidio de un adulto mayor",
     "enlace": "https://www.elsalamanquino.cl/2026/08/25/en-salamanca-amplian-detencion-de-mujer-que-sera-formalizada-por-homicidio-de-un-adulto-mayor/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Pronostican nevadas de hasta 70 centímetros en la cordillera de Salamanca y otras comuna de la región",
-    "enlace": "https://www.elsalamanquino.cl/2026/08/24/pronostican-nevadas-de-hasta-70-centimetros-en-la-cordillera-de-salamanca-y-otras-comuna-de-la-region/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Gobierno confirma que hogar donde murieron 16 adultos mayores no tenía autorización para funcionar",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/12/gobierno-confirma-que-hogar-donde-murieron-16-adultos-mayores-no-tenia-autorizacion-para-funcionar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Duro golpe al caso Imperio Ámsterdam: Corte ordena liberar a los 8 imputados en prisión preventiva",
     "enlace": "https://www.atacamanoticias.cl/2026/09/11/duro-golpe-al-caso-imperio-amsterdam-corte-ordena-liberar-a-los-8-imputados-en-prision-preventiva/",
     "descripcion": "",
@@ -1341,26 +1350,17 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "“Lo volverían a hacer”: senadora Cicardini y diputado Manouchehri emplazan a Kast a condenar el Golpe y la Dictadura",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/11/lo-volverian-a-hacer-senadora-cicardini-y-diputado-manouchehri-emplazan-a-kast-a-condenar-el-golpe-y-la-dictadura/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Inédito en democracia: Gobierno no hará acto oficial el 11 de septiembre y Kast tendrá agenda habitual",
     "enlace": "https://www.atacamanoticias.cl/2026/09/10/inedito-en-democracia-gobierno-no-hara-acto-oficial-el-11-de-septiembre-y-kast-tendra-agenda-habitual/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "EEUU declara “organización terrorista” a Los Tiguerones, banda ecuatoriana que asaltó canal de TV",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/10/eeuu-declara-organizacion-terrorista-a-los-tiguerones-banda-ecuatoriana-que-asalto-canal-de-tv/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Leandro Martínez vivió alarmante problema de salud que lo mandó a urgencias: “Pensé que me moriría”",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/10/leandro-martinez-vivio-alarmante-problema-de-salud-que-lo-mando-a-urgencias-pense-que-me-moriria/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Everton golpea en Chillán y se afirma en la pelea por copas internacionales",
+    "enlace": "https://www.maray.cl/deportes/12/09/2026/everton-golpea-en-chillan-y-se-afirma-en-la-pelea-por-copas-internacionales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Cobresal toma un respiro venciendo a Coquimbo Unido en El Salvador",
+    "enlace": "https://www.maray.cl/atacama/12/09/2026/cobresal-toma-un-respiro-venciendo-a-coquimbo-unido-en-el-salvador/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Kast ordena revisar hogares de adultos mayores tras tragedia en Pitrufquén",
+    "enlace": "https://www.maray.cl/pais/12/09/2026/kast-ordena-revisar-hogares-de-adultos-mayores-tras-tragedia-en-pitrufquen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Trump advierte de un “desastre potencial” por Malvinas entre Argentina y Reino Unido",
     "enlace": "https://www.maray.cl/internacional/12/09/2026/trump-advierte-de-un-desastre-potencial-por-malvinas-entre-argentina-y-reino-unido/",
     "descripcion": "",
@@ -1514,33 +1541,6 @@
   {
     "titulo": "Incendio en hogar de adultos mayores deja 16 fallecidos en Pitrufquén",
     "enlace": "https://www.maray.cl/pais/12/09/2026/incendio-en-hogar-de-adultos-mayores-deja-16-fallecidos-en-pitrufquen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Kinross apoyará nueve proyectos comunitarios a través del fondo Paipote Activo 2026",
-    "enlace": "https://www.maray.cl/atacama/12/09/2026/kinross-apoyara-nueve-proyectos-comunitarios-a-traves-del-fondo-paipote-activo-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "SERNAC detectó casi $55 mil de diferencia en la canasta dieciochera",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/12/09/2026/sernac-detecto-casi-55-mil-de-diferencia-en-la-canasta-dieciochera-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Caldera reunió a cerca de 200 deportistas en Campeonato Interregional de Patinaje Artístico",
-    "enlace": "https://www.maray.cl/podcast-de-noticias/12/09/2026/caldera-reunio-a-cerca-de-200-deportistas-en-campeonato-interregional-de-patinaje-artistico-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cummins Chile refuerza su vínculo con el transporte de carga y presenta sus motores en encuentros gremiales",
-    "enlace": "https://g5noticias.cl/2026/09/12/cummins-chile-refuerza-su-vinculo-con-el-transporte-de-carga-y-presenta-sus-motores-en-encuentros-gremiales/",
+    "titulo": "Espacio Food & Service refuerza su conectividad en Espacio Riesco ante una convocatoria que espera superar las 50 mil personas",
+    "enlace": "https://g5noticias.cl/2026/09/12/espacio-food-service-refuerza-su-conectividad-en-espacio-riesco-ante-una-convocatoria-que-espera-superar-las-50-mil-personas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Mesa Nacional de la Avena anuncia Conferencia Internacional de Avena que se realizará en Pucón",
-    "enlace": "https://g5noticias.cl/2026/09/12/mesa-nacional-de-la-avena-anuncia-conferencia-internacional-de-avena-que-se-realizara-en-pucon/",
+    "titulo": "Viña del Mar estacionada. Por Juan Paulo Alarcón, director de Arquitectura, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/09/12/vina-del-mar-estacionada-por-juan-paulo-alarcon-director-de-arquitectura-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Benjamín Hites vuelve a ganar en Nürburgring y queda a 1,5 puntos del líder",
-    "enlace": "https://g5noticias.cl/2026/09/12/benjamin-hites-vuelve-a-ganar-en-nurburgring-y-queda-a-15-puntos-del-lider/",
+    "titulo": "Día Mundial de la Sepsis: reconocer esta emergencia médica y actuar a tiempo puede salvar vidas",
+    "enlace": "https://g5noticias.cl/2026/09/12/dia-mundial-de-la-sepsis-reconocer-esta-emergencia-medica-y-actuar-a-tiempo-puede-salvar-vidas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Mantención. Por Diego Ortiz, Jefe de Postventa de JMC Chile",
-    "enlace": "https://g5noticias.cl/2026/09/12/mantencion-por-diego-ortiz-jefe-de-postventa-de-jmc-chile/",
+    "titulo": "La búsqueda del otro: cineasta y machi exploran su identidad en sensible documental sobre visibilidad y resistencia",
+    "enlace": "https://g5noticias.cl/2026/09/12/la-busqueda-del-otro-cineasta-y-machi-exploran-su-identidad-en-sensible-documental-sobre-visibilidad-y-resistencia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Escuela de Iquique transforma botellas plásticas en material educativo mediante impresión 3D",
-    "enlace": "https://g5noticias.cl/2026/09/12/escuela-de-iquique-transforma-botellas-plasticas-en-material-educativo-mediante-impresion-3d/",
+    "titulo": "Veltis Latam reconoce a trabajadores y contratos por su compromiso e innovación con la seguridad en faena",
+    "enlace": "https://g5noticias.cl/2026/09/12/veltis-latam-reconoce-a-trabajadores-y-contratos-por-su-compromiso-e-innovacion-con-la-seguridad-en-faena/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Salvador Allende Gossens, un humanista socialista. Por Berni Cancino Díaz, Presidenta del Comunal de Viña del Mar, Partido Socialista de Chile",
-    "enlace": "https://g5noticias.cl/2026/09/12/salvador-allende-gossens-un-humanista-socialista-por-berni-cancino-diaz-presidenta-del-comunal-de-vina-del-mar-partido-socialista-de-chile/",
+    "titulo": "Vino chileno: cuando el origen construye una identidad",
+    "enlace": "https://g5noticias.cl/2026/09/12/vino-chileno-cuando-el-origen-construye-una-identidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Redes sociales, smartphones y salud mental: la preocupación que ya cruzó la pantalla y llegó a la vida cotidiana de los chilenos",
-    "enlace": "https://g5noticias.cl/2026/09/12/redes-sociales-smartphones-y-salud-mental-la-preocupacion-que-ya-cruzo-la-pantalla-y-llego-a-la-vida-cotidiana-de-los-chilenos/",
+    "titulo": "No se combate la pobreza con cárcel. Por Solange Veloso, directora de Operación Social Nacional Hogar de Cristo",
+    "enlace": "https://g5noticias.cl/2026/09/12/no-se-combate-la-pobreza-con-carcel-por-solange-veloso-directora-de-operacion-social-nacional-hogar-de-cristo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "UTalca lidera adjudicaciones de proyectos VIU",
-    "enlace": "https://g5noticias.cl/2026/09/12/utalca-lidera-adjudicaciones-de-proyectos-viu/",
+    "titulo": "Algarrobo se prepara para recibir a miles de visitantescon su gran fiesta costumbrista familiar",
+    "enlace": "https://g5noticias.cl/2026/09/12/algarrobo-se-prepara-para-recibir-a-miles-de-visitantescon-su-gran-fiesta-costumbrista-familiar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ñuñoa da el vamos a sus Fiestas Patrias con los Tijerales de la Fonda “Corazón de Chile”",
-    "enlace": "https://g5noticias.cl/2026/09/12/nunoa-da-el-vamos-a-sus-fiestas-patrias-con-los-tijerales-de-la-fonda-corazon-de-chile/",
+    "titulo": "Abogado plantea que el indulto presidencial y la amnistía afectan la separación de poderes del Estado",
+    "enlace": "https://g5noticias.cl/2026/09/12/abogado-plantea-que-el-indulto-presidencial-y-la-amnistia-afectan-la-separacion-de-poderes-del-estado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Analista internacional sobre el Estrecho de Magallanes: “Chile debe vigilar y evitar que escalen las declaraciones argentinas”",
-    "enlace": "https://g5noticias.cl/2026/09/12/analista-internacional-sobre-el-estrecho-de-magallanes-chile-debe-vigilar-y-evitar-que-escalen-las-declaraciones-argentinas/",
+    "titulo": "Subsecretaria de Previsión Social, director del ISL y autoridades de la cartera lanzan campaña nacional: “Fonda Protegida: Seguridad compartida”",
+    "enlace": "https://g5noticias.cl/2026/09/12/subsecretaria-de-prevision-social-director-del-isl-y-autoridades-de-la-cartera-lanzan-campana-nacional-fonda-protegida-seguridad-compartida/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
