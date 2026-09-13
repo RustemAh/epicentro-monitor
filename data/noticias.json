@@ -270,6 +270,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Coquimbo. Colisión fronto lateral de dos vehículos deja 2 lesionados",
+    "enlace": "https://serenaycoquimbo.cl/coquimbo-colision-fronto-lateral-de-dos-vehiculos-deja-2-lesionados/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-colision-fronto-lateral-de-dos-vehiculos-deja-2-lesionados",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Coquimbo. Colisión de alta energía entre dos vehículos menores",
+    "enlace": "https://serenaycoquimbo.cl/coquimbo-colision-de-alta-energia-entre-dos-vehiculos-menores/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-colision-de-alta-energia-entre-dos-vehiculos-menores",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Nacional. 16 adultos mayores fallecen en voraz incendio que afectó a residencia",
     "enlace": "https://serenaycoquimbo.cl/nacional-16-adultos-mayores-fallecen-en-voraz-incendio-que-afecto-a-residencia/?utm_source=rss&utm_medium=rss&utm_campaign=nacional-16-adultos-mayores-fallecen-en-voraz-incendio-que-afecto-a-residencia",
     "descripcion": "",
@@ -335,24 +353,6 @@
   {
     "titulo": "Más de 370 estudiantes de Monte Patria recibieron computadores de la Beca TIC",
     "enlace": "https://serenaycoquimbo.cl/mas-de-370-estudiantes-de-monte-patria-recibieron-computadores-de-la-beca-tic/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-370-estudiantes-de-monte-patria-recibieron-computadores-de-la-beca-tic",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Autoridad Sanitaria realiza decomiso de 67 kilos de carne en Coquimbo",
-    "enlace": "https://serenaycoquimbo.cl/autoridad-sanitaria-realiza-decomiso-de-67-kilos-de-carne-en-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=autoridad-sanitaria-realiza-decomiso-de-67-kilos-de-carne-en-coquimbo",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Región Coquimbo. Conozca el agua lluvia caída hasta las 21:15 de hoy jueves. En una localidad cayeron 12.5 mm",
-    "enlace": "https://serenaycoquimbo.cl/region-coquimbo-conozca-el-agua-lluvia-caida-hasta-las-2115-de-hoy-jueves-en-una-localidad-cayeron-12-5-mm/?utm_source=rss&utm_medium=rss&utm_campaign=region-coquimbo-conozca-el-agua-lluvia-caida-hasta-las-2115-de-hoy-jueves-en-una-localidad-cayeron-12-5-mm",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1728,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Deudas y salud mental: 31,5% presenta síntomas depresivos ante un endeudamiento complicado",
-    "enlace": "https://g5noticias.cl/2026/09/12/deudas-y-salud-mental-315-presenta-sintomas-depresivos-ante-un-endeudamiento-complicado/",
+    "titulo": "El próximo negocio digital puede estar escondido en una planilla. Por Ignacio Allendes, fundador de Proyecto Impacto Apps",
+    "enlace": "https://g5noticias.cl/2026/09/12/el-proximo-negocio-digital-puede-estar-escondido-en-una-planilla-por-ignacio-allendes-fundador-de-proyecto-impacto-apps/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chile y déficit de vitamina D; el huevo ofrece nutrición clave y económica",
-    "enlace": "https://g5noticias.cl/2026/09/12/chile-y-deficit-de-vitamina-d-el-huevo-ofrece-nutricion-clave-y-economica/",
+    "titulo": "Universidad Católica derrotó a Palestino en La Cisterna y queda segunda en la tabla de Primera",
+    "enlace": "https://g5noticias.cl/2026/09/12/universidad-catolica-derroto-a-palestino-en-la-cisterna-y-queda-segunda-en-la-tabla-de-primera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Inversión en riego mejora la seguridad hídrica y calidad de vida de agricultor de Ovalle",
-    "enlace": "https://g5noticias.cl/2026/09/12/inversion-en-riego-mejora-la-seguridad-hidrica-y-calidad-de-vida-de-agricultor-de-ovalle/",
+    "titulo": "Despedir con utilidades. Por Nelson Lay, académico de Psicología, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/09/12/despedir-con-utilidades-por-nelson-lay-academico-de-psicologia-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Escuchar mejor para favorecer su calidad de vida: Junaeb entrega audífonos a estudiantes de Calama",
-    "enlace": "https://g5noticias.cl/2026/09/12/escuchar-mejor-para-favorecer-su-calidad-de-vida-junaeb-entrega-audifonos-a-estudiantes-de-calama/",
+    "titulo": "Con masivo público y emotiva presentación de Los Cuatro Cuartos, Villa Alemana celebró cierre de tradicional concurso de empanadas",
+    "enlace": "https://g5noticias.cl/2026/09/12/con-masivo-publico-y-emotiva-presentacion-de-los-cuatro-cuartos-villa-alemana-celebro-cierre-de-tradicional-concurso-de-empanadas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cristián León lidera la primera jornada del Senior Pro Tour en Quintay",
-    "enlace": "https://g5noticias.cl/2026/09/12/cristian-leon-lidera-la-primera-jornada-del-senior-pro-tour-en-quintay/",
+    "titulo": "Investigación del OS9 de Carabineros permite detener a 13 personas y recuperar carga de carne",
+    "enlace": "https://g5noticias.cl/2026/09/12/investigacion-del-os9-de-carabineros-permite-detener-a-13-personas-y-recuperar-carga-de-carne/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Automatismo de Acciona Energía implementado en Chile recibe reconocimiento internacional",
-    "enlace": "https://g5noticias.cl/2026/09/12/automatismo-de-acciona-energia-implementado-en-chile-recibe-reconocimiento-internacional/",
+    "titulo": "OMODA | JAECOO acelera la carrera por las baterías de estado sólido y proyecta una nueva generación de movilidad inteligente",
+    "enlace": "https://g5noticias.cl/2026/09/12/omoda-jaecoo-acelera-la-carrera-por-las-baterias-de-estado-solido-y-proyecta-una-nueva-generacion-de-movilidad-inteligente/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Nothing reinventa su experiencia móvil con actualización Nothing OS 5.0, más personal, inteligente y fluido",
-    "enlace": "https://g5noticias.cl/2026/09/12/nothing-reinventa-su-experiencia-movil-con-actualizacion-nothing-os-5-0-mas-personal-inteligente-y-fluido/",
+    "titulo": "Rybakina derrotó a Sabalenka en la final del US Open y será la nueva número uno del mundo",
+    "enlace": "https://g5noticias.cl/2026/09/12/rybakina-derroto-a-sabalenka-en-la-final-del-us-open-y-sera-la-nueva-numero-uno-del-mundo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más eficiencia y menos riesgos: la gran encrucijada minera que depende de los datos",
-    "enlace": "https://g5noticias.cl/2026/09/12/mas-eficiencia-y-menos-riesgos-la-gran-encrucijada-minera-que-depende-de-los-datos/",
+    "titulo": "¿Qué pasa cuando las matemáticas no alcanzan para la vida diaria? El desafío que deja PISA en Chile",
+    "enlace": "https://g5noticias.cl/2026/09/12/que-pasa-cuando-las-matematicas-no-alcanzan-para-la-vida-diaria-el-desafio-que-deja-pisa-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El médico veterinario como bien público. Por Mario Morales Director Carrera de Medicina Veterinaria Universidad de Las Américas, Sede Concepción",
-    "enlace": "https://g5noticias.cl/2026/09/12/el-medico-veterinario-como-bien-publico-por-mario-morales-director-carrera-de-medicina-veterinaria-universidad-de-las-americas-sede-concepcion/",
+    "titulo": "Viviendas sin IVA y el verdadero alcance del descuento. Por Juan Enrique González Gain, arquitecto, agente inmobiliario y socio fundador de Valor Raíz",
+    "enlace": "https://g5noticias.cl/2026/09/12/viviendas-sin-iva-y-el-verdadero-alcance-del-descuento-por-juan-enrique-gonzalez-gain-arquitecto-agente-inmobiliario-y-socio-fundador-de-valor-raiz/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "De la investigación al terreno: PROA I+D 3 extiende convocatoria para validar tecnologías junto a la Armada",
-    "enlace": "https://g5noticias.cl/2026/09/12/de-la-investigacion-al-terreno-proa-id-3-extiende-convocatoria-para-validar-tecnologias-junto-a-la-armada/",
+    "titulo": "El Team Chile está listo para debutar en los Juegos Suramericanos Santa Fe 2026",
+    "enlace": "https://g5noticias.cl/2026/09/12/el-team-chile-esta-listo-para-debutar-en-los-juegos-suramericanos-santa-fe-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
