@@ -450,6 +450,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "ObituarioHOY del martes 15 de septiembre",
+    "enlace": "https://ovallehoy.cl/obituariohoy-del-martes-15-de-septiembre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Entregan viviendas a 67 familias de Los Vilos tras 16 años de espera",
     "enlace": "https://ovallehoy.cl/entregan-viviendas-a-67-familias-de-los-vilos-tras-16-anos-de-espera/",
     "descripcion": "",
@@ -524,15 +533,6 @@
   {
     "titulo": "Inversión en riego tecnificado optimiza producción agrícola y mejora calidad de vida de productor en Sotaquí",
     "enlace": "https://ovallehoy.cl/inversion-en-riego-tecnificado-optimiza-produccion-agricola-y-mejora-calidad-de-vida-de-productor-en-sotaqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del domingo 13 de septiembre",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-domingo-13-de-septiembre/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "[VIDEO] Denuncian que camión municipal botó basura en lugar no autorizado en Caldera",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/15/denuncian-que-camion-municipal-boto-basura-en-lugar-no-autorizado-en-caldera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Trump asegura que el mundo entero deberá “reembolsar” dinero a EEUU por costos de la crisis en Ormuz",
     "enlace": "https://www.atacamanoticias.cl/2026/09/14/__trashed-11/",
     "descripcion": "",
@@ -1359,13 +1368,67 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "“No le tengo mucha confianza”: Quiroz fustiga “récord” fiscal de Marcel tras críticas por el Mepco",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/14/no-le-tengo-mucha-confianza-quiroz-fustiga-record-fiscal-de-marcel-tras-criticas-por-el-mepco/",
+    "titulo": "Juan “Pistola”; sobrevivir a la calle: La importante labor por los más desvalidos del Hogar de Cristo en Vallenar",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/juan-pistola-sobrevivir-a-la-calle-la-importante-labor-por-los-mas-desvalidos-del-hogar-de-cristo-en-vallenar/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Carabineros detiene a tres personas en procedimientos por porte de arma adaptada y microtráfico en Huasco y Vallenar",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/carabineros-detiene-a-tres-personas-en-procedimientos-por-porte-de-arma-adaptada-y-microtrafico-en-huasco-y-vallenar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Agricultura y Salud realizan fiscalización conjunta a carnicerías en fiestas patrias",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/agricultura-y-salud-realizan-fiscalizacion-conjunta-a-carnicerias-en-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Carabineros detuvo un conductor que circulaba con 2,06 gramos de alcohol en la sangre en Alto del Carmen",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/carabineros-detuvo-un-conductor-que-circulaba-con-206-gramos-de-alcohol-en-la-sangre-en-alto-del-carmen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Lanzan “Circuito Patrimonial Costero Freirina – La Higuera”: Iniciativa birregional potencia el turismo en el Norte Chico de Chile",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/lanzan-circuito-patrimonial-costero-freirina-la-higuera-iniciativa-birregional-potencia-el-turismo-en-el-norte-chico-de-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Llaman a donar sangre ante posible disminución de reservas durante Fiestas Patrias",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/llaman-a-donar-sangre-ante-posible-disminucion-de-reservas-durante-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "El Noticiero del Huasco, martes 15 de septiembre de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/el-noticiero-del-huasco-martes-15-de-septiembre-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
     "titulo": "El Noticiero del Huasco, lunes 14 de septiembre de 2026",
@@ -1388,69 +1451,6 @@
   {
     "titulo": "Operativo MT-0 permitió la detención de tres personas en caleta Los Pozos",
     "enlace": "https://elnoticierodelhuasco.cl/2026/09/operativo-mt-0-permitio-la-detencion-de-tres-personas-en-caleta-los-pozos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "SAR Altiplano Norte de Vallenar inicia marcha blanca como el primer recinto de alta resolutividad de la provincia del Huasco",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/09/sar-altiplano-norte-de-vallenar-inicia-marcha-blanca-como-el-primer-recinto-de-alta-resolutividad-de-la-provincia-del-huasco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "CESFAM de Freirina fortalece sus instalaciones de rehabilitación y proyecta aumentar en 20% su cobertura",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/09/cesfam-de-freirina-fortalece-sus-instalaciones-de-rehabilitacion-y-proyecta-aumentar-en-20-su-cobertura/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Casi la mitad de los estudiantes de Atacama tienen ausentismo crónico",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/09/casi-la-mitad-de-los-estudiantes-de-atacama-tienen-ausentismo-cronico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Bono Extraordinario de Apoyo a la Niñez beneficiará a más de 42 mil niños en Atacama y se pagará antes de Fiestas Patrias",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/09/bono-extraordinario-de-apoyo-a-la-ninez-beneficiara-a-mas-de-42-mil-ninos-en-atacama-y-se-pagara-antes-de-fiestas-patrias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Menos pie y más plazo: Delegada Sofía Cid destaca proyecto para facilitar el acceso a la casa propia",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/09/menos-pie-y-mas-plazo-delegada-sofia-cid-destaca-proyecto-para-facilitar-el-acceso-a-la-casa-propia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "Casi 55 mil pesos de diferencia en la canasta dieciochera detectó el Sernac",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/09/casi-55-mil-pesos-de-diferencia-en-la-canasta-dieciochera-detecto-el-sernac/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Noticiero del Huasco",
-    "zona": "Huasco - Freirina",
-    "cobertura_radio": "Huasco - Freirina 97.1 FM"
-  },
-  {
-    "titulo": "El Noticiero del Huasco, jueves 10 de septiembre de 2026",
-    "enlace": "https://elnoticierodelhuasco.cl/2026/09/el-noticiero-del-huasco-jueves-10-de-septiembre-de-2026/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Noticiero del Huasco",
@@ -1638,6 +1638,51 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-546-2026 «Catalán / Catalán»",
+    "enlace": "https://diariolaquinta.cl/2026/09/15/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-546-2026-catalan-catalan-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-546-2026-catalan-catalan-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-1143-2025 «Etcheber / Véliz»",
+    "enlace": "https://diariolaquinta.cl/2026/09/15/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-1143-2025-etcheber-veliz-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-1143-2025-etcheber-veliz-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[REMATE] El Quisco: Departamento Condominio El Quisco Norte – 24/SEP/2026",
+    "enlace": "https://diariolaquinta.cl/2026/09/15/remate-el-quisco-departamento-condominio-el-quisco-norte-24-sep-2026-3/?utm_source=rss&utm_medium=rss&utm_campaign=remate-el-quisco-departamento-condominio-el-quisco-norte-24-sep-2026-3",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-256-2026 «Silva / Sepúlveda»",
+    "enlace": "https://diariolaquinta.cl/2026/09/15/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-256-2026-silva-sepulveda-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-256-2026-silva-sepulveda-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-214-2026 «Flores / Ulloa»",
+    "enlace": "https://diariolaquinta.cl/2026/09/15/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-214-2026-flores-ulloa-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-214-2026-flores-ulloa-2",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[OPINIÓN] Respuesta a la prensa inmobiliaria y al Gobierno (Patricio Herman)",
     "enlace": "https://diariolaquinta.cl/2026/09/14/opinion-respuesta-a-la-prensa-inmobiliaria-y-al-gobierno-patricio-herman/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-respuesta-a-la-prensa-inmobiliaria-y-al-gobierno-patricio-herman",
     "descripcion": "",
@@ -1683,53 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Quilpué: Cese de alimentos RIT C-1027-2025 «Sepúlveda / Sepúlveda»",
-    "enlace": "https://diariolaquinta.cl/2026/09/14/notificacion-juzgado-de-familia-de-quilpue-cese-de-alimentos-rit-c-1027-2025-sepulveda-sepulveda-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-quilpue-cese-de-alimentos-rit-c-1027-2025-sepulveda-sepulveda-3",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-256-2026 «Silva / Sepúlveda»",
-    "enlace": "https://diariolaquinta.cl/2026/09/14/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-256-2026-silva-sepulveda/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-256-2026-silva-sepulveda",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-214-2026 «Flores / Ulloa»",
-    "enlace": "https://diariolaquinta.cl/2026/09/14/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-214-2026-flores-ulloa/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-214-2026-flores-ulloa",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[OPINIÓN] IA: el genio fuera de la botella (Marcelo Trivelli)",
-    "enlace": "https://diariolaquinta.cl/2026/09/13/opinion-ia-el-genio-fuera-de-la-botella-marcelo-trivelli/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-ia-el-genio-fuera-de-la-botella-marcelo-trivelli",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[OPINIÓN] El poder nunca depone las armas: solo cambia de uniforme (Jorge Bustos)",
-    "enlace": "https://diariolaquinta.cl/2026/09/13/opinion-el-poder-nunca-depone-las-armas-solo-cambia-de-uniforme-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-el-poder-nunca-depone-las-armas-solo-cambia-de-uniforme-jorge-bustos",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Presidente de la Federación de Pescadores Bahía Narau recibió golpiza de cuatro desconocidos en Caleta Embarcadero de Quintero",
-    "enlace": "https://g5noticias.cl/2026/09/15/presidente-de-la-federacion-de-pescadores-bahia-narau-recibio-golpiza-de-cuatro-desconocidos-en-caleta-embarcadero-de-quintero/",
+    "titulo": "Este 18 descubre el Chile que no siempre vemos. Por Janine Valenzuela Directora Escuela de Hotelería y Turismo Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/09/15/este-18-descubre-el-chile-que-no-siempre-vemos-por-janine-valenzuela-directora-escuela-de-hoteleria-y-turismo-universidad-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1737,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiestas Patrias con ahorro: Caja La Araucana ofrece descuentos en gastronomía, parrilla y panoramas para disfrutar en familia",
-    "enlace": "https://g5noticias.cl/2026/09/15/fiestas-patrias-con-ahorro-caja-la-araucana-ofrece-descuentos-en-gastronomia-parrilla-y-panoramas-para-disfrutar-en-familia/",
+    "titulo": "Universidad de Las Américas reúne a actores regionales y nacionales en Primer Encuentro de la Red Intersectorial de Gatekeepers para la Prevención del Suicidio",
+    "enlace": "https://g5noticias.cl/2026/09/15/universidad-de-las-americas-reune-a-actores-regionales-y-nacionales-en-primer-encuentro-de-la-red-intersectorial-de-gatekeepers-para-la-prevencion-del-suicidio/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1746,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "FACH y sector agrícola despliegan tercer puente aéreo en apoyo a agricultores de Lago Vidal Gormaz en Cochamó",
-    "enlace": "https://g5noticias.cl/2026/09/15/fach-y-sector-agricola-despliegan-tercer-puente-aereo-en-apoyo-a-agricultores-de-lago-vidal-gormaz-en-cochamo/",
+    "titulo": "Desde cómo cargar el auto hasta qué hacer ante una tormenta eléctrica: 7 claves para viajar seguro este 18",
+    "enlace": "https://g5noticias.cl/2026/09/15/desde-como-cargar-el-auto-hasta-que-hacer-ante-una-tormenta-electrica-7-claves-para-viajar-seguro-este-18/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1755,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«Red Local de Apoyos y Cuidados de Quilpué: La Compañía que Sostiene» llega a las pantallas de Quilpué Online para visibilizar a quienes cuidan",
-    "enlace": "https://g5noticias.cl/2026/09/15/red-local-de-apoyos-y-cuidados-de-quilpue-la-compania-que-sostiene-llega-a-las-pantallas-de-quilpue-online-para-visibilizar-a-quienes-cuidan/",
+    "titulo": "Cómo prevenir el dengue y otras enfermedades transmitidas por mosquitos",
+    "enlace": "https://g5noticias.cl/2026/09/15/como-prevenir-el-dengue-y-otras-enfermedades-transmitidas-por-mosquitos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1764,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Cómo sacarle partido a tus datos y cuidar el celular? Las sugerencias de Entel para estas Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/15/como-sacarle-partido-a-tus-datos-y-cuidar-el-celular-las-sugerencias-de-entel-para-estas-fiestas-patrias/",
+    "titulo": "Un Estado facilitador en minería necesita instituciones más fuertes. Por Patricio Cartagena D. Abogado, Presidente de CAMMIN",
+    "enlace": "https://g5noticias.cl/2026/09/15/un-estado-facilitador-en-mineria-necesita-instituciones-mas-fuertes-por-patricio-cartagena-d-abogado-presidente-de-cammin/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1773,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Plan de Zonas de Rezago financiará pavimentación de cinco calles en sectores de Petorca",
-    "enlace": "https://g5noticias.cl/2026/09/15/plan-de-zonas-de-rezago-financiara-pavimentacion-de-cinco-calles-en-sectores-de-petorca/",
+    "titulo": "Especialistas llaman al cuidado de los ojos en Fiestas Patrias",
+    "enlace": "https://g5noticias.cl/2026/09/15/especialistas-llaman-al-cuidado-de-los-ojos-en-fiestas-patrias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Caja 18 lanza descuento de $200 por litro de bencina en semana de Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/15/caja-18-lanza-descuento-de-200-por-litro-de-bencina-en-semana-de-fiestas-patrias/",
+    "titulo": "Camiones JAC apoyan al transporte de las pymes con nueva Serie N para hacer más eficiente y seguro sus viajes",
+    "enlace": "https://g5noticias.cl/2026/09/15/camiones-jac-apoyan-al-transporte-de-las-pymes-con-nueva-serie-n-para-hacer-mas-eficiente-y-seguro-sus-viajes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Delegación china del ámbito editorial y educativo visita el ICST en Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/09/15/delegacion-china-del-ambito-editorial-y-educativo-visita-el-icst-en-vina-del-mar/",
+    "titulo": "Contaminación del aire: el peligro cotidiano que Chile comienza a normalizar",
+    "enlace": "https://g5noticias.cl/2026/09/15/contaminacion-del-aire-el-peligro-cotidiano-que-chile-comienza-a-normalizar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 400 mil vehículos saldrán de Santiago por Fiestas Patrias: experto advierte sobre colisiones por alcance y conducción bajo efectos del alcohol",
-    "enlace": "https://g5noticias.cl/2026/09/15/mas-de-400-mil-vehiculos-saldran-de-santiago-por-fiestas-patrias-experto-advierte-sobre-colisiones-por-alcance-y-conduccion-bajo-efectos-del-alcohol/",
+    "titulo": "La inteligencia artificial también se alimenta de electricidad. Por Cristóbal Parrado – Investigador Centro de Transformación Energética UNAB",
+    "enlace": "https://g5noticias.cl/2026/09/15/la-inteligencia-artificial-tambien-se-alimenta-de-electricidad-por-cristobal-parrado-investigador-centro-de-transformacion-energetica-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 150 organizaciones de la sociedad civil llaman a rechazar proyecto de ley que crea estado de excepción",
-    "enlace": "https://g5noticias.cl/2026/09/15/mas-de-150-organizaciones-de-la-sociedad-civil-llaman-a-rechazar-proyecto-de-ley-que-crea-estado-de-excepcion/",
+    "titulo": "Autoplanet renueva su sitio web: buscar y comprar repuestos ahora es más fácil que nunca",
+    "enlace": "https://g5noticias.cl/2026/09/15/autoplanet-renueva-su-sitio-web-buscar-y-comprar-repuestos-ahora-es-mas-facil-que-nunca/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,6 +1908,42 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Vialidad justifica la rotonda por sobre la semaforización  en el “cruce de la muerte” tras reclamo de concejal",
+    "enlace": "https://laprensaaustral.cl/2026/09/15/vialidad-justifica-la-rotonda-por-sobre-la-semaforizacion-en-el-cruce-de-la-muerte-tras-reclamo-de-concejal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Bienes Nacionales echa pie atrás a decisión  de vender dos islas en Tierra del Fuego",
+    "enlace": "https://laprensaaustral.cl/2026/09/15/bienes-nacionales-echa-pie-atras-a-decision-de-vender-dos-islas-en-tierra-del-fuego/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Sepultaron a pescador fallecido en el Estrecho",
+    "enlace": "https://laprensaaustral.cl/2026/09/15/sepultaron-a-pescador-fallecido-en-el-estrecho/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "“Obviamente que queremos justicia, así podrá descansar en paz su alma”, afirmó hija de peatón muerto en atropello camino al Andino",
+    "enlace": "https://laprensaaustral.cl/2026/09/15/obviamente-que-queremos-justicia-asi-podra-descansar-en-paz-su-alma-afirmo-hija-de-peaton-muerto-en-atropello-camino-al-andino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Municipio despliega equipos ante nueva nevada en Punta Arenas",
     "enlace": "https://laprensaaustral.cl/2026/09/14/municipio-despliega-equipos-ante-nueva-nevada-en-punta-arenas/",
     "descripcion": "",
@@ -1955,42 +1991,6 @@
   {
     "titulo": "Solberg se quedó con el WRC Rally Chile en Biobío",
     "enlace": "https://laprensaaustral.cl/2026/09/14/solberg-se-quedo-con-el-wrc-rally-chile-en-biobio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Magallánicos buscan clasificar a Juegos Mundiales Paralímpicos Santiago 2027",
-    "enlace": "https://laprensaaustral.cl/2026/09/14/magallanicos-buscan-clasificar-a-juegos-mundiales-paralimpicos-santiago-2027/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Barrio Sur se cargó de ilusión en cuadrangular del Yungay: le ganó a la “18” por 2-0 en la final",
-    "enlace": "https://laprensaaustral.cl/2026/09/14/barrio-sur-se-cargo-de-ilusion-en-cuadrangular-del-yungay-le-gano-a-la-18-por-2-0-en-la-final/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Insólito autogol salva a Colo Colo y la “U” golea",
-    "enlace": "https://laprensaaustral.cl/2026/09/14/insolito-autogol-salva-a-colo-colo-y-la-u-golea/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Escocia, Gales e Irlanda del Norte preparan estrategia  común para independizarse del Reino Unido",
-    "enlace": "https://laprensaaustral.cl/2026/09/14/escocia-gales-e-irlanda-del-norte-preparan-estrategia-comun-para-independizarse-del-reino-unido/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
