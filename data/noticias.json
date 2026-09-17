@@ -1638,6 +1638,24 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[OPINIÓN] TCVAL: ahora comienza la batalla jurídica (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/09/17/opinion-tcval-ahora-comienza-la-batalla-juridica-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-tcval-ahora-comienza-la-batalla-juridica-jorge-bustos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[OPINIÓN] Chile es mucho más que fondas, asados y cuecas (Marcelo Trivelli)",
+    "enlace": "https://diariolaquinta.cl/2026/09/17/opinion-chile-es-mucho-mas-que-fondas-asados-y-cuecas-marcelo-trivelli/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-chile-es-mucho-mas-que-fondas-asados-y-cuecas-marcelo-trivelli",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[REMATE] El Quisco: Departamento Condominio El Quisco Norte – 24/SEP/2026",
     "enlace": "https://diariolaquinta.cl/2026/09/17/remate-el-quisco-departamento-condominio-el-quisco-norte-24-sep-2026-4/?utm_source=rss&utm_medium=rss&utm_campaign=remate-el-quisco-departamento-condominio-el-quisco-norte-24-sep-2026-4",
     "descripcion": "",
@@ -1710,21 +1728,66 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-256-2026 «Silva / Sepúlveda»",
-    "enlace": "https://diariolaquinta.cl/2026/09/16/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-256-2026-silva-sepulveda-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-256-2026-silva-sepulveda-3",
+    "titulo": "El simple chequeo de 10 minutos que evitará que arruines tu viaje en Fiestas Patrias",
+    "enlace": "https://g5noticias.cl/2026/09/17/el-simple-chequeo-de-10-minutos-que-evitara-que-arruines-tu-viaje-en-fiestas-patrias/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-214-2026 «Flores / Ulloa»",
-    "enlace": "https://diariolaquinta.cl/2026/09/16/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-214-2026-flores-ulloa-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-214-2026-flores-ulloa-3",
+    "titulo": "PISA: más allá del puntaje. Por René Valdés, investigador Laboratorio para el Aprendizaje, Universidad Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/09/17/pisa-mas-alla-del-puntaje-por-rene-valdes-investigador-laboratorio-para-el-aprendizaje-universidad-andres-bello/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Presidente Kast recibió en audiencia al embajador de los EE.UU en los días previos a la Asamblea General de la ONU",
+    "enlace": "https://g5noticias.cl/2026/09/17/presidente-kast-recibio-en-audiencia-al-embajador-de-los-ee-uu-en-los-dias-previos-a-la-asamblea-general-de-la-onu/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Rechazan amparo que buscaba cumplimiento de condenas de Iturriaga Neumann en su casa",
+    "enlace": "https://g5noticias.cl/2026/09/17/rechazan-amparo-que-buscaba-cumplimiento-de-condenas-de-iturriaga-neumann-en-su-casa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "EFE posterga la construcción y declara desierto tramo soterrado para priorizar obras en curso del tren a Melipilla",
+    "enlace": "https://g5noticias.cl/2026/09/17/efe-posterga-la-construccion-y-declara-desierto-tramo-soterrado-para-priorizar-obras-en-curso-del-tren-a-melipilla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "“Adiós Mundo Cruel” llena el Teatro del Parque Cultural y desata las carcajadas de niños, niñas y familias",
+    "enlace": "https://g5noticias.cl/2026/09/17/adios-mundo-cruel-llena-el-teatro-del-parque-cultural-y-desata-las-carcajadas-de-ninos-ninas-y-familias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "El Team Chile supera las 50 medallas en los Juegos Suramericanos Santa Fe 2026",
+    "enlace": "https://g5noticias.cl/2026/09/17/el-team-chile-supera-las-50-medallas-en-los-juegos-suramericanos-santa-fe-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
@@ -1748,69 +1811,6 @@
   {
     "titulo": "Fiestas Patrias: un decálogo para que los niños viajen seguros en automóvil",
     "enlace": "https://g5noticias.cl/2026/09/17/fiestas-patrias-un-decalogo-para-que-los-ninos-viajen-seguros-en-automovil/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Juzgado de Calama decreta la prisión preventiva de imputados por homicidio consumado y frustrados",
-    "enlace": "https://g5noticias.cl/2026/09/17/juzgado-de-calama-decreta-la-prision-preventiva-de-imputados-por-homicidio-consumado-y-frustrados/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Con inauguración de fondas y ramadas del Parque Alejo Barrios se dio el vamos a la celebración de Fiestas Patrias en Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/09/17/con-inauguracion-de-fondas-y-ramadas-del-parque-alejo-barrios-se-dio-el-vamos-a-la-celebracion-de-fiestas-patrias-en-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Corte de Santiago ordena la reserva de correos electrónicos de exasesor presidencial Miguel Crispi",
-    "enlace": "https://g5noticias.cl/2026/09/17/corte-de-santiago-ordena-la-reserva-de-correos-electronicos-de-exasesor-presidencial-miguel-crispi/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Mayor seguridad para alcaldes: mociones apuntan a evitar más amenazas de muerte",
-    "enlace": "https://g5noticias.cl/2026/09/17/mayor-seguridad-para-alcaldes-mociones-apuntan-a-evitar-mas-amenazas-de-muerte/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Escuchar en Fiestas Patrias. Por Víctor Astudillo, Fonoaudiólogo GAES",
-    "enlace": "https://g5noticias.cl/2026/09/17/escuchar-en-fiestas-patrias-por-victor-astudillo-fonoaudiologo-gaes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Decomisan más de 1.300 litros de alcohol en fiesta sin permisos en Antofagasta",
-    "enlace": "https://g5noticias.cl/2026/09/17/decomisan-mas-de-1-300-litros-de-alcohol-en-fiesta-sin-permisos-en-antofagasta/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Joe Vasconcellos garantiza show de clásicos para la Fiesta Criolla de Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/09/17/joe-vasconcellos-garantiza-show-de-clasicos-para-la-fiesta-criolla-de-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
