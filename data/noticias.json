@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Con música, cueca, chubascos y solidaridad, Coquimbo inauguró La Pampilla 2026",
+    "enlace": "https://www.elcoquimbano.cl/2026/09/18/con-musica-cueca-chubascos-y-solidaridad-coquimbo-inauguro-la-pampilla-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "“Que celebrar no nos cueste la vida”: SAMU Coquimbo llama a la prevención y responsabilidad en Fiestas Patrias",
     "enlace": "https://www.elcoquimbano.cl/2026/09/17/que-celebrar-no-nos-cueste-la-vida-samu-coquimbo-llama-a-la-prevencion-y-responsabilidad-en-fiestas-patrias/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "SEREMI de Energía y SEC fiscalizan instalaciones eléctricas en la Pampilla de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/09/14/seremi-de-energia-y-sec-fiscalizan-instalaciones-electricas-en-la-pampilla-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Impulsan recuperación de especies nativas amenazadas en El Panul",
-    "enlace": "https://www.elcoquimbano.cl/2026/09/14/impulsan-recuperacion-de-especies-nativas-amenazadas-en-el-panul/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "¿De dónde viene la cueca? La historia de un baile que recorre Sudamérica",
+    "enlace": "https://laserenaonline.cl/2026/09/18/de-donde-viene-la-cueca-la-historia-de-un-baile-que-recorre-sudamerica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Más de 800 fiscalizaciones a vehículos y 4 detenidos por contrabando de cigarrillos en operativo carretero en la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/09/18/mas-de-800-fiscalizaciones-a-vehiculos-y-4-detenidos-por-contrabando-de-cigarrillos-en-operativo-carretero-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Fiestas Patrias con responsabilidad: que celebrar no nos cueste la vida",
+    "enlace": "https://laserenaonline.cl/2026/09/18/fiestas-patrias-con-responsabilidad-que-celebrar-no-nos-cueste-la-vida/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "La Pampilla 2026 abrió sus puertas con una masiva fiesta ciudadana marcada por la solidaridad",
     "enlace": "https://laserenaonline.cl/2026/09/18/la-pampilla-2026-abrio-sus-puertas-con-una-masiva-fiesta-ciudadana-marcada-por-la-solidaridad/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Cómo migrar una central telefónica analógica a telefonía IP sin interrumpir la atención",
     "enlace": "https://laserenaonline.cl/2026/09/18/como-migrar-una-central-telefonica-analogica-a-telefonia-ip-sin-interrumpir-la-atencion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "¡Con el olfato en la prevención! Spot, Noemí y Franco se suman a despliegues de Carabineros en estas Fiestas Patrias",
-    "enlace": "https://laserenaonline.cl/2026/09/18/con-el-olfato-en-la-prevencion-spot-noemi-y-franco-se-suman-a-despliegues-de-carabineros-en-estas-fiestas-patrias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "PDI detiene a seis personas en intervención antidrogas en población O’Higgins de Vicuña",
-    "enlace": "https://laserenaonline.cl/2026/09/18/pdi-detiene-a-seis-personas-en-intervencion-antidrogas-en-poblacion-ohiggins-de-vicuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "PDI fiscalizó a extranjeros en La Pampilla",
-    "enlace": "https://laserenaonline.cl/2026/09/18/pdi-fiscalizo-a-extranjeros-en-la-pampilla/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -630,6 +630,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Combarbalá inauguró fondas y ramadas: Hubo Chubascos este 18 de septiembre",
+    "enlace": "https://www.elcombarbalino.cl/2026/09/18/combarbala-inauguro-fondas-y-ramadas-hubo-chubascos-este-18-de-septiembre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Entregan nuevo camión aljibe para fortalecer abastecimiento de agua potable en Combarbalá",
     "enlace": "https://www.elcombarbalino.cl/2026/09/14/entregan-nuevo-camion-aljibe-para-fortalecer-abastecimiento-de-agua-potable-en-combarbala/",
     "descripcion": "",
@@ -704,15 +713,6 @@
   {
     "titulo": "Ramadilla en Combarbalá vivió con emoción la tradicional Fiesta de la Virgen del Carmen",
     "enlace": "https://www.elcombarbalino.cl/2026/08/25/ramadilla-en-combarbala-vivio-con-emocion-la-tradicional-fiesta-de-la-virgen-del-carmen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Combarbalá lideró compras de emergencia en la región según informe del Consejo para la Transparencia que analizó año 2024",
-    "enlace": "https://www.elcombarbalino.cl/2026/08/24/combarbala-lidero-compras-de-emergencia-en-la-region-segun-informe-del-consejo-para-la-transparencia-que-analizo-ano-2024/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -1008,6 +1008,105 @@
     "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
+    "titulo": "Los Vilos entregará 67 viviendas sociales tras más de una década sin nuevos proyectos",
+    "enlace": "https://losviloschile.cl/social/los-vilos-entregara-67-viviendas-sociales-tras-mas-de-una-decada-sin-nuevos-proyectos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Refuerzan fiscalización vehicular en Pichidangui previo a Fiestas Patrias",
+    "enlace": "https://losviloschile.cl/actualidad/refuerzan-fiscalizacion-vehicular-en-pichidangui-previo-a-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos culmina limpieza y recuperación del borde costero de Pichidangui tras sistema frontal",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-culmina-limpieza-y-recuperacion-del-borde-costero-de-pichidangui-tras-sistema-frontal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos presenta programación de Fiestas Patrias con actividades en sectores urbanos y rurales",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-presenta-programacion-de-fiestas-patrias-con-actividades-en-sectores-urbanos-y-rurales/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos invierte $5,5 millones en cuatro generadores para establecimientos de salud",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-invierte-55-millones-en-cuatro-generadores-para-establecimientos-de-salud/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Vialidad proyecta nuevo puente en Tilama y evalúa reparar actual estructura tras daños por lluvias",
+    "enlace": "https://losviloschile.cl/actualidad/vialidad-proyecta-nuevo-puente-en-tilama-y-evalua-reparar-actual-estructura-tras-danos-por-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos realiza estudios de agua en Caimanes, Pupío y Los Vilos tras derrame en estero Pupío",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-realiza-estudios-de-agua-en-caimanes-pupio-y-los-vilos-tras-derrame-en-estero-pupio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Aprueban inmueble en Independencia para futura residencia gratuita de estudiantes de Los Vilos",
+    "enlace": "https://losviloschile.cl/educacion/aprueban-inmueble-en-independencia-para-futura-residencia-gratuita-de-estudiantes-de-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Estudiantes de Canela clasifican entre los 15 proyectos de la Feria Antártica Escolar 2026",
+    "enlace": "https://losviloschile.cl/canela/estudiantes-de-canela-clasifican-entre-los-15-proyectos-de-la-feria-antartica-escolar-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Los Vilos lleva situación del Valle de Pupío al Senado y pide fiscalización de El Mauro",
+    "enlace": "https://losviloschile.cl/actualidad/los-vilos-lleva-situacion-del-valle-de-pupio-al-senado-y-pide-fiscalizacion-de-el-mauro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario de Los Vilos",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Andacollo de luto: Falleció Erick Martínez, la voz de las canciones litúrgicas en el Santuario de la Virgen",
+    "enlace": "https://www.elandacollino.cl/2026/09/18/andacollo-de-luto-fallecio-erick-martinez-la-voz-de-las-canciones-liturgicas-en-el-santuario-de-la-virgen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Andacollo dio el vamos a las Fiestas Patrias con una gran Fiesta de la Chilenidad en calle Urmeneta",
     "enlace": "https://www.elandacollino.cl/2026/09/17/andacollo-dio-el-vamos-a-las-fiestas-patrias-con-una-gran-fiesta-de-la-chilenidad-en-calle-urmeneta/",
     "descripcion": "",
@@ -1082,15 +1181,6 @@
   {
     "titulo": "Galantas inicia campaña de perforación de 15.000 metros en proyecto Andacollo Gold",
     "enlace": "https://www.elandacollino.cl/2026/09/10/galantas-inicia-campana-de-perforacion-de-15-000-metros-en-proyecto-andacollo-gold/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "“La Talentosa” volvió a reunir a los artistas y vecinos de Andacollo en torno a la música, el baile y la cultura local",
-    "enlace": "https://www.elandacollino.cl/2026/09/09/la-talentosa-volvio-a-reunir-a-los-artistas-y-vecinos-de-andacollo-en-torno-a-la-musica-el-baile-y-la-cultura-local/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1188,6 +1278,42 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Fatal atropello : Conductor sería un gendarme y fue detenido cerca de una comisaría tras muerte de ciclista",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/18/fatal-atropello-conductor-seria-un-gendarme-y-fue-detenido-cerca-de-una-comisaria-tras-muerte-de-ciclista/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Guerra entre Ucrania y Rusia: ONU denuncia violencia sexual sistemática hacia civiles y prisioneros",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/18/guerra-entre-ucrania-y-rusia-onu-denuncia-violencia-sexual-sistematica-hacia-civiles-y-prisioneros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Medio canadiense critica a Alexis Sánchez y se ríe por apodo de “James Bond 007” tras opaco desempeño",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/18/medio-canadiense-critica-a-alexis-sanchez-y-se-rie-por-apodo-de-james-bond-007-tras-opaco-desempeno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Arzobispo Chomalí llamó a la unidad política y a combatir la corrupción en TeDeum Ecuménico",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/18/arzobispo-chomali-llamo-a-la-unidad-politica-y-a-combatir-la-corrupcion-en-tedeum-ecumenico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "No hubo “fonda entre todos los ministros”: quiénes llegaron a la fotografía oficial de septiembre",
     "enlace": "https://www.atacamanoticias.cl/2026/09/18/no-hubo-fonda-entre-todos-los-ministros-quienes-llegaron-a-la-fotografia-oficial-de-septiembre/",
     "descripcion": "",
@@ -1235,42 +1361,6 @@
   {
     "titulo": "Biministro Alvarado reitera que Chile “no descuida” ninguna zona tras tensiones con Argentina",
     "enlace": "https://www.atacamanoticias.cl/2026/09/18/biministro-alvarado-reitera-que-chile-no-descuida-ninguna-zona-tras-tensiones-con-argentina/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "“Le dio su sello”: Diana Bolocco y el desafío de reemplazar a Julián Elfenbein en Pasapalabra",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/18/le-dio-su-sello-diana-bolocco-y-el-desafio-de-reemplazar-a-julian-elfenbein-en-pasapalabra/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Estas 10 marcas de autos venden tus datos de manejo para subir tu póliza de seguro sin que lo sepas",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/18/estas-10-marcas-de-autos-venden-tus-datos-de-manejo-para-subir-tu-poliza-de-seguro-sin-que-lo-sepas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "¿Qué está abierto el 18 y 19 de septiembre? Revisa locales que atenderán y cuándo reabrirá el comercio",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/18/que-esta-abierto-el-18-y-19-de-septiembre-revisa-locales-que-atenderan-y-cuando-reabrira-el-comercio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Mapa oficial del Desierto Florido ubicó mal localidades de Atacama y dejó fuera a Vallenar",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/18/mapa-oficial-del-desierto-florido-ubico-mal-localidades-de-atacama-y-dejo-fuera-a-vallenar/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,8 +1728,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiestas Patrias sin sorpresas: lo que hay que saber sobre alcohol y anticoncepción",
-    "enlace": "https://g5noticias.cl/2026/09/18/fiestas-patrias-sin-sorpresas-lo-que-hay-que-saber-sobre-alcohol-y-anticoncepcion/",
+    "titulo": "Que nada arruine la celebración: Claves para conducir seguro este 18",
+    "enlace": "https://g5noticias.cl/2026/09/18/que-nada-arruine-la-celebracion-claves-para-conducir-seguro-este-18/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1647,8 +1737,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La cuota del asado bajo la lupa del SII. Por Carlos Montero Académico Carrera Contador Auditor Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/09/18/la-cuota-del-asado-bajo-la-lupa-del-sii-por-carlos-montero-academico-carrera-contador-auditor-universidad-de-las-americas/",
+    "titulo": "¿Qué pasa si olvidas tomar tus medicamentos durante Fiestas Patrias? Experto advierte riesgos en pacientes crónicos",
+    "enlace": "https://g5noticias.cl/2026/09/18/que-pasa-si-olvidas-tomar-tus-medicamentos-durante-fiestas-patrias-experto-advierte-riesgos-en-pacientes-cronicos-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1656,8 +1746,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "¿Por qué se llama empanada de pino? La historia detrás del clásico de Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/18/por-que-se-llama-empanada-de-pino-la-historia-detras-del-clasico-de-fiestas-patrias/",
+    "titulo": "Factura electrónica: 23 años transformando el financiamiento de las pymes. Por José Tomás Vial, gerente comercial de Vision Capital",
+    "enlace": "https://g5noticias.cl/2026/09/18/factura-electronica-23-anos-transformando-el-financiamiento-de-las-pymes-por-jose-tomas-vial-gerente-comercial-de-vision-capital/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1665,8 +1755,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "José Zagal: “Un país no tiene futuro si no invierte en educación ni cuenta con los presupuestos para desarrollar investigación”",
-    "enlace": "https://g5noticias.cl/2026/09/18/jose-zagal-un-pais-no-tiene-futuro-si-no-invierte-en-educacion-ni-cuenta-con-los-presupuestos-para-desarrollar-investigacion/",
+    "titulo": "Ciberdelincuentes usan falsas colaboraciones para tomar control de cuentas de YouTube en Latinoamérica",
+    "enlace": "https://g5noticias.cl/2026/09/18/ciberdelincuentes-usan-falsas-colaboraciones-para-tomar-control-de-cuentas-de-youtube-en-latinoamerica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1674,8 +1764,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La historia que bailamos cada septiembre. Por José Pedro Hernández Historiador y académico de Universidad de Las Américas",
-    "enlace": "https://g5noticias.cl/2026/09/18/la-historia-que-bailamos-cada-septiembre-por-jose-pedro-hernandez-historiador-y-academico-de-universidad-de-las-americas/",
+    "titulo": "¿Por qué la primavera te cansa?: Los cambios durante esta estación que van más allá de la alergia",
+    "enlace": "https://g5noticias.cl/2026/09/18/por-que-la-primavera-te-cansa-los-cambios-durante-esta-estacion-que-van-mas-alla-de-la-alergia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1683,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Claves para disfrutar las comidas típicas de las Fiestas Patrias sin excesos y volver a la rutina",
-    "enlace": "https://g5noticias.cl/2026/09/18/claves-para-disfrutar-las-comidas-tipicas-de-las-fiestas-patrias-sin-excesos-y-volver-a-la-rutina/",
+    "titulo": "¿Es de Chile la empanada? Por Joel Solorza Director Escuela de Gastronomía Universidad de Las Américas",
+    "enlace": "https://g5noticias.cl/2026/09/18/es-de-chile-la-empanada-por-joel-solorza-director-escuela-de-gastronomia-universidad-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1692,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cartagena refuerza su despliegue de seguridad en Fiestas Patrias con dos nuevas camionetas",
-    "enlace": "https://g5noticias.cl/2026/09/18/cartagena-refuerza-su-despliegue-de-seguridad-en-fiestas-patrias-con-dos-nuevas-camionetas/",
+    "titulo": "Carreteras en peligro por robos de carga en Fiestas Patrias. Por Alfredo Kameid, gerente general de Grupo Kameid",
+    "enlace": "https://g5noticias.cl/2026/09/18/carreteras-en-peligro-por-robos-de-carga-en-fiestas-patrias-por-alfredo-kameid-gerente-general-de-grupo-kameid/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1701,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Con desfile cívico Rinconada dio inicio a la celebración de Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/18/con-desfile-civico-rinconada-dio-inicio-a-la-celebracion-de-fiestas-patrias/",
+    "titulo": "Las tradiciones no se heredan solas. Por Carmen de la Maza, Directora ejecutiva de Fundación ALMA",
+    "enlace": "https://g5noticias.cl/2026/09/18/las-tradiciones-no-se-heredan-solas-por-carmen-de-la-maza-directora-ejecutiva-de-fundacion-alma/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1710,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiestas Patrias: autoridades llaman a celebrar con responsabilidad en la Región de Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/09/18/fiestas-patrias-autoridades-llaman-a-celebrar-con-responsabilidad-en-la-region-de-coquimbo/",
+    "titulo": "GWM Haval H7 Max debuta en Chile con versiones HEV y PHEV",
+    "enlace": "https://g5noticias.cl/2026/09/18/gwm-haval-h7-max-debuta-en-chile-con-versiones-hev-y-phev/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1719,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tierra Amarilla: Fiscalía ordena diligencias investigativas a la Siat por fallecimiento de ciclista",
-    "enlace": "https://g5noticias.cl/2026/09/18/tierra-amarilla-fiscalia-ordena-diligencias-investigativas-a-la-siat-por-fallecimiento-de-ciclista/",
+    "titulo": "Tecnología y solidaridad: Red de Alimentos fortalece su misión con apoyo de Citi Foundation",
+    "enlace": "https://g5noticias.cl/2026/09/18/tecnologia-y-solidaridad-red-de-alimentos-fortalece-su-mision-con-apoyo-de-citi-foundation/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
