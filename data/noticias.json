@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Fiestas Patrias: qué hacer ante una agresión, amenaza o situación de violencia durante las celebraciones",
+    "enlace": "https://laserenaonline.cl/2026/09/19/fiestas-patrias-que-hacer-ante-una-agresion-amenaza-o-situacion-de-violencia-durante-las-celebraciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "IND celebra la “Fiesta de la Chilenidad” junto al Colegio El Sendero de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/09/19/ind-celebra-la-fiesta-de-la-chilenidad-junto-al-colegio-el-sendero-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Han logrado grandes avances: Reconocen la vital labor de los equipos de centros de Atención Primaria de la región",
+    "enlace": "https://laserenaonline.cl/2026/09/19/han-logrado-grandes-avances-reconocen-la-vital-labor-de-los-equipos-de-centros-de-atencion-primaria-de-la-region-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "La Pérgola donde la Pampilla se vive en familia y al ritmo de las tradiciones",
     "enlace": "https://laserenaonline.cl/2026/09/19/la-pergola-donde-la-pampilla-se-vive-en-familia-y-al-ritmo-de-las-tradiciones/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "Sismo se percibe en la provincia del Elqui",
     "enlace": "https://laserenaonline.cl/2026/09/19/sismo-se-percibe-en-la-provincia-del-elqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Carabineros desarticula organización narco en Limarí: pretendían trasladar más de 10 kilos de droga para Fiestas Patrias en La Serena",
-    "enlace": "https://laserenaonline.cl/2026/09/19/carabineros-desarticula-organizacion-narco-en-limari-pretendian-trasladar-mas-de-10-kilos-de-droga-para-fiestas-patrias-en-la-serena-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "PDI realiza servicio de fiscalización antinarcóticos en la Pampilla de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/09/19/pdi-realiza-servicio-de-fiscalizacion-antinarcoticos-en-la-pampilla-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "PDI desarticula organización criminal dedicada al tráfico de drogas en Salamanca",
-    "enlace": "https://laserenaonline.cl/2026/09/19/pdi-desarticula-organizacion-criminal-dedicada-al-trafico-de-drogas-en-salamanca/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -720,6 +720,96 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Illapel interviene sectores Brasil y Matadero con operativo de seguridad y recuperación de espacios públicos",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-interviene-sectores-brasil-y-matadero-con-operativo-de-seguridad-y-recuperacion-de-espacios-publicos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Illapel presenta diseño preliminar para reconstruir la Plaza de Abastos",
+    "enlace": "https://illapelchile.cl/economia/illapel-presenta-diseno-preliminar-para-reconstruir-la-plaza-de-abastos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Más de 70 nuevos proyectos de emprendedores de Illapel serán realidad con programa de Los Pelambres y el Municipio",
+    "enlace": "https://illapelchile.cl/lospelambres/mas-de-70-nuevos-proyectos-de-emprendedores-de-illapel-seran-realidad-con-programa-de-los-pelambres-y-el-municipio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "ACHS reconoce a ALTO SpA por sus indicadores de seguridad en la provincia de Choapa",
+    "enlace": "https://illapelchile.cl/actualidad/achs-reconoce-a-alto-spa-por-sus-indicadores-de-seguridad-en-la-provincia-de-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "65 donaciones efectivas dejó nuevo operativo de sangre realizado en el hospital de Illapel",
+    "enlace": "https://illapelchile.cl/salud/65-donaciones-efectivas-dejo-nuevo-operativo-de-sangre-realizado-en-el-hospital-de-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Red Local de Apoyos y Cuidados atiende a 152 familias de Illapel",
+    "enlace": "https://illapelchile.cl/social/red-local-de-apoyos-y-cuidados-atiende-a-152-familias-de-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "INDAP entrega más de 26 mil kilos de alimento animal a 98 crianceros de Illapel",
+    "enlace": "https://illapelchile.cl/actualidad/indap-entrega-mas-de-26-mil-kilos-de-alimento-animal-a-98-crianceros-de-illapel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Illapel invierte más de $280 millones en nueva maquinaria y vehículos para emergencias",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-invierte-mas-de-280-millones-en-nueva-maquinaria-y-vehiculos-para-emergencias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Comisión de Minería del Senado sesiona en Illapel tras daños que afectaron a 61 faenas",
+    "enlace": "https://illapelchile.cl/actualidad/comision-de-mineria-del-senado-sesiona-en-illapel-tras-danos-que-afectaron-a-61-faenas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Illapel pide fiscalización por filtración en Minera Tres Valles y monitoreo preventivo de aguas en la cuenca del Choapa",
+    "enlace": "https://illapelchile.cl/actualidad/illapel-pide-fiscalizacion-por-filtracion-en-minera-tres-valles-y-monitoreo-preventivo-de-aguas-en-la-cuenca-del-choapa/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Diario de Illapel",
+    "zona": "Illapel",
+    "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
     "titulo": "Más de 70 nuevos proyectos de emprendedores de Illapel serán realidad con programa de Los Pelambres y el Municipio",
     "enlace": "https://www.elillapelino.cl/2026/09/16/mas-de-70-nuevos-proyectos-de-emprendedores-de-illapel-seran-realidad-con-programa-de-los-pelambres-y-el-municipio/",
     "descripcion": "",
@@ -808,6 +898,24 @@
     "medio": "El Illapelino",
     "zona": "Illapel",
     "cobertura_radio": "Illapel 101.1 FM"
+  },
+  {
+    "titulo": "Detenidas en Quilimarí: PDI incauta granadas, escopeta y municiones en Los Vilos",
+    "enlace": "https://veetv.cl/detenidas-quilimari-pdi-incauta-granadas-escopeta-municiones-los-vilos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+  },
+  {
+    "titulo": "De la protesta social a los tribunales: La asimetría del conflicto socioambiental en el Valle de Camisas",
+    "enlace": "https://veetv.cl/judicializacion-conflicto-valle-camisas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "VeeTV",
+    "zona": "Illapel / Choapa",
+    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
     "titulo": "“Fonda en Ruta” arriba de un camión lleva música, folclore y tradiciones a las localidades de Salamanca",
@@ -1170,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Hombre de 26 años queda en riesgo vital tras recibir disparo en el tórax en Tierra Amarilla",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/19/hombre-de-26-anos-queda-en-riesgo-vital-tras-recibir-disparo-en-el-torax-en-tierra-amarilla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Carabineros investiga accidente de tránsito con resultado de muerte en la ruta C-391",
     "enlace": "https://www.atacamanoticias.cl/2026/09/19/carabineros-investiga-accidente-de-transito-con-resultado-de-muerte-en-la-ruta-c-391/",
     "descripcion": "",
@@ -1251,13 +1368,94 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "[VIDEO] Investigan fatal atropello en Tierra Amarilla: adulto mayor murió en la Ruta C-33",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/18/investigan-fatal-atropello-en-tierra-amarilla-adulto-mayor-murio-en-la-ruta-c-33/",
+    "titulo": "El Noticiero del Huasco, jueves 17 de septiembre de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/el-noticiero-del-huasco-jueves-17-de-septiembre-de-2026/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Fallece a los 96 años Mario Díaz Vargas, emblemático vecino y comerciante de Vallenar",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/fallece-a-los-96-anos-mario-diaz-vargas-emblematico-vecino-y-comerciante-de-vallenar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "50 crianceros reciben asistencia técnica manejo de rebaños caprinos en Freirina tras las lluvias",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/50-crianceros-reciben-asistencia-tecnica-manejo-de-rebanos-caprinos-en-freirina-tras-las-lluvias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Escritores de Atacama y sus obras llegaron a establecimientos educacionales de toda la región con el programa “Diálogos en Movimiento”",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/escritores-de-atacama-y-sus-obras-llegaron-a-establecimientos-educacionales-de-toda-la-region-con-el-programa-dialogos-en-movimiento/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Operadora de Los Colorados es reconocida entre las 100 mujeres que inspiran la minería",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/operadora-de-los-colorados-es-reconocida-entre-las-100-mujeres-que-inspiran-la-mineria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Huasco se viste de tradiciones para celebrar las Fiestas Patrias con apoyo del Gobierno Regional",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/huasco-se-viste-de-tradiciones-para-celebrar-las-fiestas-patrias-con-apoyo-del-gobierno-regional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "El Noticiero del Huasco, miércoles 16 de septiembre de 2026",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/el-noticiero-del-huasco-miercoles-16-de-septiembre-de-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Juan “Pistola”; sobrevivir a la calle: La importante labor por los más desvalidos del Hogar de Cristo en Vallenar",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/juan-pistola-sobrevivir-a-la-calle-la-importante-labor-por-los-mas-desvalidos-del-hogar-de-cristo-en-vallenar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Carabineros detiene a tres personas en procedimientos por porte de arma adaptada y microtráfico en Huasco y Vallenar",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/carabineros-detiene-a-tres-personas-en-procedimientos-por-porte-de-arma-adaptada-y-microtrafico-en-huasco-y-vallenar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
+  },
+  {
+    "titulo": "Agricultura y Salud realizan fiscalización conjunta a carnicerías en fiestas patrias",
+    "enlace": "https://elnoticierodelhuasco.cl/2026/09/agricultura-y-salud-realizan-fiscalizacion-conjunta-a-carnicerias-en-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Noticiero del Huasco",
+    "zona": "Huasco - Freirina",
+    "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
     "titulo": "Hombre de 26 años permanece en riesgo vital tras recibir disparo en Tierra Amarilla",
@@ -1350,6 +1548,96 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Expo FOSIS Papudo reunirá a 30 emprendedores de Petorca durante Fiestas Patrias",
+    "enlace": "https://laliguanoticias.cl/2026/09/15/expo-fosis-papudo-reunira-a-30-emprendedores-de-petorca-durante-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "MINVU anuncia subsidio de mejoramiento de viviendas enfocado en Mujeres Jefas de Hogar",
+    "enlace": "https://laliguanoticias.cl/2026/09/15/minvu-anuncia-subsidio-de-mejoramiento-de-viviendas-enfocado-en-mujeres-jefas-de-hogar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Jardín Infantil Bosque Encantado impulsa inédita experiencia solidaria en beneficio de Socorro Animal La Ligua",
+    "enlace": "https://laliguanoticias.cl/2026/09/15/jardin-infantil-bosque-encantado-impulsa-inedita-experiencia-solidaria-en-beneficio-de-socorro-animal-la-ligua/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Plan de Zonas de Rezago financiará pavimentación de cinco calles en sectores de Petorca",
+    "enlace": "https://laliguanoticias.cl/2026/09/15/plan-de-zonas-de-rezago-financiara-pavimentacion-de-cinco-calles-en-sectores-de-petorca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Autoridades refuerzan fiscalización sanitaria y llaman a preferir el comercio establecido durante Fiestas Patrias",
+    "enlace": "https://laliguanoticias.cl/2026/09/15/autoridades-refuerzan-fiscalizacion-sanitaria-y-llaman-a-preferir-el-comercio-establecido-durante-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "50 adultos mayores participaron en la primera caminata saludable del programa Activamente de Sopraval en La Calera",
+    "enlace": "https://laliguanoticias.cl/2026/09/11/50-adultos-mayores-participaron-en-la-primera-caminata-saludable-del-programa-activamente-de-sopraval-en-la-calera/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Mesa de Seguridad Rural refuerza prevención del abigeato y otros delitos en sector agrícola de la Provincia de Petorca",
+    "enlace": "https://laliguanoticias.cl/2026/09/11/mesa-de-seguridad-rural-refuerza-prevencion-del-abigeato-y-otros-delitos-en-sector-agricola-de-la-provincia-de-petorca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Director de Obras Municipales bajo sumario: alcalde reconoció que funcionario está en una investigación",
+    "enlace": "https://laliguanoticias.cl/2026/09/11/director-de-obras-municipales-bajo-sumario-alcalde-reconocio-que-funcionario-esta-en-una-investigacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "Seguridad vial y espacios definitivos: El plan que impulsa el diputado Mella para los dulceros en carretera y el peaje Las Vegas",
+    "enlace": "https://laliguanoticias.cl/2026/09/11/seguridad-vial-y-espacios-definitivos-el-plan-que-impulsa-el-diputado-mella-para-los-dulceros-en-carretera-y-el-peaje-las-vegas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
+    "titulo": "SUBDERE financiara 1.000 esterilizaciones para perros y gatos en la comuna de Petorca",
+    "enlace": "https://laliguanoticias.cl/2026/09/10/subdere-financiara-1-000-esterilizaciones-para-perros-y-gatos-en-la-comuna-de-petorca/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Segundo Juzgado de Letras de San Antonio: Interdicción por demencia ROL V-13-2026 «Campos»",
     "enlace": "https://diariolaquinta.cl/2026/09/18/notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-13-2026-campos-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-13-2026-campos-3",
     "descripcion": "",
@@ -1440,6 +1728,204 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Summit para el Futuro de la Educación 2026 abrirá el debate sobre qué significa educar en la era de la inteligencia artificial",
+    "enlace": "https://g5noticias.cl/2026/09/19/summit-para-el-futuro-de-la-educacion-2026-abrira-el-debate-sobre-que-significa-educar-en-la-era-de-la-inteligencia-artificial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "La fiebre por “farmear aura” crece entre adolescentes y pone en riesgo su privacidad: Kaspersky",
+    "enlace": "https://g5noticias.cl/2026/09/19/la-fiebre-por-farmear-aura-crece-entre-adolescentes-y-pone-en-riesgo-su-privacidad-kaspersky/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Continuidad de negocio: el centro debe estar en las personas. Por Jacqueline Pino, Gerente de ciberseguridad y resiliencia de Cybertrust",
+    "enlace": "https://g5noticias.cl/2026/09/19/continuidad-de-negocio-el-centro-debe-estar-en-las-personas-por-jacqueline-pino-gerente-de-ciberseguridad-y-resiliencia-de-cybertrust/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Volvo Chile nombra nueva Directora de Administración y Finanzas para potenciar un nuevo sello centrado en estrategia e innovación",
+    "enlace": "https://g5noticias.cl/2026/09/19/volvo-chile-nombra-nueva-directora-de-administracion-y-finanzas-para-potenciar-un-nuevo-sello-centrado-en-estrategia-e-innovacion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Robot de Beijing corre distinto al humano y abre preguntas sobre biomecánica",
+    "enlace": "https://g5noticias.cl/2026/09/19/robot-de-beijing-corre-distinto-al-humano-y-abre-preguntas-sobre-biomecanica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Liliana Felipe y Ricardo Aleixo encabezan la programación internacional del Festival PM#7",
+    "enlace": "https://g5noticias.cl/2026/09/19/liliana-felipe-y-ricardo-aleixo-encabezan-la-programacion-internacional-del-festival-pm7/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "La sostenibilidad no es una meta, es un camino que se recorre todos los días. Por Isabela De Marchi, Gerente de Sostenibilidad de SIG Sudamérica",
+    "enlace": "https://g5noticias.cl/2026/09/19/la-sostenibilidad-no-es-una-meta-es-un-camino-que-se-recorre-todos-los-dias-por-isabela-de-marchi-gerente-de-sostenibilidad-de-sig-sudamerica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "José Antonio Bozo y Roberto Pavez se lucieron en Colina",
+    "enlace": "https://g5noticias.cl/2026/09/19/jose-antonio-bozo-y-roberto-pavez-se-lucieron-en-colina/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Carabineros refuerza seguridad y fiscalización en rutas detectando conductores bajo la influencia del alcohol, drogas y a velocidades temerarias",
+    "enlace": "https://g5noticias.cl/2026/09/19/carabineros-refuerza-seguridad-y-fiscalizacion-en-rutas-detectando-conductores-bajo-la-influencia-del-alcohol-drogas-y-a-velocidades-temerarias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Alerta en Latinoamérica: falsos correos de Zoom y DocuSign buscan robar credenciales corporativas",
+    "enlace": "https://g5noticias.cl/2026/09/19/alerta-en-latinoamerica-falsos-correos-de-zoom-y-docusign-buscan-robar-credenciales-corporativas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "¿CÓMO CELEBRAR FIESTAS PATRIAS Y EL 18 CHICO SIN QUE LA CUENTA ESTÉ PAGÁNDOSE HASTA DICIEMBRE?\"",
+    "enlace": "https://araucovision.cl/como-celebrar-fiestas-patrias-y-el-18-chico-sin-que-la-cuenta-este-pagandose-hasta-diciembre/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Frontel entrega consejos para celebrar Fiestas Patrias con energía y seguridad",
+    "enlace": "https://araucovision.cl/frontel-entrega-consejos-para-celebrar-fiestas-patrias-con-energia-y-seguridad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Juan José Ugarte, nuevo Rector Duoc UC: “Debemos atrevernos a repensar la educación técnico profesional para aportar a la transformación de Chile”",
+    "enlace": "https://araucovision.cl/juan-jose-ugarte-nuevo-rector-duoc-uc-debemos-atrevernos-a-repensar-la-educacion-tecnico-profesional-para-aportar-a-la-transformacion-de-chile/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Decomisan más de 4 toneladas de productos  en fiscalizaciones por fiestas patrias",
+    "enlace": "https://araucovision.cl/decomisan-mas-de-4-toneladas-de-productos-en-fiscalizaciones-por-fiestas-patrias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Cerca de 30 mil toneladas de basura salen cada año de la Provincia de Arauco: proyecto busca reducir costos y distancias",
+    "enlace": "https://araucovision.cl/cerca-de-30-mil-toneladas-de-basura-salen-cada-ano-de-la-provincia-de-arauco-proyecto-busca-reducir-costos-y-distancias/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Científicos desarrollan a partir de microalgas un ingrediente de uso mundial en jaleas, helados y cosméticos",
+    "enlace": "https://araucovision.cl/cientificos-desarrollan-a-partir-de-microalgas-un-ingrediente-de-uso-mundial-en-jaleas-helados-y-cosmeticos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Frontel realizó trabajos para robustecer la red eléctrica en Tirúa",
+    "enlace": "https://araucovision.cl/frontel-realizo-trabajos-para-robustecer-la-red-electrica-en-tirua/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "El valor de atreverse: María Soledad y Jhon brillan en su primera competencia",
+    "enlace": "https://araucovision.cl/el-valor-de-atreverse-maria-soledad-y-jhon-brillan-en-su-primera-competencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Alonsa Estobar ya está en El Salvador y llevó arena araucana para que sea depositada en la ceremonia que une las playas del mundo",
+    "enlace": "https://araucovision.cl/alonsa-estobar-ya-esta-en-el-salvador-y-llevo-arena-araucana-para-depositarla-en-la-ceremonia-que-une-las-playas-del-mundo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "ForAction Chili inicia proceso de reactivación de su aserradero de Curanilahue",
+    "enlace": "https://araucovision.cl/foraction-chili-inicia-proceso-de-reactivacion-de-su-aserradero-de-curanilahue/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Araucovisión",
+    "zona": "Arauco",
+    "cobertura_radio": "Arauco 99.1 FM"
+  },
+  {
+    "titulo": "Hospital Clínico confirma que paciente se fugó de la Unidad de Emergencia",
+    "enlace": "https://laprensaaustral.cl/2026/09/19/hospital-clinico-confirma-que-paciente-se-fugo-de-la-unidad-de-emergencia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Bachelet baja su candidatura a la Secretaría General de la ONU",
+    "enlace": "https://laprensaaustral.cl/2026/09/19/bachelet-baja-su-candidatura-a-la-secretaria-general-de-la-onu/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Torneo Master de baby premió a sus campeones",
     "enlace": "https://laprensaaustral.cl/2026/09/19/torneo-master-de-baby-premio-a-sus-campeones/",
     "descripcion": "",
@@ -1505,24 +1991,6 @@
   {
     "titulo": "Simce segundo medio: 2 de cada 3 estudiantes presentaron  desempeño insuficiente en Matemática o Lectura",
     "enlace": "https://laprensaaustral.cl/2026/09/19/simce-segundo-medio-2-de-cada-3-estudiantes-presentaron-desempeno-insuficiente-en-matematica-o-lectura/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Diseños de los dos Cosam de Punta Arenas esperan financiamiento  y Minsal proyecta la formación de psiquiatras para 2027",
-    "enlace": "https://laprensaaustral.cl/2026/09/19/disenos-de-los-dos-cosam-de-punta-arenas-esperan-financiamiento-y-minsal-proyecta-la-formacion-de-psiquiatras-para-2027/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Cuando la inteligencia artificial hace la tarea: ¿quién está aprendiendo?",
-    "enlace": "https://laprensaaustral.cl/2026/09/19/cuando-la-inteligencia-artificial-hace-la-tarea-quien-esta-aprendiendo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
