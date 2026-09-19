@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Comercio pampillero en Coquimbo apuesta a la recuperación económica: Precios rebajados aseguran",
+    "enlace": "https://www.elcoquimbano.cl/2026/09/19/comercio-pampillero-en-coquimbo-apuesta-a-la-recuperacion-economica-precios-rebajados-aseguran/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Con música, cueca, chubascos y solidaridad, Coquimbo inauguró La Pampilla 2026",
     "enlace": "https://www.elcoquimbano.cl/2026/09/18/con-musica-cueca-chubascos-y-solidaridad-coquimbo-inauguro-la-pampilla-2026/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "146 tripulantes dedicados a la captura de jibia reciben de INDESPA un kit de trabajo para sus faenas",
     "enlace": "https://www.elcoquimbano.cl/2026/09/15/146-tripulantes-dedicados-a-la-captura-de-jibia-reciben-de-indespa-un-kit-de-trabajo-para-sus-faenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "SEREMI de Energía y SEC fiscalizan instalaciones eléctricas en la Pampilla de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/09/14/seremi-de-energia-y-sec-fiscalizan-instalaciones-electricas-en-la-pampilla-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "La Pérgola donde la Pampilla se vive en familia y al ritmo de las tradiciones",
+    "enlace": "https://laserenaonline.cl/2026/09/19/la-pergola-donde-la-pampilla-se-vive-en-familia-y-al-ritmo-de-las-tradiciones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Fiscalizan instalaciones eléctricas en la Pampilla de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/09/19/fiscalizan-instalaciones-electricas-en-la-pampilla-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "25.000 jefas de hogar podrán financiar reparaciones de sus viviendas mediante tarjeta de beneficios",
+    "enlace": "https://laserenaonline.cl/2026/09/19/25-000-jefas-de-hogar-podran-financiar-reparaciones-de-sus-viviendas-mediante-tarjeta-de-beneficios-2/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Pampilla Histórica: La Fiesta Más grande de Chile inicia su primera transmisión televisiva",
     "enlace": "https://laserenaonline.cl/2026/09/19/pampilla-historica-la-fiesta-mas-grande-de-chile-inicia-su-primera-transmision-televisiva/",
     "descripcion": "",
@@ -236,33 +263,6 @@
   {
     "titulo": "PDI desarticula organización criminal dedicada al tráfico de drogas en Salamanca",
     "enlace": "https://laserenaonline.cl/2026/09/19/pdi-desarticula-organizacion-criminal-dedicada-al-trafico-de-drogas-en-salamanca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 19 de septiembre para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/09/19/el-tiempo-hoy-19-de-septiembre-para-la-region-de-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "¿Por qué se llama empanada de pino? La historia detrás del clásico de Fiestas Patrias",
-    "enlace": "https://laserenaonline.cl/2026/09/18/por-que-se-llama-empanada-de-pino-la-historia-detras-del-clasico-de-fiestas-patrias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "¿De dónde viene la cueca? La historia de un baile que recorre Sudamérica",
-    "enlace": "https://laserenaonline.cl/2026/09/18/de-donde-viene-la-cueca-la-historia-de-un-baile-que-recorre-sudamerica/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -810,22 +810,13 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Detenidas en Quilimarí: PDI incauta granadas, escopeta y municiones en Los Vilos",
-    "enlace": "https://veetv.cl/detenidas-quilimari-pdi-incauta-granadas-escopeta-municiones-los-vilos/",
+    "titulo": "“Fonda en Ruta” arriba de un camión lleva música, folclore y tradiciones a las localidades de Salamanca",
+    "enlace": "https://www.elsalamanquino.cl/2026/09/19/fonda-en-ruta-arriba-de-un-camion-lleva-musica-folclore-y-tradiciones-a-las-localidades-de-salamanca/",
     "descripcion": "",
     "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
-  },
-  {
-    "titulo": "De la protesta social a los tribunales: La asimetría del conflicto socioambiental en el Valle de Camisas",
-    "enlace": "https://veetv.cl/judicializacion-conflicto-valle-camisas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "VeeTV",
-    "zona": "Illapel / Choapa",
-    "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
   },
   {
     "titulo": "PDI desarticula organización criminal dedicada al tráfico de drogas en Salamanca",
@@ -902,15 +893,6 @@
   {
     "titulo": "Salamanca tendrá operativo de donación de sangre con meta de alcanzar entre 60 y 70 donantes",
     "enlace": "https://www.elsalamanquino.cl/2026/09/03/salamanca-tendra-operativo-de-donacion-de-sangre-con-meta-de-alcanzar-entre-60-y-70-donantes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Así se transforma la Estación Médico Rural de Jorquera en Salamanca que atenderá a 300 vecinos",
-    "enlace": "https://www.elsalamanquino.cl/2026/09/01/asi-se-transforma-la-estacion-medico-rural-de-jorquera-en-salamanca-que-atendera-a-300-vecinos/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1188,6 +1170,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Carabineros investiga accidente de tránsito con resultado de muerte en la ruta C-391",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/19/carabineros-investiga-accidente-de-transito-con-resultado-de-muerte-en-la-ruta-c-391/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Polémica por el Mapa de desierto florido desata duras críticas al MOP en Atacama",
     "enlace": "https://www.atacamanoticias.cl/2026/09/19/polemica-por-el-mapa-de-desierto-florido-desata-duras-criticas-al-mop-en-atacama/",
     "descripcion": "",
@@ -1269,12 +1260,12 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Simuló tener 18 años: prisión para acusado de secuestrar y explotar sexualmente a menor en Melipilla",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/18/simulo-tener-18-anos-prision-para-acusado-de-secuestrar-y-explotar-sexualmente-a-menor-en-melipilla/",
+    "titulo": "Hombre de 26 años permanece en riesgo vital tras recibir disparo en Tierra Amarilla",
+    "enlace": "https://www.maray.cl/atacama/19/09/2026/hombre-de-26-anos-permanece-en-riesgo-vital-tras-recibir-disparo-en-tierra-amarilla/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
+    "medio": "Maray",
+    "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
@@ -1352,15 +1343,6 @@
   {
     "titulo": "Atacama mantiene Alerta Temprana Preventiva ante tormentas, nevadas y fuertes vientos",
     "enlace": "https://www.maray.cl/atacama/18/09/2026/atacama-mantiene-alerta-temprana-preventiva-ante-tormentas-nevadas-y-fuertes-vientos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Detienen a presunto autor de homicidio ocurrido cerca de fondas en Limache",
-    "enlace": "https://www.maray.cl/pais/18/09/2026/detienen-a-presunto-autor-de-homicidio-ocurrido-cerca-de-fondas-en-limache/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
