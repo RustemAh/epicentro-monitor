@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "MOP inicia instalación de puente mecano en el sector de El Arrayán cumpliendo compromiso con la comunidad",
+    "enlace": "https://regiondecoquimbo.cl/2026/09/22/mop-inicia-instalacion-de-puente-mecano-en-el-sector-de-el-arrayan-cumpliendo-compromiso-con-la-comunidad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Gobierno prepara paquete ProPyme que podría beneficiar a más de 44 mil empresas de la Región de Coquimbo",
     "enlace": "https://regiondecoquimbo.cl/2026/09/22/gobierno-prepara-paquete-propyme-que-podria-beneficiar-a-mas-de-44-mil-empresas-de-la-region-de-coquimbo/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "En La Pampilla de Coquimbo ISL refuerza la prevención y llama a proteger a quienes trabajan durante Fiestas Patrias",
     "enlace": "https://regiondecoquimbo.cl/2026/09/17/en-la-pampilla-de-coquimbo-isl-refuerza-la-prevencion-y-llama-a-proteger-a-quienes-trabajan-durante-fiestas-patrias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno refuerza fiscalización y medidas de seguridad para Fiestas Patrias en la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/09/17/gobierno-refuerza-fiscalizacion-y-medidas-de-seguridad-para-fiestas-patrias-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Detenidas en Quilimarí: PDI incauta granadas, escopeta y municiones en Los Vilos",
-    "enlace": "https://veetv.cl/detenidas-quilimari-pdi-incauta-granadas-escopeta-municiones-los-vilos/",
+    "titulo": "Altas temperaturas en el Choapa: Salamanca llegará a 27 °C este sábado",
+    "enlace": "https://veetv.cl/altas-temperaturas-choapa-salamanca-27-c-este-sabado/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "De la protesta social a los tribunales: La asimetría del conflicto socioambiental en el Valle de Camisas",
-    "enlace": "https://veetv.cl/judicializacion-conflicto-valle-camisas/",
+    "titulo": "Detenidas en Quilimarí: PDI incauta granadas, escopeta y municiones en Los Vilos",
+    "enlace": "https://veetv.cl/detenidas-quilimari-pdi-incauta-granadas-escopeta-municiones-los-vilos/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Avanzan trabajos de mejoramiento de la Quebrada de Andacollo ante la proximidad de la Fiesta Chica 2026",
+    "enlace": "https://www.elandacollino.cl/2026/09/22/avanzan-trabajos-de-mejoramiento-de-la-quebrada-de-andacollo-ante-la-proximidad-de-la-fiesta-chica-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Programa Red de Proveedores Teck CDA cerró su segundo año fortaleciendo a empresas de Andacollo",
     "enlace": "https://www.elandacollino.cl/2026/09/22/programa-red-de-proveedores-teck-cda-cerro-su-segundo-ano-fortaleciendo-a-empresas-de-andacollo/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "Casi 300 niños y sus familias disfrutaron en Andacollo de la experiencia científica del Bus Chile Jurásico",
     "enlace": "https://www.elandacollino.cl/2026/09/12/casi-300-ninos-y-sus-familias-disfrutaron-en-andacollo-de-la-experiencia-cientifica-del-bus-chile-jurasico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Juegos típicos reunieron a estudiantes de escuelas rurales de Andacollo en celebración de Fiestas Patrias",
-    "enlace": "https://www.elandacollino.cl/2026/09/11/juegos-tipicos-reunieron-a-estudiantes-de-escuelas-rurales-de-andacollo-en-celebracion-de-fiestas-patrias/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1278,6 +1278,78 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Desierto Florido bajo la lupa: cuestionan realización de fiesta en entorno de alto valor natural",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/desierto-florido-bajo-la-lupa-cuestionan-realizacion-de-fiesta-en-entorno-de-alto-valor-natural/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Narco-sicario y antiguo dueño de departamento que remata la Tía Rica: quién es Óscar “El Mono” Melián",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/narco-sicario-y-antiguo-dueno-de-departamento-que-remata-la-tia-rica-quien-es-oscar-el-mono-melian/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Antecedente de Jaime Vera se involucra en denuncia de clubes a Puerto Montt en la B: DT se desentendió",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/antecedente-de-jaime-vera-se-involucra-en-denuncia-de-clubes-a-puerto-montt-en-la-b-dt-se-desentendio/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "WhatsApp dejará de funcionar en algunas versiones de Android e iPhone: cómo revisar cuál tienes",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/whatsapp-dejara-de-funcionar-en-algunas-versiones-de-android-e-iphone-como-revisar-cual-tienes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobierno descarta eventual alza de precios de vivienda por fondo que compraría créditos hipotecarios",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/gobierno-descarta-eventual-alza-de-precios-de-vivienda-por-fondo-que-compraria-creditos-hipotecarios/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Harris reaparece apoyando campaña de El-Sayed en EEUU, mientras analiza nueva candidatura presidencial",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/harris-reaparece-apoyando-campana-de-el-sayed-en-eeuu-mientras-analiza-nueva-candidatura-presidencial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Banquetera acusada de estafar a 60 novios se entrega y queda en prisión preventiva en Viña del Mar",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/banquetera-acusada-de-estafar-a-60-novios-se-entrega-y-queda-en-prision-preventiva-en-vina-del-mar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Chile deja su rol de observador y se suma al “Escudo de las Américas” contra el crimen organizado",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/22/chile-deja-su-rol-de-observador-y-se-suma-al-escudo-de-las-americas-contra-el-crimen-organizado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Revelan causa de muerte de actriz Hayden Panettiere: sobredosis accidental por fentanilo",
     "enlace": "https://www.atacamanoticias.cl/2026/09/22/revelan-causa-de-muerte-de-actriz-hayden-panettiere-sobredosis-accidental-por-fentanilo/",
     "descripcion": "",
@@ -1289,78 +1361,6 @@
   {
     "titulo": "Caszely lanza tajante opinión de Vozinha y remece el arco de Colo Colo: pide más minutos para Maureira",
     "enlace": "https://www.atacamanoticias.cl/2026/09/22/caszely-lanza-tajante-opinion-de-vozinha-y-remece-el-arco-de-colo-colo-pide-mas-minutos-para-maureira/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Agradece que no te matamos”: INDH se querella contra funcionarios de la Armada por torturas",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/22/agradece-que-no-te-matamos-indh-se-querella-contra-funcionarios-de-la-armada-por-torturas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Colegio de Atacama reporta casos de influenza y refuerza medidas para evitar contagios",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/22/colegio-de-atacama-reporta-casos-de-influenza-y-refuerza-medidas-para-evitar-contagios/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Municipalidad de Tierra Amarilla se despliega desde el primer momento en apoyo de damnificados por incendio en Luis Uribe",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/22/municipalidad-de-tierra-amarilla-se-despliega-desde-el-primer-momento-en-apoyo-de-damnificados-por-incendio-en-luis-uribe/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Atacama cuenta con la primera biofábrica de biocontroladores de plagas de la Región",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/22/atacama-cuenta-con-la-primera-biofabrica-de-biocontroladores-de-plagas-de-la-region/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Desarticulan estructura criminal dedicada al tráfico ilícito de drogas en copiapó",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/22/desarticulan-estructura-criminal-dedicada-al-trafico-ilicito-de-drogas-en-copiapo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "45 mil personas en 3 días de fiesta y cuentas alegres de emprendedores: pampilla de tierra amarilla fue todo un éxito",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/22/45-mil-personas-en-3-dias-de-fiesta-y-cuentas-alegres-de-emprendedores-pampilla-de-tierra-amarilla-fue-todo-un-exito/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "De las pistas y el ring a la mesa de juego: la pasión de los deportistas mexicanos por la estrategia del poker",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/22/de-las-pistas-y-el-ring-a-la-mesa-de-juego-la-pasion-de-los-deportistas-mexicanos-por-la-estrategia-del-poker/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Vuelve al debate la ’desindexación’ de la UF tras apoyo del BancoEstado a los hipotecarios en pesos",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/21/vuelve-al-debate-la-desindexacion-de-la-uf-tras-apoyo-del-bancoestado-a-los-hipotecarios-en-pesos/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1458,6 +1458,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Vecinos denuncian basura y suciedad en paraderos cercanos al Terrapuerto Atacama",
+    "enlace": "https://www.nostalgica.cl/vecinos-denuncian-basura-y-suciedad-en-paraderos-cercanos-al-terrapuerto-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=vecinos-denuncian-basura-y-suciedad-en-paraderos-cercanos-al-terrapuerto-atacama",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "PDI denuncia a dos personas tras fiscalización migratoria en Caldera",
+    "enlace": "https://www.nostalgica.cl/pdi-denuncia-a-dos-personas-tras-fiscalizacion-migratoria-en-caldera/?utm_source=rss&utm_medium=rss&utm_campaign=pdi-denuncia-a-dos-personas-tras-fiscalizacion-migratoria-en-caldera",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Carabineros detuvo a dos sujetos por robo en una constructora de Copiapó",
     "enlace": "https://www.nostalgica.cl/carabineros-detuvo-a-dos-sujetos-por-robo-en-una-constructora-de-copiapo/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-detuvo-a-dos-sujetos-por-robo-en-una-constructora-de-copiapo",
     "descripcion": "",
@@ -1530,20 +1548,11 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Caszely lanza tajante opinión de Vozinha y remece el arco de Colo Colo: pide más minutos para Maureira",
-    "enlace": "https://www.nostalgica.cl/caszely-lanza-tajante-opinion-de-vozinha-y-remece-el-arco-de-colo-colo-pide-mas-minutos-para-maureira/?utm_source=rss&utm_medium=rss&utm_campaign=caszely-lanza-tajante-opinion-de-vozinha-y-remece-el-arco-de-colo-colo-pide-mas-minutos-para-maureira",
+    "titulo": "Operativo Nueva Atacama Más Cerca de Ti se desplegó con éxito en Caldera",
+    "enlace": "https://www.maray.cl/atacama/22/09/2026/operativo-nueva-atacama-mas-cerca-de-ti-se-desplego-con-exito-en-caldera/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Cámaras de seguridad municipales fueron claves para aclarar ataque a persona en Tierra Amarilla.",
-    "enlace": "https://www.nostalgica.cl/camaras-de-seguridad-municipales-fueron-claves-para-aclarar-ataque-a-persona-en-tierra-amarilla/?utm_source=rss&utm_medium=rss&utm_campaign=camaras-de-seguridad-municipales-fueron-claves-para-aclarar-ataque-a-persona-en-tierra-amarilla",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1622,15 +1631,6 @@
   {
     "titulo": "Presidente Kast confirma asistencia a cumbre de seguridad impulsada por Donald Trump",
     "enlace": "https://www.maray.cl/pais/22/09/2026/presidente-kast-confirma-asistencia-a-cumbre-de-seguridad-impulsada-por-donald-trump/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Aviones F-16 de la FACh llegan a Punta Arenas para entrenamiento de 20 días en el extremo austral",
-    "enlace": "https://www.maray.cl/pais/21/09/2026/aviones-f-16-de-la-fach-llegan-a-punta-arenas-para-entrenamiento-de-20-dias-en-el-extremo-austral/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1728,6 +1728,24 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "Lira Popular N° 41: Una mosca en la Parada",
+    "enlace": "https://diariolaquinta.cl/2026/09/22/lira-popular-n-41-una-mosca-en-la-parada/?utm_source=rss&utm_medium=rss&utm_campaign=lira-popular-n-41-una-mosca-en-la-parada",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[OPINIÓN] Cuando el diario que escribió el libreto comienza a corregir al actor (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/09/22/opinion-cuando-el-diario-que-escribio-el-libreto-comienza-a-corregir-al-actor-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-cuando-el-diario-que-escribio-el-libreto-comienza-a-corregir-al-actor-jorge-bustos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Primer Juzgado Civil de Viña del Mar: Interdicción por demencia ROL C-2168-2020 «De La Guardia / Rojas»",
     "enlace": "https://diariolaquinta.cl/2026/09/22/notificacion-primer-juzgado-civil-de-vina-del-mar-interdiccion-por-demencia-rol-c-2168-2020-de-la-guardia-rojas/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-primer-juzgado-civil-de-vina-del-mar-interdiccion-por-demencia-rol-c-2168-2020-de-la-guardia-rojas",
     "descripcion": "",
@@ -1800,26 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Primer Juzgado Civil de Viña del Mar: Posesión efectiva ROL V-114-2026 «Wehrhahn / Wehrhahn»",
-    "enlace": "https://diariolaquinta.cl/2026/09/21/notificacion-primer-juzgado-civil-de-vina-del-mar-posesion-efectiva-rol-v-114-2026-wehrhahn-wehrhahn/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-primer-juzgado-civil-de-vina-del-mar-posesion-efectiva-rol-v-114-2026-wehrhahn-wehrhahn",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Viña del Mar: Cuidado personal – Audiencia preparatoria RIT C-2152-2026 «Collao / Stela»",
-    "enlace": "https://diariolaquinta.cl/2026/09/21/notificacion-juzgado-de-familia-de-vina-del-mar-cuidado-personal-audiencia-preparatoria-rit-c-2152-2026-collao-stela/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-vina-del-mar-cuidado-personal-audiencia-preparatoria-rit-c-2152-2026-collao-stela",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El auge de las empresas «AI-Native»: cómo la inteligencia artificial está eliminando la barreras y acelerando los negocios digitales",
-    "enlace": "https://g5noticias.cl/2026/09/22/el-auge-de-las-empresas-ai-native-como-la-inteligencia-artificial-esta-eliminando-la-barreras-y-acelerando-los-negocios-digitales/",
+    "titulo": "Despachado a ley proyecto que resguarda datos de vehículos policiales para facilitar operativos de inteligencia y combate del crimen organizado",
+    "enlace": "https://g5noticias.cl/2026/09/22/despachado-a-ley-proyecto-que-resguarda-datos-de-vehiculos-policiales-para-facilitar-operativos-de-inteligencia-y-combate-del-crimen-organizado/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1827,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "AGRUMIN pide a ENAMI fortalecer el fomento y modernizar planteles",
-    "enlace": "https://g5noticias.cl/2026/09/22/agrumin-pide-a-enami-fortalecer-el-fomento-y-modernizar-planteles/",
+    "titulo": "Diputada Parisi (PDG) cuestiona falta de información y diálogo del Gobierno tras adhesión de Chile al Escudo de las Américas",
+    "enlace": "https://g5noticias.cl/2026/09/22/diputada-parisi-pdg-cuestiona-falta-de-informacion-y-dialogo-del-gobierno-tras-adhesion-de-chile-al-escudo-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1836,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "EFE Valparaíso y Municipalidad concretan la renovación de fachadas de las históricas casetas de las estaciones Villa Alemana y Peñablanca",
-    "enlace": "https://g5noticias.cl/2026/09/22/efe-valparaiso-y-municipalidad-concretan-la-renovacion-de-fachadas-de-las-historicas-casetas-de-las-estaciones-villa-alemana-y-penablanca/",
+    "titulo": "Diputado Salinas emplaza a Kast tras adherir a Chile al Escudo de las Américas: “Usted tiene que ser presidente de los chilenos, no un gobernador de Estados Unidos”",
+    "enlace": "https://g5noticias.cl/2026/09/22/diputado-salinas-emplaza-a-kast-tras-adherir-a-chile-al-escudo-de-las-americas-usted-tiene-que-ser-presidente-de-los-chilenos-no-un-gobernador-de-estados-unidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1845,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ford presenta la nueva identidad visual de la marca Motorcraft",
-    "enlace": "https://g5noticias.cl/2026/09/22/ford-presenta-la-nueva-identidad-visual-de-la-marca-motorcraft/",
+    "titulo": "Castro y Punta Arenas fortalecen sus lazos históricos y avanzan en reconocimiento de la gesta de la Goleta Ancud",
+    "enlace": "https://g5noticias.cl/2026/09/22/castro-y-punta-arenas-fortalecen-sus-lazos-historicos-y-avanzan-en-reconocimiento-de-la-gesta-de-la-goleta-ancud/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1854,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Iniciativa del CFT Santo Tomás Viña del Mar recibe financiamiento para fortalecer la salud bucal integral de personas autistas",
-    "enlace": "https://g5noticias.cl/2026/09/22/iniciativa-del-cft-santo-tomas-vina-del-mar-recibe-financiamiento-para-fortalecer-la-salud-bucal-integral-de-personas-autistas/",
+    "titulo": "Balance en 4 meses: Viña del Mar recupera 43 vehículos robados gracias a tecnología de lectura de patentes impulsada por las aseguradoras",
+    "enlace": "https://g5noticias.cl/2026/09/22/balance-en-4-meses-vina-del-mar-recupera-43-vehiculos-robados-gracias-a-tecnologia-de-lectura-de-patentes-impulsada-por-las-aseguradoras/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1863,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Armada de Chile despliega amplio operativo para evacuar a tripulante desde alta mar",
-    "enlace": "https://g5noticias.cl/2026/09/22/armada-de-chile-despliega-amplio-operativo-para-evacuar-a-tripulante-desde-alta-mar/",
+    "titulo": "Quilpué se suma al Plan Escudo de Barrio del Ministerio de Seguridad",
+    "enlace": "https://g5noticias.cl/2026/09/22/quilpue-se-suma-al-plan-escudo-de-barrio-del-ministerio-de-seguridad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Kia impulsa su estrategia de movilidad electrificada en Sudamérica, Centroamérica y el Caribe durante el 2026 Kia EV Day CSA",
-    "enlace": "https://g5noticias.cl/2026/09/22/kia-impulsa-su-estrategia-de-movilidad-electrificada-en-sudamerica-centroamerica-y-el-caribe-durante-el-2026-kia-ev-day-csa/",
+    "titulo": "Diputado Teao valora que Presidente Kast reafirme candidatura de Valparaíso al Tratado de Alta Mar ante la ONU",
+    "enlace": "https://g5noticias.cl/2026/09/22/diputado-teao-valora-que-presidente-kast-reafirme-candidatura-de-valparaiso-al-tratado-de-alta-mar-ante-la-onu/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Impulso Lector en 2° básico: la oportunidad de diagnosticar a tiempo para fortalecer el aprendizaje",
-    "enlace": "https://g5noticias.cl/2026/09/22/impulso-lector-en-2-basico-la-oportunidad-de-diagnosticar-a-tiempo-para-fortalecer-el-aprendizaje/",
+    "titulo": "Gobierno de Chile confirma que adhiere al «Escudo de las Américas»",
+    "enlace": "https://g5noticias.cl/2026/09/22/gobierno-de-chile-confirma-que-adhiere-al-escudo-de-las-americas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Turismo de interpretación histórica: la nueva apuesta de Magallanes para descubrir el territorio en plena Patagonia",
-    "enlace": "https://g5noticias.cl/2026/09/22/turismo-de-interpretacion-historica-la-nueva-apuesta-de-magallanes-para-descubrir-el-territorio-en-plena-patagonia/",
+    "titulo": "Déficit de cobre de hasta 25% hacia 2035 reabre el fantasma del salitre y pone el foco en la productividad",
+    "enlace": "https://g5noticias.cl/2026/09/22/deficit-de-cobre-de-hasta-25-hacia-2035-reabre-el-fantasma-del-salitre-y-pone-el-foco-en-la-productividad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El «síndrome post 18»: por qué cuesta tanto retomar el sueño después de Fiestas Patrias",
-    "enlace": "https://g5noticias.cl/2026/09/22/el-sindrome-post-18-por-que-cuesta-tanto-retomar-el-sueno-despues-de-fiestas-patrias/",
+    "titulo": "Día mundial sin automóvil: Ciudades que se mueven distinto, Por Bernardo Barros, Country Manager Whoosh Chile",
+    "enlace": "https://g5noticias.cl/2026/09/22/dia-mundial-sin-automovil-ciudades-que-se-mueven-distinto-por-bernardo-barros-country-manager-whoosh-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
