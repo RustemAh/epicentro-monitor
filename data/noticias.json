@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Tribunal Oral en lo Penal condena a autores de homicidios en población Porvenir de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/09/24/tribunal-oral-en-lo-penal-condena-a-autores-de-homicidios-en-poblacion-porvenir-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Productores rurales de Coquimbo fortalecen sus conocimientos para el control biológico de plagas",
     "enlace": "https://www.elcoquimbano.cl/2026/09/24/productores-rurales-de-coquimbo-fortalecen-sus-conocimientos-para-el-control-biologico-de-plagas/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "CGE denuncia el robo casi 14 kilómetros de cable durante Fiestas Patrias en Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/09/21/cge-denuncia-el-robo-casi-14-kilometros-de-cable-durante-fiestas-patrias-en-coquimbo/",
+    "titulo": "Más de $65 millones aprobados para repavimentar pasajes en Las Compañías en La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/09/24/mas-de-65-millones-aprobados-para-repavimentar-pasajes-en-las-companias-en-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Cultura USerena invita este viernes a inédito concierto acústico de Polter",
@@ -171,11 +180,20 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "La “Dama Blanca” navegará frente a la costa y podrá ser vista desde el Faro de La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/09/22/la-dama-blanca-navegara-frente-a-la-costa-y-podra-ser-vista-desde-el-faro-de-la-serena/",
+    "titulo": "Pichidangui–Quilimarí avanza hacia un turismo más sustentable con taller sobre medio ambiente y patrimonio",
+    "enlace": "https://laserenaonline.cl/2026/09/24/pichidangui-quilimari-avanza-hacia-un-turismo-mas-sustentable-con-taller-sobre-medio-ambiente-y-patrimonio/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "Municipio de La Serena reactiva farmacia comunal con medicamentos entre un 35% y 75% más económicos",
+    "enlace": "https://laserenaonline.cl/2026/09/24/municipio-de-la-serena-reactiva-farmacia-comunal-con-medicamentos-entre-un-35-y-75-mas-economicos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -245,24 +263,6 @@
   {
     "titulo": "Carabineros detiene a seis prófugos en menos de 24 horas en Las Compañías",
     "enlace": "https://laserenaonline.cl/2026/09/24/carabineros-detiene-a-seis-profugos-en-menos-de-24-horas-en-las-companias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "El tiempo hoy 24 de septiembre para la Región de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/09/24/el-tiempo-hoy-24-de-septiembre-para-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Delegación Presidencial Provincial de Choapa realiza balance del despliegue institucional durante Fiestas Patrias",
-    "enlace": "https://laserenaonline.cl/2026/09/23/delegacion-presidencial-provincial-de-choapa-realiza-balance-del-despliegue-institucional-durante-fiestas-patrias/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -360,6 +360,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Más de 60 mediaciones penales juveniles se han realizado en establecimientos educacionales de la región",
+    "enlace": "https://regiondecoquimbo.cl/2026/09/24/mas-de-60-mediaciones-penales-juveniles-se-han-realizado-en-establecimientos-educacionales-de-la-region/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Región de Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Gobierno y municipio destacan a 55 personas cuidadoras de Monte Patria por su participación en el Centro Comunitario de Cuidados",
     "enlace": "https://regiondecoquimbo.cl/2026/09/24/gobierno-y-municipio-destacan-a-55-personas-cuidadoras-de-monte-patria-por-su-participacion-en-el-centro-comunitario-de-cuidados/",
     "descripcion": "",
@@ -434,15 +443,6 @@
   {
     "titulo": "Avanza abordaje de personas en internación provisional en la Región de Coquimbo",
     "enlace": "https://regiondecoquimbo.cl/2026/09/21/avanza-abordaje-de-personas-en-internacion-provisional-en-la-region-de-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Región de Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Gobierno resalta despliegue preventivo y coordinación institucional en balance de Fiestas Patrias en la Región de Coquimbo",
-    "enlace": "https://regiondecoquimbo.cl/2026/09/21/gobierno-resalta-despliegue-preventivo-y-coordinacion-institucional-en-balance-de-fiestas-patrias-en-la-region-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Región de Coquimbo",
@@ -918,6 +918,15 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
+    "titulo": "Colegio de Salamanca ganó 1er partido de voleibol femenino en la Final Nacional de los Juegos Deportivos Escolares",
+    "enlace": "https://www.elsalamanquino.cl/2026/09/24/colegio-de-salamanca-gano-1er-partido-de-voleibol-femenino-en-la-final-nacional-de-los-juegos-deportivos-escolares/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Salamanquino",
+    "zona": "Salamanca",
+    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
+  },
+  {
     "titulo": "Fortalecen trabajo con organizaciones de usuarios del Choapa para mejorar la eficiencia hídrica de los regantes",
     "enlace": "https://www.elsalamanquino.cl/2026/09/24/fortalecen-trabajo-con-organizaciones-de-usuarios-del-choapa-para-mejorar-la-eficiencia-hidrica-de-los-regantes/",
     "descripcion": "",
@@ -992,15 +1001,6 @@
   {
     "titulo": "115 crianceros y apicultores de Salamanca reciben alimento para sus animales en plena época de pariciones",
     "enlace": "https://www.elsalamanquino.cl/2026/09/08/115-crianceros-y-apicultores-de-salamanca-reciben-alimento-para-sus-animales-en-plena-epoca-de-pariciones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Salamanquino",
-    "zona": "Salamanca",
-    "cobertura_radio": "Salamanca 88.3 FM / Cuncumén 88.3 FM"
-  },
-  {
-    "titulo": "Jóvenes de Salamanca ganaron la final del Torneo Delibera 2026 y representarán a la región en el Congreso Nacional en Valparaíso",
-    "enlace": "https://www.elsalamanquino.cl/2026/09/07/jovenes-de-salamanca-ganaron-la-final-del-torneo-delibera-2026-y-representaran-a-la-region-en-el-congreso-nacional-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Salamanquino",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Andacollo se prepara para los 350 años de la Virgen del Rosario: Se realizó el lanzamiento oficial de la Fiesta Chica",
+    "enlace": "https://www.elandacollino.cl/2026/09/24/andacollo-se-prepara-para-los-350-anos-de-la-virgen-del-rosario-se-realizo-el-lanzamiento-oficial-de-la-fiesta-chica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Andacollo recibe la segunda fecha del Campeonato de Descenso “Rey del Norte” 2026",
     "enlace": "https://www.elandacollino.cl/2026/09/24/andacollo-recibe-la-segunda-fecha-del-campeonato-de-descenso-rey-del-norte-2026/",
     "descripcion": "",
@@ -1179,12 +1188,12 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Escuela San Lorenzo de Andacollo celebró Fiestas Patrias con emotivo acto en el frontis del establecimiento",
-    "enlace": "https://www.elandacollino.cl/2026/09/16/escuela-san-lorenzo-de-andacollo-celebro-fiestas-patrias-con-emotivo-acto-en-el-frontis-del-establecimiento/",
+    "titulo": "Aumento del caudal rompe bypass entre Montegrande y Cochiguaz: municipio retira tuberías arrastradas por el agua",
+    "enlace": "https://www.elpaihuanino.cl/2026/09/24/aumento-del-caudal-rompe-bypass-entre-montegrande-y-cochiguaz-municipio-retira-tuberias-arrastradas-por-el-agua/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
     "cobertura_radio": "Cobertura IV Región"
   },
   {
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Paihuano tendrá tres representantes en el Campeonato Nacional Escolar  de Atletismo en Valparaíso",
     "enlace": "https://www.elpaihuanino.cl/2026/09/08/paihuano-tendra-tres-representantes-en-el-campeonato-nacional-escolar-de-atletismo-en-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Precipitaciones en la Región de Coquimbo: Pisco Elqui podría recibir hasta 7 mm entre el 9 y 10 de septiembre",
-    "enlace": "https://www.elpaihuanino.cl/2026/09/08/precipitaciones-en-la-region-de-coquimbo-pisco-elqui-podria-recibir-hasta-7-mm-entre-el-9-y-10-de-septiembre/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Paihuanino",
@@ -1458,6 +1458,51 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Roban medidor de agua en farmacia de Copiapó: sería el segundo robo en tres meses",
+    "enlace": "https://www.nostalgica.cl/roban-medidor-de-agua-en-farmacia-de-copiapo-seria-el-segundo-robo-en-tres-meses/?utm_source=rss&utm_medium=rss&utm_campaign=roban-medidor-de-agua-en-farmacia-de-copiapo-seria-el-segundo-robo-en-tres-meses",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "FOREDE 2026 abre sus preinscripciones gratuitas y proyecta más de 1.800 reuniones de negocios en el Parque El Pretil",
+    "enlace": "https://www.nostalgica.cl/forede-2026-abre-sus-preinscripciones-gratuitas-y-proyecta-mas-de-1-800-reuniones-de-negocios-en-el-parque-el-pretil/?utm_source=rss&utm_medium=rss&utm_campaign=forede-2026-abre-sus-preinscripciones-gratuitas-y-proyecta-mas-de-1-800-reuniones-de-negocios-en-el-parque-el-pretil",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fiscalía de Atacama y PDI desarticulan presunta red de corrupción vinculada a Gendarmería, Ejército y Reinserción Juvenil: hay 9 detenidos",
+    "enlace": "https://www.nostalgica.cl/fiscalia-de-atacama-y-pdi-desarticulan-presunta-red-de-corrupcion-vinculada-a-gendarmeria-ejercito-y-reinsercion-juvenil-hay-9-detenidos/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-de-atacama-y-pdi-desarticulan-presunta-red-de-corrupcion-vinculada-a-gendarmeria-ejercito-y-reinsercion-juvenil-hay-9-detenidos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "SEBV Atacama recupera en Copiapó vehículo con encargo vigente por estafa",
+    "enlace": "https://www.nostalgica.cl/sebv-atacama-recupera-en-copiapo-vehiculo-con-encargo-vigente-por-estafa/?utm_source=rss&utm_medium=rss&utm_campaign=sebv-atacama-recupera-en-copiapo-vehiculo-con-encargo-vigente-por-estafa",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Provincia del Huasco promociona sus atractivos turísticos y productos locales con feria en la Plaza de Armas de Santiago",
+    "enlace": "https://www.nostalgica.cl/provincia-del-huasco-promociona-sus-atractivos-turisticos-y-productos-locales-con-feria-en-la-plaza-de-armas-de-santiago/?utm_source=rss&utm_medium=rss&utm_campaign=provincia-del-huasco-promociona-sus-atractivos-turisticos-y-productos-locales-con-feria-en-la-plaza-de-armas-de-santiago",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Atacama se prepara para simulacro regional de sismo y tsunami para este 8 de octubre a las 14:15 horas",
     "enlace": "https://www.nostalgica.cl/atacama-se-prepara-para-simulacro-regional-de-sismo-y-tsunami-para-este-8-de-octubre-a-las-1415-horas/?utm_source=rss&utm_medium=rss&utm_campaign=atacama-se-prepara-para-simulacro-regional-de-sismo-y-tsunami-para-este-8-de-octubre-a-las-1415-horas",
     "descripcion": "",
@@ -1503,47 +1548,47 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "ECONÓMICOS DE 12:00 A 13:00 HORAS, JUEVES 24 DE SEPTIEMBRE 2026",
-    "enlace": "https://www.nostalgica.cl/economicos-de-1200-a-1300-horas-jueves-24-de-septiembre-2026/?utm_source=rss&utm_medium=rss&utm_campaign=economicos-de-1200-a-1300-horas-jueves-24-de-septiembre-2026",
+    "titulo": "Atacama: Fiscalía y PDI indagan la participación de nueve imputados en delitos de corrupción",
+    "enlace": "https://www.maray.cl/atacama/24/09/2026/atacama-fiscalia-y-pdi-indagan-la-participacion-de-nueve-imputados-en-delitos-de-corrupcion/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Detienen a cuatro funcionarios de Gendarmería en investigación por fraude al fisco en Atacama",
-    "enlace": "https://www.nostalgica.cl/detienen-a-cuatro-funcionarios-de-gendarmeria-en-investigacion-por-fraude-al-fisco-en-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-cuatro-funcionarios-de-gendarmeria-en-investigacion-por-fraude-al-fisco-en-atacama",
+    "titulo": "Abren postulaciones para operar dos servicios de transporte subsidiado en Atacama",
+    "enlace": "https://www.maray.cl/atacama/24/09/2026/abren-postulaciones-para-operar-dos-servicios-de-transporte-subsidiado-en-atacama/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "¿Y la licencia profesional?",
-    "enlace": "https://www.nostalgica.cl/y-la-licencia-profesional/?utm_source=rss&utm_medium=rss&utm_campaign=y-la-licencia-profesional",
+    "titulo": "Fallece Reinaldo Sánchez, histórico dirigente de Santiago Wanderers y del fútbol chileno",
+    "enlace": "https://www.maray.cl/deportes/24/09/2026/fallece-reinaldo-sanchez-historico-dirigente-de-santiago-wanderers-y-del-futbol-chileno/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "¿Licencia venia de regalo?",
-    "enlace": "https://www.nostalgica.cl/licencia-venia-de-regalo/?utm_source=rss&utm_medium=rss&utm_campaign=licencia-venia-de-regalo",
+    "titulo": "SMA refuerza medidas para proteger el Desierto Florido en Atacama y el norte del país",
+    "enlace": "https://www.maray.cl/atacama/24/09/2026/sma-refuerza-medidas-para-proteger-el-desierto-florido-en-atacama-y-el-norte-del-pais/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "SAMSARA: ¡Apoyo desmentido!",
-    "enlace": "https://www.nostalgica.cl/samsara-apoyo-desmentido/?utm_source=rss&utm_medium=rss&utm_campaign=samsara-apoyo-desmentido",
+    "titulo": "Cuatro gendarmes detenidos en investigación por fraude al fisco y corrupción en Atacama",
+    "enlace": "https://www.maray.cl/atacama/24/09/2026/cuatro-gendarmes-detenidos-en-investigacion-por-fraude-al-fisco-y-corrupcion-en-atacama/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1593,49 +1638,13 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Atacama encabeza el crecimiento regional del país con un alza de 8,3% en su PIB y Delegación Presidencial destaca oportunidades para el desarrollo.",
-    "enlace": "https://www.maray.cl/atacama/24/09/2026/atacama-encabeza-el-crecimiento-regional-del-pais-con-un-alza-de-83-en-su-pib-y-delegacion-presidencial-destaca-oportunidades-para-el-desarrollo/",
+    "titulo": "“Fondo Vecino Sopraval nos brindó apoyo para mejorar la seguridad de los vecinos en nuestro sector de La Peña”",
+    "enlace": "https://laliguanoticias.cl/2026/09/24/fondo-vecino-sopraval-nos-brindo-apoyo-para-mejorar-la-seguridad-de-los-vecinos-en-nuestro-sector-de-la-pena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Dinamarca advierte posible aumento de ataques rusos contra países de la OTAN",
-    "enlace": "https://www.maray.cl/internacional/24/09/2026/dinamarca-advierte-posible-aumento-de-ataques-rusos-contra-paises-de-la-otan/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Trump recibe a Xi Jinping en la Casa Blanca en medio de tensiones comerciales y geopolíticas",
-    "enlace": "https://www.maray.cl/internacional/24/09/2026/trump-recibe-a-xi-jinping-en-la-casa-blanca-en-medio-de-tensiones-comerciales-y-geopoliticas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Siete debates que marcaron la Cumbre de la Minería 2026",
-    "enlace": "https://www.maray.cl/mineria-economia/24/09/2026/siete-debates-que-marcaron-la-cumbre-de-la-mineria-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Dos sujetos quedan en prisión preventiva tras violento asalto en El Salvador",
-    "enlace": "https://www.maray.cl/atacama/24/09/2026/dos-sujetos-quedan-en-prision-preventiva-tras-violento-asalto-en-el-salvador/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+    "medio": "La Ligua Noticias",
+    "zona": "La Ligua",
+    "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
     "titulo": "Ruta Turística “Donde el Diablo Perdió el Poncho” recibe reconocimiento regional por su aporte al turismo rural y cultural de Petorca",
@@ -1712,15 +1721,6 @@
   {
     "titulo": "Autoridades refuerzan fiscalización sanitaria y llaman a preferir el comercio establecido durante Fiestas Patrias",
     "enlace": "https://laliguanoticias.cl/2026/09/15/autoridades-refuerzan-fiscalizacion-sanitaria-y-llaman-a-preferir-el-comercio-establecido-durante-fiestas-patrias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "50 adultos mayores participaron en la primera caminata saludable del programa Activamente de Sopraval en La Calera",
-    "enlace": "https://laliguanoticias.cl/2026/09/11/50-adultos-mayores-participaron-en-la-primera-caminata-saludable-del-programa-activamente-de-sopraval-en-la-calera/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Ligua Noticias",
@@ -1818,8 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Senador Calisto solicita a ministra Desarrollo Social cambiar la administración del ELEAM de Coyhaique y asumir déficit presupuestario",
-    "enlace": "https://g5noticias.cl/2026/09/24/senador-calisto-solicita-a-ministra-desarrollo-social-cambiar-la-administracion-del-eleam-de-coyhaique-y-asumir-deficit-presupuestario/",
+    "titulo": "Servicio Sanitario Rural de Huampulla contará con sistema fotovoltaico para disminuir tarifas eléctricas",
+    "enlace": "https://g5noticias.cl/2026/09/24/servicio-sanitario-rural-de-huampulla-contara-con-sistema-fotovoltaico-para-disminuir-tarifas-electricas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1827,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "DEDECON logra corregir cobro tributario de más de $17 millones que afectaba a comerciante de Copiapó",
-    "enlace": "https://g5noticias.cl/2026/09/24/dedecon-logra-corregir-cobro-tributario-de-mas-de-17-millones-que-afectaba-a-comerciante-de-copiapo/",
+    "titulo": "Atacama abre nueva convocatoria de sus Premios Regionales de Arte, Cultura y Patrimonio con nueve categorías",
+    "enlace": "https://g5noticias.cl/2026/09/24/atacama-abre-nueva-convocatoria-de-sus-premios-regionales-de-arte-cultura-y-patrimonio-con-nueve-categorias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1836,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalización CPLT: Gobierno Regional Metropolitano alcanza 96,7% en transparencia, pero presenta brechas en la publicación de información sobre el uso del royalty minero",
-    "enlace": "https://g5noticias.cl/2026/09/24/fiscalizacion-cplt-gobierno-regional-metropolitano-alcanza-967-en-transparencia-pero-presenta-brechas-en-la-publicacion-de-informacion-sobre-el-uso-del-royalty-minero/",
+    "titulo": "Culturas Aysén recorre escuelas rurales presentando nueva herramienta pedagógica",
+    "enlace": "https://g5noticias.cl/2026/09/24/culturas-aysen-recorre-escuelas-rurales-presentando-nueva-herramienta-pedagogica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1845,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alejandro Tabilo vuelve a la cancha en Chengdú tras la eliminación de Chile en Copa Davis",
-    "enlace": "https://g5noticias.cl/2026/09/24/alejandro-tabilo-vuelve-a-la-cancha-en-chengdu-tras-la-eliminacion-de-chile-en-copa-davis/",
+    "titulo": "Reinaldo Sánchez: del club de barrio a la industria del fútbol. Por Frano Giakoni Ramírez, director del Magíster en Gestión Deportiva UNAB",
+    "enlace": "https://g5noticias.cl/2026/09/24/reinaldo-sanchez-del-club-de-barrio-a-la-industria-del-futbol-por-frano-giakoni-ramirez-director-del-magister-en-gestion-deportiva-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1854,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Algarrobo inaugura dos nuevas sedes sociales financiadas a través del Gobierno Regional de Valparaíso",
-    "enlace": "https://g5noticias.cl/2026/09/24/algarrobo-inaugura-dos-nuevas-sedes-sociales-financiadas-a-traves-del-gobierno-regional-de-valparaiso/",
+    "titulo": "Armada apoyó evacuación médica desde Isla Huar a Calbuco",
+    "enlace": "https://g5noticias.cl/2026/09/24/armada-apoyo-evacuacion-medica-desde-isla-huar-a-calbuco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1863,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía de Chillán obtiene prisión preventiva para pasajero de bus que transportaba 3,5 kilos de marihuana",
-    "enlace": "https://g5noticias.cl/2026/09/24/fiscalia-de-chillan-obtiene-prision-preventiva-para-pasajero-de-bus-que-transportaba-35-kilos-de-marihuana/",
+    "titulo": "19 bandas emergentes estarán presentes en la cuarta edición de Café Rock",
+    "enlace": "https://g5noticias.cl/2026/09/24/19-bandas-emergentes-estaran-presentes-en-la-cuarta-edicion-de-cafe-rock/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Delegado Pino y Senador Walker aúnan esfuerzos para avanzar en desaladora y Circunvalación de La Serena-Coquimbo.",
-    "enlace": "https://g5noticias.cl/2026/09/24/delegado-pino-y-senador-walker-aunan-esfuerzos-para-avanzar-en-desaladora-y-circunvalacion-de-la-serena-coquimbo/",
+    "titulo": "Carabineros detiene a ocho personas y libera a víctima de secuestro en Recoleta",
+    "enlace": "https://g5noticias.cl/2026/09/24/carabineros-detiene-a-ocho-personas-y-libera-a-victima-de-secuestro-en-recoleta/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desempleo en Coquimbo se mantiene sobre el 9% y plataformas digitales abren nuevas alternativas de trabajo independiente desde casa",
-    "enlace": "https://g5noticias.cl/2026/09/24/desempleo-en-coquimbo-se-mantiene-sobre-el-9-y-plataformas-digitales-abren-nuevas-alternativas-de-trabajo-independiente-desde-casa/",
+    "titulo": "Fiscalía y PDI de Atacama indagan la participación de nueve imputados en delitos de corrupción",
+    "enlace": "https://g5noticias.cl/2026/09/24/fiscalia-y-pdi-de-atacama-indagan-la-participacion-de-nueve-imputados-en-delitos-de-corrupcion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desempleo en Tarapacá se mantiene sobre el 7% y plataformas digitales abren nuevas alternativas de trabajo independiente desde casa",
-    "enlace": "https://g5noticias.cl/2026/09/24/desempleo-en-tarapaca-se-mantiene-sobre-el-7-y-plataformas-digitales-abren-nuevas-alternativas-de-trabajo-independiente-desde-casa/",
+    "titulo": "Coquimbo: Fiscalía formaliza a extranjeros por receptación de celulares que habrían sido sustraídos en la fiesta de La Pampilla",
+    "enlace": "https://g5noticias.cl/2026/09/24/coquimbo-fiscalia-formaliza-a-extranjeros-por-receptacion-de-celulares-que-habrian-sido-sustraidos-en-la-fiesta-de-la-pampilla/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Congreso y Gobierno de Santiago abren diálogo sobre el desafío de construir ciudades más saludables",
-    "enlace": "https://g5noticias.cl/2026/09/24/congreso-y-gobierno-de-santiago-abren-dialogo-sobre-el-desafio-de-construir-ciudades-mas-saludables/",
+    "titulo": "Xi visita a Trump y afirma que China y EEUU deben ser socios y no rivales",
+    "enlace": "https://g5noticias.cl/2026/09/24/xi-visita-a-trump-y-afirma-que-china-y-eeuu-deben-ser-socios-y-no-rivales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1998,6 +1998,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Ministro de Defensa anuncia la modernización de las FF.AA.  y mayor presencia en la Antártica",
+    "enlace": "https://laprensaaustral.cl/2026/09/24/ministro-de-defensa-anuncia-la-modernizacion-de-las-ff-aa-y-mayor-presencia-en-la-antartica/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Magallánicos al Sudamericano Conmebol de futsal con la “Roja”",
     "enlace": "https://laprensaaustral.cl/2026/09/24/magallanicos-al-sudamericano-conmebol-de-futsal-con-la-roja/",
     "descripcion": "",
@@ -2072,15 +2081,6 @@
   {
     "titulo": "Hacienda podría recortar hasta un 10% del  Presupuesto 2027 al Gobierno Regional",
     "enlace": "https://laprensaaustral.cl/2026/09/24/hacienda-podria-recortar-hasta-un-10-del-presupuesto-2027-al-gobierno-regional/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Párvulos transformaron cajas  y telas en escenarios de juego",
-    "enlace": "https://laprensaaustral.cl/2026/09/24/parvulos-transformaron-cajas-y-telas-en-escenarios-de-juego/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
