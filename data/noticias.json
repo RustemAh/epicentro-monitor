@@ -180,6 +180,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Cómo identificar y enfrentar la depresión estacional",
+    "enlace": "https://laserenaonline.cl/2026/09/25/como-identificar-y-enfrentar-la-depresion-estacional/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Oficina de Patrimonio, Archivos y Museos fortalece la investigación y puesta en valor de la historia de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/09/25/oficina-de-patrimonio-archivos-y-museos-fortalece-la-investigacion-y-puesta-en-valor-de-la-historia-de-coquimbo/",
     "descripcion": "",
@@ -254,15 +263,6 @@
   {
     "titulo": "Buscan acelerar recuperación de la Ruta Internacional y apertura de Agua Negra",
     "enlace": "https://laserenaonline.cl/2026/09/25/buscan-acelerar-recuperacion-de-la-ruta-internacional-y-apertura-de-agua-negra/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Cerca de 500 estudiantes se reunieron en torno a la Liga de Ajedrez del SLEP Puerto Cordillera",
-    "enlace": "https://laserenaonline.cl/2026/09/25/cerca-de-500-estudiantes-se-reunieron-en-torno-a-la-liga-de-ajedrez-del-slep-puerto-cordillera/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -630,6 +630,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Explosivo encontrado en acceso a pique minero fue destruido por el GOPE en Combarbalá",
+    "enlace": "https://www.elcombarbalino.cl/2026/09/25/explosivo-encontrado-en-acceso-a-pique-minero-fue-destruido-por-el-gope-en-combarbala/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Escuela América de Combarbalá representa a Chile en la WRO Open Estados Unidos 2026",
     "enlace": "https://www.elcombarbalino.cl/2026/09/25/escuela-america-de-combarbala-representa-a-chile-en-la-wro-open-estados-unidos-2026/",
     "descripcion": "",
@@ -704,15 +713,6 @@
   {
     "titulo": "Recursos del Royalty Minero permiten impulsar nuevas obras para la comunidad de Combarbalá",
     "enlace": "https://www.elcombarbalino.cl/2026/09/10/recursos-del-royalty-minero-permiten-impulsar-nuevas-obras-para-la-comunidad-de-combarbala/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Combarbalá dio la bienvenida al Mes de la Patria con folclore, tradiciones y encuentro comunitario",
-    "enlace": "https://www.elcombarbalino.cl/2026/09/08/combarbala-dio-la-bienvenida-al-mes-de-la-patria-con-folclore-tradiciones-y-encuentro-comunitario/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -1143,8 +1143,8 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Estados Unidos evalúa restringir exportaciones de diésel ante precios récord y presión sobre el mercado",
-    "enlace": "https://www.davidnoticias.cl/estados-unidos-evalua-restringir-exportaciones-de-diesel-ante-precios-record-y-presion-sobre-el-mercado/",
+    "titulo": "Crece respaldo ciudadano en Illapel a iniciativa para reconocer a María Quiteria Ramírez",
+    "enlace": "https://www.davidnoticias.cl/crece-respaldo-ciudadano-en-illapel-a-iniciativa-para-reconocer-a-maria-quiteria-ramirez/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1152,8 +1152,8 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "Crece respaldo ciudadano en Illapel a iniciativa para reconocer a María Quiteria Ramírez",
-    "enlace": "https://www.davidnoticias.cl/crece-respaldo-ciudadano-en-illapel-a-iniciativa-para-reconocer-a-maria-quiteria-ramirez/",
+    "titulo": "Estados Unidos evalúa restringir exportaciones de diésel ante precios récord y presión sobre el mercado",
+    "enlace": "https://www.davidnoticias.cl/estados-unidos-evalua-restringir-exportaciones-de-diesel-ante-precios-record-y-presion-sobre-el-mercado/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1186,6 +1186,15 @@
     "medio": "David Noticias",
     "zona": "Los Vilos",
     "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Bomberos de Andacollo despide a uno de sus fundadores y primer comandante, Ubaldo Pangue",
+    "enlace": "https://www.elandacollino.cl/2026/09/25/bomberos-de-andacollo-despide-a-uno-de-sus-fundadores-y-primer-comandante-ubaldo-pangue/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Fiesta Chica 2026: Andacollo prepara mapa comercial y fija fechas para venta presencial de puestos",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Andacollo de luto: Falleció Erick Martínez, la voz de las canciones litúrgicas en el Santuario de la Virgen",
     "enlace": "https://www.elandacollino.cl/2026/09/18/andacollo-de-luto-fallecio-erick-martinez-la-voz-de-las-canciones-liturgicas-en-el-santuario-de-la-virgen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Andacollo dio el vamos a las Fiestas Patrias con una gran Fiesta de la Chilenidad en calle Urmeneta",
-    "enlace": "https://www.elandacollino.cl/2026/09/17/andacollo-dio-el-vamos-a-las-fiestas-patrias-con-una-gran-fiesta-de-la-chilenidad-en-calle-urmeneta/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1548,8 +1548,8 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Femicidios frustrados aumentan un 16,7% en Atacama: ministra Marín anuncia refuerzo a víctimas",
-    "enlace": "https://www.nostalgica.cl/femicidios-frustrados-aumentan-un-167-en-atacama-ministra-marin-anuncia-refuerzo-a-victimas/?utm_source=rss&utm_medium=rss&utm_campaign=femicidios-frustrados-aumentan-un-167-en-atacama-ministra-marin-anuncia-refuerzo-a-victimas",
+    "titulo": "Ministerio de la mujer quintuplica fondos para emprendedoras de Atacama: 18 mujeres beneficiadas",
+    "enlace": "https://www.nostalgica.cl/ministerio-de-la-mujer-quintuplica-fondos-para-emprendedoras-de-atacama-18-mujeres-beneficiadas/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-la-mujer-quintuplica-fondos-para-emprendedoras-de-atacama-18-mujeres-beneficiadas",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1557,8 +1557,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Carabineros detuvo en Diego de Almagro a hombre con orden de aprehensión por causa de abuso sexual a menor de 14 años",
-    "enlace": "https://www.nostalgica.cl/carabineros-detuvo-en-diego-de-almagro-a-hombre-con-orden-de-aprehension-por-causa-de-abuso-sexual-a-menor-de-14-anos/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-detuvo-en-diego-de-almagro-a-hombre-con-orden-de-aprehension-por-causa-de-abuso-sexual-a-menor-de-14-anos",
+    "titulo": "Alcalde de Alto del Carmen advierte compleja emergencia por crecida de ríos y plantea posibles evacuaciones",
+    "enlace": "https://www.nostalgica.cl/alcalde-de-alto-del-carmen-advierte-compleja-emergencia-por-crecida-de-rios-y-plantea-posibles-evacuaciones/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-de-alto-del-carmen-advierte-compleja-emergencia-por-crecida-de-rios-y-plantea-posibles-evacuaciones",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1566,8 +1566,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Cinco detenidos en Copiapó tras robo de especies desde un vehículo: uno mantenía orden de detención vigente",
-    "enlace": "https://www.nostalgica.cl/cinco-detenidos-en-copiapo-tras-robo-de-especies-desde-un-vehiculo-uno-mantenia-orden-de-detencion-vigente/?utm_source=rss&utm_medium=rss&utm_campaign=cinco-detenidos-en-copiapo-tras-robo-de-especies-desde-un-vehiculo-uno-mantenia-orden-de-detencion-vigente",
+    "titulo": "Ministerio de Minería adjudica $960 millones para fortalecimiento productivo de la pequeña minería entre Antofagasta y Los Ríos",
+    "enlace": "https://www.nostalgica.cl/ministerio-de-mineria-adjudica-960-millones-para-fortalecimiento-productivo-de-la-pequena-mineria-entre-antofagasta-y-los-rios/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-mineria-adjudica-960-millones-para-fortalecimiento-productivo-de-la-pequena-mineria-entre-antofagasta-y-los-rios",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1575,8 +1575,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Operación Vía Crucis: Fiscalía investiga presunta corrupción en Gendarmería, Ejército y otros organismos públicos",
-    "enlace": "https://www.nostalgica.cl/operacion-via-crucis-fiscalia-investiga-presunta-corrupcion-en-gendarmeria-ejercito-y-otros-organismos-publicos/?utm_source=rss&utm_medium=rss&utm_campaign=operacion-via-crucis-fiscalia-investiga-presunta-corrupcion-en-gendarmeria-ejercito-y-otros-organismos-publicos",
+    "titulo": "Copiapó: impulsan campaña para sumar nuevas familias de acogida en Atacama",
+    "enlace": "https://www.nostalgica.cl/copiapo-impulsan-campana-para-sumar-nuevas-familias-de-acogida-en-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=copiapo-impulsan-campana-para-sumar-nuevas-familias-de-acogida-en-atacama",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1584,8 +1584,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "ECONÓMICOS DE 12:00 A 13:00 HORAS, VIERNES 25 DE SEPTIEMBRE 2026",
-    "enlace": "https://www.nostalgica.cl/economicos-de-1200-a-1300-horas-viernes-25-de-septiembre-2026/?utm_source=rss&utm_medium=rss&utm_campaign=economicos-de-1200-a-1300-horas-viernes-25-de-septiembre-2026",
+    "titulo": "TGR asegura continuidad del cobro del CAE tras contundente respaldo de la Corte Suprema",
+    "enlace": "https://www.nostalgica.cl/tgr-asegura-continuidad-del-cobro-del-cae-tras-contundente-respaldo-de-la-corte-suprema/?utm_source=rss&utm_medium=rss&utm_campaign=tgr-asegura-continuidad-del-cobro-del-cae-tras-contundente-respaldo-de-la-corte-suprema",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1593,8 +1593,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Tras declaraciones de embajador Judd: Fiscalía investigará denuncia de la oposición por eventual vulneración a la Ley de Inteligencia",
-    "enlace": "https://www.nostalgica.cl/tras-declaraciones-de-embajador-judd-fiscalia-investigara-denuncia-de-la-oposicion-por-eventual-vulneracion-a-la-ley-de-inteligencia/?utm_source=rss&utm_medium=rss&utm_campaign=tras-declaraciones-de-embajador-judd-fiscalia-investigara-denuncia-de-la-oposicion-por-eventual-vulneracion-a-la-ley-de-inteligencia",
+    "titulo": "Gobierno Regional busca acelerar nuevos sistemas de transporte público para Caldera y Tierra Amarilla",
+    "enlace": "https://www.nostalgica.cl/gobierno-regional-busca-acelerar-nuevos-sistemas-de-transporte-publico-para-caldera-y-tierra-amarilla/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-regional-busca-acelerar-nuevos-sistemas-de-transporte-publico-para-caldera-y-tierra-amarilla",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1602,8 +1602,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Inicia viaje del papa León XIV por Francia con cuestionamientos al aborto y la Inteligencia Artificial",
-    "enlace": "https://www.nostalgica.cl/inicia-viaje-del-papa-leon-xiv-por-francia-con-cuestionamientos-al-aborto-y-la-inteligencia-artificial/?utm_source=rss&utm_medium=rss&utm_campaign=inicia-viaje-del-papa-leon-xiv-por-francia-con-cuestionamientos-al-aborto-y-la-inteligencia-artificial",
+    "titulo": "Tantay Atacama abre convocatoria para resolver ocho desafíos de innovación: postulaciones cierran el 4 de octubre",
+    "enlace": "https://www.nostalgica.cl/tantay-atacama-abre-convocatoria-para-resolver-ocho-desafios-de-innovacion-postulaciones-cierran-el-4-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=tantay-atacama-abre-convocatoria-para-resolver-ocho-desafios-de-innovacion-postulaciones-cierran-el-4-de-octubre",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1611,8 +1611,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "El desafío que viene para las empresas: Trazabilidad en cada consentimiento",
-    "enlace": "https://www.nostalgica.cl/el-desafio-que-viene-para-las-empresas-trazabilidad-en-cada-consentimiento/?utm_source=rss&utm_medium=rss&utm_campaign=el-desafio-que-viene-para-las-empresas-trazabilidad-en-cada-consentimiento",
+    "titulo": "¡Otro robo de medidor!",
+    "enlace": "https://www.nostalgica.cl/otro-robo-de-medidor/?utm_source=rss&utm_medium=rss&utm_campaign=otro-robo-de-medidor",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1620,8 +1620,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "“Infidelidad financiera”: Cómo discutir de plata con tu pareja sin llegar al divorcio",
-    "enlace": "https://www.nostalgica.cl/infidelidad-financiera-como-discutir-de-plata-con-tu-pareja-sin-llegar-al-divorcio/?utm_source=rss&utm_medium=rss&utm_campaign=infidelidad-financiera-como-discutir-de-plata-con-tu-pareja-sin-llegar-al-divorcio",
+    "titulo": "Dos detenidos: Robo con violencia",
+    "enlace": "https://www.nostalgica.cl/dos-detenidos-robo-con-violencia/?utm_source=rss&utm_medium=rss&utm_campaign=dos-detenidos-robo-con-violencia",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1629,11 +1629,20 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Google cumple 28 años: buscar ya no significa lo mismo",
-    "enlace": "https://www.nostalgica.cl/google-cumple-28-anos-buscar-ya-no-significa-lo-mismo/?utm_source=rss&utm_medium=rss&utm_campaign=google-cumple-28-anos-buscar-ya-no-significa-lo-mismo",
+    "titulo": "5ta sesión de MITTA 2026",
+    "enlace": "https://www.nostalgica.cl/5ta-sesion-de-mitta-2026/?utm_source=rss&utm_medium=rss&utm_campaign=5ta-sesion-de-mitta-2026",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Camioneros piden al Gobierno aclarar medidas ante posible alza del diésel",
+    "enlace": "https://www.maray.cl/pais/25/09/2026/camioneros-piden-al-gobierno-aclarar-medidas-ante-posible-alza-del-diesel/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1712,15 +1721,6 @@
   {
     "titulo": "Control en Ruta 5 Norte terminó con detenido por orden judicial pendiente",
     "enlace": "https://www.maray.cl/atacama/25/09/2026/control-en-ruta-5-norte-termino-con-detenido-por-orden-judicial-pendiente/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Carabineros recuperó vehículo robado y detuvo a dos personas en Chañaral",
-    "enlace": "https://www.maray.cl/atacama/25/09/2026/carabineros-recupero-vehiculo-robado-y-detuvo-a-dos-personas-en-chanaral/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "«No seremos el vertedero del crimen organizado»: Bianchi oficia a ministros y Gendarmería para frenar sarribo de peligroso sicario",
-    "enlace": "https://g5noticias.cl/2026/09/25/no-seremos-el-vertedero-del-crimen-organizado-bianchi-oficia-a-ministros-y-gendarmeria-para-frenar-sarribo-de-peligroso-sicario/",
+    "titulo": "Renault da inicio a nueva etapa en Chile con la llegada de RNLT a Cenco Costanera",
+    "enlace": "https://g5noticias.cl/2026/09/25/renault-da-inicio-a-nueva-etapa-en-chile-con-la-llegada-de-rnlt-a-cenco-costanera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Estudio de Corfo revela que turismo en Valparaíso alcanza récord de empleo con más de 67 mil trabajadores",
-    "enlace": "https://g5noticias.cl/2026/09/25/estudio-de-corfo-revela-que-turismo-en-valparaiso-alcanza-record-de-empleo-con-mas-de-67-mil-trabajadores/",
+    "titulo": "Minutos restantes del choque Everton-U. de Chile se jugarán previamente al partido de revancha del domingo, sin público",
+    "enlace": "https://g5noticias.cl/2026/09/25/minutos-restantes-del-choque-everton-u-de-chile-se-jugaran-previamente-al-partido-de-revancha-del-domingo-sin-publico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alcalde Johnny Piraíno solicita a Ministra de Energía gestionar soluciones en materia de suministro eléctrico en La Calera",
-    "enlace": "https://g5noticias.cl/2026/09/25/alcalde-johnny-piraino-solicita-a-ministra-de-energia-gestionar-soluciones-en-materia-de-suministro-electrico-en-la-calera/",
+    "titulo": "Carabineros detuvo a autor de incendio en Lo Espejo",
+    "enlace": "https://g5noticias.cl/2026/09/25/carabineros-detuvo-a-autor-de-incendio-en-lo-espejo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputado Fabián Ossandón responde al PNL y apunta al oficialismo por caída de reforma migratoria",
-    "enlace": "https://g5noticias.cl/2026/09/25/diputado-fabian-ossandon-responde-al-pnl-y-apunta-al-oficialismo-por-caida-de-reforma-migratoria/",
+    "titulo": "Con energías renovables joven de Llay Llay mejoró su producción de huevos",
+    "enlace": "https://g5noticias.cl/2026/09/25/con-energias-renovables-joven-de-llay-llay-mejoro-su-produccion-de-huevos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Estudio de prefactibilidad de la CNR identifica alternativa con potencial para fortalecer la seguridad hídrica en Ñuble y Maule",
-    "enlace": "https://g5noticias.cl/2026/09/25/estudio-de-prefactibilidad-de-la-cnr-identifica-alternativa-con-potencial-para-fortalecer-la-seguridad-hidrica-en-nuble-y-maule/",
+    "titulo": "Senador Núñez acusa a ministro Quiroz de «hacer trampa» en el presupuesto del Ministerio Público",
+    "enlace": "https://g5noticias.cl/2026/09/25/senador-nunez-acusa-a-ministro-quiroz-de-hacer-trampa-en-el-presupuesto-del-ministerio-publico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1953,8 +1953,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Encuentros Australes anuncia a la selección de ¡MATCH! Profesional y Taller Sur",
-    "enlace": "https://g5noticias.cl/2026/09/25/encuentros-australes-anuncia-a-la-seleccion-de-match-profesional-y-taller-sur/",
+    "titulo": "Estudiantes mejoran las casas de personas mayores en Quillota",
+    "enlace": "https://g5noticias.cl/2026/09/25/estudiantes-mejoran-las-casas-de-personas-mayores-en-quillota/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1962,8 +1962,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Compañía La CreeSiente estrena nuevo montaje de danza contemporánea en el Biobío",
-    "enlace": "https://g5noticias.cl/2026/09/25/compania-la-creesiente-estrena-nuevo-montaje-de-danza-contemporanea-en-el-biobio/",
+    "titulo": "Ciberataques: el riesgo de que una amenaza digital termine paralizando una operación",
+    "enlace": "https://g5noticias.cl/2026/09/25/ciberataques-el-riesgo-de-que-una-amenaza-digital-termine-paralizando-una-operacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1971,8 +1971,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Desempleo en O’Higgins se mantiene sobre el 10% y plataformas digitales abren nuevas alternativas de trabajo independiente desde casa",
-    "enlace": "https://g5noticias.cl/2026/09/25/desempleo-en-ohiggins-se-mantiene-sobre-el-10-y-plataformas-digitales-abren-nuevas-alternativas-de-trabajo-independiente-desde-casa/",
+    "titulo": "Colo Colo busca cortar su mala racha ante Audax por un lugar en cuartos de Copa Chile",
+    "enlace": "https://g5noticias.cl/2026/09/25/colo-colo-busca-cortar-su-mala-racha-ante-audax-por-un-lugar-en-cuartos-de-copa-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1980,8 +1980,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Chile se suma al Escudo de las Américas: ¿Puede representar una amenaza para la soberanía del país?",
-    "enlace": "https://g5noticias.cl/2026/09/25/chile-se-suma-al-escudo-de-las-americas-puede-representar-una-amenaza-para-la-soberania-del-pais/",
+    "titulo": "Clemente Huerta tiene un positivo debut en la USF Pro 2000 de la IndyCar",
+    "enlace": "https://g5noticias.cl/2026/09/25/clemente-huerta-tiene-un-positivo-debut-en-la-usf-pro-2000-de-la-indycar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1989,8 +1989,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Vecinos de Valdivia, Paillaco y La Unión accedieron a oficios y talleres en Barrios Culturales",
-    "enlace": "https://g5noticias.cl/2026/09/25/vecinos-de-valdivia-paillaco-y-la-union-accedieron-a-oficios-y-talleres-en-barrios-culturales/",
+    "titulo": "Providencia adjudica $34 millones para mejorar la seguridad de los barrios",
+    "enlace": "https://g5noticias.cl/2026/09/25/providencia-adjudica-34-millones-para-mejorar-la-seguridad-de-los-barrios/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
