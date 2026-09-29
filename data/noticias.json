@@ -270,6 +270,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Más de 7 mil profesionales llegarán a La Serena por congresos y eventos",
+    "enlace": "https://serenaycoquimbo.cl/mas-de-7-mil-profesionales-llegaran-a-la-serena-por-congresos-y-eventos/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-7-mil-profesionales-llegaran-a-la-serena-por-congresos-y-eventos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Gobierno duplica fondo emprendedor para apoyar a más de 1.100 desempleados",
+    "enlace": "https://serenaycoquimbo.cl/gobierno-duplica-fondo-emprendedor-para-apoyar-a-mas-de-1-100-desempleados/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-duplica-fondo-emprendedor-para-apoyar-a-mas-de-1-100-desempleados",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Más de 300 mascotas son vacunadas contra la Rabia en la región",
+    "enlace": "https://serenaycoquimbo.cl/mas-de-300-mascotas-son-vacunadas-contra-la-rabia-en-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-300-mascotas-son-vacunadas-contra-la-rabia-en-la-region",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo: AHORA, accidente de motociclista en ruta 5",
     "enlace": "https://serenaycoquimbo.cl/coquimbo-ahora-accidente-de-motociclista-en-ruta-5/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-ahora-accidente-de-motociclista-en-ruta-5",
     "descripcion": "",
@@ -326,33 +353,6 @@
   {
     "titulo": "Coquimbo. Persona fallece tras colisión múltiple de alta energía",
     "enlace": "https://serenaycoquimbo.cl/coquimbo-persona-fallece-tras-colision-multiple-de-alta-energia/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-persona-fallece-tras-colision-multiple-de-alta-energia",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Chungungo abre nuevo espacio en Pueblito Peñuelas para promover sus emprendimientos y oferta turística",
-    "enlace": "https://serenaycoquimbo.cl/chungungo-abre-nuevo-espacio-en-pueblito-penuelas-para-promover-sus-emprendimientos-y-oferta-turistica/?utm_source=rss&utm_medium=rss&utm_campaign=chungungo-abre-nuevo-espacio-en-pueblito-penuelas-para-promover-sus-emprendimientos-y-oferta-turistica",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Coquimbo. AHORA, colisión de alta energía entre 2 vehículos. Hay lesionados de gravedad",
-    "enlace": "https://serenaycoquimbo.cl/coquimbo-ahora-colision-de-alta-energia-entre-2-vehiculos-hay-lesionados-de-gravedad/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-ahora-colision-de-alta-energia-entre-2-vehiculos-hay-lesionados-de-gravedad",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "La Serena. Hombre fallece hoy sábado tras ser apuñalado",
-    "enlace": "https://serenaycoquimbo.cl/la-serena-hombre-fallece-hoy-sabado-tras-ser-apunalado/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-hombre-fallece-hoy-sabado-tras-ser-apunalado",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -450,6 +450,24 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Bomberos de Ovalle lanzan rifa para apoyar el tratamiento médico de querido voluntario de la Primera Compañía",
+    "enlace": "https://ovallehoy.cl/bomberos-de-ovalle-lanzan-rifa-para-apoyar-el-tratamiento-medico-de-querido-voluntario-de-la-primera-compania/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Expo Tejidos reúne a cerca de 50 tejedoras en Río Hurtado",
+    "enlace": "https://ovallehoy.cl/expo-tejidos-reune-a-cerca-de-50-tejedoras-en-rio-hurtado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Colegio Raúl Silva Henríquez celebra su consolidación como pilar de la educación técnica en Ovalle",
     "enlace": "https://ovallehoy.cl/colegio-raul-silva-henriquez-celebra-su-consolidacion-como-pilar-de-la-educacion-tecnica-en-ovalle/",
     "descripcion": "",
@@ -515,24 +533,6 @@
   {
     "titulo": "Ubican a adolescente ovallina desaparecida durante 21 días",
     "enlace": "https://ovallehoy.cl/ubican-a-adolescente-ovallina-desaparecida-durante-21-dias/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Río Hurtado: Servicio Sanitario Rural de Huampulla contará con sistema fotovoltaico para disminuir gastos",
-    "enlace": "https://ovallehoy.cl/rio-hurtado-servicio-sanitario-rural-de-huampulla-contara-con-sistema-fotovoltaico-para-disminuir-gastos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del viernes 25 de septiembre",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-viernes-25-de-septiembre/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Retiro de cables Choapa: 876 puntos serán intervenidos durante 2028",
-    "enlace": "https://veetv.cl/retiro-cables-choapa-876-puntos-2028/",
+    "titulo": "Mujeres gásfiter del Choapa celebran su certificación tras completar capacitación",
+    "enlace": "https://veetv.cl/mujeres-gasfiter-del-choapa-celebran-su-certificacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Investigan como homicidio la muerte de un hombre encontrado golpeado en Pichidangui",
-    "enlace": "https://veetv.cl/investigan-homicidio-muerte-hombre-pichidangui/",
+    "titulo": "Retiro de cables Choapa: 876 puntos serán intervenidos durante 2028",
+    "enlace": "https://veetv.cl/retiro-cables-choapa-876-puntos-2028/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1368,6 +1368,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "PC descarta provocación por polémico lienzo de las JJCC: “Es no más que eso, un lienzo”",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/28/pc-descarta-provocacion-por-polemico-lienzo-de-las-jjcc-es-no-mas-que-eso-un-lienzo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Nuevo giro en Dominga: Andes Iron desiste en la Corte Suprema y proyecto queda rechazado",
+    "enlace": "https://www.atacamanoticias.cl/2026/09/28/nuevo-giro-en-dominga-andes-iron-desiste-en-la-corte-suprema-y-proyecto-queda-rechazado/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Lundin Mining Candelaria reafirmó su compromiso ambiental participando en la jornada de Limpieza de Playas en Caldera",
     "enlace": "https://www.atacamanoticias.cl/2026/09/28/lundin-mining-candelaria-reafirmo-su-compromiso-ambiental-participando-en-la-jornada-de-limpieza-de-playas-en-caldera/",
     "descripcion": "",
@@ -1433,24 +1451,6 @@
   {
     "titulo": "Este es el mayor bloque comercial del mundo al cual Chile pidió entrar: ¿Qué significaría pertenecer?",
     "enlace": "https://www.atacamanoticias.cl/2026/09/28/este-es-el-mayor-bloque-comercial-del-mundo-al-cual-chile-pidio-entrar-que-significaria-pertenecer-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El gran número de postulantes a trabajar en minería que arranca cuando sabe que toman test de drogas",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/28/el-gran-numero-de-postulantes-a-trabajar-en-mineria-que-arranca-cuando-sabe-que-toman-test-de-drogas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Venegas (PS) acusa mentiras del canciller e insiste en que le pediría la renuncia: “Faltó a la verdad”",
-    "enlace": "https://www.atacamanoticias.cl/2026/09/28/venegas-ps-acusa-mentiras-del-canciller-e-insiste-en-que-le-pediria-la-renuncia-falto-a-la-verdad/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1638,6 +1638,15 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
+    "titulo": "Poeta huasquino “Juan Soñador” cierra septiembre con exitosas presentaciones en distintos eventos y comunas de Atacama",
+    "enlace": "https://www.maray.cl/atacama/28/09/2026/poeta-huasquino-juan-sonador-cierra-septiembre-con-exitosas-presentaciones-en-distintos-eventos-y-comunas-de-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Bengalas a centímetros de jugadores: informe detalla suspensión del duelo Everton-U. de Chile",
     "enlace": "https://www.maray.cl/deportes/28/09/2026/bengalas-a-centimetros-de-jugadores-informe-detalla-suspension-del-duelo-everton-u-de-chile/",
     "descripcion": "",
@@ -1712,15 +1721,6 @@
   {
     "titulo": "Lundin Mining Candelaria reafirmó su compromiso ambiental participando en la jornada de Limpieza de Playas en Caldera",
     "enlace": "https://www.maray.cl/atacama/28/09/2026/lundin-mining-candelaria-reafirmo-su-compromiso-ambiental-participando-en-la-jornada-de-limpieza-de-playas-en-caldera/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Minsal analiza nuevo caso sospechoso de sarampión detectado en Santiago",
-    "enlace": "https://www.maray.cl/pais/28/09/2026/minsal-analiza-nuevo-caso-sospechoso-de-sarampion-detectado-en-santiago/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Autoridades, expertos y sociedad civil abordan los desafíos para consolidar la conservación del humedal urbano del río Mapocho",
-    "enlace": "https://g5noticias.cl/2026/09/28/autoridades-expertos-y-sociedad-civil-abordan-los-desafios-para-consolidar-la-conservacion-del-humedal-urbano-del-rio-mapocho/",
+    "titulo": "Izko Alonso inicia su cierre de temporada europea con una Prefinal en el Campeonato Italiano ACI Karting y ritmo de punta ante los mejores del mundo",
+    "enlace": "https://g5noticias.cl/2026/09/29/izko-alonso-inicia-su-cierre-de-temporada-europea-con-una-prefinal-en-el-campeonato-italiano-aci-karting-y-ritmo-de-punta-ante-los-mejores-del-mundo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputada Javiera Rodríguez pide al gobierno patrocinar proyecto de educación gratuita para hijos de mártires tras nuevo asesinato de carabinero en Lo Espejo",
-    "enlace": "https://g5noticias.cl/2026/09/28/diputada-javiera-rodriguez-pide-al-gobierno-patrocinar-proyecto-de-educacion-gratuita-para-hijos-de-martires-tras-nuevo-asesinato-de-carabinero-en-lo-espejo/",
+    "titulo": "Encuesta Chile Nos Habla: desempleo supera a la inseguridad en preocupaciones de los ciudadanos y un 62,6% pide que el presupuesto 2027 reactive la economía",
+    "enlace": "https://g5noticias.cl/2026/09/29/encuesta-chile-nos-habla-desempleo-supera-a-la-inseguridad-en-preocupaciones-de-los-ciudadanos-y-un-626-pide-que-el-presupuesto-2027-reactive-la-economia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Kunstmann llama a avanzar en reforma de seguridad: “Si lleva la firma del Gobierno o de la oposición, me da lo mismo”",
-    "enlace": "https://g5noticias.cl/2026/09/28/kunstmann-llama-a-avanzar-en-reforma-de-seguridad-si-lleva-la-firma-del-gobierno-o-de-la-oposicion-me-da-lo-mismo/",
+    "titulo": "Consejos para aprovechar al máximo tus suplementos",
+    "enlace": "https://g5noticias.cl/2026/09/29/consejos-para-aprovechar-al-maximo-tus-suplementos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Autoridades regionales constituyeron el Comité Económico Regional y presentaron la Agenda Pro Empleo",
-    "enlace": "https://g5noticias.cl/2026/09/28/autoridades-regionales-constituyeron-el-comite-economico-regional-y-presentaron-la-agenda-pro-empleo/",
+    "titulo": "Arrollador estreno de «Prohibida Obsesión» alcanza peak de 900 mil personas promedio por minuto",
+    "enlace": "https://g5noticias.cl/2026/09/29/arrollador-estreno-de-prohibida-obsesion-alcanza-peak-de-900-mil-personas-promedio-por-minuto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Buenas Ideas 2026: Superintendencia reconoce 60 iniciativas que promueven la convivencia educativa",
-    "enlace": "https://g5noticias.cl/2026/09/28/buenas-ideas-2026-superintendencia-reconoce-60-iniciativas-que-promueven-la-convivencia-educativa/",
+    "titulo": "Carabineros encuentran cargadores de radios intercomunicadoras y dinero en efectivo en puntos de interés tras asesinato de cabo Aguilera",
+    "enlace": "https://g5noticias.cl/2026/09/29/carabineros-encuentran-cargadores-de-radios-intercomunicadoras-y-dinero-en-efectivo-en-puntos-de-interes-tras-asesinato-de-cabo-aguilera/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1953,8 +1953,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "De La Pintana a Las Condes: Orquesta Nocedal celebra 25 años formando generaciones a través de la música",
-    "enlace": "https://g5noticias.cl/2026/09/28/de-la-pintana-a-las-condes-orquesta-nocedal-celebra-25-anos-formando-generaciones-a-traves-de-la-musica/",
+    "titulo": "Alergias estacionales y su relación con el ronquido infantil. Por Nicole Bashforth Heredia, Académica Fonoaudiología UNAB, Especialista en motricidad orofacial",
+    "enlace": "https://g5noticias.cl/2026/09/28/alergias-estacionales-y-su-relacion-con-el-ronquido-infantil-por-nicole-bashforth-heredia-academica-fonoaudiologia-unab-especialista-en-motricidad-orofacial/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1962,8 +1962,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tomás de Gavardo corre condicionado en el prólogo del Rally de Marruecos",
-    "enlace": "https://g5noticias.cl/2026/09/28/tomas-de-gavardo-corre-condicionado-en-el-prologo-del-rally-de-marruecos/",
+    "titulo": "Youngers anuncia dos nuevos eventos «Encuentros con Kramer 50+», la iniciativa para mayores de 50 años",
+    "enlace": "https://g5noticias.cl/2026/09/28/youngers-anuncia-dos-nuevos-eventos-encuentros-con-kramer-50-la-iniciativa-para-mayores-de-50-anos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1971,8 +1971,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Vacancia de Oficinas Clase A se reduce a 8,4% y alcanza su menor nivel desde 2021",
-    "enlace": "https://g5noticias.cl/2026/09/28/vacancia-de-oficinas-clase-a-se-reduce-a-84-y-alcanza-su-menor-nivel-desde-2021/",
+    "titulo": "Alianza solidaria: Royal Enfield impulsa campaña para apoyar a Fundación Niño y Patria",
+    "enlace": "https://g5noticias.cl/2026/09/28/alianza-solidaria-royal-enfield-impulsa-campana-para-apoyar-a-fundacion-nino-y-patria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1980,8 +1980,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputados de la Comisión de Relaciones Exteriores cuestionan interpelación al canciller y destacan defensa de intereses de Chile",
-    "enlace": "https://g5noticias.cl/2026/09/28/diputados-de-la-comision-de-relaciones-exteriores-cuestionan-interpelacion-al-canciller-y-destacan-defensa-de-intereses-de-chile/",
+    "titulo": "En su primer mes, “DT Previene” ha orientado a 3 mil empleadores y dirigentes sindicales sobre Ley Karin para gestión preventiva",
+    "enlace": "https://g5noticias.cl/2026/09/28/en-su-primer-mes-dt-previene-ha-orientado-a-3-mil-empleadores-y-dirigentes-sindicales-sobre-ley-karin-para-gestion-preventiva/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1989,8 +1989,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comisión Mixta despacha proyecto que perfecciona expulsiones administrativas y establece prohibición de reingreso por al menos cinco años",
-    "enlace": "https://g5noticias.cl/2026/09/28/comision-mixta-despacha-proyecto-que-perfecciona-expulsiones-administrativas-y-establece-prohibicion-de-reingreso-por-al-menos-cinco-anos/",
+    "titulo": "Volantín Seguro 2026: 25 mil niños participaron en las actividades de la campaña de prevención de CGE",
+    "enlace": "https://g5noticias.cl/2026/09/28/volantin-seguro-2026-25-mil-ninos-participaron-en-las-actividades-de-la-campana-de-prevencion-de-cge/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
