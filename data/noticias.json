@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Contraloría pone fin al proyecto municipal de Illapel Básquet y anuncia reparo por $164 millones",
-    "enlace": "https://veetv.cl/contraloria-illapel-basquet-reparo-164-millones/",
+    "titulo": "Lluvias en Choapa: INIA explica beneficios para el riego y cuidados que requieren los cultivos",
+    "enlace": "https://veetv.cl/lluvias-choapa-inia-beneficios-riego-cuidados-cultivos/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Deporte y medioambiente: cómo las actividades al aire libre pueden contribuir al cuidado del territorio",
-    "enlace": "https://veetv.cl/deporte-y-medioambiente-como-las-actividades-al-aire-libre-pueden-contribuir-al-cuidado-del-territorio/",
+    "titulo": "Contraloría pone fin al proyecto municipal de Illapel Básquet y anuncia reparo por $164 millones",
+    "enlace": "https://veetv.cl/contraloria-illapel-basquet-reparo-164-millones/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1098,6 +1098,24 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Estados Unidos cede ante la presión por el diésel y abre la puerta al combustible ruso al mundo",
+    "enlace": "https://www.davidnoticias.cl/estados-unidos-cede-ante-la-presion-por-el-diesel-y-abre-la-puerta-al-combustible-ruso-al-mundo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
+    "titulo": "Contraloría objeta $164 millones en fondos municipales vinculados a Illapel Básquet y deriva antecedentes a Fiscalía",
+    "enlace": "https://www.davidnoticias.cl/contraloria-objeta-164-millones-en-fondos-municipales-vinculados-a-illapel-basquet-y-deriva-antecedentes-a-fiscalia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Los Vilos lidera las precipitaciones en Choapa con 50,3 milímetros acumulados",
     "enlace": "https://www.davidnoticias.cl/los-vilos-lidera-las-precipitaciones-en-choapa-con-503-milimetros-acumulados/",
     "descripcion": "",
@@ -1163,24 +1181,6 @@
   {
     "titulo": "Dos vehículos robados fueron recuperados durante controles carreteros en Canela",
     "enlace": "https://www.davidnoticias.cl/dos-vehiculos-robados-fueron-recuperados-durante-controles-carreteros-en-canela/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Presupuesto 2027 contempla endeudamiento por hasta US$25 mil millones",
-    "enlace": "https://www.davidnoticias.cl/presupuesto-2027-contempla-endeudamiento-por-hasta-us25-mil-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Elías Adasme Apablaza presentará su libro en homenaje a los trabajadores ferroviarios de Quilimarí",
-    "enlace": "https://www.davidnoticias.cl/elias-adasme-apablaza-presentara-su-libro-en-homenaje-a-los-trabajadores-ferroviarios-de-quilimari/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1548,6 +1548,42 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Estudiante de Atacama viajará a Suecia para participar en la Semana Nobel 2026",
+    "enlace": "https://www.nostalgica.cl/estudiante-de-atacama-viajara-a-suecia-para-participar-en-la-semana-nobel-2026/?utm_source=rss&utm_medium=rss&utm_campaign=estudiante-de-atacama-viajara-a-suecia-para-participar-en-la-semana-nobel-2026",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Servicio País abre postulaciones 2026 con presencia en cuatro comunas de Atacama",
+    "enlace": "https://www.nostalgica.cl/servicio-pais-abre-postulaciones-2026-con-presencia-en-cuatro-comunas-de-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=servicio-pais-abre-postulaciones-2026-con-presencia-en-cuatro-comunas-de-atacama",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "La Roja Sub 17 afina su puesta a punto rumbo a Qatar",
+    "enlace": "https://www.nostalgica.cl/la-roja-sub-17-afina-su-puesta-a-punto-rumbo-a-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=la-roja-sub-17-afina-su-puesta-a-punto-rumbo-a-qatar",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Atacama busca acelerar proyectos de infraestructura para impulsar inversiones y mejorar la calidad de vida",
+    "enlace": "https://www.nostalgica.cl/atacama-busca-acelerar-proyectos-de-infraestructura-para-impulsar-inversiones-y-mejorar-la-calidad-de-vida/?utm_source=rss&utm_medium=rss&utm_campaign=atacama-busca-acelerar-proyectos-de-infraestructura-para-impulsar-inversiones-y-mejorar-la-calidad-de-vida",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Investigadora destaca avistamiento de 15 cachalotes frente a Isla Chañaral y llama a proteger ecosistemas marinos de Atacama",
     "enlace": "https://www.nostalgica.cl/investigadora-destaca-avistamiento-de-15-cachalotes-frente-a-isla-chanaral-y-llama-a-proteger-ecosistemas-marinos-de-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=investigadora-destaca-avistamiento-de-15-cachalotes-frente-a-isla-chanaral-y-llama-a-proteger-ecosistemas-marinos-de-atacama",
     "descripcion": "",
@@ -1595,42 +1631,6 @@
   {
     "titulo": "Carabineros descarta supuesto secuestro en Copiapó y aclara procedimiento policial viralizado en redes sociales",
     "enlace": "https://www.nostalgica.cl/carabineros-descarta-supuesto-secuestro-en-copiapo-y-aclara-procedimiento-policial-viralizado-en-redes-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-descarta-supuesto-secuestro-en-copiapo-y-aclara-procedimiento-policial-viralizado-en-redes-sociales",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "“Hay ministros de primera y de segunda”: Matthei cierra la puerta a integrar gabinete de Kast",
-    "enlace": "https://www.nostalgica.cl/hay-ministros-de-primera-y-de-segunda-matthei-cierra-la-puerta-a-integrar-gabinete-de-kast/?utm_source=rss&utm_medium=rss&utm_campaign=hay-ministros-de-primera-y-de-segunda-matthei-cierra-la-puerta-a-integrar-gabinete-de-kast",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Servicio Militar 2027: REVISA con tu RUT si fuiste reclutado, cómo eximirte y qué pasa si no te presentas",
-    "enlace": "https://www.nostalgica.cl/servicio-militar-2027-revisa-con-tu-rut-si-fuiste-reclutado-como-eximirte-y-que-pasa-si-no-te-presentas/?utm_source=rss&utm_medium=rss&utm_campaign=servicio-militar-2027-revisa-con-tu-rut-si-fuiste-reclutado-como-eximirte-y-que-pasa-si-no-te-presentas",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Atacama registra aumento de casos de coqueluche: Autoridad Sanitaria llama a mantener la vacunación al día",
-    "enlace": "https://www.nostalgica.cl/atacama-registra-aumento-de-casos-de-coqueluche-autoridad-sanitaria-llama-a-mantener-la-vacunacion-al-dia/?utm_source=rss&utm_medium=rss&utm_campaign=atacama-registra-aumento-de-casos-de-coqueluche-autoridad-sanitaria-llama-a-mantener-la-vacunacion-al-dia",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Programa de excelencia en mantenimiento lleva a tres jóvenes talentos de Kinross Chile a Estados Unidos",
-    "enlace": "https://www.nostalgica.cl/programa-de-excelencia-en-mantenimiento-lleva-a-tres-jovenes-talentos-de-kinross-chile-a-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=programa-de-excelencia-en-mantenimiento-lleva-a-tres-jovenes-talentos-de-kinross-chile-a-estados-unidos",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Informe de Ibope revela que el 93% de los chilenos consume contenido en formato de audio; la radio lidera",
-    "enlace": "https://g5noticias.cl/2026/10/09/informe-de-ibope-revela-que-el-93-de-los-chilenos-consume-contenido-en-formato-de-audio-la-radio-lidera/",
+    "titulo": "Postergan votación de la Partida 31 y ANCORE seguirá presente en debate del Presupuesto 2027",
+    "enlace": "https://g5noticias.cl/2026/10/09/postergan-votacion-de-la-partida-31-y-ancore-seguira-presente-en-debate-del-presupuesto-2027/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Aluvión: Ministerio del Medio Ambiente oficiará a Gobiernos Regionales y Municipios por avance de los planes de acción climática",
-    "enlace": "https://g5noticias.cl/2026/10/09/aluvion-ministerio-del-medio-ambiente-oficiara-a-gobiernos-regionales-y-municipios-por-avance-de-los-planes-de-accion-climatica/",
+    "titulo": "Barro y aguas contaminadas tras un aluvión: cómo proteger la salud durante la limpieza",
+    "enlace": "https://g5noticias.cl/2026/10/09/barro-y-aguas-contaminadas-tras-un-aluvion-como-proteger-la-salud-durante-la-limpieza/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Corte Suprema rechazó recurso de amparo interpuesto por la defensa del Senador Calisto en causa por fraude al Fisco y fraude de subvenciones",
-    "enlace": "https://g5noticias.cl/2026/10/09/corte-suprema-rechazo-recurso-de-amparo-interpuesto-por-la-defensa-del-senador-calisto-en-causa-por-fraude-al-fisco-y-fraude-de-subvenciones/",
+    "titulo": "Reinician obras de soterramiento en cruce Santa Sofía en Chiguayante",
+    "enlace": "https://g5noticias.cl/2026/10/09/reinician-obras-de-soterramiento-en-cruce-santa-sofia-en-chiguayante/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presidente Kast promulga la Ley de Reconstrucción y la envía a Contraloría para su pronta entrada en vigencia",
-    "enlace": "https://g5noticias.cl/2026/10/09/presidente-kast-promulga-la-ley-de-reconstruccion-y-la-envia-a-contraloria-para-su-pronta-entrada-en-vigencia/",
+    "titulo": "Ministerio de Bienes Nacionales habilita visor territorial para monitorear daños e infraestructura afectada por aluvión en Las Condes",
+    "enlace": "https://g5noticias.cl/2026/10/09/ministerio-de-bienes-nacionales-habilita-visor-territorial-para-monitorear-danos-e-infraestructura-afectada-por-aluvion-en-las-condes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Sociedad civil lanza Futuro Común y convoca al Gobierno, al mundo empresarial y a la academia a abrir una nueva conversación sobre el desarrollo del país",
-    "enlace": "https://g5noticias.cl/2026/10/09/sociedad-civil-lanza-futuro-comun-y-convoca-al-gobierno-al-mundo-empresarial-y-a-la-academia-a-abrir-una-nueva-conversacion-sobre-el-desarrollo-del-pais/",
+    "titulo": "Coordinador Eléctrico fortalece su estructura para responder a los nuevos desafíos del sistema eléctrico",
+    "enlace": "https://g5noticias.cl/2026/10/09/coordinador-electrico-fortalece-su-estructura-para-responder-a-los-nuevos-desafios-del-sistema-electrico/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1953,8 +1953,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Según una encuesta de Robert Half: estancamiento profesional es la principal causa del agotamiento laboral en Chile",
-    "enlace": "https://g5noticias.cl/2026/10/09/segun-una-encuesta-de-robert-half-estancamiento-profesional-es-la-principal-causa-del-agotamiento-laboral-en-chile/",
+    "titulo": "Algarrobo será sede de un Seminario & Open Mat gratuito de Brazilian Jiu-Jitsu",
+    "enlace": "https://g5noticias.cl/2026/10/09/algarrobo-sera-sede-de-un-seminario-open-mat-gratuito-de-brazilian-jiu-jitsu/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1962,8 +1962,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Habilitan vacunación contra influenza, tétanos y hepatitis A en sectores afectados por las lluvias en la Región Metropolitana",
-    "enlace": "https://g5noticias.cl/2026/10/09/habilitan-vacunacion-contra-influenza-tetanos-y-hepatitis-a-en-sectores-afectados-por-las-lluvias-en-la-region-metropolitana/",
+    "titulo": "Proyecto de modernización e incentivo a Carabineros: Diputados Republicanos proponen que nueva ley lleve nombre últimos mártires",
+    "enlace": "https://g5noticias.cl/2026/10/09/proyecto-de-modernizacion-e-incentivo-a-carabineros-diputados-republicanos-proponen-que-nueva-ley-lleve-nombre-ultimos-martires/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1971,8 +1971,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alta demanda marcó operativo gtratuito de vacunación antirrábica en Quintero",
-    "enlace": "https://g5noticias.cl/2026/10/09/alta-demanda-marco-operativo-gtratuito-de-vacunacion-antirrabica-en-quintero/",
+    "titulo": "Documentales chilenos «Los niños sin tierra» y «No money no honey» tendrán su estreno nacional en el 33° FicValdivia",
+    "enlace": "https://g5noticias.cl/2026/10/09/documentales-chilenos-los-ninos-sin-tierra-y-no-money-no-honey-tendran-su-estreno-nacional-en-el-33-ficvaldivia/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1980,8 +1980,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Los Jaivas llegan a Coquimbo este 12 de octubre con la gira que celebra los 45 años de “Alturas de Macchu Picchu”",
-    "enlace": "https://g5noticias.cl/2026/10/09/los-jaivas-llegan-a-coquimbo-este-12-de-octubre-con-la-gira-que-celebra-los-45-anos-de-alturas-de-macchu-picchu/",
+    "titulo": "CCS: más de la mitad de los comercios catastrados en sector afectado por aluvión presenta dificultades para operar con normalidad",
+    "enlace": "https://g5noticias.cl/2026/10/09/ccs-mas-de-la-mitad-de-los-comercios-catastrados-en-sector-afectado-por-aluvion-presenta-dificultades-para-operar-con-normalidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1989,8 +1989,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Más de 120 representantes de Latinoamérica se suman a nueva Ruta de Formación STEM+",
-    "enlace": "https://g5noticias.cl/2026/10/09/mas-de-120-representantes-de-latinoamerica-se-suman-a-nueva-ruta-de-formacion-stem/",
+    "titulo": "Académico USM explica cómo se evalúa la amenaza de tsunami tras el terremoto en Panamá",
+    "enlace": "https://g5noticias.cl/2026/10/09/academico-usm-explica-como-se-evalua-la-amenaza-de-tsunami-tras-el-terremoto-en-panama/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
