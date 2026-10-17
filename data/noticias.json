@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "[VIDEO] CGE registra 91 choques contra postes en Atacama y advierte que han afectado a 110 mil clientes",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/17/video-cge-registra-91-choques-contra-postes-en-atacama-y-advierte-que-han-afectado-a-110-mil-clientes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Corfo realizó encuentro de emprendedores en el marco de la Semana de la Pyme 2026",
     "enlace": "https://www.atacamanoticias.cl/2026/10/16/corfo-realizo-encuentro-de-emprendedores-en-el-marco-de-la-semana-de-la-pyme-2026/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "Tribunal rechaza internación provisoria de adolescente acusado de homicidio frustrado tras brutal riña escolar",
     "enlace": "https://www.atacamanoticias.cl/2026/10/15/tribunal-rechaza-internacion-provisoria-de-adolescente-acusado-de-homicidio-frustrado-tras-brutal-rina-escolar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Lundin Mining llega a FOREDE 2026 con nutrida agenda enfocada en el desarrollo de Atacama",
-    "enlace": "https://www.atacamanoticias.cl/2026/10/15/lundin-mining-llega-a-forede-2026-con-nutrida-agenda-enfocada-en-el-desarrollo-de-atacama/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1548,6 +1548,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Campeonato Nacional Olas del Desierto 2026 reunirá a destacados surfistas de Chile en Chañaral",
+    "enlace": "https://www.nostalgica.cl/campeonato-nacional-olas-del-desierto-2026-reunira-a-destacados-surfistas-de-chile-en-chanaral/?utm_source=rss&utm_medium=rss&utm_campaign=campeonato-nacional-olas-del-desierto-2026-reunira-a-destacados-surfistas-de-chile-en-chanaral",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Para cesantes durante 9 meses y hasta dos o tres sueldos mínimos: Parisi detalla cómo sería propuesta para retirar fondos AFP",
+    "enlace": "https://www.nostalgica.cl/para-cesantes-durante-9-meses-y-hasta-dos-o-tres-sueldos-minimos-parisi-detalla-como-seria-propuesta-para-retirar-fondos-afp/?utm_source=rss&utm_medium=rss&utm_campaign=para-cesantes-durante-9-meses-y-hasta-dos-o-tres-sueldos-minimos-parisi-detalla-como-seria-propuesta-para-retirar-fondos-afp",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Detienen a pareja de chilenos por tráfico de drogas en Bali: arriesgan la pena de muerte",
     "enlace": "https://www.nostalgica.cl/detienen-a-pareja-de-chilenos-por-trafico-de-drogas-en-bali-arriesgan-la-pena-de-muerte/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-pareja-de-chilenos-por-trafico-de-drogas-en-bali-arriesgan-la-pena-de-muerte",
     "descripcion": "",
@@ -1568,24 +1586,6 @@
   {
     "titulo": "Siete años del estallido social: 64% evalúa negativamente sus consecuencias para Chile, siete puntos más que en 2024",
     "enlace": "https://www.nostalgica.cl/siete-anos-del-estallido-social-64-evalua-negativamente-sus-consecuencias-para-chile-siete-puntos-mas-que-en-2024/?utm_source=rss&utm_medium=rss&utm_campaign=siete-anos-del-estallido-social-64-evalua-negativamente-sus-consecuencias-para-chile-siete-puntos-mas-que-en-2024",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Esto necesita Rangers para salvarse del descenso de Primera B a Segunda",
-    "enlace": "https://www.nostalgica.cl/esto-necesita-rangers-para-salvarse-del-descenso-de-primera-b-a-segunda/?utm_source=rss&utm_medium=rss&utm_campaign=esto-necesita-rangers-para-salvarse-del-descenso-de-primera-b-a-segunda",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Papa León XIV recibirá el alta médica este sábado y volverá al Vaticano",
-    "enlace": "https://www.nostalgica.cl/papa-leon-xiv-recibira-el-alta-medica-este-sabado-y-volvera-al-vaticano/?utm_source=rss&utm_medium=rss&utm_campaign=papa-leon-xiv-recibira-el-alta-medica-este-sabado-y-volvera-al-vaticano",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1863,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Experto advirtió que las lluvias acumuladas no ponen fin a la mega sequía",
-    "enlace": "https://g5noticias.cl/2026/10/17/experto-advirtio-que-las-lluvias-acumuladas-no-ponen-fin-a-la-mega-sequia/",
+    "titulo": "Tome lápiz y papel: Agrupación Raíces Tabinas llama a participar en segunda versión de concurso literario",
+    "enlace": "https://g5noticias.cl/2026/10/17/tome-lapiz-y-papel-agrupacion-raices-tabinas-llama-a-participar-en-segunda-version-de-concurso-literario/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Envejecer con dignidad: una responsabilidad que nos convoca a todos. Por Cristián Astete, gerente de Marketing y Sostenibilidad de Reale Seguros",
-    "enlace": "https://g5noticias.cl/2026/10/17/envejecer-con-dignidad-una-responsabilidad-que-nos-convoca-a-todos-por-cristian-astete-gerente-de-marketing-y-sostenibilidad-de-reale-seguros/",
+    "titulo": "Un pequeño golpe puede abrir una herida: el riesgo de la piel frágil en adultos mayores",
+    "enlace": "https://g5noticias.cl/2026/10/17/un-pequeno-golpe-puede-abrir-una-herida-el-riesgo-de-la-piel-fragil-en-adultos-mayores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El negocio inmobiliario que crece mientras comprar una vivienda se vuelve más difícil",
-    "enlace": "https://g5noticias.cl/2026/10/17/el-negocio-inmobiliario-que-crece-mientras-comprar-una-vivienda-se-vuelve-mas-dificil/",
+    "titulo": "A siete años del estallido social centro de Santiago vive momento de recuperación y reconversión de espacios",
+    "enlace": "https://g5noticias.cl/2026/10/17/a-siete-anos-del-estallido-social-centro-de-santiago-vive-momento-de-recuperacion-y-reconversion-de-espacios/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "El Niño y las tormentas intensas: expertos advierten riesgos de aluviones durante la primavera y el verano",
-    "enlace": "https://g5noticias.cl/2026/10/17/el-nino-y-las-tormentas-intensas-expertos-advierten-riesgos-de-aluviones-durante-la-primavera-y-el-verano/",
+    "titulo": "El biministerio de la Verdad, Patricio Torres Luque Ph.D., Académico investigador, Departamento de Gestión Organizacional UTEM",
+    "enlace": "https://g5noticias.cl/2026/10/17/el-biministerio-de-la-verdad-patricio-torres-luque-ph-d-academico-investigador-departamento-de-gestion-organizacional-utem/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La relación con el dinero se aprende mucho antes del primer sueldo. Por Paola Schiaffino, especialista en bienestar financiero",
-    "enlace": "https://g5noticias.cl/2026/10/17/la-relacion-con-el-dinero-se-aprende-mucho-antes-del-primer-sueldo-por-paola-schiaffino-especialista-en-bienestar-financiero/",
+    "titulo": "Corte de Valparaíso confirma prisión preventiva de imputados por violación en Rapa Nui",
+    "enlace": "https://g5noticias.cl/2026/10/17/corte-de-valparaiso-confirma-prision-preventiva-de-imputados-por-violacion-en-rapa-nui/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ocupación hotelera del pasado fin de semana alcanzó el 63,29% y superó expectativas del sector turístico",
-    "enlace": "https://g5noticias.cl/2026/10/17/ocupacion-hotelera-del-pasado-fin-de-semana-alcanzo-el-6329-y-supero-expectativas-del-sector-turistico/",
+    "titulo": "El vino chileno se reinventa: la oportunidad que abre la baja graduación alcohólica sin perder identidad",
+    "enlace": "https://g5noticias.cl/2026/10/17/el-vino-chileno-se-reinventa-la-oportunidad-que-abre-la-baja-graduacion-alcoholica-sin-perder-identidad/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Teatro Municipal de Viña del Mar conmemora el Día Nacional de la Danza con “Éter Rojo: Alquimia en Movimiento”",
-    "enlace": "https://g5noticias.cl/2026/10/17/teatro-municipal-de-vina-del-mar-conmemora-el-dia-nacional-de-la-danza-con-eter-rojo-alquimia-en-movimiento/",
+    "titulo": "Colbún inicia nueva versión del Tour de la Energía con estudiantes de San Felipe",
+    "enlace": "https://g5noticias.cl/2026/10/17/colbun-inicia-nueva-version-del-tour-de-la-energia-con-estudiantes-de-san-felipe/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Día Mundial de la Alimentación: ciencia chilena busca dar nueva vida a residuos agroalimentarios",
-    "enlace": "https://g5noticias.cl/2026/10/17/dia-mundial-de-la-alimentacion-ciencia-chilena-busca-dar-nueva-vida-a-residuos-agroalimentarios/",
+    "titulo": "Ciberseguridad: 8 de cada 10 personas ha recibido un mensaje con enlace sospechoso en el último mes",
+    "enlace": "https://g5noticias.cl/2026/10/17/ciberseguridad-8-de-cada-10-personas-ha-recibido-un-mensaje-con-enlace-sospechoso-en-el-ultimo-mes/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Lanzan campaña para que Chile conozca sobre el acogimiento familiar: miles de niños duermen en residencias del sistema de protección",
-    "enlace": "https://g5noticias.cl/2026/10/17/lanzan-campana-para-que-chile-conozca-sobre-el-acogimiento-familiar-miles-de-ninos-duermen-en-residencias-del-sistema-de-proteccion/",
+    "titulo": "¿Atrapado en un bot? Qué hacer cuando la inteligencia artificial no resuelve un reclamo",
+    "enlace": "https://g5noticias.cl/2026/10/17/atrapado-en-un-bot-que-hacer-cuando-la-inteligencia-artificial-no-resuelve-un-reclamo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Realidad virtual apoya la rehabilitación de pacientes de Teletón con más de 4.000 atenciones desde 2023",
-    "enlace": "https://g5noticias.cl/2026/10/17/realidad-virtual-apoya-la-rehabilitacion-de-pacientes-de-teleton-con-mas-de-4-000-atenciones-desde-2023/",
+    "titulo": "Beneo anuncia bono extraordinario para apoyar a agricultores afectados por intensas lluvias",
+    "enlace": "https://g5noticias.cl/2026/10/17/beneo-anuncia-bono-extraordinario-para-apoyar-a-agricultores-afectados-por-intensas-lluvias/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2133,6 +2133,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Aguas Magallanes presenta recomendaciones operativas y actividades educativas en la Expo Emergencias Senapred 2026",
+    "enlace": "https://elmagallanico.com/2026/10/17/aguas-magallanes-presenta-recomendaciones-operativas-y-actividades-educativas-en-la-expo-emergencias-senapred-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Opínión… Adultos mayores: impulsan nuevas acciones concretas durante octubre",
     "enlace": "https://elmagallanico.com/2026/10/14/opinion-adultos-mayores-impulsan-nuevas-acciones-concretas-durante-octubre/",
     "descripcion": "",
@@ -2214,13 +2223,13 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
-    "titulo": "DGAC anuncia simulacro de emergencia aérea en Puerto Williams para octubre",
-    "enlace": "https://elmagallanico.com/2026/10/09/dgac-anuncia-simulacro-de-emergencia-aerea-en-puerto-williams-para-octubre/",
+    "titulo": "Senador Kusanovic exige a ministra de Salud fortalecer la formación de médicos en Regiones Extremas y agilizar el reconocimiento de títulos extranjeros",
+    "enlace": "https://www.ovejeronoticias.cl/2026/10/senador-kusanovic-exige-a-ministra-de-salud-fortalecer-la-formacion-de-medicos-en-regiones-extremas-y-agilizar-el-reconocimiento-de-titulos-extranjeros/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Magallánico",
+    "medio": "Ovejero Noticias",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
     "titulo": "Cielos despejados, bajas temperaturas y vientos hasta 50 kmh se pronostican este fin de semana en Magallanes.",
@@ -2297,15 +2306,6 @@
   {
     "titulo": "Más de 300 personas participaron en el Encuentro Tecnológico de la Construcción 2026 en Punta Arenas.",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/mas-de-300-personas-participaron-en-el-encuentro-tecnologico-de-la-construccion-2026-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "El inminente desalojo de 70 familias en el sector Las Etnias de nuestra ciudad | Dalivor Eterovic Díaz, Concejal por Punta Arenas | Opinión",
-    "enlace": "https://www.ovejeronoticias.cl/2026/10/el-inminente-desalojo-de-70-familias-en-el-sector-las-etnias-de-nuestra-ciudad-dalivor-eterovic-diaz-concejal-por-punta-arenas-opinion/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
