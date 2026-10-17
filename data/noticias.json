@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Coquimbo fue escenario del 5° Encuentro Interregional de Bandas Escolares de Guerra",
+    "enlace": "https://www.elcoquimbano.cl/2026/10/17/coquimbo-fue-escenario-del-5-encuentro-interregional-de-bandas-escolares-de-guerra/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo será sede del primer Campeonato de Básquetbol en Silla de Ruedas “Copa Silver 3×3” en Tierras Blancas",
     "enlace": "https://www.elcoquimbano.cl/2026/10/16/coquimbo-sera-sede-del-primer-campeonato-de-basquetbol-en-silla-de-ruedas-copa-silver-3x3/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Instrucción judicial permite a Carabineros sacar de circulación siete armas en Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/10/13/instruccion-judicial-permite-a-carabineros-sacar-de-circulacion-siete-armas-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Más de 500 estudiantes de la región participaronen el XV Encuentro con las Ciencias 2026 de la UCN",
-    "enlace": "https://www.elcoquimbano.cl/2026/10/13/mas-de-500-estudiantes-de-la-region-participaronen-el-xv-encuentro-con-las-ciencias-2026-de-la-ucn/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Alcaldes de la provincia de Chañaral alertan por eventual cierre de la fundición Potrerillos",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/17/alcaldes-de-la-provincia-de-chanaral-alertan-por-eventual-cierre-de-la-fundicion-potrerillos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "[VIDEO] CGE registra 91 choques contra postes en Atacama y advierte que han afectado a 110 mil clientes",
     "enlace": "https://www.atacamanoticias.cl/2026/10/17/video-cge-registra-91-choques-contra-postes-en-atacama-y-advierte-que-han-afectado-a-110-mil-clientes/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "Municipalidad de Diego de Almagro invita a estudiante al segundo llamado Beca de Incentivo a la Educación Superior",
     "enlace": "https://www.atacamanoticias.cl/2026/10/15/municipalidad-de-diego-de-almagro-invita-a-estudiante-al-segundo-llamado-beca-de-incentivo-a-la-educacion-superior/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Tribunal rechaza internación provisoria de adolescente acusado de homicidio frustrado tras brutal riña escolar",
-    "enlace": "https://www.atacamanoticias.cl/2026/10/15/tribunal-rechaza-internacion-provisoria-de-adolescente-acusado-de-homicidio-frustrado-tras-brutal-rina-escolar/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1548,6 +1548,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Capturan en Copiapó a sujeto con orden de detención vigente por homicidio y 11 reiteraciones policiales",
+    "enlace": "https://www.nostalgica.cl/capturan-en-copiapo-a-sujeto-con-orden-de-detencion-vigente-por-homicidio-y-11-reiteraciones-policiales/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-en-copiapo-a-sujeto-con-orden-de-detencion-vigente-por-homicidio-y-11-reiteraciones-policiales",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Academia Hanua Nua Mea celebra cuatro años en Copiapó y prepara una gala que llevará al público por las tradiciones de Rapa Nui y Tahití",
+    "enlace": "https://www.nostalgica.cl/academia-hanua-nua-mea-celebra-cuatro-anos-en-copiapo-y-prepara-una-gala-que-llevara-al-publico-por-las-tradiciones-de-rapa-nui-y-tahiti/?utm_source=rss&utm_medium=rss&utm_campaign=academia-hanua-nua-mea-celebra-cuatro-anos-en-copiapo-y-prepara-una-gala-que-llevara-al-publico-por-las-tradiciones-de-rapa-nui-y-tahiti",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Campeonato Nacional Olas del Desierto 2026 reunirá a destacados surfistas de Chile en Chañaral",
     "enlace": "https://www.nostalgica.cl/campeonato-nacional-olas-del-desierto-2026-reunira-a-destacados-surfistas-de-chile-en-chanaral/?utm_source=rss&utm_medium=rss&utm_campaign=campeonato-nacional-olas-del-desierto-2026-reunira-a-destacados-surfistas-de-chile-en-chanaral",
     "descripcion": "",
@@ -1575,20 +1593,20 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Calama conmemora paso de la “Caravana de la Muerte” que dejó a 29 ejecutados en la zona durante 1973",
-    "enlace": "https://www.nostalgica.cl/calama-conmemora-paso-de-la-caravana-de-la-muerte-que-dejo-a-29-ejecutados-en-la-zona-durante-1973/?utm_source=rss&utm_medium=rss&utm_campaign=calama-conmemora-paso-de-la-caravana-de-la-muerte-que-dejo-a-29-ejecutados-en-la-zona-durante-1973",
+    "titulo": "Tragedia en Portillo: avalancha deja cuatro muertos y cuatro heridos en Los Andes",
+    "enlace": "https://www.maray.cl/pais/17/10/2026/tragedia-en-portillo-avalancha-deja-cuatro-muertos-y-cuatro-heridos-en-los-andes/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Siete años del estallido social: 64% evalúa negativamente sus consecuencias para Chile, siete puntos más que en 2024",
-    "enlace": "https://www.nostalgica.cl/siete-anos-del-estallido-social-64-evalua-negativamente-sus-consecuencias-para-chile-siete-puntos-mas-que-en-2024/?utm_source=rss&utm_medium=rss&utm_campaign=siete-anos-del-estallido-social-64-evalua-negativamente-sus-consecuencias-para-chile-siete-puntos-mas-que-en-2024",
+    "titulo": "Cobreloa aplasta a Recoleta y mantiene viva la lucha por el ascenso directo",
+    "enlace": "https://www.maray.cl/deportes/17/10/2026/cobreloa-aplasta-a-recoleta-y-mantiene-viva-la-lucha-por-el-ascenso-directo/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1658,24 +1676,6 @@
   {
     "titulo": "Pérdidas millonarias en las AFP: diputados impulsan investigación y denuncia penal",
     "enlace": "https://www.maray.cl/pais/17/10/2026/perdidas-millonarias-en-las-afp-diputados-impulsan-investigacion-y-denuncia-penal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Perú refuerza su flota de helicópteros Black Hawk  y supera a Chile en capacidad aérea",
-    "enlace": "https://www.maray.cl/internacional/17/10/2026/peru-refuerza-su-flota-de-helicopteros-black-hawk-y-supera-a-chile-en-capacidad-aerea/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Atacama: A prepararse ante un nuevo sistema frontal que podría traer lluvias y tormentas",
-    "enlace": "https://www.maray.cl/atacama/17/10/2026/atacama-a-prepararse-ante-nuevo-sistema-frontal-que-podria-traer-lluvias-y-tormentas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1863,6 +1863,24 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Asesinan a ex fiscal anticorrupción de Guatemala mientras jugaba fútbol",
+    "enlace": "https://g5noticias.cl/2026/10/17/asesinan-a-ex-fiscal-anticorrupcion-de-guatemala-mientras-jugaba-futbol/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cobreloa goleó a Deportes Recoleta y se mantiene al acecho del puntero San Luis en la Liga de Ascenso",
+    "enlace": "https://g5noticias.cl/2026/10/17/cobreloa-goleo-a-deportes-recoleta-y-se-mantiene-al-acecho-del-puntero-san-luis-en-la-liga-de-ascenso/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Protestas sociales en diversas ciudades francesas derivan en hechos de violencia en París, Lyon, Marsella y Lille",
     "enlace": "https://g5noticias.cl/2026/10/17/protestas-sociales-en-diversas-ciudades-francesas-derivan-en-hechos-de-violencia-en-paris-lyon-marsella-y-lille/",
     "descripcion": "",
@@ -1890,7 +1908,7 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Avalancha en cercanías del Centro de Ski Portillo y la Laguna del Inca deja tres personas fallecidas",
+    "titulo": "Avalancha en cercanías del Centro de Ski Portillo y la Laguna del Inca deja cuatro personas fallecidas y no se descarta que suba el número de víctimas",
     "enlace": "https://g5noticias.cl/2026/10/17/avalancha-en-cercanias-del-centro-de-ski-portillo-deja-numero-indeterminado-de-personas-atrapadas/",
     "descripcion": "",
     "publicado": "",
@@ -1928,24 +1946,6 @@
   {
     "titulo": "SimpliRoute y Cheetrack destacan entre siete empresas tecnológicas en Demo Day de innovación de Empresas Melón",
     "enlace": "https://g5noticias.cl/2026/10/17/simpliroute-y-cheetrack-destacan-entre-siete-empresas-tecnologicas-en-demo-day-de-innovacion-de-empresas-melon/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "San Luis de Quillota derrotó como visitante a Magallanes y quedó muy cerca de concretar el ascenso directo y el título de la división",
-    "enlace": "https://g5noticias.cl/2026/10/17/san-luis-de-quillota-derroto-como-visitante-a-magallanes-y-quedo-muy-cerca-de-concretar-el-ascenso-directo-y-el-titulo-de-la-division/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Municipio de San Esteban entregó becas deportivas para apoyar a 57 atletas de la comuna",
-    "enlace": "https://g5noticias.cl/2026/10/17/municipio-de-san-esteban-entrego-becas-deportivas-para-apoyar-a-57-atletas-de-la-comuna/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
