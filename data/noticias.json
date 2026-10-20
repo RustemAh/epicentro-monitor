@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Caso de homicidio ocurrido en Punta Mira Sur culminó con sentencia: 10 años de cárcel para el autor",
+    "enlace": "https://www.elcoquimbano.cl/2026/10/19/caso-de-homicidio-ocurrido-en-punta-mira-sur-culmino-con-sentencia-10-anos-de-carcel-para-el-autor/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "PDI detiene a imputado por amenazas de muerte contra adulto mayor en Totoralillo",
     "enlace": "https://www.elcoquimbano.cl/2026/10/19/pdi-detiene-a-imputado-por-amenazas-de-muerte-contra-adulto-mayor-en-totoralillo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "Aprueban nuevos recorridos de buses eléctricos para Tierras Blancas y Punta Mira Norte",
     "enlace": "https://www.elcoquimbano.cl/2026/10/14/aprueban-nuevos-recorridos-de-buses-electricos-para-tierras-blancas-y-punta-mira-norte/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Alerta de vecinos permite detener a un hombre por femicidio frustrado en Tierras Blancas",
-    "enlace": "https://www.elcoquimbano.cl/2026/10/14/alerta-de-vecinos-permite-detener-a-un-hombre-por-femicidio-frustrado-en-tierras-blancas/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -180,6 +180,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "¡Más de 17 mil personas! Gira Teletón 2026 cierra su recorrido por el norte en La Serena",
+    "enlace": "https://laserenaonline.cl/2026/10/19/mas-de-17-mil-personas-gira-teleton-2026-cierra-su-recorrido-por-el-norte-en-la-serena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
+    "titulo": "CEAZA actualiza pronóstico de precipitaciones para la Región de Coquimbo",
+    "enlace": "https://laserenaonline.cl/2026/10/19/ceaza-actualiza-pronostico-de-precipitaciones-para-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Serena Online",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Funcionaria del Tercer Juzgado de Letras de La Serena participa en Campeonato Mundial de Atletismo",
     "enlace": "https://laserenaonline.cl/2026/10/19/funcionaria-del-tercer-juzgado-de-letras-de-la-serena-participa-en-campeonato-mundial-de-atletismo/",
     "descripcion": "",
@@ -245,24 +263,6 @@
   {
     "titulo": "73 mujeres habrían fallecido por cáncer de mama en la Región de Coquimbo en 2025",
     "enlace": "https://laserenaonline.cl/2026/10/19/73-mujeres-habrian-fallecido-por-cancer-de-mama-en-la-region-de-coquimbo-en-2025/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Colegio Andrés Bello Pampa conquista el bronce nacional del voleibol juvenil",
-    "enlace": "https://laserenaonline.cl/2026/10/19/colegio-andres-bello-pampa-conquista-el-bronce-nacional-del-voleibol-juvenil/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Entregan monitoreo de Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-    "enlace": "https://laserenaonline.cl/2026/10/19/entregan-monitoreo-de-alerta-amarilla-para-la-region-de-coquimbo-por-evento-meteorologico/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -450,6 +450,42 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Municipios del Limarí se preparan para el nuevo frente que se activaría esta noche en la provincia",
+    "enlace": "https://ovallehoy.cl/municipios-del-limari-se-preparan-para-el-nuevo-frente-que-se-activaria-esta-noche-en-la-provincia/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Fiscalizaciones en Ovalle dejan 50 infracciones por mal uso de paradas Solo Bus",
+    "enlace": "https://ovallehoy.cl/fiscalizaciones-en-ovalle-dejan-50-infracciones-por-mal-uso-de-paradas-solo-bus/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Más de 300 personas disfrutaron de la jornada de Trekking Familiar en el Cerro La Cruz",
+    "enlace": "https://ovallehoy.cl/mas-de-300-personas-disfrutaron-de-la-jornada-de-trekking-familiar-en-el-cerro-la-cruz/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Ovalle dio inicio al Mes del Adulto Mayor con la participación de 40 clubes de la comuna",
+    "enlace": "https://ovallehoy.cl/ovalle-dio-inicio-al-mes-del-adulto-mayor-con-la-participacion-de-40-clubes-de-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Comunidades agrícolas del Limarí conocieron concurso de la CNR sobre soluciones basadas en la naturaleza",
     "enlace": "https://ovallehoy.cl/comunidades-agricolas-del-limari-conocieron-concurso-de-la-cnr-sobre-soluciones-basadas-en-la-naturaleza/",
     "descripcion": "",
@@ -497,42 +533,6 @@
   {
     "titulo": "En Canadá: el Pisco chileno abre nuevas oportunidades comerciales",
     "enlace": "https://ovallehoy.cl/en-canada-el-pisco-chileno-abre-nuevas-oportunidades-comerciales/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "ObituarioHOY del sábado 17 de octubre",
-    "enlace": "https://ovallehoy.cl/obituariohoy-del-sabado-17-de-octubre/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Puertas abiertas: Comunidad conoce el nuevo COSAM Ovalle en el Mes de la Salud Mental",
-    "enlace": "https://ovallehoy.cl/puertas-abiertas-comunidad-conoce-el-nuevo-cosam-ovalle-en-el-mes-de-la-salud-mental/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Acercan el patrimonio arqueológico de Ovalle a jóvenes en proceso de reinserción",
-    "enlace": "https://ovallehoy.cl/acercan-el-patrimonio-arqueologico-de-ovalle-a-jovenes-en-proceso-de-reinsercion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Invitan a celebrar el Día del Cerro con una jornada de trekking al Cerro La Cruz en Ovalle",
-    "enlace": "https://ovallehoy.cl/invitan-a-celebrar-el-dia-del-cerro-con-una-jornada-de-trekking-al-cerro-la-cruz-en-ovalle/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Lluvias volverían a visitar el Choapa con posibles tormentas eléctricas",
-    "enlace": "https://veetv.cl/lluvias-volverian-a-visitar-el-choapa-con-posibles-tormentas-electricas-2/",
+    "titulo": "Suspenden clases este martes en las cuatro comunas del Choapa por sistema frontal",
+    "enlace": "https://veetv.cl/suspenden-clases-cuatro-comunas-choapa-sistema-frontal/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Trabajador resulta lesionado tras robo con violencia en servicentro Shell de Salamanca",
-    "enlace": "https://veetv.cl/trabajador-lesionado-robo-violencia-shell-salamanca/",
+    "titulo": "Lluvias volverían a visitar el Choapa con posibles tormentas eléctricas",
+    "enlace": "https://veetv.cl/lluvias-volverian-a-visitar-el-choapa-con-posibles-tormentas-electricas-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1548,6 +1548,33 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Copiapó: Condenan a 10 años y un día de cárcel a mujer por homicidio durante fiesta de Halloween",
+    "enlace": "https://www.nostalgica.cl/copiapo-condenan-a-10-anos-y-un-dia-de-carcel-a-mujer-por-homicidio-durante-fiesta-de-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=copiapo-condenan-a-10-anos-y-un-dia-de-carcel-a-mujer-por-homicidio-durante-fiesta-de-halloween",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Adolescente pierde la vida tras ser agredido con arma blanca en Copiapó",
+    "enlace": "https://www.nostalgica.cl/adolescente-pierde-la-vida-tras-ser-agredido-con-arma-blanca-en-copiapo/?utm_source=rss&utm_medium=rss&utm_campaign=adolescente-pierde-la-vida-tras-ser-agredido-con-arma-blanca-en-copiapo",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Tierra Amarilla se prepara para la segunda versión del Festival de la Canción de Villa Escorial",
+    "enlace": "https://www.nostalgica.cl/tierra-amarilla-se-prepara-para-la-segunda-version-del-festival-de-la-cancion-de-villa-escorial/?utm_source=rss&utm_medium=rss&utm_campaign=tierra-amarilla-se-prepara-para-la-segunda-version-del-festival-de-la-cancion-de-villa-escorial",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Refuerzan llamado a la prevención y detección temprana del cáncer de mama en Atacama",
     "enlace": "https://www.nostalgica.cl/refuerzan-llamado-a-la-prevencion-y-deteccion-temprana-del-cancer-de-mama-en-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-llamado-a-la-prevencion-y-deteccion-temprana-del-cancer-de-mama-en-atacama",
     "descripcion": "",
@@ -1566,29 +1593,11 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Losas quebradas y desniveles evidencian deterioro de veredas en Copiapó",
-    "enlace": "https://www.nostalgica.cl/losas-quebradas-y-desniveles-evidencian-deterioro-de-veredas-en-copiapo/?utm_source=rss&utm_medium=rss&utm_campaign=losas-quebradas-y-desniveles-evidencian-deterioro-de-veredas-en-copiapo",
+    "titulo": "Adolescente de 17 años muere  por graves heridas con arma blanca en Copiapó",
+    "enlace": "https://www.maray.cl/atacama/19/10/2026/56687/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobernador de Atacama exige que gobierno central reponga licitación de Doble Vía Caldera-Antofagasta: “Son las regiones que más aportan a la economía del país”",
-    "enlace": "https://www.nostalgica.cl/gobernador-de-atacama-exige-que-gobierno-central-reponga-licitacion-de-doble-via-caldera-antofagasta-son-las-regiones-que-mas-aportan-a-la-economia-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=gobernador-de-atacama-exige-que-gobierno-central-reponga-licitacion-de-doble-via-caldera-antofagasta-son-las-regiones-que-mas-aportan-a-la-economia-del-pais",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Presidenta de Cuarta Subcomisión Mixta de Presupuesto en sesión por erario 2027: “En el contexto de un país estancado con alto desempleo en regiones, no es buena política rebajar la inversión regional para 2027”",
-    "enlace": "https://www.nostalgica.cl/presidenta-de-cuarta-subcomision-mixta-de-presupuesto-en-sesion-por-erario-2027-en-el-contexto-de-un-pais-estancado-con-alto-desempleo-en-regiones-no-es-buena-politica-rebajar-la-inversion/?utm_source=rss&utm_medium=rss&utm_campaign=presidenta-de-cuarta-subcomision-mixta-de-presupuesto-en-sesion-por-erario-2027-en-el-contexto-de-un-pais-estancado-con-alto-desempleo-en-regiones-no-es-buena-politica-rebajar-la-inversion",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1667,15 +1676,6 @@
   {
     "titulo": "Canadá busca conectarse con Europa sin pasar por Estados Unidos mediante un cable submarino",
     "enlace": "https://www.maray.cl/internacional/19/10/2026/canada-busca-conectarse-con-europa-sin-pasar-por-estados-unidos-mediante-un-cable-submarino/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "¿Quieres ingresar a la PDI? Abren cupos extraordinarios para estudiar gratis y ser agente policial",
-    "enlace": "https://www.maray.cl/atacama/19/10/2026/quieres-ingresar-a-la-pdi-abren-cupos-extraordinarios-para-estudiar-gratis-y-ser-agente-policial/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1863,6 +1863,69 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Plan de integración de áreas protegidas en Valparaíso registra un 55% de avance",
+    "enlace": "https://g5noticias.cl/2026/10/19/plan-de-integracion-de-areas-protegidas-en-valparaiso-registra-un-55-de-avance/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Alcaldesa de Cartagena condena hechos de violencia en el fútbol amateur y advierte medidas ante incumplimientos del compromiso por estadios seguros",
+    "enlace": "https://g5noticias.cl/2026/10/19/alcaldesa-de-cartagena-condena-hechos-de-violencia-en-el-futbol-amateur-y-advierte-medidas-ante-incumplimientos-del-compromiso-por-estadios-seguros/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Alcaldes de Papudo y Zapallar cuestionan exclusión de suspensión de clases por sistema frontal: “Nuestros estudiantes merecen la misma protección”",
+    "enlace": "https://g5noticias.cl/2026/10/19/alcaldes-de-papudo-y-zapallar-cuestionan-exclusion-de-suspension-de-clases-por-sistema-frontal-nuestros-estudiantes-merecen-la-misma-proteccion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Comité de emergencia regional confirma clases suspendidas en diversas comunas de la Región de Valparaíso y monitoreo por fuertes lluvias y viento que ha sido pronosticado para este martes",
+    "enlace": "https://g5noticias.cl/2026/10/19/comite-de-emergencia-regional-confirma-clases-suspendidas-en-diversas-comunas-de-la-region-de-valparaiso-y-monitoreo-por-fuertes-lluvias-y-viento-que-ha-sido-pronosticado-para-este-martes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "En el Día Mundial Contra el Cáncer de Mama, municipio viñamarino junto a «Yo Mujer» y «Everton» desarrollan encuentro en Sausalito",
+    "enlace": "https://g5noticias.cl/2026/10/19/en-el-dia-mundial-contra-el-cancer-de-mama-municipio-vinamarino-junto-a-yo-mujer-y-everton-desarrollan-encuentro-en-sausalito/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "SSVQP y Hospital de Cabildo realizan operativo de salud centrado en la prevención y detección del cáncer de mama a las mujeres de la comuna",
+    "enlace": "https://g5noticias.cl/2026/10/19/ssvqp-y-hospital-de-cabildo-realizan-operativo-de-salud-centrado-en-la-prevencion-y-deteccion-del-cancer-de-mama-a-las-mujeres-de-la-comuna/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Clemente Huerta regresa feliz a Chile tras buen momento en la F4 de EE.UU.",
+    "enlace": "https://g5noticias.cl/2026/10/19/clemente-huerta-regresa-feliz-a-chile-tras-buen-momento-en-la-f4-de-ee-uu/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Recuperación de parque en Puente Alto obtiene el primer lugar en los Premios de Sostenibilidad de la Cámara de Centros Comerciales",
     "enlace": "https://g5noticias.cl/2026/10/19/recuperacion-de-parque-en-puente-alto-obtiene-el-primer-lugar-en-los-premios-de-sostenibilidad-de-la-camara-de-centros-comerciales-2/",
     "descripcion": "",
@@ -1883,69 +1946,6 @@
   {
     "titulo": "Visa ha invertido US$ 13 mil millones en Ciberseguridad",
     "enlace": "https://g5noticias.cl/2026/10/19/visa-ha-invertido-us-13-mil-millones-en-ciberseguridad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Estudio global revela que las personas pasan el 86% del día despiertas sin moverse y alerta por efectos en la salud mental",
-    "enlace": "https://g5noticias.cl/2026/10/19/estudio-global-revela-que-las-personas-pasan-el-86-del-dia-despiertas-sin-moverse-y-alerta-por-efectos-en-la-salud-mental/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Casi la mitad de los microemprendedores comenzó por necesidad: el desafío de conseguir clientes y generar contactos",
-    "enlace": "https://g5noticias.cl/2026/10/19/casi-la-mitad-de-los-microemprendedores-comenzo-por-necesidad-el-desafio-de-conseguir-clientes-y-generar-contactos/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "La mamografía es fundamental, pero no es lo único: los hábitos diarios también influyen en la probabilidad de desarrollar cáncer de mama",
-    "enlace": "https://g5noticias.cl/2026/10/19/la-mamografia-es-fundamental-pero-no-es-lo-unico-los-habitos-diarios-tambien-influyen-en-la-probabilidad-de-desarrollar-cancer-de-mama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Representantes de la Alianza del Pacífico trazan hoja de ruta regional al 2030 para la integración en Ciencia, Tecnología e Innovación",
-    "enlace": "https://g5noticias.cl/2026/10/19/representantes-de-la-alianza-del-pacifico-trazan-hoja-de-ruta-regional-al-2030-para-la-integracion-en-ciencia-tecnologia-e-innovacion/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "INDAP Biobío concentra la atención de mujeres rurales a nivel nacional con un 53,9%",
-    "enlace": "https://g5noticias.cl/2026/10/19/indap-biobio-concentra-la-atencion-de-mujeres-rurales-a-nivel-nacional-con-un-539/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Clemente Huerta logra su primer triunfo del año en emocionante final de la F4 en los EE.UU.",
-    "enlace": "https://g5noticias.cl/2026/10/19/clemente-huerta-logra-su-primer-triunfo-del-ano-en-emocionante-final-de-la-f4-en-los-ee-uu/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Acción Empresas valora nuevas herramientas de la CMF para apoyar la implementación de las NIIF S1 y S2",
-    "enlace": "https://g5noticias.cl/2026/10/19/accion-empresas-valora-nuevas-herramientas-de-la-cmf-para-apoyar-la-implementacion-de-las-niif-s1-y-s2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2043,6 +2043,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Entrevista póstuma a matrona Ema Osorio: “No sé cuántas  guaguas recibí, no las anoté, pero tienen que ser miles”",
+    "enlace": "https://laprensaaustral.cl/2026/10/19/entrevista-postuma-a-matrona-ema-osorio-no-se-cuantas-guaguas-recibi-no-las-anote-pero-tienen-que-ser-miles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Ascensos en Fu-Shih Kenpo",
     "enlace": "https://laprensaaustral.cl/2026/10/19/ascensos-en-fu-shih-kenpo-3/",
     "descripcion": "",
@@ -2117,15 +2126,6 @@
   {
     "titulo": "La venta de tierras fronterizas exige mayor transparencia",
     "enlace": "https://laprensaaustral.cl/2026/10/19/la-venta-de-tierras-fronterizas-exige-mayor-transparencia/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Tragedia en Ecuador: sacerdote murió  aplastado por una cruz mientras daba misa",
-    "enlace": "https://laprensaaustral.cl/2026/10/19/tragedia-en-ecuador-sacerdote-murio-aplastado-por-una-cruz-mientras-daba-misa/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -2223,6 +2223,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
+    "titulo": "Consejo Regional aprueba más de $16.833 millones para transformar calle Capitán Juan Guillermos",
+    "enlace": "https://www.ovejeronoticias.cl/2026/10/consejo-regional-aprueba-mas-de-16-833-millones-para-transformar-calle-capitan-juan-guillermos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Delegación Provincial de Última Esperanza refuerza en terreno las medidas de prevención y seguridad en el Parque Nacional Torres del Paine.",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/delegacion-provincial-de-ultima-esperanza-refuerza-en-terreno-las-medidas-de-prevencion-y-seguridad-en-el-parque-nacional-torres-del-paine/",
     "descripcion": "",
@@ -2297,15 +2306,6 @@
   {
     "titulo": "Alcalde Claudio Radonich se reunió con Subsecretario de Prevención del Delito.",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/alcalde-claudio-radonich-se-reunio-con-subsecretario-de-prevencion-del-delito/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Enap realiza una de las mayores inversiones de su historia en el extranjero para adquirir operación petrolera en Ecuador",
-    "enlace": "https://www.ovejeronoticias.cl/2026/10/enap-realiza-una-de-las-mayores-inversiones-de-su-historia-en-el-extranjero-para-adquirir-operacion-petrolera-en-ecuador/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
