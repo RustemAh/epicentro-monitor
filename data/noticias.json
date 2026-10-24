@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Anuncian corte de agua nocturno en sector San Joaquín de La Serena por recambio de infraestructura",
+    "enlace": "https://www.elserenense.cl/comunales/2026/10/23/anuncian-corte-de-agua-nocturno-en-sector-san-joaquin-de-la-serena-por-recambio-de-infraestructura/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Solo el 28% de las mujeres tienen sus mamografías al día en la Región de Coquimbo",
     "enlace": "https://www.elserenense.cl/regionales/2026/10/23/solo-el-28-de-las-mujeres-tienen-sus-mamografias-al-dia-en-la-region-de-coquimbo/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "Teatro del Liceo Gabriela Mistral en disputa: comunidad acusa que agenda cultural ha desplazado actividades escolares",
     "enlace": "https://www.elserenense.cl/educacion/2026/10/21/teatro-del-liceo-gabriela-mistral-en-disputa-comunidad-acusa-que-agenda-cultural-ha-desplazado-actividades-escolares/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Call Center de emergencia del municipio de La Serena atenderá toda la noche y madrugada",
-    "enlace": "https://www.elserenense.cl/comunales/2026/10/20/call-center-de-emergencia-del-municipio-de-la-serena-atendera-toda-la-noche-y-madrugada/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -1548,6 +1548,15 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Joven deportista de Copiapó busca apoyo para entrenar en Norteamérica y competir en circuito internacional de snowboard",
+    "enlace": "https://www.nostalgica.cl/joven-deportista-de-copiapo-busca-apoyo-para-entrenar-en-norteamerica-y-competir-en-circuito-internacional-de-snowboard/?utm_source=rss&utm_medium=rss&utm_campaign=joven-deportista-de-copiapo-busca-apoyo-para-entrenar-en-norteamerica-y-competir-en-circuito-internacional-de-snowboard",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "TECHO-Chile inicia Colecta Nacional: Atacama busca recaudar $11 millones para financiar viviendas de emergencia",
     "enlace": "https://www.nostalgica.cl/techo-chile-inicia-colecta-nacional-atacama-busca-recaudar-11-millones-para-financiar-viviendas-de-emergencia/?utm_source=rss&utm_medium=rss&utm_campaign=techo-chile-inicia-colecta-nacional-atacama-busca-recaudar-11-millones-para-financiar-viviendas-de-emergencia",
     "descripcion": "",
@@ -1577,15 +1586,6 @@
   {
     "titulo": "Badén de calle Luis Flores continúa cerrado y recorridos L10 y L6B mantienen sus desvíos en Copiapó",
     "enlace": "https://www.nostalgica.cl/baden-de-calle-luis-flores-continua-cerrado-y-recorridos-l10-y-l6b-mantienen-sus-desvios-en-copiapo/?utm_source=rss&utm_medium=rss&utm_campaign=baden-de-calle-luis-flores-continua-cerrado-y-recorridos-l10-y-l6b-mantienen-sus-desvios-en-copiapo",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "INDAP Atacama activa nuevo Mercado Campesino en Canto del Agua fortaleciendo la economía local.",
-    "enlace": "https://www.nostalgica.cl/indap-atacama-activa-nuevo-mercado-campesino-en-canto-del-agua-fortaleciendo-la-economia-local/?utm_source=rss&utm_medium=rss&utm_campaign=indap-atacama-activa-nuevo-mercado-campesino-en-canto-del-agua-fortaleciendo-la-economia-local",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -2133,6 +2133,33 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "Aguas Magallanes invita a descubrir la historia barrial a través de los mosaicos del cerro de la Cruz",
+    "enlace": "https://elmagallanico.com/2026/10/23/aguas-magallanes-invita-a-descubrir-la-historia-barrial-a-traves-de-los-mosaicos-del-cerro-de-la-cruz/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "29 organizaciones de Magallanes recibieron sus fondos concursables Enap Impulsa 2026",
+    "enlace": "https://elmagallanico.com/2026/10/23/29-organizaciones-de-magallanes-recibieron-sus-fondos-concursables-enap-impulsa-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
+    "titulo": "Tragedia por monóxido de carbono: Pareja de adultos mayores falleció en la Población El Pingüino",
+    "enlace": "https://elmagallanico.com/2026/10/23/tragedia-por-monoxido-de-carbono-pareja-de-adultos-mayores-fallecio-en-la-poblacion-el-pinguino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Magallánico",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM"
+  },
+  {
     "titulo": "Industria regional y cambio climático: Aguas Magallanes obtiene sello de gestión ambiental Huellachile",
     "enlace": "https://elmagallanico.com/2026/10/22/industria-regional-y-cambio-climatico-aguas-magallanes-obtiene-sello-de-gestion-ambiental-huellachile/",
     "descripcion": "",
@@ -2196,31 +2223,13 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
-    "titulo": "Edelmag y sindicatos realizan jornada de reconocimiento en el Centro de Rehabilitación",
-    "enlace": "https://elmagallanico.com/2026/10/21/edelmag-y-sindicatos-realizan-jornada-de-reconocimiento-en-el-centro-de-rehabilitacion/",
+    "titulo": "Pareja de adultos mayores fallece por intoxicación con monóxido de carbono en Punta Arenas",
+    "enlace": "https://www.ovejeronoticias.cl/2026/10/pareja-de-adultos-mayores-fallece-por-intoxicacion-con-monoxido-de-carbono-en-punta-arenas/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Magallánico",
+    "medio": "Ovejero Noticias",
     "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "Tutora quedó en prisión preventiva por presunto abuso sexual en centro juvenil de Punta Arenas",
-    "enlace": "https://elmagallanico.com/2026/10/21/tutora-quedo-en-prision-preventiva-por-presunto-abuso-sexual-en-centro-juvenil-de-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
-  },
-  {
-    "titulo": "EPA anuncia avances en infraestructura portuaria y proyecta nuevas oportunidades para Magallanes",
-    "enlace": "https://elmagallanico.com/2026/10/21/epa-anuncia-avances-en-infraestructura-portuaria-y-proyecta-nuevas-oportunidades-para-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Magallánico",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM"
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
     "titulo": "Director regional de Sernac despliega agenda de trabajo en Puerto Williams.",
@@ -2297,15 +2306,6 @@
   {
     "titulo": "29 organizaciones de Magallanes recibieron sus fondos concursables Enap Impulsa 2026.",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/29-organizaciones-de-magallanes-recibieron-sus-fondos-concursables-enap-impulsa-2026/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "AFP: la apuesta de los winners | Marcelo Trivelli | Opinión",
-    "enlace": "https://www.ovejeronoticias.cl/2026/10/afp-la-apuesta-de-los-winners-marcelo-trivelli-opinion/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
