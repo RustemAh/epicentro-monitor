@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "2ª Feria Costumbrista de Guanaqueros reunió a cientos de familias y cerró con broche de oro junto a Entremares y Leo Rey",
+    "enlace": "https://www.elcoquimbano.cl/2026/10/25/2a-feria-costumbrista-de-guanaqueros-reunio-a-cientos-de-familias-y-cerro-con-broche-de-oro-junto-a-entremares-y-leo-rey/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Estudiantes de escuelas rurales visitarán el Estadio Monumental de Colo-Colo",
     "enlace": "https://www.elcoquimbano.cl/2026/10/23/estudiantes-de-escuelas-rurales-visitaran-el-estadio-monumental-de-colo-colo/",
     "descripcion": "",
@@ -74,15 +83,6 @@
   {
     "titulo": "PDI detiene a imputado por amenazas de muerte contra adulto mayor en Totoralillo",
     "enlace": "https://www.elcoquimbano.cl/2026/10/19/pdi-detiene-a-imputado-por-amenazas-de-muerte-contra-adulto-mayor-en-totoralillo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Coquimbo registra 73 muertes por cáncer de mama en 2025: la prevención y la mamografía siguen siendo claves",
-    "enlace": "https://www.elcoquimbano.cl/2026/10/19/coquimbo-registra-73-muertes-por-cancer-de-mama-en-2025-la-prevencion-y-la-mamografia-siguen-siendo-claves/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Coquimbano",
@@ -630,6 +630,15 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "CGE denuncia robo de 3 kilómetros de cable en Combarbalá poniendo el riesgo continuidad de suministro",
+    "enlace": "https://www.elcombarbalino.cl/2026/10/25/cge-denuncia-robo-de-3-kilometros-de-cable-en-combarbala-poniendo-el-riesgo-continuidad-de-suministro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Orgullo combarbalino: Camila Sáez y Julián Correa se coronan campeones regionales de cueca y folclore",
     "enlace": "https://www.elcombarbalino.cl/2026/10/22/orgullo-combarbalino-camila-saez-y-julian-correa-se-coronan-campeones-regionales-de-cueca-y-folclore/",
     "descripcion": "",
@@ -704,15 +713,6 @@
   {
     "titulo": "Invitan a la primera jornada de capacitación legal para comunidades agrícolas en Combarbalá",
     "enlace": "https://www.elcombarbalino.cl/2026/10/01/invitan-a-la-primera-jornada-de-capacitacion-legal-para-comunidades-agricolas-en-combarbala/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Alrededor de 200 personas participaron en los Encuentros con Familias de jardines infantiles Integra",
-    "enlace": "https://www.elcombarbalino.cl/2026/09/29/alrededor-de-200-personas-participaron-en-los-encuentros-con-familias-de-jardines-infantiles-integra/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -1548,8 +1548,8 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Proyecto Playa Verde obtiene permiso clave en Chañaral",
-    "enlace": "https://www.nostalgica.cl/proyecto-playa-verde-obtiene-permiso-clave-en-chanaral/?utm_source=rss&utm_medium=rss&utm_campaign=proyecto-playa-verde-obtiene-permiso-clave-en-chanaral",
+    "titulo": "Noruega y Perú exploran inversiones y tecnología para la minería",
+    "enlace": "https://www.nostalgica.cl/noruega-y-peru-exploran-inversiones-y-tecnologia-para-la-mineria/?utm_source=rss&utm_medium=rss&utm_campaign=noruega-y-peru-exploran-inversiones-y-tecnologia-para-la-mineria",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1557,8 +1557,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Un estudio histórico confirma que las mujeres tienen más inteligencia emocional que los hombres",
-    "enlace": "https://www.nostalgica.cl/un-estudio-historico-confirma-que-las-mujeres-tienen-mas-inteligencia-emocional-que-los-hombres/?utm_source=rss&utm_medium=rss&utm_campaign=un-estudio-historico-confirma-que-las-mujeres-tienen-mas-inteligencia-emocional-que-los-hombres",
+    "titulo": "Roberto Núñez advierte que el factor humano es clave para prevenir accidentes en la minería",
+    "enlace": "https://www.nostalgica.cl/roberto-nunez-advierte-que-el-factor-humano-es-clave-para-prevenir-accidentes-en-la-mineria/?utm_source=rss&utm_medium=rss&utm_campaign=roberto-nunez-advierte-que-el-factor-humano-es-clave-para-prevenir-accidentes-en-la-mineria",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1566,8 +1566,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Tonka Tomicic reflexiona sobre su quiebre con Parived: “A mí me costó mucho separarme”",
-    "enlace": "https://www.nostalgica.cl/tonka-tomicic-reflexiona-sobre-su-quiebre-con-parived-a-mi-me-costo-mucho-separarme/?utm_source=rss&utm_medium=rss&utm_campaign=tonka-tomicic-reflexiona-sobre-su-quiebre-con-parived-a-mi-me-costo-mucho-separarme",
+    "titulo": "Yoan Amor salió al paso de fuertes acusaciones tras dichos sobre La Noche",
+    "enlace": "https://www.nostalgica.cl/yoan-amor-salio-al-paso-de-fuertes-acusaciones-tras-dichos-sobre-la-noche/?utm_source=rss&utm_medium=rss&utm_campaign=yoan-amor-salio-al-paso-de-fuertes-acusaciones-tras-dichos-sobre-la-noche",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1575,8 +1575,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Netanyahu dice que si no es reelegido podría haber “un segundo holocausto”",
-    "enlace": "https://www.nostalgica.cl/netanyahu-dice-que-si-no-es-reelegido-podria-haber-un-segundo-holocausto/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-dice-que-si-no-es-reelegido-podria-haber-un-segundo-holocausto",
+    "titulo": "Rally Dakar 2027 en Arabia Saudita cancelado debido a los ataques hutíes",
+    "enlace": "https://www.nostalgica.cl/rally-dakar-2027-en-arabia-saudita-cancelado-debido-a-los-ataques-huties/?utm_source=rss&utm_medium=rss&utm_campaign=rally-dakar-2027-en-arabia-saudita-cancelado-debido-a-los-ataques-huties",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1584,11 +1584,20 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Mundial Sub 15: Chile venció a Kuwait y sumó su primer triunfo en torneo",
-    "enlace": "https://www.nostalgica.cl/mundial-sub-15-chile-vencio-a-kuwait-y-sumo-su-primer-triunfo-en-torneo/?utm_source=rss&utm_medium=rss&utm_campaign=mundial-sub-15-chile-vencio-a-kuwait-y-sumo-su-primer-triunfo-en-torneo",
+    "titulo": "Cálculo sobre arriendo del TAG reaviva cuestionamientos a cobros",
+    "enlace": "https://www.nostalgica.cl/calculo-sobre-arriendo-del-tag-reaviva-cuestionamientos-a-cobros/?utm_source=rss&utm_medium=rss&utm_campaign=calculo-sobre-arriendo-del-tag-reaviva-cuestionamientos-a-cobros",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Colo Colo sigue sin ganar y deja escapar puntos ante Palestino",
+    "enlace": "https://www.maray.cl/deportes/25/10/2026/colo-colo-sigue-sin-ganar-y-deja-escapar-puntos-ante-palestino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1667,15 +1676,6 @@
   {
     "titulo": "Netanyahu advierte sobre un “segundo holocausto” si no es reelegido y desata críticas en Israel",
     "enlace": "https://www.maray.cl/internacional/25/10/2026/netanyahu-advierte-sobre-un-segundo-holocausto-si-no-es-reelegido-y-desata-criticas-en-israel/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Francia registra más de 1.300 detenidos tras nueva jornada de protestas",
-    "enlace": "https://www.maray.cl/internacional/25/10/2026/francia-registra-mas-de-1-300-detenidos-tras-nueva-jornada-de-protestas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1863,6 +1863,60 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Los colegios Villa María y Verbo Divino vuelven a ganar el interescolar de atletismo final femenino y masculino",
+    "enlace": "https://g5noticias.cl/2026/10/25/los-colegios-villa-maria-y-verbo-divino-vuelven-a-ganar-el-interescolar-de-atletismo-final-femenino-y-masculino/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Con Vozinha como figura, Colo Colo empató con Palestino como visitante y sumó su cuarta fecha sin ganar",
+    "enlace": "https://g5noticias.cl/2026/10/25/con-vozinha-como-figura-colo-colo-empato-con-palestino-como-visitante-y-sumo-su-cuarta-fecha-sin-ganar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Antonelli ganó el GP de EE.UU. y quedó a un pasó del título en la Fórmula 1",
+    "enlace": "https://g5noticias.cl/2026/10/25/antonelli-gano-el-gp-de-ee-uu-y-quedo-a-un-paso-del-titulo-en-la-formula-1/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Elías Figueroa recibió homenaje por sus 80 años y su legado en el fútbol chileno",
+    "enlace": "https://g5noticias.cl/2026/10/25/elias-figueroa-recibio-homenaje-por-sus-80-anos-y-su-legado-en-el-futbol-chileno/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Más de 7.000 personas corrieron por la vida: la 17ª Corrida de Yo Mujer convocó a familias y organizaciones en torno al cáncer de mama",
+    "enlace": "https://g5noticias.cl/2026/10/25/mas-de-7-000-personas-corrieron-por-la-vida-la-17a-corrida-de-yo-mujer-convoco-a-familias-y-organizaciones-en-torno-al-cancer-de-mama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Ataque cerebrovascular: ¿por qué cada minuto cuenta en la rehabilitación? Por Astrid Cancino, Académica Carrera de Kinesiología UDLA Sede Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/10/25/ataque-cerebrovascular-por-que-cada-minuto-cuenta-en-la-rehabilitacion-por-astrid-cancino-academica-carrera-de-kinesiologia-udla-sede-vina-del-mar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Unión La Calera obtiene puntos de oro tras derrotar como local a la Universidad Católica",
     "enlace": "https://g5noticias.cl/2026/10/25/union-la-calera-obtiene-puntos-de-oro-tras-derrotar-como-local-a-la-universidad-catolica/",
     "descripcion": "",
@@ -1892,60 +1946,6 @@
   {
     "titulo": "Carabineros de la 4ª Comisaría Suboficial Mayor Daniel Palma Yáñez realizaron actividad comunitaria en el sector del persa Bío Bío",
     "enlace": "https://g5noticias.cl/2026/10/25/carabineros-de-la-4a-comisaria-suboficial-mayor-daniel-palma-yanez-realizaron-actividad-comunitaria-en-el-sector-del-persa-bio-bio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Editorial Universidad de Talca presentó el “Atlas de la Anatomía Humana”",
-    "enlace": "https://g5noticias.cl/2026/10/25/editorial-universidad-de-talca-presento-el-atlas-de-la-anatomia-humana/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Senadora Provoste emplaza a Gobierno del presidente Kast por protección de la infancia: «los niños y niñas de Chile no pueden esperar y nosotros no vamos a callar»",
-    "enlace": "https://g5noticias.cl/2026/10/25/senadora-provoste-emplaza-a-gobierno-del-presidente-kast-por-proteccion-de-la-infancia-los-ninos-y-ninas-de-chile-no-pueden-esperar-y-nosotros-no-vamos-a-callar/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Mailliard conquista título mundial en maratón de canotaje",
-    "enlace": "https://g5noticias.cl/2026/10/25/mailliard-conquista-titulo-mundial-en-maraton-de-canotaje/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Transportistas de carga demandan al gobierno establecer por ley un mecanismo para traspasar las variaciones del diésel a las tarifas del servicio",
-    "enlace": "https://g5noticias.cl/2026/10/25/transportistas-de-carga-demandan-al-gobierno-establecer-por-ley-un-mecanismo-para-traspasar-las-variaciones-del-diesel-a-las-tarifas-del-servicio/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Cartabineros detiene a dos sujetos cuando sacaban vehículo sin documentos, por sector fronterizo",
-    "enlace": "https://g5noticias.cl/2026/10/25/cartabineros-detiene-a-dos-sujetos-cuando-sacaban-vehiculo-sin-documentos-por-sector-fronterizo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "¿Dónde están los generales? Por Gonzalo Valdés, Subdirector Instituto de Políticas Públicas Unab",
-    "enlace": "https://g5noticias.cl/2026/10/25/donde-estan-los-generales-por-gonzalo-valdes-subdirector-instituto-de-politicas-publicas-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2223,6 +2223,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
+    "titulo": "Aprobación del Presidente Kast cae 4pts a 29% y se ubica por primera vez bajo la barrera del 30%, mientras la desaprobación llega a 66% (+4pts), según CADEM.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/10/aprobacion-del-presidente-kast-cae-4pts-a-29-y-se-ubica-por-primera-vez-bajo-la-barrera-del-30-mientras-la-desaprobacion-llega-a-66-4pts-segun-cadem/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Cementerio municipal de Punta Arenas tiene todo listo para recibir a cerca de 40 mil personas por el Día de Todos los Santos.",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/cementerio-municipal-de-punta-arenas-tiene-todo-listo-para-recibir-a-cerca-de-40-mil-personas-por-el-dia-de-todos-los-santos-2/",
     "descripcion": "",
@@ -2297,15 +2306,6 @@
   {
     "titulo": "III Expo Fitness convocó a más 300 personas en torno al deporte y la vida saludable.",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/iii-expo-fitness-convoco-a-mas-300-personas-en-torno-al-deporte-y-la-vida-saludable/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Municipio realizó operativo veterinario masivo en el sector sur de Punta Arenas.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/10/municipio-realizo-operativo-veterinario-masivo-en-el-sector-sur-de-punta-arenas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
