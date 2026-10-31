@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Tierras Blancas cerró su mes aniversario con música, baile y un masivo show de Noche de Brujas",
+    "enlace": "https://www.elcoquimbano.cl/2026/10/31/tierras-blancas-cerro-su-mes-aniversario-con-musica-baile-y-un-masivo-show-de-noche-de-brujas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Nuevo sistema de turnos agilizará atención en Juzgados de Policía Local de Coquimbo",
     "enlace": "https://www.elcoquimbano.cl/2026/10/30/nuevo-sistema-de-turnos-agilizara-atencion-en-juzgados-de-policia-local-de-coquimbo/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Mujeres del sector rural promueven la prevención del cáncer de mama con jornada de Zumba y autocuidado",
-    "enlace": "https://www.elcoquimbano.cl/2026/10/26/mujeres-del-sector-rural-promueven-la-prevencion-del-cancer-de-mama-con-jornada-de-zumba-y-autocuidado/",
+    "titulo": "Liceo Marta Brunet de La Serena realizó su ExpoBodas con ocho stands temáticos y más de 200 asistentes",
+    "enlace": "https://www.elserenense.cl/comunales/2026/10/31/liceo-marta-brunet-de-la-serena-realizo-su-expobodas-con-ocho-stands-tematicos-y-mas-de-200-asistentes/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Iglesia despide a monseñor Manuel Donoso, un pastor cercano a los pobres y a las personas privadas de libertad",
@@ -171,11 +180,11 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "La Serena fue sede de la reunión anual de la Sociedad Chilena de Patología Clínica Animal",
-    "enlace": "https://www.elserenense.cl/regionales/2026/10/28/la-serena-fue-sede-de-la-reunion-anual-de-la-sociedad-chilena-de-patologia-clinica-animal/",
+    "titulo": "Organizada por el Colegio Javiera Carrera: Veintinueve escuelas del SLEP Elqui se congregan en Primera Feria Científica Interescolar",
+    "enlace": "https://laserenaonline.cl/2026/10/31/organizada-por-el-colegio-javiera-carrera-veintinueve-escuelas-del-slep-elqui-se-congregan-en-primera-feria-cientifica-interescolar/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Serenense",
+    "medio": "La Serena Online",
     "zona": "La Serena",
     "cobertura_radio": "Cobertura IV Región"
   },
@@ -254,15 +263,6 @@
   {
     "titulo": "Reporte del tiempo hoy 31 de octubre para la Región de Coquimbo",
     "enlace": "https://laserenaonline.cl/2026/10/31/reporte-del-tiempo-hoy-31-de-octubre-para-la-region-de-coquimbo-2/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Serena Online",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Aguas del Valle invierte $ 50 millones en la renovación de colectores en sector Tierras Blancas de Coquimbo",
-    "enlace": "https://laserenaonline.cl/2026/10/31/aguas-del-valle-invierte-50-millones-en-la-renovacion-de-colectores-en-sector-tierras-blancas-de-coquimbo/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Serena Online",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Canela rescata más de un siglo de tradición religiosa con encuentro cultural en Poza Honda",
+    "enlace": "https://www.davidnoticias.cl/canela-rescata-mas-de-un-siglo-de-tradicion-religiosa-con-encuentro-cultural-en-poza-honda/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Fernanda Herrera Castillo, la vileña que conquista el cheerleading nacional y es elegida Mejor Flyer de Chile",
     "enlace": "https://www.davidnoticias.cl/fernanda-herrera-castillo-la-vilena-que-conquista-el-cheerleading-nacional-y-es-elegida-mejor-flyer-de-chile/",
     "descripcion": "",
@@ -1172,15 +1181,6 @@
   {
     "titulo": "AMPROCH logra reunión clave con el Gobierno para avanzar en la reconstrucción de la provincia del Choapa",
     "enlace": "https://www.davidnoticias.cl/amproch-logra-reunion-clave-con-el-gobierno-para-avanzar-en-la-reconstruccion-de-la-provincia-del-choapa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
-  },
-  {
-    "titulo": "Colisión de tres camiones en la Ruta 5 Norte deja conductores con lesiones de mediana gravedad",
-    "enlace": "https://www.davidnoticias.cl/colision-de-tres-camiones-en-la-ruta-5-norte-deja-conductores-con-lesiones-de-mediana-gravedad/",
     "descripcion": "",
     "publicado": "",
     "medio": "David Noticias",
@@ -1278,6 +1278,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Camping Luz de Luna es escenario del Festival Día de Muertos en Cochiguaz",
+    "enlace": "https://www.elpaihuanino.cl/2026/10/31/camping-luz-de-luna-es-escenario-del-festival-dia-de-muertos-en-cochiguaz/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Paihuanino",
+    "zona": "Paihuano",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Paihuano continúa con actividades para apoyar la Teletón 2026: Habrá subastas en Tres cruces y bingo en Horcón",
     "enlace": "https://www.elpaihuanino.cl/2026/10/28/paihuano-continua-con-actividades-para-apoyar-la-teleton-2026-habra-subastas-en-tres-cruces-y-bingo-en-horcon/",
     "descripcion": "",
@@ -1352,15 +1361,6 @@
   {
     "titulo": "Declaran Alerta Amarilla para Paihuano y la región ante la llegada de un nuevo sistema frontal",
     "enlace": "https://www.elpaihuanino.cl/2026/10/18/declaran-alerta-amarilla-para-paihuano-y-la-region-ante-la-llegada-de-un-nuevo-sistema-frontal/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Paihuanino",
-    "zona": "Paihuano",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Paihuano se incorpora oficialmente al sello migrante: Habrá una oficina y orientación personalizada",
-    "enlace": "https://www.elpaihuanino.cl/2026/10/15/paihuano-se-incorpora-oficialmente-al-sello-migrante-habra-una-oficina-y-orientacion-personalizada/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Paihuanino",
@@ -1548,8 +1548,8 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Tensión en Francia: Manifestantes se enfrentan con policías tras protestas por costo de la vida",
-    "enlace": "https://www.nostalgica.cl/tension-en-francia-manifestantes-se-enfrentan-con-policias-tras-protestas-por-costo-de-la-vida/?utm_source=rss&utm_medium=rss&utm_campaign=tension-en-francia-manifestantes-se-enfrentan-con-policias-tras-protestas-por-costo-de-la-vida",
+    "titulo": "Paro de camioneros se mantiene de forma indefinida en San Antonio por alza de costos y tarifas de fletes",
+    "enlace": "https://www.nostalgica.cl/paro-de-camioneros-se-mantiene-de-forma-indefinida-en-san-antonio-por-alza-de-costos-y-tarifas-de-fletes/?utm_source=rss&utm_medium=rss&utm_campaign=paro-de-camioneros-se-mantiene-de-forma-indefinida-en-san-antonio-por-alza-de-costos-y-tarifas-de-fletes",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1557,8 +1557,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "20 años de cárcel a carabinero (r) que mató a seis personas en dictadura: tres de ellos eran menores",
-    "enlace": "https://www.nostalgica.cl/20-anos-de-carcel-a-carabinero-r-que-mato-a-seis-personas-en-dictadura-tres-de-ellos-eran-menores/?utm_source=rss&utm_medium=rss&utm_campaign=20-anos-de-carcel-a-carabinero-r-que-mato-a-seis-personas-en-dictadura-tres-de-ellos-eran-menores",
+    "titulo": "“Las cosas no…”: Beccacece detalla el profundo quiebre con Sampaoli y compara a Bielsa con el “Che” Guevara",
+    "enlace": "https://www.nostalgica.cl/las-cosas-no-beccacece-detalla-el-profundo-quiebre-con-sampaoli-y-compara-a-bielsa-con-el-che-guevara/?utm_source=rss&utm_medium=rss&utm_campaign=las-cosas-no-beccacece-detalla-el-profundo-quiebre-con-sampaoli-y-compara-a-bielsa-con-el-che-guevara",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1566,8 +1566,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Selma Blair rompe el silencio tras ser arrestada por protagonizar altercado en avión: “Les pido sinceramente perdón”",
-    "enlace": "https://www.nostalgica.cl/selma-blair-rompe-el-silencio-tras-ser-arrestada-por-protagonizar-altercado-en-avion-les-pido-sinceramente-perdon/?utm_source=rss&utm_medium=rss&utm_campaign=selma-blair-rompe-el-silencio-tras-ser-arrestada-por-protagonizar-altercado-en-avion-les-pido-sinceramente-perdon",
+    "titulo": "EE.UU. niega haber participado en la fuga de Flávio Bolsonaro de Brasil: la explicación de Marco Rubio",
+    "enlace": "https://www.nostalgica.cl/ee-uu-niega-haber-participado-en-la-fuga-de-flavio-bolsonaro-de-brasil-la-explicacion-de-marco-rubio/?utm_source=rss&utm_medium=rss&utm_campaign=ee-uu-niega-haber-participado-en-la-fuga-de-flavio-bolsonaro-de-brasil-la-explicacion-de-marco-rubio",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1575,8 +1575,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Ronda Impacto despliega controles policiales y migratorios en toda Atacama",
-    "enlace": "https://www.nostalgica.cl/ronda-impacto-despliega-controles-policiales-y-migratorios-en-toda-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=ronda-impacto-despliega-controles-policiales-y-migratorios-en-toda-atacama",
+    "titulo": "“Las víctimas son prioridad de este Ministerio”: La bienvenida de ministro Rabat a subsecretaria Soto",
+    "enlace": "https://www.nostalgica.cl/las-victimas-son-prioridad-de-este-ministerio-la-bienvenida-de-ministro-rabat-a-subsecretaria-soto/?utm_source=rss&utm_medium=rss&utm_campaign=las-victimas-son-prioridad-de-este-ministerio-la-bienvenida-de-ministro-rabat-a-subsecretaria-soto",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1584,11 +1584,20 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Municipio de Diego de Almagro amplía horarios de atención de cementerios por el 1 de noviembre",
-    "enlace": "https://www.nostalgica.cl/municipio-de-diego-de-almagro-amplia-horarios-de-atencion-de-cementerios-por-el-1-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=municipio-de-diego-de-almagro-amplia-horarios-de-atencion-de-cementerios-por-el-1-de-noviembre",
+    "titulo": "“No tenemos ninguna alerta sanitaria”: experta aclara emergencia preventiva por marea roja en Atacama",
+    "enlace": "https://www.nostalgica.cl/no-tenemos-ninguna-alerta-sanitaria-experta-aclara-emergencia-preventiva-por-marea-roja-en-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=no-tenemos-ninguna-alerta-sanitaria-experta-aclara-emergencia-preventiva-por-marea-roja-en-atacama",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Copiapó: Fiscalía formalizó delito de lesiones graves en contra de imputado que disparó a su hermano",
+    "enlace": "https://www.maray.cl/atacama/31/10/2026/copiapo-fiscalia-formalizo-delito-de-lesiones-graves-en-contra-de-imputado-que-disparo-a-su-hermano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1667,15 +1676,6 @@
   {
     "titulo": "Encuentran sin vida a joven secuestrado en Estación Central: cinco detenidos por el crimen",
     "enlace": "https://www.maray.cl/pais/30/10/2026/encuentran-sin-vida-a-joven-secuestrado-en-estacion-central-cinco-detenidos-por-el-crimen/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Luis Silva deja la Subsecretaría de Justicia en medio de polémica por rebajas de condenas",
-    "enlace": "https://www.maray.cl/pais/30/10/2026/luis-silva-deja-la-subsecretaria-de-justicia-en-medio-de-polemica-por-rebajas-de-condenas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1863,6 +1863,51 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
+    "titulo": "Arica y Parinacota: se reactiva Mesa de Seguridad Minera tras años de inactividad",
+    "enlace": "https://g5noticias.cl/2026/10/31/arica-y-parinacota-se-reactiva-mesa-de-seguridad-minera-tras-anos-de-inactividad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Autoridad Regional y Alcaldes coordinan acciones preventivas ante emergencias meteorológicas en la Región de Coquimbo",
+    "enlace": "https://g5noticias.cl/2026/10/31/autoridad-regional-y-alcaldes-coordinan-acciones-preventivas-ante-emergencias-meteorologicas-en-la-region-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Copiapó: Fiscalía formalizó delito de lesiones graves en contra de imputado que disparó a su hermano",
+    "enlace": "https://g5noticias.cl/2026/10/31/copiapo-fiscalia-formalizo-delito-de-lesiones-graves-en-contra-de-imputado-que-disparo-a-su-hermano/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Leo Rey elogia el crecimiento de la Expo Quillota en su regreso a este gran escenario",
+    "enlace": "https://g5noticias.cl/2026/10/31/leo-rey-elogia-el-crecimiento-de-la-expo-quillota-en-su-regreso-a-este-gran-escenario/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Quintero y Rapa Nui estrechan lazos culturales en encuentro de hermandad",
+    "enlace": "https://g5noticias.cl/2026/10/31/quintero-y-rapa-nui-estrechan-lazos-culturales-en-encuentro-de-hermandad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "G5",
+    "zona": "Valparaiso",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "Karen Doggenweiler visitó Casa de Acogida de Quillota y conoció su modelo de innovación social",
     "enlace": "https://g5noticias.cl/2026/10/31/karen-doggenweiler-visito-casa-de-acogida-de-quillota-y-conocio-su-modelo-de-innovacion-social/",
     "descripcion": "",
@@ -1901,51 +1946,6 @@
   {
     "titulo": "MOP ya comenzó la reconstrucción de Atacama con una inversión de más de $115 mil millones",
     "enlace": "https://g5noticias.cl/2026/10/31/mop-ya-comenzo-la-reconstruccion-de-atacama-con-una-inversion-de-mas-de-115-mil-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Parlamentarios PDG exigen a presidente Kast suspender gira a Italia por crisis de rebajas de condenas a abusadores sexuales: «Primero debe ordenar la casa»",
-    "enlace": "https://g5noticias.cl/2026/10/31/parlamentarios-pdg-exigen-a-presidente-kast-suspender-gira-a-italia-por-crisis-de-rebajas-de-condenas-a-abusadores-sexuales-primero-debe-ordenar-la-casa/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "AgroMar reúne en La Serena a productores y expertos para impulsar nuevas oportunidades de desarrollo en Coquimbo",
-    "enlace": "https://g5noticias.cl/2026/10/31/agromar-reune-en-la-serena-a-productores-y-expertos-para-impulsar-nuevas-oportunidades-de-desarrollo-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Queda al descubierto taller clandestino de automóviles en Pirque",
-    "enlace": "https://g5noticias.cl/2026/10/31/queda-al-descubierto-taller-clandestino-de-automoviles-en-pirque/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Exitoso primer encuentro regional de gestoras para la prevención de la violencia de género de la Seremi de Salud",
-    "enlace": "https://g5noticias.cl/2026/10/31/exitoso-primer-encuentro-regional-de-gestoras-para-la-prevencion-de-la-violencia-de-genero-de-la-seremi-de-salud/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "G5",
-    "zona": "Valparaiso",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "SENAMA Valparaíso y autoridades regionales firman compromiso por los derechos de las personas mayores",
-    "enlace": "https://g5noticias.cl/2026/10/31/senama-valparaiso-y-autoridades-regionales-firman-compromiso-por-los-derechos-de-las-personas-mayores/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2223,6 +2223,24 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
+    "titulo": "Cientos de magallánicos corrieron por las Jornadas Magallánicas en una nueva fiesta deportiva y familiar",
+    "enlace": "https://www.ovejeronoticias.cl/2026/10/cientos-de-magallanicos-corrieron-por-las-jornadas-magallanicas-en-una-nueva-fiesta-deportiva-y-familiar/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Cálido recibimiento en Port Stanley a crucero turístico Magellan Explorer.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/10/calido-recibimiento-en-port-stanley-a-crucero-turistico-magellan-explorer/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Despliegue policial deja detenidos, fiscalizaciones y decomiso de municiones en Magallanes",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/despliegue-policial-deja-detenidos-fiscalizaciones-y-decomiso-de-municiones-en-magallanes/",
     "descripcion": "",
@@ -2288,24 +2306,6 @@
   {
     "titulo": "Futuro Polideportivo de Punta Arenas recibió Recomendación Satisfactoria (RS) para su diseño.",
     "enlace": "https://www.ovejeronoticias.cl/2026/10/futuro-polideportivo-de-punta-arenas-recibio-recomendacion-satisfactoria-rs-para-su-diseno/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Avanzan obras de alumbrado público que mejorarán la seguridad y el empleo en Punta Arenas.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/10/avanzan-obras-de-alumbrado-publico-que-mejoraran-la-seguridad-y-el-empleo-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "ENADI llega a Magallanes para anticipar la demanda de trabajadores de los proyectos de inversión y acercar nuevas oportunidades laborales.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/10/enadi-llega-a-magallanes-para-anticipar-la-demanda-de-trabajadores-de-los-proyectos-de-inversion-y-acercar-nuevas-oportunidades-laborales/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
