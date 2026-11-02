@@ -270,6 +270,33 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Publicación de prueba",
+    "enlace": "https://serenaycoquimbo.cl/publicacion-de-prueba/?utm_source=rss&utm_medium=rss&utm_campaign=publicacion-de-prueba",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Coquimbo. Esta noche, 3 lesionados tras colisión de alta energía y posterior volcamiento de vehículo",
+    "enlace": "https://serenaycoquimbo.cl/coquimbo-esta-noche-3-lesionados-tras-colision-de-alta-energia-y-posterior-volcamiento-de-vehiculo/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-esta-noche-3-lesionados-tras-colision-de-alta-energia-y-posterior-volcamiento-de-vehiculo",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "La Serena. Esta tarde; joven de 19 años fallece tras recibir un ataque con arma blanca en el tórax",
+    "enlace": "https://serenaycoquimbo.cl/la-serena-esta-tarde-joven-de-19-anos-fallece-tras-recibir-un-ataque-con-arma-blanca-en-el-torax/?utm_source=rss&utm_medium=rss&utm_campaign=la-serena-esta-tarde-joven-de-19-anos-fallece-tras-recibir-un-ataque-con-arma-blanca-en-el-torax",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Coquimbo. Una persona queda lesionada tras colisión de bus eléctrico y moto",
     "enlace": "https://serenaycoquimbo.cl/coquimbo-una-persona-queda-lesionada-tras-colision-de-bus-electrico-y-moto/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-una-persona-queda-lesionada-tras-colision-de-bus-electrico-y-moto",
     "descripcion": "",
@@ -326,33 +353,6 @@
   {
     "titulo": "Región de Coquimbo constituye Mesa del Plan Chile Renace para impulsar la natalidad",
     "enlace": "https://serenaycoquimbo.cl/region-de-coquimbo-constituye-mesa-del-plan-chile-renace-para-impulsar-la-natalidad/?utm_source=rss&utm_medium=rss&utm_campaign=region-de-coquimbo-constituye-mesa-del-plan-chile-renace-para-impulsar-la-natalidad",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Su asistente nuevo tiene todas sus llaves y ninguna duda",
-    "enlace": "https://serenaycoquimbo.cl/su-asistente-nuevo-tiene-todas-sus-llaves-y-ninguna-duda/?utm_source=rss&utm_medium=rss&utm_campaign=su-asistente-nuevo-tiene-todas-sus-llaves-y-ninguna-duda",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Carabineros frustra robo a camión en plena Ruta 5 Norte y detiene a sujeto con antecedentes",
-    "enlace": "https://serenaycoquimbo.cl/carabineros-frustra-robo-a-camion-en-plena-ruta-5-norte-y-detiene-a-sujeto-con-antecedentes/?utm_source=rss&utm_medium=rss&utm_campaign=carabineros-frustra-robo-a-camion-en-plena-ruta-5-norte-y-detiene-a-sujeto-con-antecedentes",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Coquimbo. Ciclista es atropellado en bajada de Ts. Blancas",
-    "enlace": "https://serenaycoquimbo.cl/coquimbo-ciclista-es-atropellado-en-bajada-de-ts-blancas/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-ciclista-es-atropellado-en-bajada-de-ts-blancas",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -1368,6 +1368,15 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Desierto florido: dos videos viralizados evidencian daños a especies protegidas en Atacama",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/02/desierto-florido-dos-videos-viralizados-evidencian-danos-a-especies-protegidas-en-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Subsecretario del Trabajo: “La IA no viene a reemplazar el talento de Chile, viene a multiplicarlo”",
     "enlace": "https://www.atacamanoticias.cl/2026/11/01/subsecretario-del-trabajo-la-ia-no-viene-a-reemplazar-el-talento-de-chile-viene-a-multiplicarlo/",
     "descripcion": "",
@@ -1442,15 +1451,6 @@
   {
     "titulo": "Ya están disponibles los resultados de las listas de espera del SAE 2027: cómo ver el proceso AQUÍ",
     "enlace": "https://www.atacamanoticias.cl/2026/10/28/ya-estan-disponibles-los-resultados-de-las-listas-de-espera-del-sae-2027-como-ver-el-proceso-aqui/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Optalert: La tecnología que detecta la fatiga de operadores con la que Mantoverde potencia sus estándares de seguridad",
-    "enlace": "https://www.atacamanoticias.cl/2026/10/28/optalert-la-tecnologia-que-detecta-la-fatiga-de-operadores-con-la-que-mantoverde-potencia-sus-estandares-de-seguridad/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1548,6 +1548,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Mejoras en iluminación y seguridad de pasarela UDA alcanzan más del 80% de avance",
+    "enlace": "https://www.nostalgica.cl/mejoras-en-iluminacion-y-seguridad-de-pasarela-uda-alcanzan-mas-del-80-de-avance/?utm_source=rss&utm_medium=rss&utm_campaign=mejoras-en-iluminacion-y-seguridad-de-pasarela-uda-alcanzan-mas-del-80-de-avance",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Universidad de Chile impulsa la electrificación y descarbonización de la minería chilena",
+    "enlace": "https://www.nostalgica.cl/universidad-de-chile-impulsa-la-electrificacion-y-descarbonizacion-de-la-mineria-chilena/?utm_source=rss&utm_medium=rss&utm_campaign=universidad-de-chile-impulsa-la-electrificacion-y-descarbonizacion-de-la-mineria-chilena",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "CORPROA cierra campaña “Reconstrucción Región de Atacama” con entrega de kits a familias afectadas en Huasco",
     "enlace": "https://www.nostalgica.cl/corproa-cierra-campana-reconstruccion-region-de-atacama-con-entrega-de-kits-a-familias-afectadas-en-huasco/?utm_source=rss&utm_medium=rss&utm_campaign=corproa-cierra-campana-reconstruccion-region-de-atacama-con-entrega-de-kits-a-familias-afectadas-en-huasco",
     "descripcion": "",
@@ -1575,20 +1593,11 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Protestas de jóvenes en varias ciudades alemanas terminan en violencia",
-    "enlace": "https://www.nostalgica.cl/protestas-de-jovenes-en-varias-ciudades-alemanas-terminan-en-violencia/?utm_source=rss&utm_medium=rss&utm_campaign=protestas-de-jovenes-en-varias-ciudades-alemanas-terminan-en-violencia",
+    "titulo": "La ciudad que habitamos  (Por Juan José Ronsecco, Presidente de CORPROA)",
+    "enlace": "https://www.maray.cl/opinion/01/11/2026/la-ciudad-que-habitamos-por-juan-jose-ronsecco-presidente-de-corproa/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "La U cae ante los cruzados y deja servido el título a Colo Colo",
-    "enlace": "https://www.nostalgica.cl/la-u-cae-ante-los-cruzados-y-deja-servido-el-titulo-a-colo-colo/?utm_source=rss&utm_medium=rss&utm_campaign=la-u-cae-ante-los-cruzados-y-deja-servido-el-titulo-a-colo-colo",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1667,15 +1676,6 @@
   {
     "titulo": "Operativo nacional deja 189 detenidos y más de dos mil motos retiradas",
     "enlace": "https://www.maray.cl/pais/01/11/2026/operativo-nacional-deja-189-detenidos-y-mas-de-dos-mil-motos-retiradas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Abren curso gratuito para aprender a proteger los ecosistemas costeros",
-    "enlace": "https://www.maray.cl/atacama/01/11/2026/abren-curso-gratuito-para-aprender-a-proteger-los-ecosistemas-costeros/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1773,6 +1773,15 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "Pedro León Gallo volvió al Limarí",
+    "enlace": "https://diariolaquinta.cl/2026/11/02/pedro-leon-gallo-volvio-al-limari/?utm_source=rss&utm_medium=rss&utm_campaign=pedro-leon-gallo-volvio-al-limari",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[REMATE] Quintero: Terreno con restobar y cabañas – 18/NOV/2026",
     "enlace": "https://diariolaquinta.cl/2026/11/01/remate-quintero-terreno-con-restobar-y-cabanas-18-nov-2026-4/?utm_source=rss&utm_medium=rss&utm_campaign=remate-quintero-terreno-con-restobar-y-cabanas-18-nov-2026-4",
     "descripcion": "",
@@ -1854,17 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Primer Juzgado de Letras de San Antonio: Interdicción ROL V-18-2026 «Núñez»",
-    "enlace": "https://diariolaquinta.cl/2026/10/29/notificacion-primer-juzgado-de-letras-de-san-antonio-interdiccion-rol-v-18-2026-nunez-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-primer-juzgado-de-letras-de-san-antonio-interdiccion-rol-v-18-2026-nunez-3",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Actuales Campeones de Chile se adjudicaron el Rodeo Zonal Centro de San Clemente",
-    "enlace": "https://g5noticias.cl/2026/11/01/actuales-campeones-de-chile-se-adjudicaron-el-rodeo-zonal-centro-de-san-clemente/",
+    "titulo": "Puede mi perro tener alergias de primavera. Por Mario Morales Director Carrera de Medicina Veterinaria Universidad de Las Américas, Sede Concepción",
+    "enlace": "https://g5noticias.cl/2026/11/02/puede-mi-perro-tener-alergias-de-primavera-por-mario-morales-director-carrera-de-medicina-veterinaria-universidad-de-las-americas-sede-concepcion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tras fatal accidente en el río Maipo: Diputada Santelices y bancada UDI impulsarán proyecto de ley de “Turismo Seguro” para proteger vidas y rescatistas",
-    "enlace": "https://g5noticias.cl/2026/11/01/tras-fatal-accidente-en-el-rio-maipo-diputada-santelices-y-bancada-udi-impulsaran-proyecto-de-ley-de-turismo-seguro-para-proteger-vidas-y-rescatistas/",
+    "titulo": "Las tendencias tecnológicas que están redefiniendo la operación de las empresas en 2026",
+    "enlace": "https://g5noticias.cl/2026/11/02/las-tendencias-tecnologicas-que-estan-redefiniendo-la-operacion-de-las-empresas-en-2026-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fiscalía de Atacama acusó a diez imputados por delitos de corrupción en caso “Comprometidos”",
-    "enlace": "https://g5noticias.cl/2026/11/01/fiscalia-de-atacama-acuso-a-diez-imputados-por-delitos-de-corrupcion-en-caso-comprometidos/",
+    "titulo": "ULagos convoca a seminario regional para abordar los desafíos de la gestión del agua en Chiloé",
+    "enlace": "https://g5noticias.cl/2026/11/02/ulagos-convoca-a-seminario-regional-para-abordar-los-desafios-de-la-gestion-del-agua-en-chiloe/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Michelin desarrolla neumáticos diseñados para responder a los nuevos desafíos de la movilidad eléctrica",
-    "enlace": "https://g5noticias.cl/2026/11/01/michelin-desarrolla-neumaticos-disenados-para-responder-a-los-nuevos-desafios-de-la-movilidad-electrica/",
+    "titulo": "Experto aborda cinco casos donde la firma electrónica potencia el trabajo de las organizaciones",
+    "enlace": "https://g5noticias.cl/2026/11/02/experto-aborda-cinco-casos-donde-la-firma-electronica-potencia-el-trabajo-de-las-organizaciones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "TAG con rebaja y concesión extendida: ¿qué cambia para los conductores y podría repetirse el acuerdo en regiones?",
-    "enlace": "https://g5noticias.cl/2026/11/01/tag-con-rebaja-y-concesion-extendida-que-cambia-para-los-conductores-y-podria-repetirse-el-acuerdo-en-regiones/",
+    "titulo": "Expo Quillota cerró su última noche por Mega: lideró el rating con Alanys Lagos, Melón y Melame y Los Charros de Lumaco",
+    "enlace": "https://g5noticias.cl/2026/11/02/expo-quillota-cerro-su-ultima-noche-por-mega-lidero-el-rating-con-alanys-lagos-melon-y-melame-y-los-charros-de-lumaco/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Llaman a intensificar pruebas de seguridad en organizaciones ante acceso de IA a sistema gubernamental",
-    "enlace": "https://g5noticias.cl/2026/11/01/llaman-a-intensificar-pruebas-de-seguridad-en-organizaciones-ante-acceso-de-ia-a-sistema-gubernamental-2/",
+    "titulo": "Cristóbal Menzel se adjudica la quinta fecha del Circuito del Club Academia de Ajedrez Viña del Mar",
+    "enlace": "https://g5noticias.cl/2026/11/02/cristobal-menzel-se-adjudica-la-quinta-fecha-del-circuito-del-club-academia-de-ajedrez-vina-del-mar/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "GP de México: ganó Verstappen, Antonelli se tituló campeón mundial de F1 y se transformó en el primer italiano en ganar la categoría desde Ascari en 1953",
-    "enlace": "https://g5noticias.cl/2026/11/01/gp-de-mexico-gano-verstappen-antonelli-se-titulo-campeon-mundial-de-f1-y-se-transformo-en-el-primer-italiano-en-ganar-la-categoria-desde-ascari-en-1953/",
+    "titulo": "Camioneros de San Antonio se mantienen en paro indefinido: «Si tenemos que bloquear la fruta, lo haremos»",
+    "enlace": "https://g5noticias.cl/2026/11/02/camioneros-de-san-antonio-se-mantienen-en-paro-indefinido-si-tenemos-que-bloquear-la-fruta-lo-haremos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Tres víctimas fatales tras volcamiento de balsa de rafting en el Río Maipo",
-    "enlace": "https://g5noticias.cl/2026/11/01/tres-victimas-fatales-tras-volcamiento-de-balsa-de-rafting-en-el-rio-maipo/",
+    "titulo": "La IA escribe el código, pero ¿quién responde cuando falla? Por Jesús Rodríguez, Chief Executive Officer de Dynamic Devs",
+    "enlace": "https://g5noticias.cl/2026/11/02/la-ia-escribe-el-codigo-pero-quien-responde-cuando-falla-por-jesus-rodriguez-chief-executive-officer-de-dynamic-devs/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Rescatan desde el Río Aconcagua a dos personas que ingresaron al lecho en vehículo 4×4",
-    "enlace": "https://g5noticias.cl/2026/11/01/rescatan-desde-el-rio-aconcagua-a-dos-personas-que-ingresaron-al-lecho-en-vehiculo-4x4/",
+    "titulo": "Tras hallazgo de inusual estrella verde: ¿por qué se vería así y qué puede enseñarnos sobre cómo cambian las estrellas?",
+    "enlace": "https://g5noticias.cl/2026/11/02/tras-hallazgo-de-inusual-estrella-verde-por-que-se-veria-asi-y-que-puede-ensenarnos-sobre-como-cambian-las-estrellas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Fallece Carabinero que el 28/10 sufrió accidente de tránsito mientras realizaba servicios en Estación Central",
-    "enlace": "https://g5noticias.cl/2026/11/01/fallece-carabinero-que-el-28-10-sufrio-accidente-de-transito-mientras-realizaba-servicios-en-estacion-central/",
+    "titulo": "Cadem: aprobación presidencial sigue cayendo por «caso Rabat»",
+    "enlace": "https://g5noticias.cl/2026/11/02/cadem-aprobacion-presidencial-sigue-cayendo-por-caso-rabat/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2223,6 +2223,24 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
+    "titulo": "Tempus Invertendi: tiempo de invertir | Ernesto Sepúlveda T. | Opinión",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/tempus-invertendi-tiempo-de-invertir-ernesto-sepulveda-t-opinion/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Cementerio Municipal Sara Braun recibió cerca de 40 mil visitantes",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/cementerio-municipal-sara-braun-recibio-cerca-de-40-mil-visitantes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Magallanes: recuperar el espíritu original de la Zona Franca y corregir una distorsión | Alejandro Kusanovic, Senador por la región de Magallanes.",
     "enlace": "https://www.ovejeronoticias.cl/2026/11/magallanes-recuperar-el-espiritu-original-de-la-zona-franca-y-corregir-una-distorsion-alejandro-kusanovic-senador-por-la-region-de-magallanes/",
     "descripcion": "",
@@ -2288,24 +2306,6 @@
   {
     "titulo": "SENAPRED emite monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico.",
     "enlace": "https://www.ovejeronoticias.cl/2026/11/senapred-emite-monitoreo-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Punta Arenas fue sede del Encuentro Macrozonal de la Plataforma de Pueblos Indígenas para la Transición Energética.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/punta-arenas-fue-sede-del-encuentro-macrozonal-de-la-plataforma-de-pueblos-indigenas-para-la-transicion-energetica/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Planta de ASMAR de Punta Arenas hará reparaciones en buque mercante que viaja a las islas Falklands.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/10/planta-de-asmar-de-punta-arenas-haran-reparaciones-en-buque-mercante-que-viaja-a-las-islas-falklands/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
