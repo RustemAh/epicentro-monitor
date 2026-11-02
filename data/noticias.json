@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Inédita cirugía de alta precisión permite salvar ojo de paciente con cáncer de piel en el Hospital de Coquimbo",
+    "enlace": "https://www.elcoquimbano.cl/2026/11/01/inedita-cirugia-de-alta-precision-permite-salvar-ojo-de-paciente-con-cancer-de-piel-en-el-hospital-de-coquimbo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "PDI recupera en Coquimbo vehículo vendido mediante presunta estafa en Ovalle",
     "enlace": "https://www.elcoquimbano.cl/2026/10/31/pdi-recupera-en-coquimbo-vehiculo-vendido-mediante-presunta-estafa-en-ovalle/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Lanzan curso virtual gratuito para proteger el ecosistema marino-costero de Coquimbo",
-    "enlace": "https://www.elcoquimbano.cl/2026/10/28/lanzan-curso-virtual-gratuito-para-proteger-el-ecosistema-marino-costero-de-coquimbo/",
+    "titulo": "Ruta 5 tendrá cortes nocturnos este lunes por instalación de vigas en pasarela del Colegio Adventista de La Serena",
+    "enlace": "https://www.elserenense.cl/comunales/2026/11/01/ruta-5-tendra-cortes-nocturnos-este-lunes-por-instalacion-de-vigas-en-pasarela-del-colegio-adventista-de-la-serena/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Joven de 24 años fallece por posible asfixia por sumersión en playa Los Corsarios de La Serena",
@@ -164,15 +173,6 @@
   {
     "titulo": "Récord de nieve en la cordillera de Coquimbo: la superficie cubierta supera los 7.800 km², la mayor desde que hay registros",
     "enlace": "https://www.elserenense.cl/regionales/2026/10/29/record-de-nieve-en-la-cordillera-de-coquimbo-la-superficie-cubierta-supera-los-7-800-km%c2%b2-la-mayor-desde-que-hay-registros/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Avanza investigación por hallazgo de cuerpo baleado en sitio eriazo de La Varilla en La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/10/28/avanza-investigacion-por-hallazgo-de-cuerpo-baleado-en-sitio-eriazo-de-la-varilla-en-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -450,6 +450,42 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "Seremi de Energía se reúne con CGE para conocer el Plan Verano 2026-2027",
+    "enlace": "https://ovallehoy.cl/seremi-de-energia-se-reune-con-cge-para-conocer-el-plan-verano-2026-2027/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Estudio revela que programas sociales serían clave para reducir en 18% el riesgo de volver a prisión",
+    "enlace": "https://ovallehoy.cl/estudio-revela-que-programas-sociales-serian-clave-para-reducir-en-18-el-riesgo-de-volver-a-prision/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Aumento de caudales en Río Hurtado y Monte Patria activa Alerta Temprana Preventiva en el Limarí",
+    "enlace": "https://ovallehoy.cl/aumento-de-caudales-en-rio-hurtado-y-monte-patria-activa-alerta-temprana-preventiva-en-el-limari/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Estudiantes ovallinos crean app para evaluar la calidad del agua y avanzan a la final nacional de «Los Creadores»",
+    "enlace": "https://ovallehoy.cl/estudiantes-ovallinos-crean-app-para-evaluar-la-calidad-del-agua-y-avanzan-a-la-final-nacional-de-los-creadores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovalle Hoy",
+    "zona": "Ovalle / Limarí",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Casi 11.500 personas: Desempleo en el Limarí llega al 12,5% y sobrepasa la media regional y nacional",
     "enlace": "https://ovallehoy.cl/casi-11-500-personas-desempleo-en-el-limari-llega-al-125-y-sobrepasa-la-media-regional-y-nacional/",
     "descripcion": "",
@@ -497,42 +533,6 @@
   {
     "titulo": "Comedor Solidario de Monte Patria cumple su primer año de funcionamiento",
     "enlace": "https://ovallehoy.cl/comedor-solidario-de-monte-patria-cumple-su-primer-ano-de-funcionamiento/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Vecinos de Santa Cristina acceden a operativo de salud y atención veterinaria",
-    "enlace": "https://ovallehoy.cl/vecinos-de-santa-cristina-acceden-a-operativo-de-salud-y-atencion-veterinaria/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "80 adultos mayores concluyen programas de formación en la universidad",
-    "enlace": "https://ovallehoy.cl/80-adultos-mayores-concluyen-programas-de-formacion-en-la-universidad/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "RegiónHOY: Canotaje abre nuevas oportunidades para la reinserción social juvenil en Coquimbo",
-    "enlace": "https://ovallehoy.cl/regionhoy-canotaje-abre-nuevas-oportunidades-para-la-reinsercion-social-juvenil-en-coquimbo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovalle Hoy",
-    "zona": "Ovalle / Limarí",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Región de Coquimbo activa plan de prevención y combate de incendios forestales para la temporada 2026-2027",
-    "enlace": "https://ovallehoy.cl/region-de-coquimbo-activa-plan-de-prevencion-y-combate-de-incendios-forestales-para-la-temporada-2026-2027/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovalle Hoy",
@@ -1098,6 +1098,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Piloto illapelino Mauricio Araya obtuvo el séptimo lugar en nueva fecha del Copec RallyMobil",
+    "enlace": "https://www.davidnoticias.cl/piloto-illapelino-mauricio-araya-obtuvo-el-septimo-lugar-en-nueva-fecha-del-copec-rallymobil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "David Noticias",
+    "zona": "Los Vilos",
+    "cobertura_radio": "Los Vilos 98.5 FM"
+  },
+  {
     "titulo": "Hombre falleció por inmersión en Coquimbo pese a maniobras de reanimación",
     "enlace": "https://www.davidnoticias.cl/hombre-fallecio-por-inmersion-en-coquimbo-pese-a-maniobras-de-reanimacion/",
     "descripcion": "",
@@ -1179,13 +1188,13 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
-    "titulo": "CEAZA pronostica precipitaciones débiles para sectores interiores de Limarí y Choapa",
-    "enlace": "https://www.davidnoticias.cl/ceaza-pronostica-precipitaciones-debiles-para-sectores-interiores-de-limari-y-choapa/",
+    "titulo": "Colegio Parroquial de Andacollo obtuvo el primer lugar en Festival Internacional de Jóvenes Claretianos",
+    "enlace": "https://www.elandacollino.cl/2026/11/01/colegio-parroquial-de-andacollo-obtuvo-el-primer-lugar-en-festival-internacional-de-jovenes-claretianos/",
     "descripcion": "",
     "publicado": "",
-    "medio": "David Noticias",
-    "zona": "Los Vilos",
-    "cobertura_radio": "Los Vilos 98.5 FM"
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "“Aventura sobre Ruedas” recorrió las plazas de Andacollo en busca del tesoro escondido",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Juntas de Vecinos de Andacollo ya pueden inscribir a sus cantantes para versión 13 del “Festival de los Barrios 2027”",
     "enlace": "https://www.elandacollino.cl/2026/10/23/juntas-de-vecinos-de-andacollo-ya-pueden-inscribir-a-sus-cantantes-para-version-13-del-festival-de-los-barrios-2027/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Andacollo reúne a escritores y poetas del mundo en el IV Encuentro Internacional de Literatura",
-    "enlace": "https://www.elandacollino.cl/2026/10/22/andacollo-reune-a-escritores-y-poetas-del-mundo-en-el-iv-encuentro-internacional-de-literatura/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1368,6 +1368,96 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Subsecretario del Trabajo: “La IA no viene a reemplazar el talento de Chile, viene a multiplicarlo”",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/01/subsecretario-del-trabajo-la-ia-no-viene-a-reemplazar-el-talento-de-chile-viene-a-multiplicarlo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "No es por conversión religiosa: estudio revela que programas de iglesias evangélicas serían clave para reducir en 18% el riesgo de volver a prisión",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/01/no-es-por-conversion-religiosa-estudio-revela-que-programas-de-iglesias-evangelicas-serian-clave-para-reducir-en-18-el-riesgo-de-volver-a-prision/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Fiscalía de Atacama acusó a diez imputados por delitos de corrupción en caso “Comprometidos”",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/01/fiscalia-de-atacama-acuso-a-diez-imputados-por-delitos-de-corrupcion-en-caso-comprometidos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Municipalidad de Tierra Amarilla abre convocatoria del programa para el mejoramiento y pintura de fachadas en casco histórico",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/31/municipalidad-de-tierra-amarilla-abre-convocatoria-del-programa-para-el-mejoramiento-y-pintura-de-fachadas-en-casco-historico/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Copiapó: Fiscalía revierte cautelar de adolescente involucrado en homicidio de estudiante",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/30/copiapo-fiscalia-revierte-cautelar-de-adolescente-involucrado-en-homicidio-de-estudiante/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Operativo del SAG permitió rescatar y devolver a su hábitat a un puma juvenil en Alto del Carmen",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/30/operativo-del-sag-permitio-rescatar-y-devolver-a-su-habitat-a-un-puma-juvenil-en-alto-del-carmen/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Gobernadores de Atacama, Tarapacá y Antofagasta impulsan acuerdos para fortalecer el desarrollo de las regiones mineras",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/30/gobernadores-de-atacama-tarapaca-y-antofagasta-impulsan-acuerdos-para-fortalecer-el-desarrollo-de-las-regiones-mineras/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "PDI recupera siete computadores robados desde el SLEP Atacama: especies fueron avaluadas en $25 millones",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/29/pdi-recupera-siete-computadores-robados-desde-el-slep-atacama-especies-fueron-avaluadas-en-25-millones/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Ya están disponibles los resultados de las listas de espera del SAE 2027: cómo ver el proceso AQUÍ",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/28/ya-estan-disponibles-los-resultados-de-las-listas-de-espera-del-sae-2027-como-ver-el-proceso-aqui/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Optalert: La tecnología que detecta la fatiga de operadores con la que Mantoverde potencia sus estándares de seguridad",
+    "enlace": "https://www.atacamanoticias.cl/2026/10/28/optalert-la-tecnologia-que-detecta-la-fatiga-de-operadores-con-la-que-mantoverde-potencia-sus-estandares-de-seguridad/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Carabineros detuvo a hombre por presunto femicidio frustrado en Vallenar",
     "enlace": "https://elnoticierodelhuasco.cl/2026/10/carabineros-detuvo-a-hombre-por-presunto-femicidio-frustrado-en-vallenar/",
     "descripcion": "",
@@ -1458,6 +1548,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "CORPROA cierra campaña “Reconstrucción Región de Atacama” con entrega de kits a familias afectadas en Huasco",
+    "enlace": "https://www.nostalgica.cl/corproa-cierra-campana-reconstruccion-region-de-atacama-con-entrega-de-kits-a-familias-afectadas-en-huasco/?utm_source=rss&utm_medium=rss&utm_campaign=corproa-cierra-campana-reconstruccion-region-de-atacama-con-entrega-de-kits-a-familias-afectadas-en-huasco",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Más estudiantes del norte eligen la minería: claves para titularse",
+    "enlace": "https://www.nostalgica.cl/mas-estudiantes-del-norte-eligen-la-mineria-claves-para-titularse/?utm_source=rss&utm_medium=rss&utm_campaign=mas-estudiantes-del-norte-eligen-la-mineria-claves-para-titularse",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Fiscalía acusa a diez imputados por corrupción en caso Fundación Comprometidos",
     "enlace": "https://www.nostalgica.cl/fiscalia-acusa-a-diez-imputados-por-corrupcion-en-caso-fundacion-comprometidos/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-acusa-a-diez-imputados-por-corrupcion-en-caso-fundacion-comprometidos",
     "descripcion": "",
@@ -1485,20 +1593,29 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Ecuador inició el cuarto toque de queda del año en medio de la lucha contra el crimen organizado",
-    "enlace": "https://www.nostalgica.cl/ecuador-inicio-el-cuarto-toque-de-queda-del-ano-en-medio-de-la-lucha-contra-el-crimen-organizado/?utm_source=rss&utm_medium=rss&utm_campaign=ecuador-inicio-el-cuarto-toque-de-queda-del-ano-en-medio-de-la-lucha-contra-el-crimen-organizado",
+    "titulo": "Senapred declara Alerta Temprana Preventiva por calor en todo Chile hasta marzo de 2027",
+    "enlace": "https://www.maray.cl/atacama/01/11/2026/senapred-declara-alerta-temprana-preventiva-por-calor-en-todo-chile-hasta-marzo-de-2027/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Mariah Carey inauguró la temporada navideña con un nuevo video de su clásico “All I Want for Christmas Is You”",
-    "enlace": "https://www.nostalgica.cl/mariah-carey-inauguro-la-temporada-navidena-con-un-nuevo-video-de-su-clasico-all-i-want-for-christmas-is-you/?utm_source=rss&utm_medium=rss&utm_campaign=mariah-carey-inauguro-la-temporada-navidena-con-un-nuevo-video-de-su-clasico-all-i-want-for-christmas-is-you",
+    "titulo": "Antonelli hace historia y se corona como el campeón más joven de la Fórmula 1",
+    "enlace": "https://www.maray.cl/deportes/01/11/2026/antonelli-hace-historia-y-se-corona-como-el-campeon-mas-joven-de-la-formula-1/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Sismo de magnitud 4,9 se registra al este de San Pedro de Atacama",
+    "enlace": "https://www.maray.cl/pais/01/11/2026/sismo-de-magnitud-49-se-registra-al-este-de-san-pedro-de-atacama/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1559,33 +1676,6 @@
   {
     "titulo": "Abren curso gratuito para aprender a proteger los ecosistemas costeros",
     "enlace": "https://www.maray.cl/atacama/01/11/2026/abren-curso-gratuito-para-aprender-a-proteger-los-ecosistemas-costeros/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Atacama inicia reconstrucción con plan de obras por más de $115 mil millones",
-    "enlace": "https://www.maray.cl/atacama/01/11/2026/atacama-inicia-reconstruccion-con-plan-de-obras-por-mas-de-115-mil-millones/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Kast cae al 22,1% de aprobación y marca su mínimo en Pulso Ciudadano",
-    "enlace": "https://www.maray.cl/pais/01/11/2026/kast-cae-al-221-de-aprobacion-y-marca-su-minimo-en-pulso-ciudadano/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gendarme dio muerte a hombre que habría ingresado al perímetro del CIP de Coronel",
-    "enlace": "https://www.maray.cl/pais/01/11/2026/gendarme-dio-muerte-a-hombre-que-habria-ingresado-al-perimetro-del-cip-de-coronel/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1773,8 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Copiapó: modernización en la red de agua potable implicará corte programado el 3 de noviembre",
-    "enlace": "https://g5noticias.cl/2026/11/01/copiapo-modernizacion-en-la-red-de-agua-potable-implicara-corte-programado-el-3-de-noviembre/",
+    "titulo": "Actuales Campeones de Chile se adjudicaron el Rodeo Zonal Centro de San Clemente",
+    "enlace": "https://g5noticias.cl/2026/11/01/actuales-campeones-de-chile-se-adjudicaron-el-rodeo-zonal-centro-de-san-clemente/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1782,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Everton reaccionó en los descuentos y empató 2-2 con Cobresal en El Salvador",
-    "enlace": "https://g5noticias.cl/2026/11/01/everton-reacciono-en-los-descuentos-y-empato-2-2-con-cobresal-en-el-salvador/",
+    "titulo": "Tras fatal accidente en el río Maipo: Diputada Santelices y bancada UDI impulsarán proyecto de ley de “Turismo Seguro” para proteger vidas y rescatistas",
+    "enlace": "https://g5noticias.cl/2026/11/01/tras-fatal-accidente-en-el-rio-maipo-diputada-santelices-y-bancada-udi-impulsaran-proyecto-de-ley-de-turismo-seguro-para-proteger-vidas-y-rescatistas/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1791,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alter Guitar Dúo inicia gira gratuita para difundir su disco “Trazo”, con el apoyo del Ministerio de las Culturas, las Artes y el Patrimonio",
-    "enlace": "https://g5noticias.cl/2026/11/01/alter-guitar-duo-inicia-gira-gratuita-para-difundir-su-disco-trazo-con-el-apoyo-del-ministerio-de-las-culturas-las-artes-y-el-patrimonio/",
+    "titulo": "Fiscalía de Atacama acusó a diez imputados por delitos de corrupción en caso “Comprometidos”",
+    "enlace": "https://g5noticias.cl/2026/11/01/fiscalia-de-atacama-acuso-a-diez-imputados-por-delitos-de-corrupcion-en-caso-comprometidos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1800,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Persona Mayor y Salud Mental. Por María Francisca Rauch Gajardo, Académica de Terapia Ocupacional Universidad San Sebastián Sede De la Patagonia",
-    "enlace": "https://g5noticias.cl/2026/11/01/persona-mayor-y-salud-mental-por-maria-francisca-rauch-gajardo-academica-de-terapia-ocupacional-universidad-san-sebastian-sede-de-la-patagonia/",
+    "titulo": "Michelin desarrolla neumáticos diseñados para responder a los nuevos desafíos de la movilidad eléctrica",
+    "enlace": "https://g5noticias.cl/2026/11/01/michelin-desarrolla-neumaticos-disenados-para-responder-a-los-nuevos-desafios-de-la-movilidad-electrica/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1809,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Clásico Universitario: la UC derrotó a la U y vuelve a estar en carrera por el segundo cupo a Copa Libertadores",
-    "enlace": "https://g5noticias.cl/2026/11/01/clasico-universitario-la-uc-derroto-a-la-u-y-vuelve-a-estar-en-carrera-por-el-segundo-cupo-a-copa-libertadores/",
+    "titulo": "TAG con rebaja y concesión extendida: ¿qué cambia para los conductores y podría repetirse el acuerdo en regiones?",
+    "enlace": "https://g5noticias.cl/2026/11/01/tag-con-rebaja-y-concesion-extendida-que-cambia-para-los-conductores-y-podria-repetirse-el-acuerdo-en-regiones/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1818,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "World Triathlon Cup San Pedro de la Paz 2026, Elite Hombres: Morgan Pearson ganó en la Laguna Chica y Diego Moya fue quinto tras marcar la natación más rápida",
-    "enlace": "https://g5noticias.cl/2026/11/01/world-triathlon-cup-san-pedro-de-la-paz-2026-elite-hombres-morgan-pearson-gano-en-la-laguna-chica-y-diego-moya-fue-quinto-tras-marcar-la-natacion-mas-rapida/",
+    "titulo": "Llaman a intensificar pruebas de seguridad en organizaciones ante acceso de IA a sistema gubernamental",
+    "enlace": "https://g5noticias.cl/2026/11/01/llaman-a-intensificar-pruebas-de-seguridad-en-organizaciones-ante-acceso-de-ia-a-sistema-gubernamental-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1827,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Especialistas se reúnen para abordar los desafíos de la industria eléctrica",
-    "enlace": "https://g5noticias.cl/2026/11/01/especialistas-se-reunen-para-abordar-los-desafios-de-la-industria-electrica/",
+    "titulo": "GP de México: ganó Verstappen, Antonelli se tituló campeón mundial de F1 y se transformó en el primer italiano en ganar la categoría desde Ascari en 1953",
+    "enlace": "https://g5noticias.cl/2026/11/01/gp-de-mexico-gano-verstappen-antonelli-se-titulo-campeon-mundial-de-f1-y-se-transformo-en-el-primer-italiano-en-ganar-la-categoria-desde-ascari-en-1953/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1836,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Del regalo del Viejo Pascuero al brindis frente al mar, los destinos para viajar en estas fiestas",
-    "enlace": "https://g5noticias.cl/2026/11/01/del-regalo-del-viejo-pascuero-al-brindis-frente-al-mar-los-destinos-para-viajar-en-estas-fiestas/",
+    "titulo": "Tres víctimas fatales tras volcamiento de balsa de rafting en el Río Maipo",
+    "enlace": "https://g5noticias.cl/2026/11/01/tres-victimas-fatales-tras-volcamiento-de-balsa-de-rafting-en-el-rio-maipo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1845,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Revisaron cerca de 25 mil canciones: ¿Qué hace que una canción triunfe en Spotify? Estudio U. de Chile entrega nuevas pistas",
-    "enlace": "https://g5noticias.cl/2026/11/01/revisaron-cerca-de-25-mil-canciones-que-hace-que-una-cancion-triunfe-en-spotify-estudio-u-de-chile-entrega-nuevas-pistas/",
+    "titulo": "Rescatan desde el Río Aconcagua a dos personas que ingresaron al lecho en vehículo 4×4",
+    "enlace": "https://g5noticias.cl/2026/11/01/rescatan-desde-el-rio-aconcagua-a-dos-personas-que-ingresaron-al-lecho-en-vehiculo-4x4/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1854,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Arthur Galamba, experto en educación: «La IA nos da resultados tan rápido que ya no reflexionamos sobre cómo estamos aprendiendo»",
-    "enlace": "https://g5noticias.cl/2026/11/01/arthur-galamba-experto-en-educacion-la-ia-nos-da-resultados-tan-rapido-que-ya-no-reflexionamos-sobre-como-estamos-aprendiendo/",
+    "titulo": "Fallece Carabinero que el 28/10 sufrió accidente de tránsito mientras realizaba servicios en Estación Central",
+    "enlace": "https://g5noticias.cl/2026/11/01/fallece-carabinero-que-el-28-10-sufrio-accidente-de-transito-mientras-realizaba-servicios-en-estacion-central/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
