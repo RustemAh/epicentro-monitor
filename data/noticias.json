@@ -90,6 +90,15 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
+    "titulo": "José “Pepillín” Díaz logra segundo lugar en Melipilla y avanza en clasificatorias al Sudamericano IAME 2027",
+    "enlace": "https://www.elserenense.cl/comunales/2026/11/07/jose-pepillin-diaz-logra-segundo-lugar-en-melipilla-y-avanza-en-clasificatorias-al-sudamericano-iame-2027/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Cuatro kilómetros por la costa de La Serena: el Desafío Playa 4K que reunió a doce establecimientos educativos",
     "enlace": "https://www.elserenense.cl/educacion/2026/11/06/cuatro-kilometros-por-la-costa-de-la-serena-el-desafio-playa-4k-que-reunio-a-doce-establecimientos-educativos/",
     "descripcion": "",
@@ -164,15 +173,6 @@
   {
     "titulo": "INFOR y Grupo Empresas Chilquinta impulsan nuevo Centro Tecnológico para investigar y proteger la flora nativa de zonas áridas",
     "enlace": "https://www.elserenense.cl/comunales/2026/11/02/infor-y-grupo-empresas-chilquinta-impulsan-nuevo-centro-tecnologico-para-investigar-y-proteger-la-flora-nativa-de-zonas-aridas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Ruta 5 tendrá cortes nocturnos este lunes por instalación de vigas en pasarela del Colegio Adventista de La Serena",
-    "enlace": "https://www.elserenense.cl/comunales/2026/11/01/ruta-5-tendra-cortes-nocturnos-este-lunes-por-instalacion-de-vigas-en-pasarela-del-colegio-adventista-de-la-serena/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -540,6 +540,24 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
+    "titulo": "Carabineros realiza rescate aéreo de dos jóvenes aislados en sector cordillerano de Monte Patria",
+    "enlace": "https://www.elmontepatrino.cl/2026/11/07/carabineros-realiza-rescate-aereo-de-dos-jovenes-aislados-en-sector-cordillerano-de-monte-patria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
+    "titulo": "Anuncian pavimentación de ruta que une Chañaral Alto con Cárcamo en Monte Patria",
+    "enlace": "https://www.elmontepatrino.cl/2026/11/07/anuncian-pavimentacion-de-ruta-que-une-chanaral-alto-con-carcamo-en-monte-patria/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Montepatrino",
+    "zona": "Monte Patria",
+    "cobertura_radio": "Monte Patria 96.3 FM"
+  },
+  {
     "titulo": "Con piscina temperada para hidroterapia y 651 metros cuadrados: así es el nuevo Centro Comunitario de Rehabilitación de Monte Patria",
     "enlace": "https://www.elmontepatrino.cl/2026/11/06/con-piscina-temperada-para-hidroterapia-y-651-metros-cuadrados-asi-es-el-nuevo-centro-comunitario-de-rehabilitacion-de-monte-patria/",
     "descripcion": "",
@@ -612,21 +630,12 @@
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
-    "titulo": "Monte Patria fue sede del hito regional por los 20 años del programa Quiero Mi Barrio",
-    "enlace": "https://www.elmontepatrino.cl/2026/10/19/monte-patria-fue-sede-del-hito-regional-por-los-20-anos-del-programa-quiero-mi-barrio/",
+    "titulo": "CNR y regantes de Combarbalá abordan la recuperación de canales y nuevas obras para fortalecer el riego",
+    "enlace": "https://www.elcombarbalino.cl/2026/11/07/cnr-y-regantes-de-combarbala-abordan-la-recuperacion-de-canales-y-nuevas-obras-para-fortalecer-el-riego/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "“Socios por Chile 2” emite hoy programa grabado en Tulahuén con música, humor y una fiesta para los adultos mayores",
-    "enlace": "https://www.elmontepatrino.cl/2026/10/18/socios-por-chile-2-emite-hoy-programa-grabado-en-tulahuen-con-musica-humor-y-una-fiesta-para-los-adultos-mayores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Montepatrino",
-    "zona": "Monte Patria",
+    "medio": "El Combarbalino",
+    "zona": "Combarbalá",
     "cobertura_radio": "Monte Patria 96.3 FM"
   },
   {
@@ -704,15 +713,6 @@
   {
     "titulo": "Lluvias en Coquimbo: Limarí espera hasta 25 mm y Choapa entre 10 y 20 mm, según CEAZA",
     "enlace": "https://www.elcombarbalino.cl/2026/10/19/lluvias-en-coquimbo-limari-espera-hasta-25-mm-y-choapa-entre-10-y-20-mm-segun-ceaza/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Combarbalino",
-    "zona": "Combarbalá",
-    "cobertura_radio": "Monte Patria 96.3 FM"
-  },
-  {
-    "titulo": "Combarbalá inicia construcción de paraderos rurales y mejoramiento de plaza con fondos del Royalty",
-    "enlace": "https://www.elcombarbalino.cl/2026/10/16/combarbala-inicia-construccion-de-paraderos-rurales-y-mejoramiento-de-plaza-con-fondos-del-royalty/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Combarbalino",
@@ -1188,6 +1188,15 @@
     "cobertura_radio": "Los Vilos 98.5 FM"
   },
   {
+    "titulo": "Andacollo supera ampliamente su meta y reúne más de $46 millones para la Teletón 2026",
+    "enlace": "https://www.elandacollino.cl/2026/11/07/andacollo-supera-ampliamente-su-meta-y-reune-mas-de-46-millones-para-la-teleton-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Andacollino",
+    "zona": "Andacollo",
+    "cobertura_radio": "Cobertura IV Región"
+  },
+  {
     "titulo": "Explosión en sala eléctrica de Galantas Gold en Andacollo deja a dos trabajadores lesionados",
     "enlace": "https://www.elandacollino.cl/2026/11/06/explosion-en-sala-electrica-de-galantas-gold-en-andacollo-deja-a-dos-trabajadores-lesionados/",
     "descripcion": "",
@@ -1262,15 +1271,6 @@
   {
     "titulo": "Estudiantes del CEIA de Andacollo exploran la globalización a través de la gastronomía mundial",
     "enlace": "https://www.elandacollino.cl/2026/10/27/estudiantes-del-ceia-de-andacollo-exploran-la-globalizacion-a-traves-de-la-gastronomia-mundial/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Andacollino",
-    "zona": "Andacollo",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Más de 120 mujeres corrieron por la prevención del cáncer de mama en Andacollo",
-    "enlace": "https://www.elandacollino.cl/2026/10/27/mas-de-120-mujeres-corrieron-por-la-prevencion-del-cancer-de-mama-en-andacollo/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Andacollino",
@@ -1368,8 +1368,8 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Prisión preventiva para hombre acusado de secuestrar, amenazar y agredir a su expareja en Yungay",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/prision-preventiva-para-hombre-acusado-de-secuestrar-amenazar-y-agredir-a-su-expareja-en-yungay/",
+    "titulo": "Guatemala: un diputado y tres policías mueren tras ataque armado en región marcada por el narcotráfico",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/guatemala-un-diputado-y-tres-policias-mueren-tras-ataque-armado-en-region-marcada-por-el-narcotrafico/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1377,8 +1377,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Recursos para Salud y Educación tensionan debate en el Congreso por Presupuesto 2027",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/recursos-para-salud-y-educacion-tensionan-debate-en-el-congreso-por-presupuesto-2027/",
+    "titulo": "PDI y Fiscalía ECOH investigan hallazgo de cadáver en Melipilla",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/pdi-y-fiscalia-ecoh-investigan-hallazgo-de-cadaver-en-melipilla/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1386,8 +1386,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Hallan sin vida a hombre al interior de un paradero de locomoción colectiva en Punta Arenas",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/hallan-sin-vida-a-hombre-al-interior-de-un-paradero-de-locomocion-colectiva-en-punta-arenas/",
+    "titulo": "“Mi objetivo es alcanzar unos Panamericanos”: Tomás Brito, ganó oro y celebró su cumpleaños en Quillón",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/mi-objetivo-es-alcanzar-unos-panamericanos-tomas-brito-gano-oro-y-celebro-su-cumpleanos-en-quillon/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1395,8 +1395,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "La Serena se hizo fuerte en casa, venció a Palestino y se ilusiona con cupo a copa internacional",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/la-serena-se-hizo-fuerte-en-casa-vencio-a-palestino-y-se-ilusiona-con-cupo-a-copa-internacional/",
+    "titulo": "Papelón: en Rosario festejaron pensando que eran campeones y hasta invadieron cancha… y no fue así",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/papelon-en-rosario-festejaron-pensando-que-eran-campeones-y-hasta-invadieron-cancha-y-no-fue-asi/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1404,8 +1404,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Fiscalía de Paraguay pide prisión preventiva para expresidente Peña y banquero por caso Ueno Bank",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/fiscalia-de-paraguay-pide-prision-preventiva-para-expresidente-pena-y-banquero-por-caso-ueno-bank/",
+    "titulo": "Hallan tres cuerpos en casa del detenido por tiroteo en Cracovia: serían familiares cercanos suyos",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/hallan-tres-cuerpos-en-casa-del-detenido-por-tiroteo-en-cracovia-serian-familiares-cercanos-suyos/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1413,8 +1413,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Bingos y 33 horas en bus: el periplo de Argentina para llegar a Sudamericano de Canotaje en Quillón",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/bingos-y-33-horas-en-bus-el-periplo-de-argentina-para-llegar-a-sudamericano-de-canotaje-en-quillon/",
+    "titulo": "Decretan prisión preventiva para el expresidente de Paraguay Santiago Peña por crisis de Ueno Bank",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/decretan-prision-preventiva-para-el-expresidente-de-paraguay-santiago-pena-por-crisis-de-ueno-bank/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1422,8 +1422,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Madre de niño que sufrió fractura de mandíbula tras agresión en Calbuco evalúa acciones judiciales",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/madre-de-nino-que-sufrio-fractura-de-mandibula-tras-agresion-en-calbuco-evalua-acciones-judiciales/",
+    "titulo": "Tragedia en Santo Domingo: autoridades afirman que cuerpos se entregarán este domingo a familiares",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/tragedia-en-santo-domingo-autoridades-afirman-que-cuerpos-se-entregaran-este-domingo-a-familiares/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1431,8 +1431,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Capitán del Tenerife rompe en llanto en adiós de Jesús de Miguel: “Hablar de ti en pasado es injusto”",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/capitan-del-tenerife-rompe-en-llanto-en-adios-de-jesus-de-miguel-hablar-de-ti-en-pasado-es-injusto/",
+    "titulo": "Boca Juniors vuelve a tocar la gloria: venció en la agonía a Defensa y se coronó campeón tabla anual",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/boca-juniors-vuelve-a-tocar-la-gloria-vencio-en-la-agonia-a-defensa-y-se-corono-campeon-tabla-anual/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1440,8 +1440,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Al menos seis muertos y 15 heridos tras tiroteo “al azar” en Cracovia",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/al-menos-seis-muertos-y-15-heridos-tras-tiroteo-al-azar-en-cracovia/",
+    "titulo": "De máximas de hasta 35°C a posibles chubascos: pronostican inestabilidad y ola de calor en la RM",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/de-maximas-de-hasta-35c-a-posibles-chubascos-pronostican-inestabilidad-y-ola-de-calor-en-la-rm/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1449,8 +1449,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Joven de 18 años es asesinado en Nacimiento y presunto autor se entrega a Carabineros",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/07/joven-de-18-anos-es-asesinado-en-nacimiento-y-presunto-autor-se-entrega-a-carabineros/",
+    "titulo": "Actor Luis Gnecco es designado como nuevo agregado cultural de Chile en Reino Unido",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/07/actor-luis-gnecco-es-designado-como-nuevo-agregado-cultural-de-chile-en-reino-unido/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1548,8 +1548,8 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
-    "titulo": "Detienen a sujeto por sustraer foco solar desde una vivienda en Chañaral",
-    "enlace": "https://www.nostalgica.cl/detienen-a-sujeto-por-sustraer-foco-solar-desde-una-vivienda-en-chanaral/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-sujeto-por-sustraer-foco-solar-desde-una-vivienda-en-chanaral",
+    "titulo": "Detienen a sujeto que transportaba rejillas presuntamente robadas desde la vía pública en Copiapó",
+    "enlace": "https://www.nostalgica.cl/detienen-a-sujeto-que-transportaba-rejillas-presuntamente-robadas-desde-la-via-publica-en-copiapo/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-sujeto-que-transportaba-rejillas-presuntamente-robadas-desde-la-via-publica-en-copiapo",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1557,8 +1557,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Seremi de Educación advierte preocupación por resultados académicos y baja matrícula escolar en Atacama",
-    "enlace": "https://www.nostalgica.cl/seremi-de-educacion-advierte-preocupacion-por-resultados-academicos-y-baja-matricula-escolar-en-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=seremi-de-educacion-advierte-preocupacion-por-resultados-academicos-y-baja-matricula-escolar-en-atacama",
+    "titulo": "Kast felicita a Pedro Alliana tras asumir presidencia de Paraguay: “Mucho éxito, Presidente”",
+    "enlace": "https://www.nostalgica.cl/kast-felicita-a-pedro-alliana-tras-asumir-presidencia-de-paraguay-mucho-exito-presidente/?utm_source=rss&utm_medium=rss&utm_campaign=kast-felicita-a-pedro-alliana-tras-asumir-presidencia-de-paraguay-mucho-exito-presidente",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1566,8 +1566,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Atacama entre las regiones con mayor mortalidad por mordeduras de araña en Chile",
-    "enlace": "https://www.nostalgica.cl/atacama-entre-las-regiones-con-mayor-mortalidad-por-mordeduras-de-arana-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=atacama-entre-las-regiones-con-mayor-mortalidad-por-mordeduras-de-arana-en-chile",
+    "titulo": "Boca Juniors de Carlos Palacios y Williams Alarcón logra un milagro y se corona campeón del fútbol argentino",
+    "enlace": "https://www.nostalgica.cl/boca-juniors-de-carlos-palacios-y-williams-alarcon-logra-un-milagro-y-se-corona-campeon-del-futbol-argentino/?utm_source=rss&utm_medium=rss&utm_campaign=boca-juniors-de-carlos-palacios-y-williams-alarcon-logra-un-milagro-y-se-corona-campeon-del-futbol-argentino",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1575,8 +1575,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Max Verstappen se impuso en últimos libres del GP de Brasil de F1: será penalizado para la carrera",
-    "enlace": "https://www.nostalgica.cl/max-verstappen-se-impuso-en-ultimos-libres-del-gp-de-brasil-de-f1-sera-penalizado-para-la-carrera/?utm_source=rss&utm_medium=rss&utm_campaign=max-verstappen-se-impuso-en-ultimos-libres-del-gp-de-brasil-de-f1-sera-penalizado-para-la-carrera",
+    "titulo": "¿Cómo va la Teletón 2026?: Esto es lo que lleva recaudado la campaña solidaria",
+    "enlace": "https://www.nostalgica.cl/como-va-la-teleton-2026-esto-es-lo-que-lleva-recaudado-la-campana-solidaria/?utm_source=rss&utm_medium=rss&utm_campaign=como-va-la-teleton-2026-esto-es-lo-que-lleva-recaudado-la-campana-solidaria",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
@@ -1584,11 +1584,38 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Policía de Paraguay detiene al expresidente Santiago Peña tras su destitución",
-    "enlace": "https://www.nostalgica.cl/policia-de-paraguay-detiene-al-expresidente-santiago-pena-tras-su-destitucion/?utm_source=rss&utm_medium=rss&utm_campaign=policia-de-paraguay-detiene-al-expresidente-santiago-pena-tras-su-destitucion",
+    "titulo": "Hallan tres cuerpos en casa del detenido por tiroteo en Cracovia: serían familiares cercanos suyos",
+    "enlace": "https://www.nostalgica.cl/hallan-tres-cuerpos-en-casa-del-detenido-por-tiroteo-en-cracovia-serian-familiares-cercanos-suyos/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-tres-cuerpos-en-casa-del-detenido-por-tiroteo-en-cracovia-serian-familiares-cercanos-suyos",
     "descripcion": "",
     "publicado": "",
     "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Experiencia tomasina: Santo Tomás Copiapó reconoció a estudiantes por su compromiso con las actividades de vida estudiantil",
+    "enlace": "https://www.maray.cl/atacama/07/11/2026/experiencia-tomasina-santo-tomas-copiapo-reconocio-a-estudiantes-por-su-compromiso-con-las-actividades-de-vida-estudiantil/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Perú superaría a Chile en tamaño económico desde 2027",
+    "enlace": "https://www.maray.cl/pais/07/11/2026/peru-superaria-a-chile-en-tamano-economico-desde-2027/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "La Serena vence a Palestino y queda a un punto de la zona de copas",
+    "enlace": "https://www.maray.cl/deportes/07/11/2026/la-serena-vence-a-palestino-y-queda-a-un-punto-de-la-zona-de-copas/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
@@ -1649,33 +1676,6 @@
   {
     "titulo": "Everton recibe a Concepción con la clasificación internacional en la mira",
     "enlace": "https://www.maray.cl/deportes/07/11/2026/everton-recibe-a-concepcion-con-la-clasificacion-internacional-en-la-mira/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "París concentra tensión en cuarto fin de semana de movilizaciones",
-    "enlace": "https://www.maray.cl/internacional/07/11/2026/francia-despliega-70-000-agentes-ante-nueva-jornada-de-protestas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Nuevo presidente paraguayo pone la salud entre sus prioridades",
-    "enlace": "https://www.maray.cl/internacional/07/11/2026/nuevo-presidente-paraguayo-pone-la-salud-entre-sus-prioridades/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Trump designa a Stephen Miller como jefe de gabinete",
-    "enlace": "https://www.maray.cl/internacional/07/11/2026/trump-designa-a-stephen-miller-como-jefe-de-gabinete/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1773,8 +1773,17 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
-    "titulo": "Locatarios del Mercado Puerto anuncian Segundo Encuentro Gastronómico, Cultural y de Emprendimientos “",
-    "enlace": "https://diariolaquinta.cl/2026/11/07/locatarios-del-mercado-puerto-anuncian-segundo-encuentro-gastronomico-cultural-y-de-emprendimientos/?utm_source=rss&utm_medium=rss&utm_campaign=locatarios-del-mercado-puerto-anuncian-segundo-encuentro-gastronomico-cultural-y-de-emprendimientos",
+    "titulo": "Pájarx entre Púas celebra 10 años con función especial de su obra Juntas Más Libres musicalizada en vivo por Trappo Banda",
+    "enlace": "https://diariolaquinta.cl/2026/11/07/pajarx-entre-puas-celebra-10-anos-con-funcion-especial-de-su-obra-juntas-mas-libres-musicalizada-en-vivo-por-trappo-banda/?utm_source=rss&utm_medium=rss&utm_campaign=pajarx-entre-puas-celebra-10-anos-con-funcion-especial-de-su-obra-juntas-mas-libres-musicalizada-en-vivo-por-trappo-banda",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Locatarios del Mercado Puerto anuncian Segundo Encuentro Gastronómico, Cultural y de Emprendimientos",
+    "enlace": "https://diariolaquinta.cl/2026/11/07/locatarios-del-mercado-puerto-anuncian-segundo-encuentro-gastronomico-cultural-y-de-emprendimientos-2/?utm_source=rss&utm_medium=rss&utm_campaign=locatarios-del-mercado-puerto-anuncian-segundo-encuentro-gastronomico-cultural-y-de-emprendimientos-2",
     "descripcion": "",
     "publicado": "",
     "medio": "Diario La Quinta",
@@ -1854,17 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Segundo Juzgado de Letras de San Antonio: Interdicción por demencia ROL V-75-2026 «Santis»",
-    "enlace": "https://diariolaquinta.cl/2026/11/05/notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-75-2026-santis-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-segundo-juzgado-de-letras-de-san-antonio-interdiccion-por-demencia-rol-v-75-2026-santis-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "El 15 de noviembre se realizará votación final de la Consulta Indígena del Proyecto de Infraestructura Marítima de Atraque Directo para Rapa Nui",
-    "enlace": "https://g5noticias.cl/2026/11/07/el-15-de-noviembre-se-realizara-votacion-final-de-la-consulta-indigena-del-proyecto-de-infraestructura-maritima-de-atraque-directo-para-rapa-nui/",
+    "titulo": "Teletón: La meta más allá del cómputo. Por Alejandra Ríos Urzúa, Directora del Observatorio para la Inclusión, U. Andrés Bello",
+    "enlace": "https://g5noticias.cl/2026/11/07/teleton-la-meta-mas-alla-del-computo-por-alejandra-rios-urzua-directora-del-observatorio-para-la-inclusion-u-andres-bello/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Animal Fest 2026: La “Teletón de los Animalitos” regresa a Valdivia para apoyar a nueve organizaciones animalistas",
-    "enlace": "https://g5noticias.cl/2026/11/07/animal-fest-2026-la-teleton-de-los-animalitos-regresa-a-valdivia-para-apoyar-a-nueve-organizaciones-animalistas/",
+    "titulo": "Carabineros y personal municipal fiscalizaron evento clandestino en Puente Alto",
+    "enlace": "https://g5noticias.cl/2026/11/07/carabineros-y-personal-municipal-fiscalizaron-evento-clandestino-en-puente-alto/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Pájarx entre Púas celebra 10 años con función especial de su obra Juntas Más Libres musicalizada en vivo por Trappo Banda",
-    "enlace": "https://g5noticias.cl/2026/11/07/pajarx-entre-puas-celebra-10-anos-con-funcion-especial-de-su-obra-juntas-mas-libres-musicalizada-en-vivo-por-trappo-banda/",
+    "titulo": "Detienen a pasajero que señaló «portar explosivos» en vuelo a Brasil",
+    "enlace": "https://g5noticias.cl/2026/11/07/detienen-a-pasajero-que-senalo-portar-explosivos-en-vuelo-a-brasil/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Con detectores de metales y controles de identidad Papudo endurece medidas de seguridad tras violencia en partido de fútbol",
-    "enlace": "https://g5noticias.cl/2026/11/07/con-detectores-de-metales-y-controles-de-identidad-papudo-endurece-medidas-de-seguridad-tras-violencia-en-partido-de-futbol/",
+    "titulo": "San Antonio decreta dos días de duelo comunal por tragedia en la Ruta de la Fruta: SML entregará cuerpos de las víctimas este domingo",
+    "enlace": "https://g5noticias.cl/2026/11/07/san-antonio-decreta-dos-dias-de-duelo-comunal-por-tragedia-en-la-ruta-de-la-fruta-sml-entregara-cuerpos-de-las-victimas-este-domingo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Doble rescate en cerro Mauco: estudiantes de intercambio y grupo de bomberos junto a sus perros",
-    "enlace": "https://g5noticias.cl/2026/11/07/doble-rescate-en-cerro-mauco-estudiantes-de-intercambio-y-grupo-de-bomberos-junto-a-sus-perros/",
+    "titulo": "Joven contribuyente recupera devolución de impuestos por más de 3,2 millones de pesos",
+    "enlace": "https://g5noticias.cl/2026/11/07/joven-contribuyente-recupera-devolucion-de-impuestos-por-mas-de-32-millones-de-pesos/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Valorar, fortalecer y celebrar la educación parvularia. Por María de la Luz González, Directora ejecutiva Fundación Educacional Oportunidad",
-    "enlace": "https://g5noticias.cl/2026/11/07/valorar-fortalecer-y-celebrar-la-educacion-parvularia-por-maria-de-la-luz-gonzalez-directora-ejecutiva-fundacion-educacional-oportunidad/",
+    "titulo": "Chiloé no fue siempre Chile: las claves de su incorporación. Por Dr. Fernando Castillo Opazo, director Licenciatura en Historia de la UNAB",
+    "enlace": "https://g5noticias.cl/2026/11/07/chiloe-no-fue-siempre-chile-las-claves-de-su-incorporacion-por-dr-fernando-castillo-opazo-director-licenciatura-en-historia-de-la-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Magallanes refuerza trabajo en terreno para prevenir accidentes y avanzar hacia cero fatalidades en minería",
-    "enlace": "https://g5noticias.cl/2026/11/07/magallanes-refuerza-trabajo-en-terreno-para-prevenir-accidentes-y-avanzar-hacia-cero-fatalidades-en-mineria/",
+    "titulo": "Republicanos y 42 mil toneladas de producción falsas en Codelco: “Estamos  frente a riesgo moral, contribuye a un clima de hostilidad y desazón social”",
+    "enlace": "https://g5noticias.cl/2026/11/07/republicanos-y-42-mil-toneladas-de-produccion-falsas-en-codelco-estamos-frente-a-riesgo-moral-contribuye-a-un-clima-de-hostilidad-y-desazon-social/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cultura andina y señalética cotidiana: el Diseño como promoción cultural y solución de desafíos",
-    "enlace": "https://g5noticias.cl/2026/11/07/cultura-andina-y-senaletica-cotidiana-el-diseno-como-promocion-cultural-y-solucion-de-desafios/",
+    "titulo": "Más allá del robo de datos: los nuevos desafíos de la ciberseguridad en Chile",
+    "enlace": "https://g5noticias.cl/2026/11/07/mas-alla-del-robo-de-datos-los-nuevos-desafios-de-la-ciberseguridad-en-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Estudio liderado por la UST sienta nuevas bases científicas para el fútbol paralímpico",
-    "enlace": "https://g5noticias.cl/2026/11/07/estudio-liderado-por-la-ust-sienta-nuevas-bases-cientificas-para-el-futbol-paralimpico/",
+    "titulo": "Everton cayó inesperadamente ante Deportes Concepción en Sausalito y ve amenazadas sus opciones de clasificar a torneos internacionales",
+    "enlace": "https://g5noticias.cl/2026/11/07/everton-cayo-inesperadamente-ante-deportes-concepcion-en-sausalito-y-ve-amenazadas-sus-opciones-de-clasificar-a-torneos-internacionales/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ir y volver a diario de Providencia a La Dehesa en un city car eléctrico cuesta cerca de $17.000 al mes",
-    "enlace": "https://g5noticias.cl/2026/11/07/ir-y-volver-a-diario-de-providencia-a-la-dehesa-en-un-city-car-electrico-cuesta-cerca-de-17-000-al-mes/",
+    "titulo": "Quilpué supera promedio nacional y regional en Transparencia Activa",
+    "enlace": "https://g5noticias.cl/2026/11/07/quilpue-supera-promedio-nacional-y-regional-en-transparencia-activa/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
