@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Pequeños y medianos transportistas de la zona se suman a paro nacional indefinido desde esta medianoche",
+    "enlace": "https://www.elcoquimbano.cl/2026/11/09/pequenos-y-medianos-transportistas-de-la-zona-se-suman-a-paro-nacional-indefinido-desde-esta-medianoche/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "El Coquimbano",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Robo y profanación en capilla conmocionan a fieles del Bosque San Carlos",
     "enlace": "https://www.elcoquimbano.cl/2026/11/09/robo-y-profanacion-en-capilla-conmocionan-a-fieles-del-bosque-san-carlos/",
     "descripcion": "",
@@ -81,13 +90,13 @@
     "cobertura_radio": "Toda la red Coquimbo"
   },
   {
-    "titulo": "Red Bull Batalla Chile 2026 llega a Coquimbo con una jornada gratuita de freestyle",
-    "enlace": "https://www.elcoquimbano.cl/2026/11/04/red-bull-batalla-chile-2026-llega-a-coquimbo-con-una-jornada-gratuita-de-freestyle/",
+    "titulo": "Sindicato del Colegio Albert Einstein de La Serena inició huelga legal indefinida: Clases estarían suspendidas",
+    "enlace": "https://www.elserenense.cl/educacion/2026/11/09/sindicato-del-colegio-albert-einstein-de-la-serena-inicio-huelga-legal-indefinida-clases-estarian-suspendidas/",
     "descripcion": "",
     "publicado": "",
-    "medio": "El Coquimbano",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
+    "medio": "El Serenense",
+    "zona": "La Serena",
+    "cobertura_radio": "Cobertura IV Región"
   },
   {
     "titulo": "Antes de las giras de estudio y vacaciones: Seremi de Salud llama a revisar las vacunas contra el sarampión",
@@ -164,15 +173,6 @@
   {
     "titulo": "10° Festival Internacional TeatroPuerto llegará con funciones de entrada liberada a La Serena y Coquimbo el 10 de noviembre",
     "enlace": "https://www.elserenense.cl/tendencias/2026/11/06/10-festival-internacional-teatropuerto-llegara-con-funciones-de-entrada-liberada-a-la-serena-y-coquimbo-el-10-de-noviembre/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "El Serenense",
-    "zona": "La Serena",
-    "cobertura_radio": "Cobertura IV Región"
-  },
-  {
-    "titulo": "Región de Coquimbo fortalece sus redes de apoyo al emprendimiento tras exitoso programa de formación de mentores",
-    "enlace": "https://www.elserenense.cl/tendencias/2026/11/05/region-de-coquimbo-fortalece-sus-redes-de-apoyo-al-emprendimiento-tras-exitoso-programa-de-formacion-de-mentores/",
     "descripcion": "",
     "publicado": "",
     "medio": "El Serenense",
@@ -1368,89 +1368,89 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Caldera avanza hacia la electromovilidad: Gobierno Regional financiará proyecto de 17 buses eléctricos por un periodo de diez años",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/10/caldera-avanza-hacia-la-electromovilidad-gobierno-regional-financiara-proyecto-de-17-buses-electricos-por-un-periodo-de-diez-anos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Vecinas de Tierra Amarilla se capacitan en pastelería y panadería gracias a proyecto FNDR “Manos que Alimentan”",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/10/vecinas-de-tierra-amarilla-se-capacitan-en-pasteleria-y-panaderia-gracias-a-proyecto-fndr-manos-que-alimentan/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Defensor de Carlos Palacios explica por qué futbolista fue citado como imputado y no como testigo",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/10/defensor-de-carlos-palacios-explica-por-que-futbolista-fue-citado-como-imputado-y-no-como-testigo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "ECOH y PDI activan peritajes por hallazgo de cadáver en sitio eriazo en Melipilla",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/10/ecoh-y-pdi-activan-peritajes-por-hallazgo-de-cadaver-en-sitio-eriazo-en-melipilla/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Camioneros bloquean Ruta 5 en el norte y sur del país ante alza de combustibles",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/10/camioneros-bloquean-ruta-5-en-el-norte-y-sur-del-pais-ante-alza-de-combustibles/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Camioneros se mantienen en paro en La Araucanía y advierten que se sumarán más para este martes",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/09/camioneros-se-mantienen-en-paro-en-la-araucania-y-advierten-que-se-sumaran-mas-para-este-martes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Kast se reúne con el oficialismo sin abordar crisis por Rabat y prepara cita clave en Cerro Castillo",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/09/kast-se-reune-con-el-oficialismo-sin-abordar-crisis-por-rabat-y-prepara-cita-clave-en-cerro-castillo/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Camioneros del norte cortan la Ruta 5 y bloquean conexión con Arica, Antofagasta y faenas mineras",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/09/camioneros-del-norte-cortan-la-ruta-5-y-bloquean-conexion-con-arica-antofagasta-y-faenas-mineras/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "El ciclismo se tomó Los Ríos: Héctor Quintana y Yarela González ganan el Grand Prix Lago Ranco 2026",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/09/el-ciclismo-se-tomo-los-rios-hector-quintana-y-yarela-gonzalez-ganan-el-grand-prix-lago-ranco-2026/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Atacama Noticias",
+    "zona": "Caldera / Vallenar",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Ofensiva contra Rabat altera planes del progresismo y posterga cita clave con Bachelet y Boric",
     "enlace": "https://www.atacamanoticias.cl/2026/11/09/ofensiva-contra-rabat-altera-planes-del-progresismo-y-posterga-cita-clave-con-bachelet-y-boric/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Detenido se habría autolesionado en calabozo de comisaría de Carabineros y murió en Posta Central",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/detenido-se-habria-autolesionado-en-calabozo-de-comisaria-de-carabineros-y-murio-en-posta-central/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Camioneros movilizados paralizan la Ruta 5 Sur en Los Ángeles y causa taco kilométrico",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-causa-taco-kilometrico/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Hallan bóveda con tecnología israelí detrás de una pared falsa en mansión de Santiago Peña en Paraguay",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/hallan-boveda-con-tecnologia-israeli-detras-de-una-pared-falsa-en-mansion-de-santiago-pena-en-paraguay/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "El hermano investigado que pone en jaque a presidenta de Corte en elección de fiscal de Valparaíso",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/el-hermano-investigado-que-pone-en-jaque-a-presidenta-de-corte-en-eleccion-de-fiscal-de-valparaiso/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Arturo Vidal provocó a La U en plena fiesta alba: sus cánticos marcaron los festejos del título 35",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/arturo-vidal-provoco-a-la-u-en-plena-fiesta-alba-sus-canticos-marcaron-los-festejos-del-titulo-35/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "La guerra de EEUU con Irán está “prácticamente terminada” tras reunión en Qatar, afirma Trump",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/la-guerra-de-eeuu-con-iran-esta-practicamente-terminada-tras-reunion-en-qatar-afirma-trump/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Congreso despacha a ley la flexibilización de los SLEP y ajusta el calendario de traspasos hasta 2035",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/congreso-despacha-a-ley-la-flexibilizacion-de-los-slep-y-ajusta-el-calendario-de-traspasos-hasta-2035/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "CDE se querella contra carabinero que pidió préstamo de $20 millones a Camila Polizzi",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/cde-se-querella-contra-carabinero-que-pidio-prestamo-de-20-millones-a-camila-polizzi/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Atacama Noticias",
-    "zona": "Caldera / Vallenar",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Mosa responde críticas de Arturo Vidal por tema renovación y le raya la cancha: “No juega solo”",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/09/mosa-responde-criticas-de-arturo-vidal-por-tema-renovacion-y-le-raya-la-cancha-no-juega-solo/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1683,96 +1683,6 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Sucupira revive 30 años después con Emilio Edwards y 20 vecinos de Zapallar sobre el escenario",
-    "enlace": "https://laliguanoticias.cl/2026/11/09/sucupira-revive-30-anos-despues-con-emilio-edwards-y-20-vecinos-de-zapallar-sobre-el-escenario/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Concejo Municipal de Petorca aprueba por unanimidad proyecto de $168 millones para recuperar Plaza El Sobrante",
-    "enlace": "https://laliguanoticias.cl/2026/11/09/concejo-municipal-de-petorca-aprueba-por-unanimidad-proyecto-de-168-millones-para-recuperar-plaza-el-sobrante/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputado Luis Pardo presenta indicación para reponer “Yo Elijo Mi PC”: “Un estudiante de séptimo básico no debería quedar atrás porque en su casa no hay un computador”",
-    "enlace": "https://laliguanoticias.cl/2026/11/09/diputado-luis-pardo-presenta-indicacion-para-reponer-yo-elijo-mi-pc-un-estudiante-de-septimo-basico-no-deberia-quedar-atras-porque-en-su-casa-no-hay-un-computador/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "47 clubes de personas mayores de la provincia de Petorca se adjudicaron más de $41 millones de fondos de SENAMA",
-    "enlace": "https://laliguanoticias.cl/2026/11/09/47-clubes-de-personas-mayores-de-la-provincia-de-petorca-se-adjudicaron-mas-de-41-millones-de-fondos-de-senama/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Agricultores de Cabildo cuentan con moderna sala de procesos comunitaria equipada con apoyo de INDAP",
-    "enlace": "https://laliguanoticias.cl/2026/11/09/agricultores-de-cabildo-cuentan-con-moderna-sala-de-procesos-comunitaria-equipada-con-apoyo-de-indap/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Cabildo alcanza el 100% de cumplimiento en fiscalización de Transparencia Activa y lidera resultados en la provincia de Petorca",
-    "enlace": "https://laliguanoticias.cl/2026/11/06/cabildo-alcanza-el-100-de-cumplimiento-en-fiscalizacion-de-transparencia-activa-y-lidera-resultados-en-la-provincia-de-petorca/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Grupo Minero Las Cenizas lamenta fallecimiento de su socio fundador Raimundo Langlois Vicuña",
-    "enlace": "https://laliguanoticias.cl/2026/11/06/grupo-minero-las-cenizas-lamenta-fallecimiento-de-su-socio-fundador-raimundo-langlois-vicuna/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Programa Activamente finalizó sus actividades en La Calera con jornada al aire libre para personas mayores",
-    "enlace": "https://laliguanoticias.cl/2026/11/04/programa-activamente-finalizo-sus-actividades-en-la-calera-con-jornada-al-aire-libre-para-personas-mayores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Diputada Sofía González destacó aprobación de proyecto que entrega alternativas de autentificación biométrica para personas mayores",
-    "enlace": "https://laliguanoticias.cl/2026/11/04/diputada-sofia-gonzalez-destaco-aprobacion-de-proyecto-que-entrega-alternativas-de-autentificacion-biometrica-para-personas-mayores/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
-    "titulo": "Gobierno Regional de Valparaíso financia esperado proyecto habitacional para 122 familias que llevaban 20 años de espera en Papudo",
-    "enlace": "https://laliguanoticias.cl/2026/11/03/gobierno-regional-de-valparaiso-financia-esperado-proyecto-habitacional-para-122-familias-que-llevaban-20-anos-de-espera-en-papudo/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Ligua Noticias",
-    "zona": "La Ligua",
-    "cobertura_radio": "La Ligua 88.9 FM"
-  },
-  {
     "titulo": "“Cerrado con llave” 25 años: González & Los Asistentes celebran su primer disco",
     "enlace": "https://diariolaquinta.cl/2026/11/09/cerrado-con-llave-25-anos-gonzalez-los-asistentes-celebran-su-primer-disco/?utm_source=rss&utm_medium=rss&utm_campaign=cerrado-con-llave-25-anos-gonzalez-los-asistentes-celebran-su-primer-disco",
     "descripcion": "",
@@ -1863,8 +1773,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La manufactura vuelve a crecer en septiembre y ASIQUIM pide consolidar la tendencia",
-    "enlace": "https://g5noticias.cl/2026/11/09/la-manufactura-vuelve-a-crecer-en-septiembre-y-asiquim-pide-consolidar-la-tendencia/",
+    "titulo": "Plaza Egaña como nuevo polo urbano: curso internacional de CEPAL recorrió Eco Egaña",
+    "enlace": "https://g5noticias.cl/2026/11/10/plaza-egana-como-nuevo-polo-urbano-curso-internacional-de-cepal-recorrio-eco-egana/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1782,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Mañana, la prueba la pondrá la IA. Por Dr. Ramón Schlieper Cacciuttolo, director de Odontología UNAB",
-    "enlace": "https://g5noticias.cl/2026/11/09/manana-la-prueba-la-pondra-la-ia-por-dr-ramon-schlieper-cacciuttolo-director-de-odontologia-unab/",
+    "titulo": "Chile hará mundial de la inclusión, pero 8 de cada 10 personas con discapacidad no hacen deporte. Por Frano Giakoni Ramírez, director del Magíster en Gestión Deportiva UNAB",
+    "enlace": "https://g5noticias.cl/2026/11/10/chile-hara-mundial-de-la-inclusion-pero-8-de-cada-10-personas-con-discapacidad-no-hacen-deporte-por-frano-giakoni-ramirez-director-del-magister-en-gestion-deportiva-unab/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1791,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Servicio de Reinserción Social Juvenil abre postulaciones para la acreditación de mediadores penales juveniles",
-    "enlace": "https://g5noticias.cl/2026/11/09/servicio-de-reinsercion-social-juvenil-abre-postulaciones-para-la-acreditacion-de-mediadores-penales-juveniles/",
+    "titulo": "En Santiago, exhibirán el primer acuñador teleoperado 100% eléctrico que llega al país",
+    "enlace": "https://g5noticias.cl/2026/11/10/en-santiago-exhibiran-el-primer-acunador-teleoperado-100-electrico-que-llega-al-pais/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1800,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Paro de camioneros: 6 medidas para proteger la cadena de exportación agroalimentaria. Por María José Bofill, abogada especialista en Transportes y Seguros",
-    "enlace": "https://g5noticias.cl/2026/11/09/paro-de-camioneros-6-medidas-para-proteger-la-cadena-de-exportacion-agroalimentaria-por-maria-jose-bofill-abogada-especialista-en-transportes-y-seguros/",
+    "titulo": "Egresado de Biología Marina UCSC publica estudio sobre tiburones fósiles del norte de Chile",
+    "enlace": "https://g5noticias.cl/2026/11/10/egresado-de-biologia-marina-ucsc-publica-estudio-sobre-tiburones-fosiles-del-norte-de-chile/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1809,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "10° Festival Internacional TeatroPuerto contará con programación de teatro y procesos creativos en La Serena",
-    "enlace": "https://g5noticias.cl/2026/11/09/10-festival-internacional-teatropuerto-contara-con-programacion-de-teatro-y-procesos-creativos-en-la-serena/",
+    "titulo": "Seminario «Impulsa Logística Tarapacá: una propuesta de valor que moviliza» abordará los desafíos y oportunidades del sector logístico regional",
+    "enlace": "https://g5noticias.cl/2026/11/10/seminario-impulsa-logistica-tarapaca-una-propuesta-de-valor-que-moviliza-abordara-los-desafios-y-oportunidades-del-sector-logistico-regional/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,8 +1818,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "La Cruz lidera ranking de transparencia en la provincia de Quillota",
-    "enlace": "https://g5noticias.cl/2026/11/09/la-cruz-lidera-ranking-de-transparencia-en-la-provincia-de-quillota/",
+    "titulo": "¿Olvidos normales o señales de alerta? Cómo diferenciar el envejecimiento habitual del deterioro cognitivo",
+    "enlace": "https://g5noticias.cl/2026/11/10/olvidos-normales-o-senales-de-alerta-como-diferenciar-el-envejecimiento-habitual-del-deterioro-cognitivo/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1827,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Cámara aprueba en general Presupuesto 2027 en medio de tensiones entre Gobierno y oposición",
-    "enlace": "https://g5noticias.cl/2026/11/09/camara-aprueba-en-general-presupuesto-2027-en-medio-de-tensiones-entre-gobierno-y-oposicion/",
+    "titulo": "Pacto Global Chile fortalece el diálogo empresarial por el desarrollo sostenible de los territorios mineros",
+    "enlace": "https://g5noticias.cl/2026/11/10/pacto-global-chile-fortalece-el-dialogo-empresarial-por-el-desarrollo-sostenible-de-los-territorios-mineros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1836,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Análisis Criminal Ñuble obtiene condenas de hasta 19 años y 1 día de presidio para grupo que realizó tour delictual en Ñuble y La Araucanía",
-    "enlace": "https://g5noticias.cl/2026/11/09/analisis-criminal-nuble-obtiene-condenas-de-hasta-19-anos-y-1-dia-de-presidio-para-grupo-que-realizo-tour-delictual-en-nuble-y-la-araucania/",
+    "titulo": "¿Hiciste clic en una oferta falsa? Cómo proteger tus datos ante las compras de fin de año",
+    "enlace": "https://g5noticias.cl/2026/11/10/hiciste-clic-en-una-oferta-falsa-como-proteger-tus-datos-ante-las-compras-de-fin-de-ano/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1845,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Comisión de Economía respalda propuesta de senadoras Núñez y Gatica para prohibir las apuestas en línea: contempla penas de hasta 15 años de cárcel",
-    "enlace": "https://g5noticias.cl/2026/11/09/comision-de-economia-respalda-propuesta-de-senadoras-nunez-y-gatica-para-prohibir-las-apuestas-en-linea-contempla-penas-de-hasta-15-anos-de-carcel/",
+    "titulo": "Avance de la automatización en Chile: cambios y desafíos por la Ley de 40 Horas y las exigencias del e-commerce",
+    "enlace": "https://g5noticias.cl/2026/11/10/avance-de-la-automatizacion-en-chile-cambios-y-desafios-por-la-ley-de-40-horas-y-las-exigencias-del-e-commerce/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1854,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "PDG respalda en general Presupuesto 2027 pero advierte que no entregará un cheque en blanco al Gobierno",
-    "enlace": "https://g5noticias.cl/2026/11/09/pdg-respalda-en-general-presupuesto-2027-pero-advierte-que-no-entregara-un-cheque-en-blanco-al-gobierno/",
+    "titulo": "Ansiedad en el embarazo: casi una de cada cuatro mujeres tiene síntomas al final de la gestación",
+    "enlace": "https://g5noticias.cl/2026/11/10/ansiedad-en-el-embarazo-casi-una-de-cada-cuatro-mujeres-tiene-sintomas-al-final-de-la-gestacion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2223,6 +2133,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
+    "titulo": "16 expulsiones administrativas de ciudadanos extranjeros se han realizado durante 2026 desde la región de Magallanes.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/16-expulsiones-administrativas-de-ciudadanos-extranjeros-se-han-realizado-durante-2026-desde-la-region-de-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Seremi del Medio Ambiente llama a la responsabilidad ambiental y al cuidado del patrimonio natural de Magallanes ante el inicio de la temporada turística.",
     "enlace": "https://www.ovejeronoticias.cl/2026/11/seremi-del-medio-ambiente-llama-a-la-responsabilidad-ambiental-y-al-cuidado-del-patrimonio-natural-de-magallanes-ante-el-inicio-de-la-temporada-turistica/",
     "descripcion": "",
@@ -2297,15 +2216,6 @@
   {
     "titulo": "Directorio de CORMAG prioriza nuevas iniciativas estratégicas para el desarrollo de Magallanes.",
     "enlace": "https://www.ovejeronoticias.cl/2026/11/directorio-de-cormag-prioriza-nuevas-iniciativas-estrategicas-para-el-desarrollo-de-magallanes/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Transportistas inician movilización indefinida en la Ruta 9 de Punta Arenas y mantienen tránsito restringido para camiones.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/transportistas-inician-movilizacion-indefinida-en-la-ruta-9-de-punta-arenas-y-mantienen-transito-restringido-para-camiones/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
