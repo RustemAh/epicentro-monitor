@@ -270,6 +270,24 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
+    "titulo": "Coquimbo-La Serena. Temblor se dejó sentir a las 22:26 horas de esta noche de jueves",
+    "enlace": "https://serenaycoquimbo.cl/coquimbo-la-serena-temblor-se-dejo-sentir-a-las-2226-horas-de-esta-noche-de-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=coquimbo-la-serena-temblor-se-dejo-sentir-a-las-2226-horas-de-esta-noche-de-jueves",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
+    "titulo": "Senapred envió alerta Sae para evitar acercarse a ribera de rio Elqui en Paihuano",
+    "enlace": "https://serenaycoquimbo.cl/senapred-envio-alerta-sae-para-evitar-acercarse-a-ribera-de-rio-elqui-en-paihuano/?utm_source=rss&utm_medium=rss&utm_campaign=senapred-envio-alerta-sae-para-evitar-acercarse-a-ribera-de-rio-elqui-en-paihuano",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Serena y Coquimbo",
+    "zona": "IV Región",
+    "cobertura_radio": "Toda la red Coquimbo"
+  },
+  {
     "titulo": "Los Vilos invita a vivir una noche de historia y patrimonio con recorrido ambientado en los años 30",
     "enlace": "https://serenaycoquimbo.cl/los-vilos-invita-a-vivir-una-noche-de-historia-y-patrimonio-con-recorrido-ambientado-en-los-anos-30/?utm_source=rss&utm_medium=rss&utm_campaign=los-vilos-invita-a-vivir-una-noche-de-historia-y-patrimonio-con-recorrido-ambientado-en-los-anos-30",
     "descripcion": "",
@@ -335,24 +353,6 @@
   {
     "titulo": "Anglo American se consolida como líder en sostenibilidad tributaria por tercer año consecutivo",
     "enlace": "https://serenaycoquimbo.cl/anglo-american-se-consolida-como-lider-en-sostenibilidad-tributaria-por-tercer-ano-consecutivo/?utm_source=rss&utm_medium=rss&utm_campaign=anglo-american-se-consolida-como-lider-en-sostenibilidad-tributaria-por-tercer-ano-consecutivo",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Experto visita la región – Más convivencia y menos interrogatorio: psicólogo explica cómo lograr que los hijos cuenten lo que les pasa",
-    "enlace": "https://serenaycoquimbo.cl/experto-visita-la-region-mas-convivencia-y-menos-interrogatorio-psicologo-explica-como-lograr-que-los-hijos-cuenten-lo-que-les-pasa/?utm_source=rss&utm_medium=rss&utm_campaign=experto-visita-la-region-mas-convivencia-y-menos-interrogatorio-psicologo-explica-como-lograr-que-los-hijos-cuenten-lo-que-les-pasa",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Serena y Coquimbo",
-    "zona": "IV Región",
-    "cobertura_radio": "Toda la red Coquimbo"
-  },
-  {
-    "titulo": "Alerta Roja por crecida de cauces se extiende a ocho comunas de la Región de Coquimbo ante aumento de deshielos.",
-    "enlace": "https://serenaycoquimbo.cl/alerta-roja-por-crecida-de-cauces-se-extiende-a-ocho-comunas-de-la-region-de-coquimbo-ante-aumento-de-deshielos/?utm_source=rss&utm_medium=rss&utm_campaign=alerta-roja-por-crecida-de-cauces-se-extiende-a-ocho-comunas-de-la-region-de-coquimbo-ante-aumento-de-deshielos",
     "descripcion": "",
     "publicado": "",
     "medio": "Serena y Coquimbo",
@@ -900,8 +900,8 @@
     "cobertura_radio": "Illapel 101.1 FM"
   },
   {
-    "titulo": "Tras las lluvias, CEAZA pronostica temperaturas de hasta 32 °C en el Choapa",
-    "enlace": "https://veetv.cl/calor-intenso-choapa-temperaturas-hasta-32-grados/",
+    "titulo": "Escuela para personas cuidadoras de Los Vilos destaca llamado a incorporar a los hombres",
+    "enlace": "https://veetv.cl/escuela-personas-cuidadoras-los-vilos/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -909,8 +909,8 @@
     "cobertura_radio": "Illapel 101.1 FM / Salamanca 88.3 FM"
   },
   {
-    "titulo": "Alrededor de 200 trabajadores paralizan obras del nuevo Hospital de Illapel por pagos pendientes",
-    "enlace": "https://veetv.cl/trabajadores-paralizan-obras-hospital-illapel-pagos-pendientes-2/",
+    "titulo": "Tras las lluvias, CEAZA pronostica temperaturas de hasta 32 °C en el Choapa",
+    "enlace": "https://veetv.cl/calor-intenso-choapa-temperaturas-hasta-32-grados/",
     "descripcion": "",
     "publicado": "",
     "medio": "VeeTV",
@@ -1368,8 +1368,8 @@
     "cobertura_radio": "Cobertura IV Región"
   },
   {
-    "titulo": "Gobierno anuncia acuerdo con gremios de camioneros y pide fin de la paralización",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/gobierno-anuncia-acuerdo-con-gremios-de-camioneros-y-pide-fin-de-la-paralizacion/",
+    "titulo": "Paro de camioneros de Chile golpea a Bolivia: gremio altiplánico declara emergencia por pérdidas",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/13/paro-de-camioneros-de-chile-golpea-a-bolivia-gremio-altiplanico-declara-emergencia-por-perdidas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1377,8 +1377,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Fedequinta se baja de paro a menos de un día de sumarse: camioneros independientes siguen movilizados",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/fedequinta-se-baja-de-paro-a-menos-de-un-dia-de-sumarse-camioneros-independientes-siguen-movilizados/",
+    "titulo": "Deuda de $149 millones salpica al Segundo Piso de Kast: empresa ligada a Irarrázaval enfrenta demanda",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/13/deuda-de-149-millones-salpica-al-segundo-piso-de-kast-empresa-ligada-a-irarrazaval-enfrenta-demanda/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1386,8 +1386,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Jefe del Pentágono condecora a soldado que le ordenó guardar silencio durante homenaje militar",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/jefe-del-pentagono-condecora-a-soldado-que-le-ordeno-guardar-silencio-durante-homenaje-militar/",
+    "titulo": "Congelamiento de combustibles: oposición exige más medidas mientras oficialismo pone paños fríos",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/congelamiento-de-combustibles-oposicion-exige-mas-medidas-mientras-oficialismo-pone-panos-frios/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1395,8 +1395,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Italia ganó partidazo a Francia y agitó su grupo en Nations League: Bélgica causó descenso de Turquía",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/italia-gano-partidazo-a-francia-y-agito-su-grupo-en-nations-league-belgica-causo-descenso-de-turquia/",
+    "titulo": "Camión autónomo se desbarranca tras perder comunicación en rajo de Minera Centinela en Antofagasta",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/camion-autonomo-se-desbarranca-tras-perder-comunicacion-en-rajo-de-minera-centinela-en-antofagasta/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1404,8 +1404,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Identifican a médico como autor de tiroteo que dejó un muerto y cuatro heridos en Washington",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/identifican-a-medico-como-autor-de-tiroteo-que-dejo-un-muerto-y-cuatro-heridos-en-washington/",
+    "titulo": "Una ley con su nombre, una deuda sin saldar: los siete años de la muerte de Karin Salgado",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/una-ley-con-su-nombre-una-deuda-sin-saldar-los-siete-anos-de-la-muerte-de-karin-salgado/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1413,8 +1413,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Finlandia confirma un ataque contra una corbeta rusa en aguas del Báltico",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/finlandia-confirma-un-ataque-contra-una-corbeta-rusa-en-aguas-del-baltico/",
+    "titulo": "Camioneros independientes echan pie atrás y aceptan con discrepancias levantar paro en Valparaíso",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/camioneros-independientes-echan-pie-atras-y-aceptan-con-discrepancias-levantar-paro-en-valparaiso/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1422,8 +1422,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Grandes gremios de camioneros confirman acuerdo con el Gobierno pese a no estar movilizados",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/grandes-gremios-de-camioneros-confirman-acuerdo-con-el-gobierno-pese-a-no-estar-movilizados/",
+    "titulo": "“Te lo mereces”: jugador de La Roja Sub 17 recibe emotiva despedida de su curso a días del Mundial",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/te-lo-mereces-jugador-de-la-roja-sub-17-recibe-emotiva-despedida-de-su-curso-a-dias-del-mundial/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1431,8 +1431,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "“El paro sigue”: No + TAG y gremios transportistas no llegan a acuerdo con el Gobierno",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/el-paro-sigue-no-tag-y-gremios-transportistas-no-llegan-a-acuerdo-con-el-gobierno/",
+    "titulo": "Camioneros mantienen paro en Temuco: acusan que dirigente no consultó bases tras acuerdo con Gobierno",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/camioneros-mantienen-paro-en-temuco-acusan-que-dirigente-no-consulto-bases-tras-acuerdo-con-gobierno/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1440,8 +1440,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Junaeb incorpora cámaras con IA para contar raciones y nuevo modelo de multas ante cuestionamientos",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/junaeb-incorpora-camaras-con-ia-para-contar-raciones-y-nuevo-modelo-de-multas-ante-cuestionamientos/",
+    "titulo": "Trump afirma que Jensen Huang está “pasando por un infierno” tras su salida de Nvidia",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/trump-afirma-que-jensen-huang-esta-pasando-por-un-infierno-tras-su-salida-de-nvidia/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1449,8 +1449,8 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Reportan más de 90 mil clientes sin luz en la RM: Cerro Navia y Pudahuel son las comunas más afectadas",
-    "enlace": "https://www.atacamanoticias.cl/2026/11/12/reportan-mas-de-90-mil-clientes-sin-luz-en-la-rm-cerro-navia-y-pudahuel-son-las-comunas-mas-afectadas/",
+    "titulo": "Camioneros deponen paro en 3 puntos del Gran Concepción tras acuerdo del Gobierno con gremios",
+    "enlace": "https://www.atacamanoticias.cl/2026/11/12/camioneros-deponen-paro-en-3-puntos-del-gran-concepcion-tras-acuerdo-del-gobierno-con-gremios/",
     "descripcion": "",
     "publicado": "",
     "medio": "Atacama Noticias",
@@ -1548,6 +1548,24 @@
     "cobertura_radio": "Huasco - Freirina 97.1 FM"
   },
   {
+    "titulo": "Deshielos en Alto del Carmen: alcalde advierte cerca de 25 puntos críticos y familias aisladas",
+    "enlace": "https://www.nostalgica.cl/deshielos-en-alto-del-carmen-alcalde-advierte-cerca-de-25-puntos-criticos-y-familias-aisladas/?utm_source=rss&utm_medium=rss&utm_campaign=deshielos-en-alto-del-carmen-alcalde-advierte-cerca-de-25-puntos-criticos-y-familias-aisladas",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
+    "titulo": "Escuela Marta Aguilar de Tierra Amarilla habilita Sala de Contención Emocional y Sensorial con apoyo de Lundin Mining Candelaria",
+    "enlace": "https://www.nostalgica.cl/escuela-marta-aguilar-de-tierra-amarilla-habilita-sala-de-contencion-emocional-y-sensorial-con-apoyo-de-lundin-mining-candelaria/?utm_source=rss&utm_medium=rss&utm_campaign=escuela-marta-aguilar-de-tierra-amarilla-habilita-sala-de-contencion-emocional-y-sensorial-con-apoyo-de-lundin-mining-candelaria",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Nostalgica",
+    "zona": "Atacama",
+    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
+  },
+  {
     "titulo": "Gobierno confirma acuerdo con gremios de camioneros para poner fin al paro: rebaja de $142 al diésel y congelamiento hasta marzo",
     "enlace": "https://www.nostalgica.cl/gobierno-confirma-acuerdo-con-gremios-de-camioneros-para-poner-fin-al-paro-rebaja-de-142-al-diesel-y-congelamiento-hasta-marzo/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-confirma-acuerdo-con-gremios-de-camioneros-para-poner-fin-al-paro-rebaja-de-142-al-diesel-y-congelamiento-hasta-marzo",
     "descripcion": "",
@@ -1575,25 +1593,16 @@
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Declaración Pública de CORPROA",
-    "enlace": "https://www.nostalgica.cl/declaracion-publica-de-corproa/?utm_source=rss&utm_medium=rss&utm_campaign=declaracion-publica-de-corproa",
+    "titulo": "Gobierno logra acuerdo con camioneros y anuncia rebaja de $142 en el diésel",
+    "enlace": "https://www.maray.cl/portada/12/11/2026/gobierno-logra-acuerdo-con-camioneros-y-anuncia-rebaja-de-142-en-el-diesel/",
     "descripcion": "",
     "publicado": "",
-    "medio": "Nostalgica",
+    "medio": "Maray",
     "zona": "Atacama",
     "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
   },
   {
-    "titulo": "Deportes Copiapó buscará sellar ante Wanderers su clasificación a la liguilla de ascenso",
-    "enlace": "https://www.nostalgica.cl/deportes-copiapo-buscara-sellar-ante-wanderers-su-clasificacion-a-la-liguilla-de-ascenso/?utm_source=rss&utm_medium=rss&utm_campaign=deportes-copiapo-buscara-sellar-ante-wanderers-su-clasificacion-a-la-liguilla-de-ascenso",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Nostalgica",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Gobierno da por finalizado el paro de los camioneros",
+    "titulo": "Gobierno anuncia acuerdo con gremios de camioneros y pide fin del paro: «Chile necesita la normalidad»",
     "enlace": "https://www.maray.cl/pais/12/11/2026/gobierno-da-por-finalizado-el-paro-de-los-camioneros/",
     "descripcion": "",
     "publicado": "",
@@ -1667,15 +1676,6 @@
   {
     "titulo": "Kast llama a los sectores productivos a colaborar en medio del paro camionero",
     "enlace": "https://www.maray.cl/portada/12/11/2026/kast-llama-a-los-sectores-productivos-a-colaborar-en-medio-del-paro-camionero/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Maray",
-    "zona": "Atacama",
-    "cobertura_radio": "Caldera 95.5 FM / Vallenar 93.9 FM"
-  },
-  {
-    "titulo": "Inca de Oro inaugura el Centro Comunitario La Chacra",
-    "enlace": "https://www.maray.cl/atacama/12/11/2026/inca-de-oro-inaugura-el-centro-comunitario-la-chacra/",
     "descripcion": "",
     "publicado": "",
     "medio": "Maray",
@@ -1773,6 +1773,78 @@
     "cobertura_radio": "La Ligua 88.9 FM"
   },
   {
+    "titulo": "[OPINIÓN] Menopausia: mucho más que dejar de menstruar (Maricela Pino)",
+    "enlace": "https://diariolaquinta.cl/2026/11/13/opinion-menopausia-mucho-mas-que-dejar-de-menstruar-maricela-pino/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-menopausia-mucho-mas-que-dejar-de-menstruar-maricela-pino",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Cuatro noches de música y humor en El Patagual: Festival del Huaso de Olmué confirma la totalidad de su programación artística",
+    "enlace": "https://diariolaquinta.cl/2026/11/12/cuatro-noches-de-musica-y-humor-en-el-patagual-festival-del-huaso-de-olmue-confirma-la-totalidad-de-su-programacion-artistica/?utm_source=rss&utm_medium=rss&utm_campaign=cuatro-noches-de-musica-y-humor-en-el-patagual-festival-del-huaso-de-olmue-confirma-la-totalidad-de-su-programacion-artistica",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[OPINIÓN] La izquierda mira las movilizaciones desde la vereda del frente (Jorge Bustos)",
+    "enlace": "https://diariolaquinta.cl/2026/11/12/opinion-la-izquierda-mira-las-movilizaciones-desde-la-vereda-del-frente-jorge-bustos/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-la-izquierda-mira-las-movilizaciones-desde-la-vereda-del-frente-jorge-bustos",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[OPINIÓN] El costo invisible de recortar derechos sociales (María José Escobar)",
+    "enlace": "https://diariolaquinta.cl/2026/11/12/opinion-el-costo-invisible-de-recortar-derechos-sociales-maria-jose-escobar/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-el-costo-invisible-de-recortar-derechos-sociales-maria-jose-escobar",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Feria Kids llega al Jardín Botánico con experimentos, espectáculos y diversión para toda la familia",
+    "enlace": "https://diariolaquinta.cl/2026/11/12/feria-kids-llega-al-jardin-botanico-con-experimentos-espectaculos-y-diversion-para-toda-la-familia/?utm_source=rss&utm_medium=rss&utm_campaign=feria-kids-llega-al-jardin-botanico-con-experimentos-espectaculos-y-diversion-para-toda-la-familia",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Niños y niñas de la Escuela España de Valparaíso impulsan jornada de plantación de árboles nativos en la Plaza Esmeralda",
+    "enlace": "https://diariolaquinta.cl/2026/11/12/ninos-y-ninas-de-la-escuela-espana-de-valparaiso-impulsan-jornada-de-plantacion-de-arboles-nativos-en-la-plaza-esmeralda/?utm_source=rss&utm_medium=rss&utm_campaign=ninos-y-ninas-de-la-escuela-espana-de-valparaiso-impulsan-jornada-de-plantacion-de-arboles-nativos-en-la-plaza-esmeralda",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "[OPINIÓN] El costo de mover Chile (Jean Pierre Ugarte)",
+    "enlace": "https://diariolaquinta.cl/2026/11/12/opinion-el-costo-de-mover-chile-jean-pierre-ugarte/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-el-costo-de-mover-chile-jean-pierre-ugarte",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
+    "titulo": "Valparaíso refuerza orientación turística y medidas de prevención para recibir a visitantes y pasajeros de cruceros",
+    "enlace": "https://diariolaquinta.cl/2026/11/12/valparaiso-refuerza-orientacion-turistica-y-medidas-de-prevencion-para-recibir-a-visitantes-y-pasajeros-de-cruceros/?utm_source=rss&utm_medium=rss&utm_campaign=valparaiso-refuerza-orientacion-turistica-y-medidas-de-prevencion-para-recibir-a-visitantes-y-pasajeros-de-cruceros",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Diario La Quinta",
+    "zona": "Casablanca",
+    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
+  },
+  {
     "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Interdicción por demencia ROL V-52-2026 «Arrué»",
     "enlace": "https://diariolaquinta.cl/2026/11/12/notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-52-2026-arrue-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-52-2026-arrue-3",
     "descripcion": "",
@@ -1791,80 +1863,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Interdicción por demencia ROL V-52-2026 «Arrué»",
-    "enlace": "https://diariolaquinta.cl/2026/11/11/notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-52-2026-arrue-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-52-2026-arrue-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado Civil de Casablanca: Audiencia de parientes ROL V-192-2026 «Thieme»",
-    "enlace": "https://diariolaquinta.cl/2026/11/11/notificacion-juzgado-civil-de-casablanca-audiencia-de-parientes-rol-v-192-2026-thieme-2/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-civil-de-casablanca-audiencia-de-parientes-rol-v-192-2026-thieme-2",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-510-2026 «Arredondo / Arredondo»",
-    "enlace": "https://diariolaquinta.cl/2026/11/11/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-510-2026-arredondo-arredondo-6/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-510-2026-arredondo-arredondo-6",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-546-2026 «Catalán / Catalán»",
-    "enlace": "https://diariolaquinta.cl/2026/11/11/notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-546-2026-catalan-catalan-6/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-alimentos-rit-c-546-2026-catalan-catalan-6",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de Quillota: Divorcio por cese de convivencia RIT C-318-2026 «Zúñiga / Hernández»",
-    "enlace": "https://diariolaquinta.cl/2026/11/11/notificacion-juzgado-de-familia-de-quillota-divorcio-por-cese-de-convivencia-rit-c-318-2026-zuniga-hernandez-3/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-quillota-divorcio-por-cese-de-convivencia-rit-c-318-2026-zuniga-hernandez-3",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Reclamación de filiación no matrimonial RIT C-1153-2025 «Moreno / Orellana»",
-    "enlace": "https://diariolaquinta.cl/2026/11/11/notificacion-juzgado-de-familia-de-san-antonio-reclamacion-de-filiacion-no-matrimonial-rit-c-1153-2025-moreno-orellana-9/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-familia-de-san-antonio-reclamacion-de-filiacion-no-matrimonial-rit-c-1153-2025-moreno-orellana-9",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado de Letras de Casablanca: Interdicción por demencia ROL V-52-2026 «Arrué»",
-    "enlace": "https://diariolaquinta.cl/2026/11/10/notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-52-2026-arrue/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-de-letras-de-casablanca-interdiccion-por-demencia-rol-v-52-2026-arrue",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "[NOTIFICACIÓN] Juzgado Civil de Casablanca: Audiencia de parientes ROL V-192-2026 «Thieme»",
-    "enlace": "https://diariolaquinta.cl/2026/11/10/notificacion-juzgado-civil-de-casablanca-audiencia-de-parientes-rol-v-192-2026-thieme/?utm_source=rss&utm_medium=rss&utm_campaign=notificacion-juzgado-civil-de-casablanca-audiencia-de-parientes-rol-v-192-2026-thieme",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Diario La Quinta",
-    "zona": "Casablanca",
-    "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
-  },
-  {
-    "titulo": "Visita a emprendimientos apoyados por Corfo en Petorca",
-    "enlace": "https://g5noticias.cl/2026/11/12/visita-a-emprendimientos-apoyados-por-corfo-en-petorca/",
+    "titulo": "Ministerio de Agricultura anuncia renovación del seguro de enfermedades exóticas en aves",
+    "enlace": "https://g5noticias.cl/2026/11/13/ministerio-de-agricultura-anuncia-renovacion-del-seguro-de-enfermedades-exoticas-en-aves/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1872,8 +1872,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Julio Friedmann renuncia a la gerencia general de Enap",
-    "enlace": "https://g5noticias.cl/2026/11/12/julio-friedmann-renuncia-a-la-gerencia-general-de-enap/",
+    "titulo": "IST reconoce a equipo de Ultraport Punta Arenas por su trayectoria en seguridad portuaria",
+    "enlace": "https://g5noticias.cl/2026/11/13/ist-reconoce-a-equipo-de-ultraport-punta-arenas-por-su-trayectoria-en-seguridad-portuaria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1881,8 +1881,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Diputados de oposición exigen urgencia a proyecto para revertir el bencinazo y volver a los precios de los combustibles de marzo",
-    "enlace": "https://g5noticias.cl/2026/11/12/diputados-de-oposicion-exigen-urgencia-a-proyecto-para-revertir-el-bencinazo-y-volver-a-los-precios-de-los-combustibles-de-marzo/",
+    "titulo": "Estudiantes de la Escuela Ciudad de Berlín exploran la primavera del Parque Cabritería",
+    "enlace": "https://g5noticias.cl/2026/11/13/estudiantes-de-la-escuela-ciudad-de-berlin-exploran-la-primavera-del-parque-cabriteria/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1890,8 +1890,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ministerio de Economía y Corfo dan el puntapié inicial a la discusión de ley de Impulso a las Startups",
-    "enlace": "https://g5noticias.cl/2026/11/12/ministerio-de-economia-y-corfo-dan-el-puntapie-inicial-a-la-discusion-de-ley-de-impulso-a-las-startups/",
+    "titulo": "Estudiantes secundarios convocan a movilización nacional el 18/11",
+    "enlace": "https://g5noticias.cl/2026/11/13/estudiantes-secundarios-convocan-a-movilizacion-nacional-el-18-11/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1899,8 +1899,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Enap firma Acuerdo Marco voluntario con la Fenatrasub",
-    "enlace": "https://g5noticias.cl/2026/11/12/enap-firma-acuerdo-marco-voluntario-con-la-fenatrasub/",
+    "titulo": "«Sin miedo al éxito»: Fundación Coanil lanza concurso para nuevos talentos del humor para visibilizar la discapacidad intelectual y la inclusión",
+    "enlace": "https://g5noticias.cl/2026/11/13/sin-miedo-al-exito-fundacion-coanil-lanza-concurso-para-nuevos-talentos-del-humor-para-visibilizar-la-discapacidad-intelectual-y-la-inclusion-2/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1908,8 +1908,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "A un año de la muerte de Sol Millakura, trece organizaciones exigen al Estado dejar de litigar contra el fallo que reconoció vulneración de derechos",
-    "enlace": "https://g5noticias.cl/2026/11/12/a-un-ano-de-la-muerte-de-sol-millakura-trece-organizaciones-exigen-al-estado-dejar-de-litigar-contra-el-fallo-que-reconocio-vulneracion-de-derechos/",
+    "titulo": "FOJI entrega Batuta de Honor a Mario Kreutzberger tras su exitosa presentación en cierre de Teletón",
+    "enlace": "https://g5noticias.cl/2026/11/13/foji-entrega-batuta-de-honor-a-mario-kreutzberger-tras-su-exitosa-presentacion-en-cierre-de-teleton/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1917,8 +1917,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Junaeb reconoce el talento y la excelencia académica de 108 estudiantes de Viña del Mar",
-    "enlace": "https://g5noticias.cl/2026/11/12/junaeb-reconoce-el-talento-y-la-excelencia-academica-de-108-estudiantes-de-vina-del-mar/",
+    "titulo": "Encuentro Internacional Anímate lleva títeres al parque cultural y presenta estreno en Teatromuseo del Títere y el Payaso",
+    "enlace": "https://g5noticias.cl/2026/11/13/encuentro-internacional-animate-lleva-titeres-al-parque-cultural-y-presenta-estreno-en-teatromuseo-del-titere-y-el-payaso/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1926,8 +1926,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Alcalde Rolando Silva solicita intervención del seremi de energía para restablecer alumbrado público en Loncura y en Quintero",
-    "enlace": "https://g5noticias.cl/2026/11/12/alcalde-rolando-silva-solicita-intervencion-del-seremi-de-energia-para-restablecer-alumbrado-publico-en-loncura-y-en-quintero/",
+    "titulo": "Escuelas artísticas del Biobío abren nuevas rutas de colaboración",
+    "enlace": "https://g5noticias.cl/2026/11/13/escuelas-artisticas-del-biobio-abren-nuevas-rutas-de-colaboracion/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1935,8 +1935,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Ola de calor: cómo las altas temperaturas de primavera pueden afectar el sueño",
-    "enlace": "https://g5noticias.cl/2026/11/12/ola-de-calor-como-las-altas-temperaturas-de-primavera-pueden-afectar-el-sueno/",
+    "titulo": "¿Cuánto esperan ganar los postulantes?: Las diferencias entre sueldos ofrecidos y pretendidos llegan a casi un 30% en algunos rubros",
+    "enlace": "https://g5noticias.cl/2026/11/13/cuanto-esperan-ganar-los-postulantes-las-diferencias-entre-sueldos-ofrecidos-y-pretendidos-llegan-a-casi-un-30-en-algunos-rubros/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -1944,8 +1944,8 @@
     "cobertura_radio": "Casablanca 96.9 FM / Zapallar-Concón 93.5 FM"
   },
   {
-    "titulo": "Presupuesto 2027: Diputada Hassler cuestiona recortes a la Ley Ricarte Soto y exige reponer recursos para la salud pública",
-    "enlace": "https://g5noticias.cl/2026/11/12/presupuesto-2027-diputada-hassler-cuestiona-recortes-a-la-ley-ricarte-soto-y-exige-reponer-recursos-para-la-salud-publica/",
+    "titulo": "El atletismo entregó tres oros y un bronce, y la natación un oro y una plata, en la tercera jornada de los Juegos Binacionales en Mendoza",
+    "enlace": "https://g5noticias.cl/2026/11/12/el-atletismo-entrego-tres-oros-y-un-bronce-y-la-natacion-un-oro-y-una-plata-en-la-tercera-jornada-de-los-juegos-binacionales-en-mendoza/",
     "descripcion": "",
     "publicado": "",
     "medio": "G5",
@@ -2043,6 +2043,15 @@
     "cobertura_radio": "Arauco 99.1 FM"
   },
   {
+    "titulo": "Grandes gremios camioneros acuerdan con el Gobierno, pero otras agrupaciones mantienen el paro",
+    "enlace": "https://laprensaaustral.cl/2026/11/12/grandes-gremios-camioneros-acuerdan-con-el-gobierno-pero-otras-agrupaciones-mantienen-el-paro/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Camioneros de Magallanes mantienen movilización indefinida y exigen rebaja del precio del diésel",
     "enlace": "https://laprensaaustral.cl/2026/11/12/camioneros-de-magallanes-mantienen-movilizacion-indefinida-y-exigen-rebaja-del-precio-del-diesel/",
     "descripcion": "",
@@ -2079,6 +2088,15 @@
     "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
   },
   {
+    "titulo": "La encrucijada del edificio consistorial",
+    "enlace": "https://laprensaaustral.cl/2026/11/12/la-encrucijada-del-edificio-consistorial/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "La Prensa Austral",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Presidente Kast se disculpó con el Club de Leones por confusión sobre centros de rehabilitación",
     "enlace": "https://laprensaaustral.cl/2026/11/12/presidente-kast-se-disculpo-con-el-club-de-leones-por-confusion-sobre-centros-de-rehabilitacion/",
     "descripcion": "",
@@ -2108,24 +2126,6 @@
   {
     "titulo": "Infraestructura portuaria en Punta Arenas",
     "enlace": "https://laprensaaustral.cl/2026/11/12/infraestructura-portuaria-en-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Retorno del consultorio Sandra Vargas costaría hasta  $80 millones y depende del resultado de muestras de agua",
-    "enlace": "https://laprensaaustral.cl/2026/11/12/retorno-del-consultorio-sandra-vargas-costaria-hasta-80-millones-y-depende-del-resultado-de-muestras-de-agua/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "La Prensa Austral",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Ciclista herido en colisión",
-    "enlace": "https://laprensaaustral.cl/2026/11/12/ciclista-herido-en-colision/",
     "descripcion": "",
     "publicado": "",
     "medio": "La Prensa Austral",
@@ -2223,6 +2223,78 @@
     "cobertura_radio": "Punta Arenas 88.1 FM"
   },
   {
+    "titulo": "Senador Alejandro Kusanovic respalda a camioneros y exige una rebaja efectiva de los combustibles para Magallanes.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/senador-alejandro-kusanovic-respalda-a-camioneros-y-exige-una-rebaja-efectiva-de-los-combustibles-para-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "CONAPACH declara estado de alerta nacional ante alza de combustibles, crisis pesquera y falta de apoyo estatal.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/conapach-declara-estado-de-alerta-nacional-ante-alza-de-combustibles-crisis-pesquera-y-falta-de-apoyo-estatal/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Nublado y vientos moderados se pronostican este viernes 13 de noviembre en Magallanes.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/nublado-y-vientos-moderados-se-pronostican-este-viernes-13-de-noviembre-en-magallanes/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Autoridades despliegan nuevo equipamiento de seguridad y prevención para la temporada alta e incendios forestales en Torres del Paine.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/autoridades-despliegan-nuevo-equipamiento-de-seguridad-y-prevencion-para-la-temporada-alta-e-incendios-forestales-en-torres-del-paine/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Municipio reunió a más de 200 dirigentes de clubes de personas mayores.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/municipio-reunio-a-mas-de-200-dirigentes-de-clubes-de-personas-mayores/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Agricultores de Puerto Williams perfeccionan hidroponía y manejo técnico para ampliar su producción de alimentos.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/agricultores-de-puerto-williams-perfeccionan-hidroponia-y-manejo-tecnico-para-ampliar-su-produccion-de-alimentos/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Dos aviones Twin Otter de la IV Brigada Aérea iniciaron despliegue hacia Glaciar Unión en la Antártica profunda.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/dos-aviones-twin-otter-de-la-iv-brigada-aerea-iniciaron-despliegue-hacia-glaciar-union-en-la-antartica-profunda/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
+    "titulo": "Ruta Vicuña-Yendegaia proyecta conexión definitiva para diciembre de 2029 y abre nuevas perspectivas de desarrollo para la Provincia Antártica Chilena.",
+    "enlace": "https://www.ovejeronoticias.cl/2026/11/ruta-vicuna-yendegaia-proyecta-conexion-definitiva-para-diciembre-de-2029-y-abre-nuevas-perspectivas-de-desarrollo-para-la-provincia-antartica-chilena/",
+    "descripcion": "",
+    "publicado": "",
+    "medio": "Ovejero Noticias",
+    "zona": "Punta Arenas",
+    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
+  },
+  {
     "titulo": "Gremios de camioneros a nivel nacional alcanzan acuerdo con el Gobierno.",
     "enlace": "https://www.ovejeronoticias.cl/2026/11/gremios-de-camioneros-a-nivel-nacional-alcanzan-acuerdo-con-el-gobierno/",
     "descripcion": "",
@@ -2234,78 +2306,6 @@
   {
     "titulo": "Julio Friedmann renuncia a la gerencia general de ENAP: permanecerá en el cargo hasta febrero de 2027",
     "enlace": "https://www.ovejeronoticias.cl/2026/11/julio-friedmann-renuncia-a-la-gerencia-general-de-enap-permanecera-en-el-cargo-hasta-febrero-de-2027/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "El hidrógeno verde se acerca a la Antártica chilena: Concurrido seminario concentró a actores relevantes para el desarrollo de nuevas energías en el continente blanco.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/el-hidrogeno-verde-se-acerca-a-la-antartica-chilena-concurrido-seminario-concentro-a-actores-relevantes-para-el-desarrollo-de-nuevas-energias-en-el-continente-blanco/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "El paro de los camioneros continúa a pesar de acuerdo con grandes gremios del transporte que no estaban en paro.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/el-paro-de-los-camioneros-continua-a-pesar-de-acuerdo-con-grandes-gremios-del-transporte-que-no-estaban-en-paro/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Canciller Pérez-Mackenna descarta pedir permiso a Argentina por nueva ruta marítima entre Punta Arenas y las Islas Falklands/Malvinas.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/canciller-perez-mackenna-descarta-pedir-permiso-a-argentina-por-nueva-ruta-maritima-entre-punta-arenas-y-las-islas-falklands-malvinas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Los precios de los combustibles en la región de Magallanes este jueves 12 de noviembre.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/los-precios-de-los-combustibles-en-la-region-de-magallanes-este-jueves-12-de-noviembre/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Reconocen labor de familias tutoras en encuentro del Programa Residencia Familiar Estudiantil de Junaeb en Tierra del Fuego.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/reconocen-labor-de-familias-tutoras-en-encuentro-del-programa-residencia-familiar-estudiantil-de-junaeb-en-tierra-del-fuego/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Puerto Natales se suma a movilización nacional por el alza de los combustibles.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/puerto-natales-se-suma-a-movilizacion-nacional-por-el-alza-de-los-combustibles/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Inician última etapa de conservación vial en avenida Bulnes frente al Cementerio Municipal de Punta Arenas.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/inician-ultima-etapa-de-conservacion-vial-en-avenida-bulnes-frente-al-cementerio-municipal-de-punta-arenas/",
-    "descripcion": "",
-    "publicado": "",
-    "medio": "Ovejero Noticias",
-    "zona": "Punta Arenas",
-    "cobertura_radio": "Punta Arenas 88.1 FM / Puerto Natales 100.5 FM"
-  },
-  {
-    "titulo": "Autoridades de la Universidad de Magallanes exponen ante el Senado el impacto de los recortes del Presupuesto 2027 en zonas extremas.",
-    "enlace": "https://www.ovejeronoticias.cl/2026/11/autoridades-de-la-universidad-de-magallanes-exponen-ante-el-senado-el-impacto-de-los-recortes-del-presupuesto-2027-en-zonas-extremas/",
     "descripcion": "",
     "publicado": "",
     "medio": "Ovejero Noticias",
